@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "aa1ffd026836f686",
+    "type": "split",
+    "children": [
+      {
+        "id": "255bfa0c7e9d0a8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2970be9b6cb4c85e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/personal/entities/family.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "family"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71739e4e91372f4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ac4bfe00dda56de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a8200c7be6c7065",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a1a82ef747d3d7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "39435d087c18eb7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372
+  },
+  "right": {
+    "id": "6a981fea7dd2c4a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4deb9d439b8f8acb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c820760b0a4b34e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/personal/entities/family.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c9f5ee7ef2a16155",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/personal/entities/family.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8cd01d3b479328b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9c8ba02eafc8dfbb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2cd2f3f260f73b07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/personal/entities/family.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1a8200c7be6c7065",
+  "lastOpenFiles": [
+    "wiki/personal/concepts/career-direction.md",
+    "wiki/testing/concepts/testing-research.md",
+    "wiki/testing/concepts/tester-identity.md",
+    "wiki/personal/batches/2015-q1.md",
+    "wiki/testing/batches/2015-q1.md",
+    "wiki/testing/entities/international-speaking.md",
+    "wiki/testing/concepts/test-manager-vs-project-manager.md",
+    "wiki/testing/entities/juha-itkonen.md",
+    "wiki/testing/entities/iso29119.md",
+    "wiki/personal/batches/2014.md",
+    "wiki/testing/batches/2014.md",
+    "wiki/testing/entities/altom.md",
+    "wiki/testing/entities/agilefinland.md",
+    "wiki/testing/concepts/gender-in-tech.md",
+    "wiki/testing/concepts/checking-vs-testing.md",
+    "wiki/testing/entities/teaching-kids-programming.md",
+    "wiki/testing/entities/testausyhdistys.md",
+    "wiki/testing/concepts/documentation-skepticism.md",
+    "wiki/testing/concepts/whole-team-testing.md",
+    "wiki/personal/concepts/self-understanding.md",
+    "wiki/testing/entities/james-bach.md",
+    "wiki/personal/batches/2013.md",
+    "wiki/testing/batches/2013.md",
+    "wiki/testing/entities/ilmarinen.md",
+    "CLAUDE.md",
+    "wiki/testing/entities/eurostar.md"
+  ]
+}

@@ -1,0 +1,36 @@
+# Personal Wiki — Log
+
+Append-only. One entry per ingest/query/lint event.
+Format: `## [YYYY-MM-DD] ingest | <batch label>`
+
+## [2026-09-21] ingest | 2011 (thin — a handful of posts out of 602)
+Created batch page [[batches/2011]], first entity page (entities/family)
+and first concept page (concepts/self-understanding). First personal
+content in the archive; 2010 had none.
+
+## [2026-09-21] ingest | 2012 (growing, still a minority of 639 posts)
+Created batch page [[batches/2012]] and new concept page
+concepts/career-direction.md. Added 2012 sections to entities/family.md and
+concepts/self-understanding.md.
+
+## [2026-09-21] ingest | 2013 (most substantial personal batch yet, still minority of 945 posts)
+Created batch page [[batches/2013]]. Added 2013 sections to entities/family.md,
+concepts/self-understanding.md (gender named directly for the first time,
+a painful "unfit for my profession" disclosure), and concepts/career-direction.md
+(the "work abroad" dream reads as settled).
+
+## [2026-09-21] ingest | 2014 (biggest and most difficult personal batch yet)
+Created batch page [[batches/2014]]. Added 2014 sections to entities/family.md
+(a sister named, son starts school) and concepts/self-understanding.md
+(bullying confession, reported workplace incident). Major correction to
+concepts/career-direction.md: the "work abroad" dream, called settled in
+the 2013 update, actually returns hard in 2014 with a booked US trip —
+rewrote that page's framing rather than just appending.
+
+## [2026-09-21] ingest | 2015 Q1 (thin, 491 posts)
+Created batch page [[batches/2015-q1]]. Added a 2015-Q1 section to
+concepts/career-direction.md (US travel intensifies, work-permit question
+opens). No changes to entities/family.md or self-understanding.md this
+quarter — content was too thin to warrant additions.
+
+<!-- newest entries at the bottom -->

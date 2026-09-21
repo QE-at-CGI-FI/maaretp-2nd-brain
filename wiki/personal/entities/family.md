@@ -1,0 +1,90 @@
+---
+tags: [entity, family]
+sources: [twitter]
+---
+
+# Family
+
+## 2011 — [[../batches/2011|batch]]
+
+First explicit family references in the archive:
+
+- **Two kids**, at least one still young enough to need putting to sleep —
+  "I have two kids, sleeping. I chose reading over beer" (choosing to read
+  a testing research paper on a Saturday night).
+- **Her mother** taught her "well planned is half done" — she names this
+  directly as a belief it took her a long time to work free of, in a
+  discussion with Michael Bolton about where over-planning habits come
+  from. Cross-reference: `wiki/testing/concepts/documentation-skepticism.md`
+  in the testing wiki traces the professional-side version of this same
+  belief.
+
+Representative posts:
+- https://twitter.com/maaretp/status/138028973098663936
+- https://twitter.com/maaretp/status/145237532014166017
+
+## 2012 — [[../batches/2012|batch]]
+
+- **A brother**, first mention: "I can't tell where I ended up before I
+  call my brother to tell him" — she leans on him for a kind of grounding
+  when her own sense of place/direction gets unclear.
+- Kids now old enough to be starting **kindergarten** (autumn 2012) — a
+  funny aside about the kindergarten's own scheduling software struggling
+  under load.
+- A sharper, less jokey version of the 2011 "two kids" note: "I no longer
+  own my non-work time, kids have taken its ownership. Try doing sth when
+  they want your attention..." — read alongside the new job's demands, a
+  real capacity/time-tension, not just color.
+- Buys a Lego Mindstorms robot with a work-testing pretext ("I just needed
+  the testing excuse") — an early instance of a pattern worth watching:
+  professional interest as cover/overlap for something she'd enjoy with
+  her kids anyway.
+
+Representative posts:
+- https://twitter.com/maaretp/status/181830128391819264
+- https://twitter.com/maaretp/status/238577350541991937
+- https://twitter.com/maaretp/status/270936189983399936
+
+## 2013 — [[../batches/2013|batch]]
+
+- **Kids' ages given directly for the first time: 4 and 6.** A 5-year-old
+  (matches the older one, presumably a birthday between mentions) is
+  described building a complex Lego starship from instructions and then
+  breaking and rebuilding it differently, "remembers every piece. Amazing
+  focus" — a small but specific character portrait, not just a mention.
+  A second Mindstorms robot goes on the shopping list; the old one gets
+  lent out.
+- **"My girl"** (singular, so likely the elder/6-year-old) needs "the
+  social aspect of tech" — she's thinking about starting a group activity
+  for kids around this, and separately plays with the idea of a kids' track
+  at an AgileFinland conference.
+- The family/community overlap pattern from 2012 (Lego "for testing")
+  continues explicitly: kids help laminate conference badges — "child
+  labor in use, goes as family fun."
+
+Representative posts:
+- https://twitter.com/maaretp/status/368349507307585536
+- https://twitter.com/maaretp/status/404216117155332096
+- https://twitter.com/maaretp/status/408666260289753088
+
+## 2014 — [[../batches/2014|batch]]
+
+- **A sister**, first mention — a trip to London together is floated as
+  an excuse to combine travel with testing community events.
+- **Son starts school** this year — a concrete marker used repeatedly when
+  she reasons about relocation timing (see
+  [[../concepts/career-direction]]).
+- Daughter: old enough to code a simple game at a friend's house by
+  December; her kindergarten class gets an Hour of Code session led by
+  Maaret herself ("got to be the cool mom").
+- "First time I had to choose work-stuff I really want to be in and my
+  kids. Kids win. I'm almost surprised" — a rare moment naming that choice
+  as live and not automatic, immediately followed by gratitude that she
+  usually doesn't have to choose at all.
+- Brother: compliments her writing for the first time ever (a small thing
+  she flags explicitly as notable given how rare it is from him).
+
+Representative posts:
+- https://twitter.com/maaretp/status/492820220554534912
+- https://twitter.com/maaretp/status/466140203326124032
+- https://twitter.com/maaretp/status/517617400095969280
