@@ -198,3 +198,18 @@ day-to-day work more (see [[f-secure]]).
 Representative posts:
 - https://twitter.com/maaretp/status/860477347128107008
 - https://twitter.com/maaretp/status/874634983201284096
+
+## 2017 Q3 — a career tally, and a three-stop world tour — [[../batches/2017-q3|batch]]
+
+A #WITBragday tally: "40 international events in 16 countries plus
+numerous local ones" — and, notably, "still I'm most proud of my impact
+at work," not the travel count itself. Late September brings a
+three-stop keynote run (Berlin, Sofia, Anaheim) she calls "World tour
+part 1" — real volume despite the Q2 cutback holding in aggregate for
+the year. See [[../concepts/pay-to-speak]] for a new, more personal
+admission this quarter about what speaking has actually done for her
+income.
+
+Representative posts:
+- https://twitter.com/maaretp/status/896062323667812352
+- https://twitter.com/maaretp/status/910477642243166209

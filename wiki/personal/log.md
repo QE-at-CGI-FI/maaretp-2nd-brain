@@ -122,4 +122,13 @@ recognition-wound pattern from Q1 recurs in a new context). No updates
 to entities/family.md or concepts/career-direction.md — nothing new
 surfaced this quarter.
 
+## [2026-09-21] ingest | 2017 Q3 (687 posts, 450 after dropping retweets)
+Created batch page [[batches/2017-q3]]. Added 2017-Q3 sections to
+entities/family.md (both kids get their own international conference
+trip in the same quarter — daughter to Paris, son to Estonia; five
+younger siblings named for the first time, making her the eldest of
+six) and concepts/self-understanding.md (a named concept, "Burden of
+Evidence," for the recurring cost of not being believed; loudness
+traced to growing up in a large family).
+
 <!-- newest entries at the bottom -->

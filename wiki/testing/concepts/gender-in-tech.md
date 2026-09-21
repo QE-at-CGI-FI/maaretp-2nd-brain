@@ -281,3 +281,24 @@ Representative posts:
 - https://twitter.com/maaretp/status/859664270728060928
 - https://twitter.com/maaretp/status/863025212010496001
 - https://twitter.com/maaretp/status/871735643256258562
+
+## 2017 Q3 — #SpeakerConfessions, and reframing the first attribute — [[../batches/2017-q3|batch]]
+
+A long, unusually candid **#SpeakerConfessions** thread (July 27)
+surfaces things not said in the advocacy posts: a husband of a
+co-keynoter asking if she was there "to watch [her] kids"; a genuine
+early stutter she forced herself past; guilt about a real, named
+benefit — "Public speaking has increased my salary in relation to
+colleagues. I feel guilty for promoting no #PayToSpeak" — and a rare
+admission of self-criticism, needing someone else present to watch her
+own recorded talks. A new vocabulary term she starts using regularly:
+**"coding while female"** for the compounding friction of being a woman
+in technical spaces. And a deliberate reframe: "Tired of being a woman
+as my 1st attribute. Embracing #awesome" — choosing "awesome" over
+"woman" as the lead descriptor, while still naming herself "an
+appropriate model for 'just a tester.'"
+
+Representative posts:
+- https://twitter.com/maaretp/status/890489779875348480
+- https://twitter.com/maaretp/status/890494462618734593
+- https://twitter.com/maaretp/status/895892841926471681

@@ -309,3 +309,21 @@ account.
 Representative posts:
 - https://twitter.com/maaretp/status/854955579391053824
 - https://twitter.com/maaretp/status/859663166858547200
+
+## 2017 Q3 — naming the burden of not being believed — [[../batches/2017-q3|batch]]
+
+A named concept, "Burden of Evidence" (also a blog title), for a
+pattern that recurs across many of this wiki's professional conflicts
+(the James Bach disputes, the tester-identity fights): "You try to say
+something and aren't believed. You collect a case of evidence with huge
+effort. How about listening and believing?" — the clearest statement
+yet that the *cost of having to prove herself repeatedly*, not any
+single disagreement, is the through-line she's naming. Also traces
+"loudness" as a learned behavior from a large family — "I have five
+younger siblings" — connecting a personality trait to concrete
+childhood context for the first time.
+
+Representative posts:
+- https://twitter.com/maaretp/status/906595451352354816
+- https://twitter.com/maaretp/status/906614337917374466
+- https://twitter.com/maaretp/status/904042490013114376

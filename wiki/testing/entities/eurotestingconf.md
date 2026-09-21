@@ -128,3 +128,26 @@ leaves Finland since launching in Bucharest (2016) and running Helsinki
 Representative posts:
 - https://twitter.com/maaretp/status/867298432083537920
 - https://twitter.com/maaretp/status/878176143488176128
+
+## 2017 Q3 — replacing the CFP with 120 individual conversations — [[../batches/2017-q3|batch]]
+
+The 2018 selection process becomes something categorically different
+from a normal call for proposals: instead of reading blind abstracts,
+she and the organizing team run **individual "collaboration calls"**
+with every one of 120 submitters — "we've been doing #EuroTestConf
+calls for like a month, every day" — treating it as work in its own
+right ("like I got 30 hours of versatile training") rather than
+overhead before the real selection. Blogs the process directly
+("Talking to 120 people just for a conference," "Collaboration call at
+its best") and names the emotional cost of the model too: "Saying no to
+many awesome proposals we've learned from in calls is a little
+painful." The 2018 Amsterdam edition (Feb 19–20) is formally announced
+publicly (Sept 18). A notable submitter this cycle: 13-year-old
+**Harry Girlea**, whose drive to apply to speak at conferences she
+calls out specifically — he goes on to speak at UKSTARconf the same
+month.
+
+Representative posts:
+- https://twitter.com/maaretp/status/899194761269190658
+- https://twitter.com/maaretp/status/906432336266448897
+- https://twitter.com/maaretp/status/914161359612456960

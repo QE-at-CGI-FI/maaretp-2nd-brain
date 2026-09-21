@@ -192,4 +192,18 @@ concepts/gender-in-tech (excluded from a women-in-testing list despite
 many nominations; makes a "Gurus" list the same month). No new entity
 or concept pages this batch.
 
+## [2026-09-21] ingest | 2017 Q3 (687 posts, 450 after dropping retweets)
+Created batch page [[batches/2017-q3]]. Added 2017-Q3 sections to 6
+existing pages: entities/eurotestingconf (2018 selection replaces the
+CFP with 120 individual collaboration calls; Harry Girlea, a 13-yo
+submitter, gets called out), concepts/whole-team-testing (Guidebook
+passes 665 readers, draws real publisher interest), concepts/gender-in-
+tech (#SpeakerConfessions thread; "coding while female" vocabulary; a
+deliberate identity reframe away from gender as first attribute),
+entities/f-secure (one-year anniversary), entities/international-
+speaking (a #WITBragday career tally; a three-stop "world tour"), and
+concepts/pay-to-speak (a new, complicated admission about the salary
+benefit of speaking despite the advocacy). No new entity or concept
+pages this batch.
+
 <!-- newest entries at the bottom -->

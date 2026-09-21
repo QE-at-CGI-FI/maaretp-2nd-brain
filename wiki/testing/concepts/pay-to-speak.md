@@ -138,3 +138,19 @@ Representative posts:
 - https://twitter.com/maaretp/status/823570318128201729
 - https://twitter.com/maaretp/status/829015381062856704
 - https://twitter.com/maaretp/status/841882933392728064
+
+## 2017 Q3 — the guilt of benefiting from the system she campaigns against — [[../batches/2017-q3|batch]]
+
+Via #SpeakerConfessions (see [[gender-in-tech]]), the campaign gets its
+most personally complicated entry yet: "Public speaking has increased
+my salary in relation to colleagues. I feel guilty for promoting no
+#PayToSpeak" — naming, for the first time, that the speaking circuit
+has materially benefited her career even as she campaigns to remove
+the barrier (self-funded travel/entry) that made it exclusive in the
+first place. Keeps naming specific bad actors regardless: a $1195–1395,
+2500-person agile conference that still expects speakers to pay to
+attend.
+
+Representative posts:
+- https://twitter.com/maaretp/status/890494462618734593
+- https://twitter.com/maaretp/status/896089315834380288

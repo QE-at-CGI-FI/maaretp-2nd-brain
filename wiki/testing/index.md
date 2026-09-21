@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2016 done, 2017 Q1–Q2 done, Q3– not started).
+See [[../progress]] for what's been ingested (2010–2016 done, 2017 Q1–Q3 done, Q4– not started).
 
 ## Entities
 
@@ -67,3 +67,4 @@ See [[../progress]] for what's been ingested (2010–2016 done, 2017 Q1–Q2 don
 - [[batches/2016-q4|2016 Q4]] — 1074 posts (708 after dropping retweets). The Bach conflict's aftermath runs hot for a week, then cools for good this year; tester-identity settles into a plain, unarguable definition; pay-to-speak closes the year with self-aware humility about her own privilege. 2016 closes as the wiki's most eventful year yet.
 - [[batches/2017-q1|2017 Q1]] — 765 posts (478 after dropping retweets). James Bach doesn't appear at all, confirming the cooldown held; a decade-old local recognition wound (Finnish Tester of the Year) surfaces for the first time; a second book launches; EuroTestConf's third edition ships.
 - [[batches/2017-q2|2017 Q2]] — 358 posts (199 after dropping retweets), thinnest quarter yet. The years-long "cut down on speaking" intent finally actually holds; EuroTestConf 2018 moves to Amsterdam; a well-documented mentoring thread with a 15-year-old summer employee; James Bach reappears once, briefly and neutrally.
+- [[batches/2017-q3|2017 Q3]] — 687 posts (450 after dropping retweets). EuroTestConf 2018 replaces the CFP with 120 individual collaboration calls; the Mob Programming Guidebook draws real publisher interest; a candid #SpeakerConfessions thread reveals the salary benefit of speaking despite her anti-#PayToSpeak advocacy.

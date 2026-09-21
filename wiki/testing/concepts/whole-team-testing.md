@@ -240,3 +240,17 @@ Representative posts:
 - https://twitter.com/maaretp/status/849564095854632960
 - https://twitter.com/maaretp/status/849645962066833408
 - https://twitter.com/maaretp/status/868054387935064064
+
+## 2017 Q3 — a publisher takes interest — [[../batches/2017-q3|batch]]
+
+The **Mob Programming Guidebook** passes 665 readers, and a real
+publishing milestone lands: "a publisher interested in making it 'a
+real book.'" Celebrates by pair-writing another chapter rather than
+pausing to negotiate — consistent with the incremental-shipping habit
+the book was built on. The 15-year-old summer intern thread (Q2)
+closes out warmly: a thank-you note on returning from vacation, "we
+gave him a good experience on how to be useful."
+
+Representative posts:
+- https://twitter.com/maaretp/status/908725390440529920
+- https://twitter.com/maaretp/status/889399564687609857

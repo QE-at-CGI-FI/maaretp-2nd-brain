@@ -7,12 +7,12 @@ tags: [index]
 Personal reflection, growth, and psychology synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
 See [[../progress]] for what's been ingested (2010: no personal content;
-2011–2016: thin at first, substantial by 2014; 2017 Q1–Q2 done, Q3– not
+2011–2016: thin at first, substantial by 2014; 2017 Q1–Q3 done, Q4– not
 started).
 
 ## Entities
 
-- [[entities/family|Family]] — two kids (son starts school 2014, daughter named Emilia 2016-Q4), a brother, a sister (named 2014), her mother's influence on her relationship to planning, a partner first mentioned 2015-Q4
+- [[entities/family|Family]] — two kids (son starts school 2014, daughter named Emilia 2016-Q4), five younger siblings total (a brother and sister named individually, 2012/2014), her mother's influence on her relationship to planning, a partner first mentioned 2015-Q4
 
 ## Concepts
 
@@ -36,3 +36,4 @@ started).
 - [[batches/2016-q4|2016 Q4]] — 1074 posts (708 after dropping retweets). Her daughter is named for the first time in the whole archive (Emilia, 7); the introvert/extrovert tension since 2011 gets its most concrete treatment yet; the new job's first real cost (commute time) surfaces.
 - [[batches/2017-q1|2017 Q1]] — 765 posts (478 after dropping retweets). A decade-old local recognition wound (Finnish Tester of the Year) named directly for the first time; son's first programming moment; a nephew named; a second book starts.
 - [[batches/2017-q2|2017 Q2]] — 358 posts (199 after dropping retweets), thin quarter, almost entirely professional content. A security/networks academic background detail ties to a named area of imposter syndrome; the recognition-wound pattern recurs in a new context.
+- [[batches/2017-q3|2017 Q3]] — 687 posts (450 after dropping retweets). Biggest family-travel quarter yet — both kids get their own international conference trip; five younger siblings named for the first time; a named concept, "Burden of Evidence," for the cost of not being believed.

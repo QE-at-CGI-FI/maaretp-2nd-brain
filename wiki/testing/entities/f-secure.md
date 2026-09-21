@@ -70,6 +70,17 @@ Representative posts:
 - https://twitter.com/maaretp/status/841197757528436737
 - https://twitter.com/maaretp/status/837603316209188864
 
+## 2017 Q3 — one year back — [[../batches/2017-q3|batch]]
+
+A one-year work anniversary since returning (Sept 19): "Loving it
+here." The team keeps growing across both Helsinki and Poznan, and
+she's now running local meetups directly out of the office
+(#ModernAgile breakfast, 70 enrolled) — F-Secure has become a hub for
+her community organizing, not just her employer.
+
+Representative posts:
+- https://twitter.com/maaretp/status/910091073724276737
+
 ## 2017 Q2 — Poznan confirmed, a 15-year-old joins the team — [[../batches/2017-q2|batch]]
 
 The Q1 hint of a Poland-based teammate is now explicit: "my teams in

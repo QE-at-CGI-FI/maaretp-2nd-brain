@@ -201,3 +201,19 @@ things for him to do around a EuroTestConf trip.
 Representative posts:
 - https://twitter.com/maaretp/status/821785725939154944
 - https://twitter.com/maaretp/status/823120429489541121
+
+## 2017 Q3 — both kids travel internationally, and a family-of-origin detail — [[../batches/2017-q3|batch]]
+
+The biggest family-travel quarter yet: her 8-year-old daughter joins her
+at nCrafts in Paris, and separately her 9-year-old son joins her at NTD
+in Estonia — the first time both kids get their own international
+conference trip in the same stretch, not just one child on one
+occasion. She notes school is the limiting factor on doing more of it.
+Separately, a new detail about her own family of origin surfaces for
+the first time: "I have five younger siblings" — she's the eldest of
+six, more siblings than the wiki had previously recorded (a brother
+named 2012, a sister named 2014).
+
+Representative posts:
+- https://twitter.com/maaretp/status/904349396418080768
+- https://twitter.com/maaretp/status/904042490013114376
