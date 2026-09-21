@@ -7,7 +7,7 @@ tags: [index]
 Personal reflection, growth, and psychology synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
 See [[../progress]] for what's been ingested (2010: no personal content;
-2011–2015: thin at first, substantial by 2014; 2016 Q1 done, Q2– not
+2011–2015: thin at first, substantial by 2014; 2016 Q1–Q2 done, Q3– not
 started).
 
 ## Entities
@@ -31,3 +31,4 @@ started).
 - [[batches/2015-q3|2015 Q3]] — daughter's public participation steps up (CITCON co-hosting); a direct callback to the 2013 "unfit for my profession" wound; career-direction sees no movement at all; the book project goes quiet.
 - [[batches/2015-q4|2015 Q4]] — a partner mentioned for the first time in the archive (hospital stay, unnamed); career-direction's "no movement" read corrected — the US visa search reactivates hard; the book resolves as the Mob Programming Guidebook.
 - [[batches/2016-q1|2016 Q1]] — 791 posts (467 after dropping retweets), thin quarter for personal content; career-direction moves from stated intent to logistics (relocation prep); privilege recurs three times as a personal self-reflection lens.
+- [[batches/2016-q2|2016 Q2]] — 1183 posts (817 after dropping retweets). A real, unexplained job decision ("chose quality of life and family"); son joins her at an international conference for the first time; the most direct self-work quarter yet, including the first confirmation that the 2014 Bach block genuinely hurt.

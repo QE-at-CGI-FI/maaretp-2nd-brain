@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2015 done, 2016 Q1 done, Q2– not started).
+See [[../progress]] for what's been ingested (2010–2015 done, 2016 Q1–Q2 done, Q3– not started).
 
 ## Entities
 
@@ -47,6 +47,7 @@ See [[../progress]] for what's been ingested (2010–2015 done, 2016 Q1 done, Q2
 - [[concepts/tester-identity|Tester Identity, Not Role]] — the flashpoint for the 2014 James Bach rupture
 - [[concepts/gender-in-tech|Gender in Tech/Testing]] — professional advocacy, sustained throughline from 2014
 - [[concepts/pay-to-speak|#PayToSpeak]] — sustained conference-fairness campaign, launched 2015-Q3
+- [[concepts/cdt-community-culture|CDT Community Culture]] — bullying/argument-culture critique, named directly for the first time 2016-Q2
 
 ## Batches
 
@@ -60,3 +61,4 @@ See [[../progress]] for what's been ingested (2010–2015 done, 2016 Q1 done, Q2
 - [[batches/2015-q3|2015 Q3]] — 979 posts. #PayToSpeak campaign launches; mob programming/pairing become routine practice and the Helsinki conference happens; ISTQB pivots to bridge-building; second Bach confrontation then normalcy; gender-in-tech busiest yet.
 - [[batches/2015-q4|2015 Q4]] — 725 posts. The Mob Programming Guidebook surfaces as a real product; EuroTestConf takes shape as a #PayToSpeak-free conference; tester identity softens on "developer" for the first time; year closes at 33 sessions with an explicit intent to slow down.
 - [[batches/2016-q1|2016 Q1]] — 791 posts (467 after dropping retweets). EuroTestConf runs and delivers honorariums; #PayToSpeak provokes a real disagreement with Michael Bolton; the "settled" James Bach relationship and the intent to slow down speaking both turn out to have been premature reads.
+- [[batches/2016-q2|2016 Q2]] — 1183 posts (817 after dropping retweets), densest quarter yet. James Bach disputes whether she qualifies as a tester at all; a bullying/argument-culture critique of the CDT community is named directly for the first time; checking-vs-testing and tester-identity functionally merge into one fight.

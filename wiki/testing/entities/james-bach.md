@@ -179,3 +179,27 @@ Representative posts:
 - https://twitter.com/maaretp/status/694586822995869696
 - https://twitter.com/maaretp/status/694590455233802240
 - https://twitter.com/maaretp/status/694590885858807808
+
+## 2016 Q2 — he disputes whether she qualifies as a tester at all — [[../batches/2016-q2|batch]]
+
+Two exchanges, the second far sharper. A brief one (June 21) is
+incidental — she clarifies a reply wasn't directed at him. The real event
+is June 27: after she says not every context-driven-testing figure is
+part of an "NGO," he pushes back directly on her legitimacy, and it
+escalates into the sharpest identity confrontation with him since the
+2014 rupture: "I claim I'm a tester as tester is supposed to be. You are
+not. Does that change anything?" and "You have less hours hands-on
+testing in the last four years than me. You teach, I do. Which one is
+the tester?" She holds her ground rather than de-escalating this time —
+"I listen to you, but I don't believe, agree with or obey you" — a
+harder line than the Q1 exchange's naming of pain. See
+[[../concepts/tester-identity]] for the identity-argument detail and
+[[../concepts/cdt-community-culture]] for the wider context this sits
+in: days earlier she'd named both him and [[michael-bolton|Bolton]] as
+people whose "drones" model bad community behavior, while also directly
+confirming, for the first time, that the 2014 block "hurt a lot."
+
+Representative posts:
+- https://twitter.com/maaretp/status/747416272279904256
+- https://twitter.com/maaretp/status/747417671659061248
+- https://twitter.com/maaretp/status/746400401210089472

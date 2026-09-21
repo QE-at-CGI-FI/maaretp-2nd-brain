@@ -145,3 +145,24 @@ Representative posts:
 - https://twitter.com/maaretp/status/699943023262699520
 - https://twitter.com/maaretp/status/694271402850009088
 - https://twitter.com/maaretp/status/706135910073688064
+
+## 2016 Q2 — MobProgConf Boston, and a new tool obsession — [[../batches/2016-q2|batch]]
+
+The **Mob Programming Guidebook** keeps climbing (204 readers Apr 4, 254
+by May 5). She attends **Mob Programming Conference** in Boston (May
+1–2) — Woody Zuill's own event — and comes away with a partial answer to
+the Q1/Q4 isolation question: "This is the first agile conference where
+I've seen people who identify as non-programmers programming." The
+#MobTesting/Mobile mixup keeps recurring (a third instance logged, Apr
+5). A new, distinct thread starts: fascination with **ApprovalTests**
+("it makes unit testing feel exploratory," "made something that was
+'impossible to test' not only possible but easy for my team") — a
+specific automation technique she keeps returning to across the quarter,
+more than any tool interest since Mindmup. Smaller color: as part of
+**#30DaysOfTesting**, she gives away her ~50-book physical testing
+library to Finnish locals, "going all electronic."
+
+Representative posts:
+- https://twitter.com/maaretp/status/727243462559461376
+- https://twitter.com/maaretp/status/720573071778779136
+- https://twitter.com/maaretp/status/748245001184907265

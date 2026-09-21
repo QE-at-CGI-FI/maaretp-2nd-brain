@@ -107,3 +107,23 @@ Representative posts:
 - https://twitter.com/maaretp/status/694254156303994880
 - https://twitter.com/maaretp/status/714156982542987265
 - https://twitter.com/maaretp/status/702152559893602304
+
+## 2016 Q2 — a submission break, but not a travel break — [[../batches/2016-q2|batch]]
+
+A real correction, but a narrower one than it first sounds: "I decided
+to take a break from submitting to conferences" (Apr 1) — she stops
+*applying*, but keeps traveling to what's already accepted or invited:
+AATC2016, Agile Serbia, [[eurotestingconf|EuroTestConf]] (organizing and
+speaking), DevoxxUK, Testaus16, #tretestaus16, and **Mob Programming
+Conference** (Boston, her first trip there) — plus confirming she's
+speaking on **two separate tracks at #Agile2016** (May 16), matching
+Q1's finding. The quarter's real milestone: her first confirmed
+**keynote** ("Look at this, I'm finally keynoting this autumn," May 11).
+So the Q4 "slow down" intent still isn't holding for accepted work, but
+the submission break is a genuine, if partial, course-correction — she's
+capping new intake even while honoring existing commitments.
+
+Representative posts:
+- https://twitter.com/maaretp/status/715896615345790976
+- https://twitter.com/maaretp/status/730469431793569792
+- https://twitter.com/maaretp/status/732289880831692800

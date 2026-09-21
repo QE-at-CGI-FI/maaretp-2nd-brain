@@ -191,3 +191,33 @@ Representative posts:
 - https://twitter.com/maaretp/status/691255825441148928
 - https://twitter.com/maaretp/status/709303350098006016
 - https://twitter.com/maaretp/status/701751738064359425
+
+## 2016 Q2 — a named growth goal, rejection named directly, and a confirmed old wound — [[../batches/2016-q2|batch]]
+
+Three distinct, unusually direct pieces of self-work this quarter:
+
+- **A named development goal**: "Learn to express feelings in a way
+  where people around me don't hear I externalize problems I'm
+  processing" (Apr 15) — the clearest, most deliberate self-improvement
+  target in the archive so far, paired with studying cognitive dissonance
+  ("pointed to me by a psychologist") and later blogging on how it
+  explains "how I learned to like programming."
+- **Rejection, named without softening**: at a coderetreat (Jun 20), a
+  pairing partner backs out mid-session; she names the feeling directly
+  rather than reframing it professionally — "Still feeling down about
+  it," and to Bolton, "I just wish 1/5 did not make me feel so rejected.
+  There were 4 really great experiences too" — continuing the ongoing
+  pairing self-study from 2015 Q3, but with the feeling stated plainly
+  instead of analyzed.
+- **The 2014 block, confirmed as painful for the first time**: in a
+  community discussion about online blocking and bullying (see
+  `../../testing/concepts/cdt-community-culture.md`), she states
+  directly — "Blocking is very harsh, I struggled a lot when that
+  happened to me" — the clearest first-person confirmation yet that the
+  2014 James Bach block genuinely hurt, not just that she "called it bad
+  habits" as recorded at the time.
+
+Representative posts:
+- https://twitter.com/maaretp/status/721001726803886080
+- https://twitter.com/maaretp/status/745006818229891073
+- https://twitter.com/maaretp/status/746400401210089472

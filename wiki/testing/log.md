@@ -111,4 +111,22 @@ screening-bias dispute), and concepts/tester-identity (a brief
 "non-technical" scare, resolved as miscommunication). No new entity or
 concept pages this batch.
 
+## [2026-09-21] ingest | 2016 Q2 (1183 posts, 817 after dropping retweets, densest quarter yet)
+Created batch page [[batches/2016-q2]] and 1 new concept page
+(cdt-community-culture — bullying/argument-culture critique named
+directly for the first time, distinct from any one relationship). Added
+2016-Q2 sections to 8 existing pages: entities/james-bach (disputes
+whether she qualifies as a tester at all — sharpest since the 2014
+rupture), entities/michael-bolton (checking reignites a third time, then
+she defends him in the community-culture discussion),
+concepts/checking-vs-testing (merges with tester-identity into one
+argument), concepts/tester-identity (the "ban role" week, then Bach's
+direct legitimacy challenge), entities/international-speaking
+(submission break but not a travel break; first keynote confirmed),
+concepts/pay-to-speak (evidence the model works; travel scholarship),
+concepts/gender-in-tech (mobbing named as a #WomenInTech gateway), and
+concepts/whole-team-testing (MobProgConf Boston, ApprovalTests
+fascination begins). Also added a short 2016-Q2 note to
+entities/eurotestingconf (2017 keynote planning begins).
+
 <!-- newest entries at the bottom -->

@@ -70,4 +70,16 @@ times as a personal reflection lens, distinct from the professional
 gender-in-tech advocacy). No update to entities/family.md — content too
 thin this quarter, consistent with the 2015-Q1 precedent.
 
+## [2026-09-21] ingest | 2016 Q2 (1183 posts, 817 after dropping retweets)
+Created batch page [[batches/2016-q2]]. Added 2016-Q2 sections to
+concepts/career-direction.md (a real, unexplained job decision —
+"quality of life and family" over a professional opportunity — treated
+as separate from the Q1 relocation thread), entities/family.md (son's
+first international conference trip, a mother tribute), and
+concepts/self-understanding.md (a named development goal, rejection at
+a coderetreat named plainly, and the first first-person confirmation
+that the 2014 Bach block genuinely hurt — surfaced via a testing-wiki
+community-culture discussion, see
+`../testing/concepts/cdt-community-culture.md`).
+
 <!-- newest entries at the bottom -->

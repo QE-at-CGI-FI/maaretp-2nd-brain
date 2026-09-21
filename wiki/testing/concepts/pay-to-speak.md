@@ -66,3 +66,22 @@ Representative posts:
 - https://twitter.com/maaretp/status/701754518967554048
 - https://twitter.com/maaretp/status/701751738064359425
 - https://twitter.com/maaretp/status/700218547809755136
+
+## 2016 Q2 — evidence it works, and a scholarship — [[../batches/2016-q2|batch]]
+
+Gets a data point supporting the whole campaign: a blog comment reports
+that paying speakers correlated with "45% women when paying speakers +
+sold more tickets than ever before" — the fairness argument and the
+business argument converging, not competing. She adds a concrete new
+mechanism of her own: a **travel scholarship** for speakers who have a
+good talk but can't cover travel/stay, and separately promotes applying
+to EuroSTAR "without worrying about the cost of travel+stay" via
+SpeakEasy. Keeps naming specific practice against a specific
+counter-example (a CFP tool, cfp.io, that asks organizers to hold a
+ticket to the tool's *own* event to use it — "you just rule yourself
+out" as a free-event organizer).
+
+Representative posts:
+- https://twitter.com/maaretp/status/721466775276253188
+- https://twitter.com/maaretp/status/740208478338289664
+- https://twitter.com/maaretp/status/740223478708752385

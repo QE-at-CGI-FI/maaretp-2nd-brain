@@ -139,3 +139,20 @@ Representative posts:
 - https://twitter.com/maaretp/status/673762869486485504
 - https://twitter.com/maaretp/status/675009214671134720
 - https://twitter.com/maaretp/status/669921269731729412
+
+## 2016 Q2 — [[../batches/2016-q2|batch]]
+
+A milestone for her son: "I came late tonight - and take my son with me
+for his first international conference" (Apr 27, DevoxxUK) — the first
+time a child accompanies her on international work travel, not just
+local/community events. A warm, specific credit to her mother: "If my
+mom wasn't the most amazing person in the world, I wouldn't do what I
+do. Travel or community work. I'm so lucky." The partner first mentioned
+in 2015 Q4 ("my better half") recurs twice this quarter as an ordinary,
+unremarkable reference — casual rather than newsworthy now, e.g.
+suggesting a colleague "chat with my better half for ideas."
+
+Representative posts:
+- https://twitter.com/maaretp/status/725218372997255168
+- https://twitter.com/maaretp/status/721454186366439424
+- https://twitter.com/maaretp/status/738256961142153216

@@ -56,3 +56,15 @@ Representative posts:
 - https://twitter.com/maaretp/status/698042186768764928
 - https://twitter.com/maaretp/status/698185415942139905
 - https://twitter.com/maaretp/status/700218547809755136
+
+## 2016 Q2 — 2017 planning begins — [[../batches/2016-q2|batch]]
+
+Early planning for the Helsinki 2017 edition starts this quarter: three
+of four keynotes confirmed (2 women, 1 man, explicitly no gender
+preference for the fourth) — see [[../concepts/gender-in-tech]]. The
+2015 [[../concepts/pay-to-speak|#PayToSpeak]] design keeps proving out
+in practice: a blog comment reports paying speakers correlated with 45%
+women speakers and higher ticket sales for a similar conference.
+
+Representative posts:
+- https://twitter.com/maaretp/status/748245001184907265

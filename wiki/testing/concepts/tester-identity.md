@@ -135,3 +135,26 @@ Representative posts:
 - https://twitter.com/maaretp/status/692248853664415745
 - https://twitter.com/maaretp/status/692253541029777408
 - https://twitter.com/maaretp/status/702111024741281793
+
+## 2016 Q2 — from "role" as abstraction to a direct challenge to her legitimacy — [[../batches/2016-q2|batch]]
+
+Two connected escalations. First, a week-long thread in mid-May (with
+[[../entities/michael-bolton|Bolton]] and others) pushes past vocabulary
+into questioning the concept of role itself: "What would happen if we
+never talked about a tester role again?" and "Maybe we need to stop
+looking at roles as assigned power and start finding ways to choose
+right that are not based on that" — the most abstract version yet of the
+identity-not-role argument first stated in 2014. Then, June 27, it stops
+being abstract: [[../entities/james-bach|James Bach]] directly disputes
+whether she qualifies as a tester at all, given how much of her current
+work is teaching rather than hands-on testing. She answers with hours,
+not philosophy — "You have less hours hands-on testing in the last four
+years than me. You teach, I do. Which one is the tester?" — a concrete,
+almost defensive register that's new for this argument. See
+[[../entities/james-bach]] for the exchange and
+[[cdt-community-culture]] for the surrounding climate.
+
+Representative posts:
+- https://twitter.com/maaretp/status/731886900118732801
+- https://twitter.com/maaretp/status/731785884383772676
+- https://twitter.com/maaretp/status/747420974174310400

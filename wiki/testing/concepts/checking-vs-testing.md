@@ -84,3 +84,21 @@ Representative posts:
 - https://twitter.com/maaretp/status/609267558412324864
 - https://twitter.com/maaretp/status/609278257339453440
 - https://twitter.com/maaretp/status/609716323183104000
+
+## 2016 Q2 — "icky," then the argument moves up a level — [[../batches/2016-q2|batch]]
+
+A third distinct round with [[../entities/michael-bolton|Bolton]]
+(Apr 29): a new, more visceral term for her position — "checking is on
+my icky list... I feel icky every time I hear the word checking" — and
+a sharper edge than 2015's version, directly asking whether disliking
+the wordplay disqualifies her from identifying as a tester at all. By
+mid-May the same underlying tension generalizes past vocabulary into
+whether the concept of "role" itself is worth keeping (see
+[[tester-identity]]) — the checking-vs-testing fight and the
+tester-identity fight functionally merge into one argument this quarter
+rather than running in parallel.
+
+Representative posts:
+- https://twitter.com/maaretp/status/726019913861705728
+- https://twitter.com/maaretp/status/726034559209451520
+- https://twitter.com/maaretp/status/731886900118732801

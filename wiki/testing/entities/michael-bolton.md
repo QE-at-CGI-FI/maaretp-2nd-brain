@@ -115,3 +115,28 @@ Representative posts:
 - https://twitter.com/maaretp/status/639046140948819968
 - https://twitter.com/maaretp/status/644830808595894272
 - https://twitter.com/maaretp/status/631659201333473280
+
+## 2016 Q2 — checking reignites again, then a defense of him — [[../batches/2016-q2|batch]]
+
+The [[../concepts/checking-vs-testing]] fight flares a third distinct
+time (Apr 29): "Checking is on my icky list... I feel icky every time I
+hear the word checking," alongside a sharper question than before — "Is
+your intent here to say that since I don't care on wordplay, I shouldn't
+identify as tester?" A separate, week-long thread in mid-May pushes the
+argument up a level of abstraction, from word choice to whether "role"
+itself is a useful concept at all (see [[../concepts/tester-identity]]).
+By late June the register shifts: in the
+[[../concepts/cdt-community-culture|community-bullying discussion]] with
+@codebully and @AGareev, she actively defends him against a "JB show"
+characterization and against the suggestion he was bullying someone —
+"I refuse to call people connecting on experiences a JB show" — while
+still naming him (alongside [[james-bach|Bach]]) as someone whose
+"drones" have modeled bad behavior for others in the community. The
+friction with him personally reads as more settled than with Bach this
+quarter, even as the surrounding community climate gets named directly
+for the first time.
+
+Representative posts:
+- https://twitter.com/maaretp/status/726025469997490176
+- https://twitter.com/maaretp/status/732160039327268867
+- https://twitter.com/maaretp/status/746371957344575488

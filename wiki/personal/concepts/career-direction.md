@@ -155,3 +155,25 @@ keep expanding the speaking circuit) without either resolving.
 
 Representative posts:
 - https://twitter.com/maaretp/status/696701330220544000
+
+## 2016 Q2 — a domestic job decision, and a second, unusual interview — [[../batches/2016-q2|batch]]
+
+No further movement on the US/relocation thread specifically this
+quarter — this batch's job activity reads as ordinary domestic
+job-market activity rather than a continuation of it. Mid-April: a real,
+weighed decision — "Are making decisions about potentially changing your
+job supposed to be easy? Where is my clarity?" followed four days later
+by "I ended up choosing Quality of life and family over cool stuff to do
+professionally. That was a hard decision" — she turns down or steps back
+from something professionally appealing in favor of family/quality of
+life, without naming what it was. A different, later interview (May 27)
+reads as more collaborative than a rejection: "I was in a different kind
+of job interview yesterday. It felt figuring out what job to build for
+me. Hiring for roles can be replaced." See
+`../../testing/entities/international-speaking.md` for the same
+quarter's submission break, a related but separate pullback.
+
+Representative posts:
+- https://twitter.com/maaretp/status/720954326756278272
+- https://twitter.com/maaretp/status/722318870581768192
+- https://twitter.com/maaretp/status/736157800913506304

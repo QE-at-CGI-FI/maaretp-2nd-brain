@@ -177,3 +177,26 @@ Representative posts:
 - https://twitter.com/maaretp/status/698107213890646016
 - https://twitter.com/maaretp/status/715276480046108674
 - https://twitter.com/maaretp/status/699605078936834049
+
+## 2016 Q2 — mobbing as a gateway, and a stark local contrast — [[../batches/2016-q2|batch]]
+
+A new connection drawn explicitly: after seeing an unusually mixed
+audience for her #MobProgramming talk at DevoxxUK, she names mobbing
+itself as a possible gender-diversity mechanism — "Mobbing might not be
+only a gateway to pairing but also #WomenInTech" — distinct from, and
+more structural than, her usual mentoring-based advocacy. A sharp local
+contrast the same quarter: at a volunteer-speaker (non-CFP) Finnish
+conference she's "the only woman on program," while a different
+testing conference with a majority of female speakers gets praising
+reviews — reinforcing her long-standing point that low representation
+reflects organizer effort, not scarcity of women. SpeakEasy mentoring
+keeps expanding (helping 5+ women toward #AgileTD submissions alone),
+and by quarter's end she's tracking the gender balance of her own
+[[../entities/eurotestingconf|EuroTestConf]] 2017 keynote lineup
+directly (2 women, 1 man confirmed, no gender preference for the
+fourth).
+
+Representative posts:
+- https://twitter.com/maaretp/status/740913262963920896
+- https://twitter.com/maaretp/status/738256558946193409
+- https://twitter.com/maaretp/status/745504956170440704
