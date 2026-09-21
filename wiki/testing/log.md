@@ -97,4 +97,18 @@ explicit intent to slow down 2016), and entities/james-bach (settles
 into ordinary, no conflict). 2015 is now fully ingested across both
 wikis.
 
+## [2026-09-21] ingest | 2016 Q1 (791 posts, 467 after dropping retweets, first quarter of 2016)
+Created batch page [[batches/2016-q1]]. Added 2016-Q1 sections to 7
+existing pages: entities/eurotestingconf (the conference runs and
+delivers honorariums), entities/international-speaking (the Q4 intent
+to slow down doesn't hold — two tracks at #Agile2016 plus more),
+entities/james-bach (the Q4 "settled into ordinary" read was premature —
+a sharp Feb 2 exchange resurfaces friction), concepts/pay-to-speak (a
+real disagreement with Michael Bolton), concepts/whole-team-testing
+(Mob Programming Guidebook Part 2, #MobTesting/Mobile confusion),
+concepts/gender-in-tech (SpeakEasy mentoring expands, #ChangeTheRatio
+screening-bias dispute), and concepts/tester-identity (a brief
+"non-technical" scare, resolved as miscommunication). No new entity or
+concept pages this batch.
+
 <!-- newest entries at the bottom -->

@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2015 done, 2016– not started).
+See [[../progress]] for what's been ingested (2010–2015 done, 2016 Q1 done, Q2– not started).
 
 ## Entities
 
@@ -59,3 +59,4 @@ See [[../progress]] for what's been ingested (2010–2015 done, 2016– not star
 - [[batches/2015-q2|2015 Q2]] — 646 posts. Checking-vs-testing reignites hard with Bolton; friction (not a thaw) with Bach; first hands-on mob testing at XP2015; gender-in-tech advocacy busiest since 2014.
 - [[batches/2015-q3|2015 Q3]] — 979 posts. #PayToSpeak campaign launches; mob programming/pairing become routine practice and the Helsinki conference happens; ISTQB pivots to bridge-building; second Bach confrontation then normalcy; gender-in-tech busiest yet.
 - [[batches/2015-q4|2015 Q4]] — 725 posts. The Mob Programming Guidebook surfaces as a real product; EuroTestConf takes shape as a #PayToSpeak-free conference; tester identity softens on "developer" for the first time; year closes at 33 sessions with an explicit intent to slow down.
+- [[batches/2016-q1|2016 Q1]] — 791 posts (467 after dropping retweets). EuroTestConf runs and delivers honorariums; #PayToSpeak provokes a real disagreement with Michael Bolton; the "settled" James Bach relationship and the intent to slow down speaking both turn out to have been premature reads.

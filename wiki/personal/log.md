@@ -62,4 +62,12 @@ writing-a-book.md (resolved — it's the Mob Programming Guidebook), and
 concepts/self-understanding.md (a brief mortality reflection tied to the
 hospital stay). 2015 is now fully ingested across both wikis.
 
+## [2026-09-21] ingest | 2016 Q1 (thin, 791 posts, 467 after dropping retweets)
+Created batch page [[batches/2016-q1]]. Added 2016-Q1 sections to
+concepts/career-direction.md (relocation prep moves from stated intent
+to logistics) and concepts/self-understanding.md (privilege recurs three
+times as a personal reflection lens, distinct from the professional
+gender-in-tech advocacy). No update to entities/family.md — content too
+thin this quarter, consistent with the 2015-Q1 precedent.
+
 <!-- newest entries at the bottom -->

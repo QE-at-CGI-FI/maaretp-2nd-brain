@@ -168,3 +168,26 @@ a self-perception shift, however small, not only an external event.
 
 Representative posts:
 - https://twitter.com/maaretp/status/673762869486485504
+
+## 2016 Q1 — privilege, named repeatedly as a lens on herself — [[../batches/2016-q1|batch]]
+
+A theme that recurs at least three separate times this quarter, each
+time turned inward rather than left as external commentary: "I'm
+learning the world has less borders for some of us. I'm just lucky not
+needing visas to travel" and "well, this teaches me a lesson on
+privilege" (Jan 24, prompted by a Finnish colleague's situation);
+"learning interesting stuff about my privilege as a speaker through
+feeling uncomfortable in conferences when not speaking" (Mar 14); and,
+in the sharper [[../../testing/entities/michael-bolton|Bolton]] exchange
+about paying speakers, "I think both you and me might look at this from
+a position of privilege. We have more of a choice." Distinct from the
+professional-context advocacy in
+`../../testing/concepts/gender-in-tech.md` — here it reads as a
+recurring personal lens she applies to her own position (travel, being
+heard, being chosen to speak) rather than a campaign about others'
+conditions.
+
+Representative posts:
+- https://twitter.com/maaretp/status/691255825441148928
+- https://twitter.com/maaretp/status/709303350098006016
+- https://twitter.com/maaretp/status/701751738064359425

@@ -115,3 +115,23 @@ Representative posts:
 - https://twitter.com/maaretp/status/666957197566476289
 - https://twitter.com/maaretp/status/666515370518429696
 - https://twitter.com/maaretp/status/662707846652522496
+
+## 2016 Q1 — a workplace scare, and a blog on identity vs. skill sets — [[../batches/2016-q1|batch]]
+
+A brief but sharp incident (Jan 27): told she'd been called "non-technical"
+at work, visibly stung by it, then discovers via discussion the next day
+it was "non-motivated... said in a nice wrapper that I took the wrong
+way" — resolved as miscommunication, but the speed and intensity of her
+own reaction shows how loaded the "not technical enough" framing still
+is for her identity, Q4's softening on "developer" notwithstanding. Also
+blogs directly on "identity vs. skill sets" (Mar 2) and pushes back on
+testers who downplay their own value: "I wish people not identifying as
+testers would stop belittling themselves. It's a set of skills my devs
+catch up, w/ attitude" — consistent with, not a reversal of, the Q4
+softening: she's still expanding what "tester" can include, not
+abandoning the label's worth.
+
+Representative posts:
+- https://twitter.com/maaretp/status/692248853664415745
+- https://twitter.com/maaretp/status/692253541029777408
+- https://twitter.com/maaretp/status/702111024741281793

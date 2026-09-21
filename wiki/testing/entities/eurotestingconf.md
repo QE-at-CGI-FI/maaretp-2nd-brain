@@ -35,3 +35,24 @@ Representative posts:
 - https://twitter.com/maaretp/status/658731040115204096
 - https://twitter.com/maaretp/status/666371844887461898
 - https://twitter.com/maaretp/status/666716241537667074
+
+## 2016 Q1 — it runs, and it delivers on the promise — [[../batches/2016-q1|batch]]
+
+Happens as planned (Bucharest, 11–12 Feb). Live-tweets it heavily — Linda
+Rising's growth-mindset keynote, Alex Schladebeck on the two schools of
+TDD, sketchnoting, presentation-karaoke sessions — and closes by
+patiently waiting for the last invoices so she can calculate "the
+honorariums _every_ speaker gets. Speaking is work," the concrete proof
+of the [[../concepts/pay-to-speak|#PayToSpeak]]-free design working, not
+just being promised. Already planning a 2017 edition in Helsinki
+("see you all in Helsinki Finland in a year!") and considering an online
+"Lift Pitch" video format for it. The parallel **Teaching Exploratory
+Testing peer conference**, planned for the same February window, doesn't
+appear to have happened on schedule — a Feb 1 post is still "looking for
+a better time" for it, key people unavailable — open thread for whether
+it happens later in the year.
+
+Representative posts:
+- https://twitter.com/maaretp/status/698042186768764928
+- https://twitter.com/maaretp/status/698185415942139905
+- https://twitter.com/maaretp/status/700218547809755136

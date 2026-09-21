@@ -139,3 +139,19 @@ tweets themselves.
 Representative posts:
 - https://twitter.com/maaretp/status/662735976859439104
 - https://twitter.com/maaretp/status/663075909856030720
+
+## 2016 Q1 — from search to logistics — [[../batches/2016-q1|batch]]
+
+The Q4 reactivation moves a step further, from job-searching language
+into a concrete relocation detail: "in prepping to relocate to another
+country, I should get rid of my physical books. Pack up and share here?"
+(Feb 8) — treating the move as something to plan around practically, not
+just a stated intention. No country, timeline, or employer specified.
+Sits in continued tension with
+`../../testing/entities/international-speaking.md`'s Q1 finding that the
+speaking pace, rather than slowing as she'd said in Q4, actually grew —
+two threads pulling in opposite directions (settle down to relocate vs.
+keep expanding the speaking circuit) without either resolving.
+
+Representative posts:
+- https://twitter.com/maaretp/status/696701330220544000

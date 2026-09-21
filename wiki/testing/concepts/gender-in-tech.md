@@ -147,3 +147,33 @@ Representative posts:
 - https://twitter.com/maaretp/status/660397397063921664
 - https://twitter.com/maaretp/status/660093751952547840
 - https://twitter.com/maaretp/status/676377134806515712
+
+## 2016 Q1 — screening bias and #ChangeTheRatio — [[../batches/2016-q1|batch]]
+
+The busiest and most structural quarter yet, running two threads in
+parallel:
+
+- **The SpeakEasy mentoring program keeps expanding**: a third and
+  fourth mentee taken on this quarter alone, weekly-ish public updates
+  on their progress ("from no speaking to several international
+  conferences in 6 months"), and a recurring **speakeasy Online Lean
+  Coffee** call she organizes and hosts, growing from a handful of
+  sign-ups to 26+ people by its third session.
+- **A sustained #ChangeTheRatio dispute over conference screening**
+  (late March), sparked by @agiliaconf's CFP process. She defends the
+  organizer publicly against what she calls a "lynching" while pushing
+  a specific structural critique: "knowing a list of brilliant women
+  makes the organizer lazy on own research," and that unbalanced
+  rosters come from people "recommending people they know" rather than
+  active bad intent. Separately makes the direct economic connection
+  she'd first drawn in Q4: unpaid community/volunteer IT work is
+  disproportionately done by women.
+- Also this quarter: reflects on how "extensive screening" processes can
+  themselves be gender-blind by design (missing women who aren't in the
+  organizer's network), and floats a **DJ-ing course for girls** (Q4's
+  idea) growing into a fuller "help them run a disco" ambition.
+
+Representative posts:
+- https://twitter.com/maaretp/status/698107213890646016
+- https://twitter.com/maaretp/status/715276480046108674
+- https://twitter.com/maaretp/status/699605078936834049

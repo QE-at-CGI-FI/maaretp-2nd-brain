@@ -158,3 +158,24 @@ give-and-take, neither warm nor ruptured.
 
 Representative posts:
 - https://twitter.com/maaretp/status/659660149762715648
+
+## 2016 Q1 — the "ordinary" read was premature — [[../batches/2016-q1|batch]]
+
+A sharp exchange on Feb 2 contradicts the Q4 close. "No, James, that is
+not my way. I would be happy to discuss these with you over Skype.
+Writing on twitter isn't discussion" opens it; it escalates into openly
+naming pain rather than disagreement — "When I tell the pain your
+actions cause me, you'd really tell me to not be able to run to dad I
+haven't seen in 25 years?" and "Not a victim, but offended occasionally.
+For things you do to me, and to people I care for." She closes by naming
+her own coping pattern rather than resolving the disagreement: "I do
+[feel these]. And I learn to work so that I can manage them. I can still
+talk about them. And people can dismiss them." Consistent with the
+Q2/Q3 2015 pattern (real, recurring friction that neither ruptures
+further nor resolves) more than with Q4's read of settled normalcy —
+that calm turns out to have been one quarter, not a new baseline.
+
+Representative posts:
+- https://twitter.com/maaretp/status/694586822995869696
+- https://twitter.com/maaretp/status/694590455233802240
+- https://twitter.com/maaretp/status/694590885858807808

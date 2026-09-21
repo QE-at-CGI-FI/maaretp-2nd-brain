@@ -44,3 +44,25 @@ those that don't.
 Representative posts:
 - https://twitter.com/maaretp/status/658731040115204096
 - https://twitter.com/maaretp/status/667728575295041536
+
+## 2016 Q1 — delivers in practice, and provokes real pushback — [[../batches/2016-q1|batch]]
+
+Two developments. First, [[../entities/eurotestingconf|EuroTestConf]]
+actually delivers honorariums to every speaker — the campaign moving
+from advocacy to a working example, not just a stated intent (see that
+page). Second, a sustained, respectful but real disagreement breaks out
+with [[../entities/michael-bolton|Michael Bolton]] (Feb 22) over whether
+speaking is "marketing" people should absorb the cost of, or work that
+should be compensated: "Speaking is an effort to change the world, not
+just marketing. There's different motivations," and repeatedly naming
+privilege as the frame — "I think both you and me might look at this
+from a position of privilege. We have more of a choice." Also floats an
+idea for 2017: an online "Lift Pitch" video, and paying it forward —
+free tickets for the current year's speakers to the next edition, though
+she flags the tension with the honorarium budget ("this money would be
+away from what they get").
+
+Representative posts:
+- https://twitter.com/maaretp/status/701754518967554048
+- https://twitter.com/maaretp/status/701751738064359425
+- https://twitter.com/maaretp/status/700218547809755136

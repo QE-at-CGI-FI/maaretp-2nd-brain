@@ -85,3 +85,25 @@ Representative posts:
 - https://twitter.com/maaretp/status/667725311224774657
 - https://twitter.com/maaretp/status/667719658515120128
 - https://twitter.com/maaretp/status/666771125515481090
+
+## 2016 Q1 — the stated intent to slow down doesn't hold — [[../batches/2016-q1|batch]]
+
+Q4's explicit resolution to travel to fewer conferences in 2016 is
+contradicted by the quarter's own acceptances: [[eurotestingconf|EuroTestConf]]
+itself (Bucharest, organizing *and* speaking), TestBash Brighton,
+Booster2016 (Norway), a confirmed Agile Testing Day Sweden talk, and —
+the most striking new addition — getting accepted to **#Agile2016 on
+two separate tracks** (Development Practices & Craftsmanship, and
+Testing & Quality Assurance), plus a non-testing dev-conference proposal
+accepted the same week. By late March she's also confirmed for
+DevoxxUK (London, June). "For a year of not doing conferences, I seem
+to be doing quite many" — said by her, about herself, the same quarter
+she'd resolved to cut back. Reads as the same pattern already seen with
+[[../../personal/concepts/career-direction|career-direction]]'s
+stated-intent-vs-actual-behavior gaps: what she says she'll do and what
+she accepts when asked keep diverging.
+
+Representative posts:
+- https://twitter.com/maaretp/status/694254156303994880
+- https://twitter.com/maaretp/status/714156982542987265
+- https://twitter.com/maaretp/status/702152559893602304

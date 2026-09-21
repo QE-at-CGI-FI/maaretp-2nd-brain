@@ -122,3 +122,26 @@ Representative posts:
 - https://twitter.com/maaretp/status/658671692588425216
 - https://twitter.com/maaretp/status/670245516064768000
 - https://twitter.com/maaretp/status/666868226836594689
+
+## 2016 Q1 — the guidebook continues, mob spreads further — [[../batches/2016-q1|batch]]
+
+The **Mob Programming Guidebook** keeps shipping incrementally — "Part 2"
+underway, 154 readers logged, a next major release promised inside two
+months. Mob/mob-testing keeps spreading beyond her own team: a full-day
+**#MobTesting workshop/tutorial** built for conference delivery, a talk
+booked at Agile Testing Day Sweden, and she confirms she'll attend
+**Mob Programming Conference (Boston, early May)**, Woody Zuill's own
+event, asking if fellow testers will be there too. A small recurring
+friction: people keep reading "**#MobTesting**" as *Mobile* testing
+rather than *group* testing — doesn't happen with #MobProgramming,
+enough of a pattern she flags it explicitly and asks a conference
+organizer to fix a session title. The Q4 "any other non-programmers
+trying MobProgramming?" isolation question isn't answered this quarter
+either. The parallel **Teaching Exploratory Testing peer conference**
+(see [[../entities/eurotestingconf]]) slips past its planned February
+date — still being rescheduled as of Feb 1.
+
+Representative posts:
+- https://twitter.com/maaretp/status/699943023262699520
+- https://twitter.com/maaretp/status/694271402850009088
+- https://twitter.com/maaretp/status/706135910073688064
