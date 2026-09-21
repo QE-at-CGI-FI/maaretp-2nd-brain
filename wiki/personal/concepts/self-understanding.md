@@ -327,3 +327,20 @@ Representative posts:
 - https://twitter.com/maaretp/status/906595451352354816
 - https://twitter.com/maaretp/status/906614337917374466
 - https://twitter.com/maaretp/status/904042490013114376
+
+## 2017 Q4 — the fear at the very beginning, named for the first time — [[../batches/2017-q4|batch]]
+
+A specific, concrete origin-story detail behind the confident public
+speaker of the last several years: "I started 2001 with a fear of
+speaking. I practiced myself into a place where I would no longer faint
+for having an audience" — the most severe version of speaking anxiety
+named in the archive, and a 16-year arc from that starting point to
+achieving her stated keynote-speaker goal this same quarter (see
+`../../testing/entities/international-speaking.md`). The "Burden of
+Evidence" theme from Q3 recurs too, through an extended community
+dispute (see `../../testing/concepts/cdt-community-culture.md`) that
+runs most of the quarter — not being believed the first time, needing
+to keep making the same case.
+
+Representative posts:
+- https://twitter.com/maaretp/status/947165883754979329

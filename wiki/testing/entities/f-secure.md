@@ -81,6 +81,20 @@ her community organizing, not just her employer.
 Representative posts:
 - https://twitter.com/maaretp/status/910091073724276737
 
+## 2017 Q4 — a No Product Owner experiment — [[../batches/2017-q4|batch]]
+
+The team runs a formal, named **#NoPO experiment** — removing the
+product owner's prioritization role and having the team own customer-
+facing decisions directly ("ask forgiveness not permission" as the
+working norm before the formal experiment even started). Early results
+read positively: faster idea-to-implementation, more direct customer
+contact, no visible team resistance a month in. Consistent with the
+year's broader pattern of hands-on, non-management-track organizing.
+
+Representative posts:
+- https://twitter.com/maaretp/status/925452062279729154
+- https://twitter.com/maaretp/status/932597313008295936
+
 ## 2017 Q2 — Poznan confirmed, a 15-year-old joins the team — [[../batches/2017-q2|batch]]
 
 The Q1 hint of a Poland-based teammate is now explicit: "my teams in

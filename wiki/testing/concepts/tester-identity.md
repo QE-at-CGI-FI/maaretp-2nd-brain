@@ -193,3 +193,17 @@ spent defending the label against exactly that kind of argument.
 Representative posts:
 - https://twitter.com/maaretp/status/795483269957636096
 - https://twitter.com/maaretp/status/786505427911479296
+
+## 2017 Q4 — defending the label once more, without the old heat — [[../batches/2017-q4|batch]]
+
+A late-December thread with Lanette Creamer and Ron Jeffries revisits
+the identity-vs-role argument familiar from 2014–2016, but the register
+has changed: she holds the position calmly, folding in the Q1 "plain
+definition" stance — "people who suggest I need to give up on tester
+identity are getting very close" to insulting her, but there's no
+rupture, no block, just a settled defense: "I'm really trying to
+understand what would be better in the world if I gave up my identity?"
+
+Representative posts:
+- https://twitter.com/maaretp/status/939166196154490880
+- https://twitter.com/maaretp/status/939166461431549952

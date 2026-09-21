@@ -254,3 +254,18 @@ gave him a good experience on how to be useful."
 Representative posts:
 - https://twitter.com/maaretp/status/908725390440529920
 - https://twitter.com/maaretp/status/889399564687609857
+
+## 2017 Q4 — a first pull request, and an ironic "sexist" label — [[../batches/2017-q4|batch]]
+
+The 15-year-old intern (2017 Q2–Q3) hits a real milestone: "just did his
+first ever pull request, adding a test into our test automation.
+Immersive Learning." She wants the *next* intern hire to be a 15-year-old
+girl specifically and gets called sexist for the preference — "Any girl
+would turn awesome dev landing with my team" — an ironic instance of
+the same "we can't find women" excuse she's spent years rejecting in
+[[../concepts/gender-in-tech]], now aimed at her own deliberate,
+successful pipeline-building.
+
+Representative posts:
+- https://twitter.com/maaretp/status/923474182133952513
+- https://twitter.com/maaretp/status/923604860951519233

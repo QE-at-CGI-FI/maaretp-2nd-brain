@@ -131,4 +131,13 @@ six) and concepts/self-understanding.md (a named concept, "Burden of
 Evidence," for the recurring cost of not being believed; loudness
 traced to growing up in a large family).
 
+## [2026-09-21] ingest | 2017 Q4 (1035 posts, 656 after dropping retweets, final 2017 batch)
+Created batch page [[batches/2017-q4]]. Added a 2017-Q4 section to
+concepts/self-understanding.md only (the most severe version yet of her
+speaking-anxiety origin story — starting 2001, practicing past fainting
+from stage fright — and a recurrence of the Q3 "Burden of Evidence"
+pattern via an extended community dispute). No updates to
+entities/family.md or concepts/career-direction.md this quarter. 2017
+is now fully ingested across both wikis.
+
 <!-- newest entries at the bottom -->

@@ -28,7 +28,7 @@ quarters at ingest time — split rows here if you do.
 | 2017-Q1 | 765 | done (2026-09-21) | testing, personal | [[testing/batches/2017-q1]], [[personal/batches/2017-q1]] |
 | 2017-Q2 | 358 | done (2026-09-21) | testing, personal | [[testing/batches/2017-q2]], [[personal/batches/2017-q2]] |
 | 2017-Q3 | 687 | done (2026-09-21) | testing, personal | [[testing/batches/2017-q3]], [[personal/batches/2017-q3]] |
-| 2017-Q4 | 1035 | not started | | |
+| 2017-Q4 | 1035 | done (2026-09-21) | testing, personal | [[testing/batches/2017-q4]], [[personal/batches/2017-q4]] |
 | 2018 | 4403 | not started | | |
 | 2019 | 4363 | not started | | |
 | 2020 | 4487 | not started | | |

@@ -154,3 +154,25 @@ attend.
 Representative posts:
 - https://twitter.com/maaretp/status/890494462618734593
 - https://twitter.com/maaretp/status/896089315834380288
+
+## 2017 Q4 — the tracking list goes public, and real pushback follows — [[../batches/2017-q4|batch]]
+
+Reveals she's maintained a **public #PayToSpeak tracking spreadsheet
+since 2015**, actively correcting and updating it through the quarter —
+not a one-off campaign but ongoing infrastructure. Gets real friction
+for it: Romania Testing Conference "sent rude messages both to people I
+care for and myself," enough that she drops them from her preferred
+list despite otherwise rating the conference well. Names the
+underlying economics precisely for the first time — "for me to be able
+to pay keynote speaker the 5k they deserve... my model means I have to
+make 80k profit" — and a more self-aware framing of the "dues" she's
+paid to get here: "I needed to become the person who has worthwhile
+stories + pay to share them." Publishes concrete alternatives for
+conferences moving away from #PayToSpeak (opt-in travel reimbursement,
+a non-#PayToSpeak track compared head-to-head, partnering with a
+scholarship nonprofit) rather than just naming the problem.
+
+Representative posts:
+- https://twitter.com/maaretp/status/936573603184889856
+- https://twitter.com/maaretp/status/941683586654236672
+- https://twitter.com/maaretp/status/936526957214302208

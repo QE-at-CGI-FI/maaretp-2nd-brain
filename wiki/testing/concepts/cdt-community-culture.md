@@ -79,6 +79,31 @@ Representative posts:
 - https://twitter.com/maaretp/status/756233596944474113
 - https://twitter.com/maaretp/status/781734889024544768
 
+## 2017 Q4 — a named harassment scandal, and a testy apology dispute — [[../batches/2017-q4|batch]]
+
+The community's worst incident since the Bach conflict, but categorically
+different: a figure she and others refer to as **"MrCreep"** is publicly
+called out for harassment, and [[../entities/international-speaking|Lanette
+Creamer]] discloses she was also a victim — "sharing that she also was
+MrCreep's victim should result in support, not attacks. #ashamed." She
+defends Creamer against pushback and, separately, pre-empts any
+implication about her own conference relationships: "I'm dating someone
+who I met when he spoke at my conference... it's none of others
+business." A parallel, extended dispute breaks out over how to handle a
+different figure's ("DanAshby04") insensitive public remark — she pushes
+for a real public apology rather than a "non-apology," argues debate
+culture itself silences women ("The glorification of aggressive debate
+is basically saying 'I don't think women's voices are valuable enough
+for me to change how I debate'"), and eventually softens her own initial
+read: "I'm sorry. My perspective was skewed. Much more improvement is
+still needed." Repeats a line for the third time this quarter: "code of
+conduct gets tested in use. It matters how you enforce it."
+
+Representative posts:
+- https://twitter.com/maaretp/status/920723575706931201
+- https://twitter.com/maaretp/status/930951256134348800
+- https://twitter.com/maaretp/status/930864640606818304
+
 ## 2016 Q4 — declining the gendered framing, then investing elsewhere — [[../batches/2016-q4|batch]]
 
 Early October carries the TMAcad aftermath (see

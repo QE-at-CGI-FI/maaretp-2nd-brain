@@ -7,8 +7,7 @@ tags: [index]
 Personal reflection, growth, and psychology synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
 See [[../progress]] for what's been ingested (2010: no personal content;
-2011–2016: thin at first, substantial by 2014; 2017 Q1–Q3 done, Q4– not
-started).
+2011–2017: thin at first, substantial by 2014; 2018– not started).
 
 ## Entities
 
@@ -37,3 +36,4 @@ started).
 - [[batches/2017-q1|2017 Q1]] — 765 posts (478 after dropping retweets). A decade-old local recognition wound (Finnish Tester of the Year) named directly for the first time; son's first programming moment; a nephew named; a second book starts.
 - [[batches/2017-q2|2017 Q2]] — 358 posts (199 after dropping retweets), thin quarter, almost entirely professional content. A security/networks academic background detail ties to a named area of imposter syndrome; the recognition-wound pattern recurs in a new context.
 - [[batches/2017-q3|2017 Q3]] — 687 posts (450 after dropping retweets). Biggest family-travel quarter yet — both kids get their own international conference trip; five younger siblings named for the first time; a named concept, "Burden of Evidence," for the cost of not being believed.
+- [[batches/2017-q4|2017 Q4]] — 1035 posts (656 after dropping retweets), final 2017 batch. The most severe version yet of her speaking-anxiety origin story (starting 2001, practicing past fainting), arriving at the keynote goal achieved this same quarter; the "Burden of Evidence" pattern recurs through an extended community dispute.

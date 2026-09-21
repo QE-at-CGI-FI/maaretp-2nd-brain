@@ -206,4 +206,22 @@ concepts/pay-to-speak (a new, complicated admission about the salary
 benefit of speaking despite the advocacy). No new entity or concept
 pages this batch.
 
+## [2026-09-21] ingest | 2017 Q4 (1035 posts, 656 after dropping retweets, final 2017 batch)
+Created batch page [[batches/2017-q4]]. Added 2017-Q4 sections to 7
+existing pages: concepts/cdt-community-culture (a named harassment
+scandal, "MrCreep", using her own hashtag rather than any real name —
+see conversation notes on this choice; an extended CoC/apology-culture
+dispute), concepts/gender-in-tech (a substantial privilege exchange
+with Woody Zuill; "But Women Did Not Submit" blog rejecting the
+standard CFP excuse), concepts/pay-to-speak (the public tracking
+spreadsheet since 2015 draws real pushback from Romania Testing
+Conference), entities/international-speaking (the keynote-speaker goal
+achieved; a recount complicating the Q2 "cutback held" read; the
+severe origin-story detail behind her speaking career), entities/f-
+secure (a formal #NoPO experiment), concepts/whole-team-testing (the
+15-yo intern's first pull request; an ironic "sexist" label for wanting
+a girl intern next), and concepts/tester-identity (a calmer, settled
+defense of the tester label). No new entity or concept pages this
+batch. 2017 is now fully ingested across both wikis.
+
 <!-- newest entries at the bottom -->

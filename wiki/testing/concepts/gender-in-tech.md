@@ -302,3 +302,24 @@ Representative posts:
 - https://twitter.com/maaretp/status/890489779875348480
 - https://twitter.com/maaretp/status/890494462618734593
 - https://twitter.com/maaretp/status/895892841926471681
+
+## 2017 Q4 — origin story, and rejecting the "no women submitted" excuse — [[../batches/2017-q4|batch]]
+
+A substantial, non-hostile privilege exchange with Woody Zuill (Oct 14)
+draws out real origin-story detail: "15-20 years ago I had no user
+groups desperate for speakers, I had to start them myself" and "I got
+'no women of merit' when all my merit was local. I needed to share and
+shared locally. Couldn't afford anything else" — connecting her current
+advocacy directly to her own early ceiling. Pushes back hard on the
+standard CFP defense with a dedicated blog, "But Women Did Not Submit,"
+and a concrete offer: "make the selection committee and organizer group
+as diverse as you wish your lineup to be... I know I'm good even when my
+gender plays a role in selection." Continues correcting "guys" as
+address, this time explaining the historical reasoning rather than just
+objecting to it. See [[cdt-community-culture]] for the harassment
+scandal running the same quarter.
+
+Representative posts:
+- https://twitter.com/maaretp/status/919108553675366400
+- https://twitter.com/maaretp/status/942015677929611264
+- https://twitter.com/maaretp/status/942128738992644097

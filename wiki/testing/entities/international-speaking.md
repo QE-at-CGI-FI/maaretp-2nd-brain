@@ -213,3 +213,24 @@ income.
 Representative posts:
 - https://twitter.com/maaretp/status/896062323667812352
 - https://twitter.com/maaretp/status/910477642243166209
+
+## 2017 Q4 — the keynote goal, achieved, and the "cutback" complicated — [[../batches/2017-q4|batch]]
+
+Closes the year having actually hit the goal she'd been working toward
+since Q2 2016's "finally keynoting this autumn": strong scores at
+AgileTD (4.67/5 workshop, 4.44/5 keynote) prompt "I think this closes a
+conference year and my goal of becoming a keynote speaker. #grateful."
+A recount complicates the Q2 "cutback held" story, though: "I did not
+make any less sessions in 2017 than 2016 and 2015: All three years I had
+30 sessions delivered" — the *aggregate* stayed level even though it
+felt like less. A separate, corrected year-end tally gives the full
+career number: **352 talks since starting public speaking in 2001** —
+initially miscounted as 243, then 352 once shorthand notation gaps were
+found. Names the very beginning of that journey for the first time:
+"I started 2001 with a fear of speaking. I practiced myself into a
+place where I would no longer faint for having an audience."
+
+Representative posts:
+- https://twitter.com/maaretp/status/941689409254166528
+- https://twitter.com/maaretp/status/946943038948904962
+- https://twitter.com/maaretp/status/947165883754979329
