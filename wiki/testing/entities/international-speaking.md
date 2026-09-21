@@ -235,6 +235,79 @@ Representative posts:
 - https://twitter.com/maaretp/status/946943038948904962
 - https://twitter.com/maaretp/status/947165883754979329
 
+## 2018 Q3 — retiring from conference speaking, and it actually holds — [[../batches/2018-q3|batch]]
+
+Unlike every prior "cutting back" statement since 2015 Q4, this one
+sticks for the whole quarter. Two things precede it directly: a sharp,
+public attribution conflict with Richard Bradshaw (FriendlyTester) in
+early July over a phrase she used in a talk ("I'm over with public
+speaking and reading this shit"), and a newly surfaced, raw account of
+how personally harmful the big Agile conferences were for her as a
+tester — "I was at #agile2015 and #agile2016 and barely survived...
+I left with anxiety attacks," describing being "test-splained" by a
+power differential she compares to what women experience in tech
+broadly. By 10 July: "Now that I'm retired keynote speaker (until
+further notice)." She tallies the career total on the way out — 378
+talks/sessions by mid-July, "one more to say goodbye: #TestBash
+Australia" — and by late September nuances the retirement rather than
+reversing it: "I'm no longer on an absolute conference break. I found
+one I want to go to, and will go to, in January. And I teach paid
+courses instead of traveling to do talks." Paid, in-person training and
+one conference stay; unpaid keynote travel does not.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1016753644501438465
+- https://twitter.com/maaretp/status/1028186523043328000
+- https://twitter.com/maaretp/status/1018941862772658176
+- https://twitter.com/maaretp/status/1044452351183130625
+
+## 2018 Q4 — the retirement nuances further, and the year closes at 380 sessions — [[../batches/2018-q4|batch]]
+
+TestBash Australia (the one exception flagged in Q3) happens — a
+24-hour flight, her sister along for company. By late October she's
+already accepted a second 2019 keynote and reframes the retirement more
+precisely than "retired": "I guess I am no longer on a conference
+break, just learning to say no and not actively volunteer so that I can
+be home for kids more." Books a 2019 circuit under
+**#ExploratoryTesterOnTour** — London and Amsterdam (Jan), Valencia
+(Feb, EuroTestConf), Bangalore (March), Istanbul (April). The year-end
+tally complicates the "cut way back" story exactly as it did in
+2017: 380 sessions across 24 countries for 2018, "only 2 sessions less
+than a year before" despite believing she'd "cut down heavily" — she
+flags the count as "kind of fake" since four separate Aalto University
+lectures get counted as one session. Frames the real tradeoff not as
+fewer commitments but as more deliberate ones: "Cancelled half a dozen
+conferences and replaced myself with other awesome people... worth all
+the hugs from my kids."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1056618095110963202
+- https://twitter.com/maaretp/status/1068243687497523200
+- https://twitter.com/maaretp/status/1077869342786764800
+- https://twitter.com/maaretp/status/1077490634687238145
+
+## 2018 Q2 — cutting the autumn schedule for family — [[../batches/2018-q2|batch]]
+
+A real, weighed pullback rather than a stated-then-broken intention like
+2016–2017's pattern: "Hard calls this week, but I cancelled 3
+conferences (including a keynote) in the fall to focus home. One less
+established woman on the speaker circles. TestBash Australia is my only
+conference in the autumn." Explicit about the cost to the broader
+[[../concepts/gender-in-tech|gender-in-tech]] pipeline she's spent years
+building, not just to herself. Earlier in the quarter she'd already
+named the finish line: "Four conferences before I'm out the scene,"
+alongside new text for the
+[[../../personal/concepts/writing-a-book|Exploratory Testing Book]].
+Spring travel itself stays as heavy as ever — TestBash Netherlands,
+StarEast, CraftConf, NTD2018, AgileTDUSA, SeConfIndia/SeleniumConf India
+all land this quarter — the cut is specifically autumn-forward. See
+[[../../personal/concepts/career-direction]] for the personal-side
+account.
+
+Representative posts:
+- https://twitter.com/maaretp/status/991300735253008384
+- https://twitter.com/maaretp/status/997121533981200384
+
 ## 2018 Q1 — the tally keeps climbing, and she confirms she's not leaving — [[../batches/2018-q1|batch]]
 
 Individual talks pass #354; a separate personal tally hits 25 countries.

@@ -152,6 +152,38 @@ Representative posts:
 - https://twitter.com/maaretp/status/906432336266448897
 - https://twitter.com/maaretp/status/914161359612456960
 
+## 2018 Q2 — scouting the 2019 venue — [[../batches/2018-q2|batch]]
+
+Flies to Valencia, Spain to check a venue, with the 2019 edition likely
+landing there Feb 14–15 (alternates 21–22 Feb or 11–12/18–19 Feb still
+open). The keynote-content incident she processes this quarter (see
+[[../concepts/cdt-community-culture]]) is from a past edition, not this
+planning cycle, but visibly shapes how she frames organizing
+responsibility going forward.
+
+Representative posts:
+- https://twitter.com/maaretp/status/994510147115503616
+- https://twitter.com/maaretp/status/981914480874610688
+
+## 2018 Q3 — the collaboration-call process scales up hugely — [[../batches/2018-q3|batch]]
+
+The 2019 (Valencia) cycle dwarfs anything before it: 311 submissions by
+deadline, a 60% increase year over year, roughly 35% from people who
+aren't men, and 200+ hours of one-on-one collaboration calls — she logs
+the running count obsessively (100, 190, 253, 295 proposals discussed)
+and narrows a "love love love" shortlist down to the ~17 slots
+available. Adds two full travel+hotel+conference scholarships for
+participants this edition. A new spin-off launches alongside it: a
+LAWST-style **peer exploratory-testing workshop** in Valencia (16 Feb
+2019, ~20 people, facilitated with @charrett and @alex_schl) — a
+smaller, practice-focused complement to the main conference.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1031440170384596992
+- https://twitter.com/maaretp/status/1034880549071069185
+- https://twitter.com/maaretp/status/1022744367184990208
+- https://twitter.com/maaretp/status/1018112251587387392
+
 ## 2018 Q1 — fourth edition, Amsterdam, ~200 attendees — [[../batches/2018-q1|batch]]
 
 Runs Feb 19–20 as planned, drawing roughly 200 attendees — the biggest
@@ -167,3 +199,25 @@ rolling, continuous cycle rather than an annual sprint.
 Representative posts:
 - https://twitter.com/maaretp/status/964788504525004800
 - https://twitter.com/maaretp/status/968244590540152833
+
+## 2018 Q4 — 201 collaboration calls, and a rare admission about her own fairness — [[../batches/2018-q4|batch]]
+
+The process reaches 201 individual collaboration calls this cycle. A
+rare, direct self-critique breaks from years of promoting the model
+uncritically: "As main organizer of #EuroTestConf I feel the need of
+saying we are not the fairest. #TestBash and #AgileTD are in a way that
+is sustainable... #EuroTestConf is an experimentation platform and not
+fair for its organizers in financial compensation." Names the real
+tradeoff honestly rather than denying it: "Not approaching burnout. But
+I am recognizing that to do this, I don't do some other things I could
+want to do." Pays a hired assistant for the first time for the 2019
+edition, and goes back to fix underpayment from the financially
+difficult 2017 keynote year. Tickets sell well enough to risk selling
+out.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1073264994165448706
+- https://twitter.com/maaretp/status/1057580799241998337
+- https://twitter.com/maaretp/status/1057587763409797121
+- https://twitter.com/maaretp/status/1070776351718891523
+- https://twitter.com/maaretp/status/1074595126901727232

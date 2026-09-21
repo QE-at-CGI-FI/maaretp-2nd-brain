@@ -79,6 +79,54 @@ Representative posts:
 - https://twitter.com/maaretp/status/756233596944474113
 - https://twitter.com/maaretp/status/781734889024544768
 
+## 2018 Q2 — a confession about her own conference, and a direct charge at Bolton — [[../batches/2018-q2|batch]]
+
+Two distinct incidents extend the theme.
+
+Early April: a keynote speaker (implicitly at her own conference)
+receives feedback that their talk had ableist elements, stereotyped
+women, and quoted "known harassers" — she notes respect for the speaker
+"taking this to heart." Three weeks later (25 Apr), pressed by
+@TheTestingMuse on whether public CoC records mean anything, she admits
+directly: "I take this stuff more seriously than an average organizer
+and yet I made space for unintended ableism, presenting women
+stereotypically and promoting known harassers content. And I still
+haven't written the incident report that would help others avoid this."
+A rare instance of naming her own organizing failure rather than someone
+else's — sharper than, but consistent with, 2017 Q4's "code of conduct
+gets tested in use" line. Also names real skepticism about CoCs' actual
+protective value: "I never care if conference has a code of conduct
+because only working to enforce safe place will do the trick," and that
+whisper networks, not public records, are where she actually learns how
+organizers handle incidents.
+
+Late May: the accountability theme turns outward and pointed, directly
+at [[../entities/michael-bolton|Bolton]] — "Bullying is not a business
+disagreement... James is your problem" — see
+[[../entities/michael-bolton]] for the exchange itself. Read together,
+the quarter has her holding both herself and a peer to the same
+standard: tolerating or making space for harm is a choice, not
+neutrality.
+
+Representative posts:
+- https://twitter.com/maaretp/status/982704074926764032
+- https://twitter.com/maaretp/status/989204665031065601
+- https://twitter.com/maaretp/status/1001752835795640320
+
+## 2018 Q3 — Codes of Conduct don't stop the everyday pattern — [[../batches/2018-q3|batch]]
+
+A blog post, "Code of Conducts and Stopping Bad Behavior," extends the
+Q2 confession about her own conference into a general claim: formal CoCs
+target the dramatic, nameable incidents while leaving the constant,
+low-grade pattern (mansplaining especially) untouched and unnamed as bad
+behavior at all — see [[../concepts/gender-in-tech]] for the fuller
+quote. Consistent with, but more pointed than, 2017 Q4's "code of
+conduct gets tested in use" line — this time the claim isn't about
+enforcement quality but about what CoCs are even designed to catch.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1023229807037964289
+
 ## 2017 Q4 — a named harassment scandal, and a testy apology dispute — [[../batches/2017-q4|batch]]
 
 The community's worst incident since the Bach conflict, but categorically

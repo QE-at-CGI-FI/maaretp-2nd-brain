@@ -116,6 +116,24 @@ Representative posts:
 - https://twitter.com/maaretp/status/644830808595894272
 - https://twitter.com/maaretp/status/631659201333473280
 
+## 2018 Q2 — "James is your problem" — [[../batches/2018-q2|batch]]
+
+The sharpest thing she's said to him directly in the archive, and a
+break from the pattern of collegial-even-in-disagreement that's held
+since 2015: "Bullying is not a business disagreement. At first I
+corrected people the s wasn't about you but then I realized it
+absolutely is about you: years of acceptance and enablement. James is
+your problem." Distinct from the vocabulary fights of 2013–2016 — this
+isn't about [[../concepts/checking-vs-testing|checking-vs-testing]], it's
+a direct charge that his tolerance of [[james-bach|Bach]]'s behavior
+makes him complicit in it. No reply or resolution recorded in the batch.
+See [[../concepts/cdt-community-culture]] for the wider accountability
+theme this sits in, including her own parallel admission the same
+quarter about making space for harmful content at her own conference.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1001752835795640320
+
 ## 2016 Q2 — checking reignites again, then a defense of him — [[../batches/2016-q2|batch]]
 
 The [[../concepts/checking-vs-testing]] fight flares a third distinct

@@ -194,6 +194,20 @@ Representative posts:
 - https://twitter.com/maaretp/status/795483269957636096
 - https://twitter.com/maaretp/status/786505427911479296
 
+## 2018 Q2 — "I called myself a manual tester" — [[../batches/2018-q2|batch]]
+
+At #SeleniumConfIndia, a deliberate reclaiming rather than a retreat:
+"I called myself a manual tester getting on that stage. I don't need a
+new label to say I may not do things like every tester you've ever met.
+No test cases, includes programming. But first of all, includes
+thinking and learning!" Consistent with the settled, unarguable
+definitions she landed on in 2016 Q4 and 2017 Q4 — she can use a label
+others treat as diminishing precisely because she no longer needs it
+defended.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1012935366771466240
+
 ## 2017 Q4 — defending the label once more, without the old heat — [[../batches/2017-q4|batch]]
 
 A late-December thread with Lanette Creamer and Ron Jeffries revisits

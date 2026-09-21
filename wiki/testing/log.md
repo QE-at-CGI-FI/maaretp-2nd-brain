@@ -238,4 +238,68 @@ and entities/international-speaking (talk #354, 25 countries,
 confirms no interest in leaving F-Secure). No new entity or concept
 pages this batch.
 
+## [2026-09-21] ingest | 2018 Q2 (768 posts, 473 after dropping retweets)
+Created batch page [[batches/2018-q2]] and 2 new concept pages
+(management-transition — she becomes a manager at F-Secure, the most
+consequential career-identity shift since 2012; experiential-testing-
+training — a new sustained 1:1/small-group teaching practice launched
+this quarter). Added 2018-Q2 sections to 7 existing pages:
+entities/f-secure (the management move, cross-referencing the new
+concept page), entities/michael-bolton (a sharp break from years of
+collegial disagreement — "James is your problem," charging him with
+enabling Bach's behavior), concepts/cdt-community-culture (a rare
+confession about her own conference having made space for harmful
+keynote content, alongside the Bolton confrontation), entities/
+eurotestingconf (scouting a Valencia venue for 2019), entities/
+international-speaking (a real, weighed cut to the autumn schedule for
+family, distinct from prior years' stated-then-broken slowdowns),
+concepts/tester-identity (a "manual tester" reclaim), and concepts/
+whole-team-testing (an ApprovalTests granularity insight; the No-PO
+talk draws familiar pushback). No update to entities/james-bach — he
+doesn't appear directly this quarter.
+
+## [2026-09-21] ingest | 2018 Q3 (1513 posts, 1112 after dropping retweets, densest quarter yet)
+Created batch page [[batches/2018-q3]]. Added 2018-Q3 sections to 8
+existing pages: entities/international-speaking (retires from unpaid
+conference speaking and it holds this time, driven by a FriendlyTester
+attribution conflict and a newly surfaced account of Agile2015/2016
+conference trauma), entities/eurotestingconf (2019 collaboration-call
+process scales up hugely — 311 submissions, +60% YoY — plus a new
+Valencia peer ET workshop), concepts/management-transition (a real turn
+toward enjoying the manager role; a killed daily-standup experiment;
+resumes a long-paused CS degree), concepts/exploratory-testing (a
+prolific ~dozen-post writing stretch refining the concept),
+concepts/gender-in-tech ("lowest difficulty setting" line, a "too
+emotional" incident, continued mansplaining/CoC critique),
+concepts/cdt-community-culture (a CoC-effectiveness blog post),
+concepts/experiential-testing-training (resumes after summer break),
+and concepts/whole-team-testing (Mob Programming Guidebook readership
+milestones). At the user's explicit instruction, one serious
+entangled personal/professional thread involving a named collaborator
+(touching consent and a past relationship) was deliberately NOT
+documented this session — see the batch page's "Note on scope." No
+new entity or concept pages this batch.
+
+## [2026-09-21] ingest | 2018 Q4 (1131 posts, 774 after dropping retweets, final 2018 batch)
+Created batch page [[batches/2018-q4]] and 1 new entity page
+(mimmitkoodaa — a Finnish women's-coding initiative she starts teaching
+for this quarter). Added 2018-Q4 sections to 6 existing pages:
+entities/international-speaking (the speaking retirement nuances
+further — a second 2019 keynote, a booked 2019 circuit, a year-end
+tally that complicates the "cut back" story exactly as 2017's did),
+entities/eurotestingconf (201 collaboration calls; a rare admission
+her own conference isn't the fairest to organizers financially),
+concepts/management-transition (real reorg pressure met with defensive
+job-crafting; resumes university teaching after a decade),
+concepts/gender-in-tech ("privilege hires" reframe, #NotAGuy petition,
+real interruption-pattern data defending women-only spaces),
+concepts/whole-team-testing (a fourth Mob Programming anniversary, a
+second 15-yo trainee, a new "menders vs. makers" heuristic, a third
+book — Strong-Style Pairing — begins), and entities/family (daughter
+Emilia confirmed at 10). At the user's explicit instruction, the
+thread flagged out-of-scope in 2018-Q3 continues to appear at the
+start of this quarter and resolves per her own tweets in early
+October — it remains undocumented here per that same instruction. 2018
+is now fully ingested across both wikis.
+
 <!-- newest entries at the bottom -->

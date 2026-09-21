@@ -270,6 +270,65 @@ Representative posts:
 - https://twitter.com/maaretp/status/923474182133952513
 - https://twitter.com/maaretp/status/923604860951519233
 
+## 2018 Q2 — ApprovalTests, one pattern at a time — [[../batches/2018-q2|batch]]
+
+The **ApprovalTests** fascination (since 2016 Q2) gets a sharper
+articulation of what makes it work: "The idea of visually verifying in
+#ApprovalTests gets harder to grasp when not combined with control over
+how much to verify at once. Pattern at a time is so much easier than all
+at once" — control over granularity, not the tool itself, is the actual
+teaching challenge. Traces the technique concretely through Llewellyn
+Falco's Bowling Kata (visually verifying each TDD step) and the
+GildedRose kata with CombinationApprovals (verifying one item type/value
+at a time), landing on a general principle: "People do better with
+focus." Also closes a loop from 2017 Q4: delivering the No-Product-Owner
+talk publicly draws the familiar "you just had a bad product owner"
+pushback, which she reframes pointedly — "Really the problem is *me*
+and *likes of me* who refuse the box" — naming the resistance as
+structural rather than about any one bad hire.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1008079441292034048
+- https://twitter.com/maaretp/status/1009507886387679232
+
+## 2018 Q3 — the Guidebook keeps climbing — [[../batches/2018-q3|batch]]
+
+The **Mob Programming Guidebook** passes several milestones this
+quarter: 963 readers (270 paid, 693 free) by 23 August, 1010 by 15
+September, 1025 by 29 September — steady growth over two years since
+its first publication.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1032657914643849216
+- https://twitter.com/maaretp/status/1041037259368263684
+- https://twitter.com/maaretp/status/1045993669474570240
+
+## 2018 Q4 — a fourth anniversary, a second trainee, and a third book begins — [[../batches/2018-q4|batch]]
+
+Marks four years since first watching Woody Zuill's Mob Programming
+talk at [[../entities/tampere-goes-agile|Tampere Goes Agile]] — "Best
+decision of my life." The **Mob Programming Guidebook** keeps climbing
+(1044 → 1073 readers through the quarter). A second 15-year-old joins
+as a trainee in November, pairing from day one and finding "4 bugs I
+would not have recognized (or taken time for) without pairing with
+him" on day one alone. Develops a new personality heuristic for team
+dynamics — **menders vs. makers** — people who enjoy fixing/improving
+existing work versus building new, naming the invisibility menders
+share with testers: "Creating something is what people remember."
+Starts a third book at year's end, **Strong-Style Pairing**,
+self-published incrementally like the others — first version (20
+pages) published 26 December, already 34 pages by New Year's Eve —
+explicitly framed as self-reflection: "writing is the BEST form of
+self reflection on how I feel when pairing." See
+`../../personal/concepts/writing-a-book.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1056475325234905088
+- https://twitter.com/maaretp/status/1063149411683971072
+- https://twitter.com/maaretp/status/1060166142893924354
+- https://twitter.com/maaretp/status/1069148804816007169
+- https://twitter.com/maaretp/status/1078012356247150592
+
 ## 2018 Q1 — the No-PO experiment concludes — [[../batches/2018-q1|batch]]
 
 The 3-month [[../entities/f-secure|#NoPO experiment]] (started Q4 2017)

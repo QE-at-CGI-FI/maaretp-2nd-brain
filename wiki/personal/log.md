@@ -148,4 +148,46 @@ emoji-heavy with family and in women-only spaces). No updates to
 entities/family.md or concepts/career-direction.md — thin quarter for
 personal content overall.
 
+## [2026-09-21] ingest | 2018 Q2 (768 posts, 473 after dropping retweets), densest personal quarter since 2017 Q3
+Created batch page [[batches/2018-q2]]. Added 2018-Q2 sections to 3
+existing pages: concepts/career-direction (the career axis shifts to
+management for the first time since 2012, alongside a real planned
+family tradeoff — three fall conferences cancelled), concepts/
+self-understanding (a low point taking facilitation feedback as a new
+manager; a rare admission of projecting past experience with men onto
+an unrelated woman), and concepts/writing-a-book (the Exploratory
+Testing Book hits its Publish button). Most of this quarter's gender
+content is filed in `../testing/concepts/gender-in-tech.md` instead,
+consistent with prior quarters' split. No update to entities/family —
+nothing concrete enough surfaced.
+
+## [2026-09-21] ingest | 2018 Q3 (1513 posts, 1112 after dropping retweets), most direct self-work quarter since 2016
+Created batch page [[batches/2018-q3]]. Added 2018-Q3 sections to 3
+existing pages: concepts/self-understanding (finds a therapist, does
+sustained direct work processing anger, discloses a weight/health
+matter kept even from friends and a harassment-heavy university-years
+history), concepts/career-direction (resumes a long-paused Computer
+Science degree with special university permission), and
+concepts/writing-a-book (Exploratory Testing Book readership climbs
+245 → 279). At the user's explicit instruction, one serious entangled
+personal/professional thread involving a named collaborator (touching
+consent and a past relationship) was deliberately NOT documented this
+session — see the batch page's "Note on scope." No update to
+entities/family — nothing concrete surfaced beyond passing mentions.
+
+## [2026-09-21] ingest | 2018 Q4 (1131 posts, 774 after dropping retweets, final 2018 batch)
+Created batch page [[batches/2018-q4]]. Added 2018-Q4 sections to 4
+existing pages: concepts/career-direction (the Computer Science degree
+confirmed as a Master of Science program; a defensive job-crafting
+episode after reorg pressure), concepts/self-understanding (a quieter
+quarter than Q3 — outsized-influence self-observation, a musical-play
+callback), concepts/writing-a-book (a third book, Strong-Style
+Pairing, begins), and entities/family (daughter Emilia confirmed at
+10; conference cutbacks framed explicitly around the kids). At the
+user's explicit instruction, the thread flagged out-of-scope in
+2018-Q3 continues to appear at the start of this quarter and resolves
+per her own tweets in early October — it remains undocumented here
+per that same instruction. 2018 is now fully ingested across both
+wikis.
+
 <!-- newest entries at the bottom -->

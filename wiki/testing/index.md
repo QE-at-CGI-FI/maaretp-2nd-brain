@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2017 done, 2018 Q1 done, Q2– not started).
+See [[../progress]] for what's been ingested (2010–2018 done, 2019– not started).
 
 ## Entities
 
@@ -35,7 +35,8 @@ See [[../progress]] for what's been ingested (2010–2017 done, 2018 Q1 done, Q2
 - [[entities/teaching-kids-programming|Teaching Kids Programming / Hour of Code]] — AgileFinland initiative, reaches real scale 2014
 - [[entities/international-speaking|International Speaking Career]] — self-funded global conference circuit, takes off 2015
 - [[entities/eurotestingconf|EuroTestConf]] — her own conference, built as a #PayToSpeak-free alternative, launching Feb 2016
-- [[entities/f-secure|F-Secure]] — employer from Sept 2016, a return after ~7-8 years; previously at Granlund ~2012–2016
+- [[entities/f-secure|F-Secure]] — employer from Sept 2016, a return after ~7-8 years; previously at Granlund ~2012–2016; she becomes a manager there 2018-Q2
+- [[entities/mimmitkoodaa|MimmitKoodaa]] — Finnish women's-coding initiative, teaching for it from 2018-Q4
 
 ## Concepts
 
@@ -49,6 +50,8 @@ See [[../progress]] for what's been ingested (2010–2017 done, 2018 Q1 done, Q2
 - [[concepts/gender-in-tech|Gender in Tech/Testing]] — professional advocacy, sustained throughline from 2014
 - [[concepts/pay-to-speak|#PayToSpeak]] — sustained conference-fairness campaign, launched 2015-Q3
 - [[concepts/cdt-community-culture|CDT Community Culture]] — bullying/argument-culture critique, named directly for the first time 2016-Q2
+- [[concepts/management-transition|Management Transition]] — becomes a manager at F-Secure, 2018-Q2
+- [[concepts/experiential-testing-training|Experiential Exploratory Testing Training]] — a new sustained 1:1/small-group teaching practice, launched 2018-Q2
 
 ## Batches
 
@@ -70,3 +73,6 @@ See [[../progress]] for what's been ingested (2010–2017 done, 2018 Q1 done, Q2
 - [[batches/2017-q3|2017 Q3]] — 687 posts (450 after dropping retweets). EuroTestConf 2018 replaces the CFP with 120 individual collaboration calls; the Mob Programming Guidebook draws real publisher interest; a candid #SpeakerConfessions thread reveals the salary benefit of speaking despite her anti-#PayToSpeak advocacy.
 - [[batches/2017-q4|2017 Q4]] — 1035 posts (656 after dropping retweets), final 2017 batch. A named harassment scandal ("MrCreep") and extended CoC debate; the keynote-speaker goal finally achieved; a substantial privilege exchange with Woody Zuill reveals real origin-story detail; F-Secure runs a formal No-Product-Owner experiment.
 - [[batches/2018-q1|2018 Q1]] — 991 posts (692 after dropping retweets), first 2018 batch. EuroTestConf's biggest edition yet (Amsterdam, ~200 attendees); pay-to-speak hardens into real contract negotiation; a dense gender-in-tech quarter (a second awesome-testers list, a creepy response to wanting a girl intern, a named submission-fronting tactic); James Bach declines a proxy fight, confirming continued distance.
+- [[batches/2018-q2|2018 Q2]] — 768 posts (473 after dropping retweets). The most consequential identity quarter since the 2016 Bach conflict: she becomes a manager for the first time since 2012, and launches a new sustained teaching practice (Experiential Exploratory Testing Training); a sharp break with Michael Bolton over his enablement of Bach's behavior; a real, weighed cut to the autumn speaking schedule for family.
+- [[batches/2018-q3|2018 Q3]] — 1513 posts (1112 after dropping retweets), densest quarter yet. She retires from unpaid conference speaking and it actually holds this time; EuroTestConf 2019 scales up hugely (311 submissions, +60% YoY); the management transition turns a real corner and she resumes a long-paused Computer Science degree.
+- [[batches/2018-q4|2018 Q4]] — 1131 posts (774 after dropping retweets), final 2018 batch. The speaking retirement nuances further (a 2019 circuit booked, year-end tally complicates the "cut back" story again); a new entity, MimmitKoodaa; real reorg pressure on the management role; a third book, Strong-Style Pairing, begins.

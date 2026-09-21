@@ -219,6 +219,66 @@ thread this quarter.
 Representative posts:
 - https://twitter.com/maaretp/status/788989849109925888
 
+## 2018 Q2 — a management title, and choosing family over the autumn circuit — [[../batches/2018-q2|batch]]
+
+Two threads, both real shifts rather than stated-then-broken intentions:
+
+- **The career axis itself changes**: for the first time since 2012's
+  brief management "sidetrack," she moves back into management —
+  "senior manager" of two R&D teams at
+  `../../testing/entities/f-secure.md` — chosen partly through her own
+  team's say in the process. Unlike 2012, this isn't framed as a detour
+  from "real" testing work to correct later; see
+  `../../testing/concepts/management-transition.md` for the full
+  professional-side account, including how little changes day-to-day
+  and how much the scheduling/estimates conversations change.
+- **A real, costed family tradeoff**: cancels three fall conferences,
+  including a keynote, to focus on home — "One less established woman
+  on the speaker circles. TestBash Australia is my only conference in
+  the autumn" — and names the timeline as open-ended rather than a
+  single season: "conference break until my kids learn to learn
+  effectively." Distinct from 2016 Q2's single "chose quality of life
+  and family" decision — this one is planned in advance and named as a
+  cost to a cause (women's conference representation) she's spent years
+  building, not just to herself.
+
+Representative posts:
+- https://twitter.com/maaretp/status/993425516739821568
+- https://twitter.com/maaretp/status/991300735253008384
+- https://twitter.com/maaretp/status/997121533981200384
+
+## 2018 Q3 — resuming an old Computer Science degree — [[../batches/2018-q3|batch]]
+
+A concrete, unexpected life-development thread: "I'm going back to
+school with a special permission... Finishing my Computer Science
+degree" — she'd completed all but some math and physics requirements
+"back in the day" and gets permission to finish them now, decades later,
+on top of her existing work as manager, tester, and programmer.
+Professional-side note: the same quarter she engages seriously with
+management training for the first time, having "absolutely refused" it
+ten years earlier out of fear it would "destroy my tech career" — see
+`../../testing/concepts/management-transition.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1039484939635515392
+- https://twitter.com/maaretp/status/1039742196973486080
+
+## 2018 Q4 — the degree confirmed, and a defensive job-craft — [[../batches/2018-q4|batch]]
+
+Confirms the Computer Science degree resumed in Q3 is specifically a
+Master of Science program. The management role faces its first real
+external threat this quarter — introduced to several potential
+replacement managers for her team — and she responds by doubling down
+on shaping the role herself rather than letting it be redefined for
+her: "I accepted the fate I was pushed towards, and craft my job like
+crazy to make it still look mostly the same as before." See
+`../../testing/concepts/management-transition.md` for the
+professional-side detail.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1050240268212072450
+- https://twitter.com/maaretp/status/1078400547617718279
+
 ## 2017 Q1 — the commute cost, quantified — [[../batches/2017-q1|batch]]
 
 The Q4 2016 commute frustration gets a running tally: "10 hours less

@@ -1,0 +1,113 @@
+---
+tags: [concept]
+sources: [twitter]
+---
+
+# Management Transition
+
+## 2018 Q2 — becoming a manager — [[../batches/2018-q2|batch]]
+
+A real career-axis shift, not the brief "sidetrack" of 2012: on 7 May she
+confirms "I've changed jobs and become a 'senior manager' of two R&D
+teams" at [[../entities/f-secure|F-Secure]] — chosen partly through her
+own team's say in the process ("I hope my team isn't doomed for choosing
+me to become their manager. That was my interview today," 27 Apr). Two
+blog posts process it directly: "Changing jobs, setting goals" and,
+after the first fortnight, "Lessons Learned in First Two Weeks as a
+Manager."
+
+Power dynamics surface immediately: "It started already: 'You can't do
+that, it belongs to a self-organizing team' on stuff where I contributed
+ideas before being made manager. Power dynamics and you can never win."
+Her actual title, jokingly, is a downgrade in level — "I went from lead
+(above senior) to a senior. Retirement sounds like a good plan" — even
+as her scope grows fast, from one product to five, cutting one release
+process from three days to two hours.
+
+She's explicit the job itself changes less than expected: "Learning that
+there are few things I do differently as a manager vs. tester. I've job
+crafted heavily before and do now." Reaches for a definition of the role
+that keeps her skeptical of hierarchy rather than newly invested in it —
+"Manager I see as a convenience function that needs minimizing in
+context of a senior team" and "New definition of seniority: when in
+disagreement, resolve it instead of escalating to your manager." A
+recurring, specific irritant: the timesheet "approve" button, which she
+treats as bureaucratic theater rather than a real managerial act —
+"pressing one stupid approve button on people's hour reports drives me
+crazy," repeated calls to "remove that button" rather than just delegate
+clicking it.
+
+New scheduling accountability also pulls her into a real June dispute
+about estimates and predictability, run mostly with Woody Zuill,
+JariLaakso, and pr0mille: reconciling "needing to know schedule... so
+estimate" against what teams actually do, across "34 teams" now
+collaborating to deliver — landing not on a better estimation technique
+but on wanting the whole "game" to end: "I don't want to win in this
+game, I want the game to go away," capped by a blog, "Not looking for
+recipes of winning in a game but stopping the game."
+
+A real cost surfaces too, processing feedback as a facilitator rather
+than a tester — see `../../personal/concepts/self-understanding.md` for
+the personal-side account of the "just want to give up today" episode
+after consultants blamed her for a bad session.
+
+Representative posts:
+- https://twitter.com/maaretp/status/993425516739821568
+- https://twitter.com/maaretp/status/993512245127712768
+- https://twitter.com/maaretp/status/1001083875383169024
+- https://twitter.com/maaretp/status/1010897658402271233
+
+## 2018 Q3 — a real turn: she starts enjoying it — [[../batches/2018-q3|batch]]
+
+A genuine shift from Q2's resistance and grief ("Today I cried at work
+and I can't say why. Becoming a manager does not remove feelings")
+toward something closer to relief: "Why didn't anyone tell me this
+while I was resisting becoming a manager? I've done magic being just
+myself now that I'm an engineering manager." A new working rule follows
+from it — "always talk to people like you were a manager," realizing
+she'd been holding back requests she was entitled to make all along.
+The estimates/predictability thread from Q2 continues, now grounded in
+scale: "We interface with 34 teams. This means delay time always
+dominates lead time to release. Estimating makes little sense for us."
+Experiments both for and against process: a two-week daily-standup
+trial gets killed as not worth it ("I made it through the two weeks...
+that was not what we wanted"), while the timesheet-approval irritant
+persists unresolved ("I still hate the approve button"). The quarter's
+biggest personal-professional news: she resumes her long-paused
+**Computer Science degree** with special university permission,
+finishing coursework left incomplete decades ago — see
+`../../personal/concepts/career-direction.md` for the personal-side
+account.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1025392548834095104
+- https://twitter.com/maaretp/status/1039952612009889792
+- https://twitter.com/maaretp/status/1030340636476628993
+- https://twitter.com/maaretp/status/1039177082511806465
+- https://twitter.com/maaretp/status/1039484939635515392
+
+## 2018 Q4 — reorg pressure, and a sharper self-portrait as manager — [[../batches/2018-q4|batch]]
+
+A real threat to the role's stability surfaces: "Being introduced to
+half a dozen of potential other managers for my team and realizing I
+cannot let them ruin my life (or life of the people I work with). I
+accepted the fate I was pushed towards, and craft my job like crazy to
+make it still look mostly the same as before" — job crafting turns
+defensive, protecting the team from a reorg rather than just shaping
+her own role. A colleague's observation crystallizes how much she'd
+absorbed the identity: "until a few weeks ago, it was really hard to
+see the differences in what the tester-Maaret and the manager-Maaret
+were doing. Then I became a Jira-monster against my true beliefs, and
+the difference became clear." A new delegation principle: "I don't ask
+my team as a manager how long something will take. I ask when do they
+start. Can't finish something you're not actively working on." Resumes
+university teaching for the first time in over a decade — "Software
+Testing and Quality Assurance" at Aalto University — tied directly to
+finishing her Computer Science degree; see
+`../../personal/concepts/career-direction.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1078400547617718279
+- https://twitter.com/maaretp/status/1069572904323596288
+- https://twitter.com/maaretp/status/1071828353563414528
+- https://twitter.com/maaretp/status/1059906750273519628

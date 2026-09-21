@@ -7,8 +7,8 @@ tags: [index]
 Personal reflection, growth, and psychology synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
 See [[../progress]] for what's been ingested (2010: no personal content;
-2011–2017: thin at first, substantial by 2014; 2018 Q1 done, Q2– not
-started).
+2011–2017: thin at first, substantial by 2014; 2018 fully done, 2019–
+not started).
 
 ## Entities
 
@@ -39,3 +39,6 @@ started).
 - [[batches/2017-q3|2017 Q3]] — 687 posts (450 after dropping retweets). Biggest family-travel quarter yet — both kids get their own international conference trip; five younger siblings named for the first time; a named concept, "Burden of Evidence," for the cost of not being believed.
 - [[batches/2017-q4|2017 Q4]] — 1035 posts (656 after dropping retweets), final 2017 batch. The most severe version yet of her speaking-anxiety origin story (starting 2001, practicing past fainting), arriving at the keynote goal achieved this same quarter; the "Burden of Evidence" pattern recurs through an extended community dispute.
 - [[batches/2018-q1|2018 Q1]] — 991 posts (692 after dropping retweets), thin quarter for personal content. Getting glasses for the first time; noticing a code-switching pattern (more expressive/emoji-heavy with family and in women-only spaces).
+- [[batches/2018-q2|2018 Q2]] — 768 posts (473 after dropping retweets), densest personal quarter since 2017 Q3. Career direction shifts to management for the first time since 2012, alongside a planned family tradeoff (three fall conferences cancelled); a real low point taking facilitation feedback as a new manager; the Exploratory Testing Book hits Publish.
+- [[batches/2018-q3|2018 Q3]] — 1513 posts (1112 after dropping retweets), most direct self-work quarter since 2016. Finds a therapist and does sustained direct work on anger; discloses a weight/health matter kept even from friends and a harassment-heavy university history; resumes a long-paused Computer Science degree.
+- [[batches/2018-q4|2018 Q4]] — 1131 posts (774 after dropping retweets), final 2018 batch. Quieter for self-reflection than Q3; the degree is confirmed as a Master of Science program; a defensive job-crafting episode; a third book begins; daughter Emilia confirmed at 10.

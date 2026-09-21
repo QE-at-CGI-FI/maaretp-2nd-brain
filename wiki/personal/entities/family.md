@@ -217,3 +217,18 @@ named 2012, a sister named 2014).
 Representative posts:
 - https://twitter.com/maaretp/status/904349396418080768
 - https://twitter.com/maaretp/status/904042490013114376
+
+## 2018 Q4 — daughter's age confirmed, and conferences traded for kids — [[../batches/2018-q4|batch]]
+
+Confirms daughter Emilia is now 10 (let slip while joking about playing
+on her daughter's account online). A "bring your kid to work" day
+supplies a small, warm detail: "I've learned that I swear more than I
+thought." Frames the year's conference cutbacks explicitly in terms of
+the kids rather than just herself: "Cancelled half a dozen conferences
+and replaced myself with other awesome people. Changing to 'no' after a
+'yes' was hard but worth all the hugs from my kids."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1069966547010109442
+- https://twitter.com/maaretp/status/1065964039661072384
+- https://twitter.com/maaretp/status/1077490634687238145

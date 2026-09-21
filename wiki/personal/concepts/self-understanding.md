@@ -345,6 +345,86 @@ to keep making the same case.
 Representative posts:
 - https://twitter.com/maaretp/status/947165883754979329
 
+## 2018 Q2 — a low point taking feedback, and a moment of self-recognition — [[../batches/2018-q2|batch]]
+
+Two distinct pieces of direct self-work, both about how she handles
+being on the receiving end of criticism:
+
+- **A real low point**: consultants brought in to help her team give
+  feedback that a few "loud individuals (me) ruined a session for
+  everyone." Her first reaction is close to despair — "I feel there is
+  no way I can be right and just want to give up today 😢" — but she
+  works through it in the same thread rather than staying there,
+  choosing to treat the feedback as worth experimenting with even while
+  her instinct is to reject it as wrong, and naming the actual goal
+  plainly: "working on hearing everyone's voices — including mine."
+  Lands close to the new management responsibilities documented in
+  `../../testing/concepts/management-transition.md` — facilitation, not
+  testing, is where this sting comes from this quarter.
+- **A rare admission of projecting onto someone else**: cut off in an
+  ATM line by a woman who calls her racist for objecting, she's
+  initially puzzled, then reconsiders days later — "I wonder if I did
+  not see her and realize it's possible. That's what men do to me, and
+  I hate that I did that to someone." A small, specific instance of
+  naming her own reflexive wariness (built from years of being talked
+  over by men, see `../../testing/concepts/gender-in-tech.md`) as
+  something that can misfire onto someone who didn't deserve it.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1001338262106116097
+- https://twitter.com/maaretp/status/1001354839878750208
+- https://twitter.com/maaretp/status/1011144464730087425
+
+## 2018 Q3 — a therapist, direct anger work, and two disclosures — [[../batches/2018-q3|batch]]
+
+The most direct quarter of self-work since the mid-2016 stretch:
+
+- **Finds a therapist she gets along with** (9 Aug) — the first mention
+  of therapy in the archive — and their advice ("things must break so
+  that you can build something better in their place") recurs as a lens
+  she applies to herself through September.
+- **Anger, worked on directly rather than managed away**: "I have so
+  much anger and hatred in me. Any good advice how to process that?" (9
+  Aug), followed across the quarter by concrete coping steps (yoga,
+  meditation, swimming, family time) and a real shift in stance by
+  mid-September: "I stopped swallowing my anger under the flag of
+  'kindness' and so much is better now."
+- **A weight/health disclosure**: lost 35kg four years earlier "for
+  being sick" — a fact even most friends don't know — and names a
+  complicated relationship to compliments about it: praise for the
+  weight loss itself "did not feel like congratulating me for a job well
+  done, but like I wasn't accepted as I was before."
+- **A university-years disclosure**: prompted by a conversation about
+  not dating people met through professional/learning communities, she
+  names her own formative years (19–22, 2% women in her program) as
+  "awfully difficult" — constant belittling, always being asked first
+  about dating rather than work, and a specific "worst creep at uni" who
+  targeted women in the program repeatedly. Closes with "Now I'm older
+  and braver. Very different person than I was then."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1027582549017747460
+- https://twitter.com/maaretp/status/1027569204743028736
+- https://twitter.com/maaretp/status/1039231723341598720
+- https://twitter.com/maaretp/status/1027582101393158144
+- https://twitter.com/maaretp/status/1041388859790172161
+
+## 2018 Q4 — a quieter quarter, one sharp self-observation — [[../batches/2018-q4|batch]]
+
+After Q3's intensity, a lighter quarter for direct self-reflection. One
+notable thread: recognizing her own outsized influence as a potential
+problem rather than pure asset — "I never realized that my personal
+characteristics could block other people's career progression. I find
+'be like Maaret' unacceptable" — while trying to define what
+individual-contributor tester seniority could look like instead of her
+own template. A small, warm callback to an old identity: producing a
+musical stage play "some 20 years ago" resurfaces as she realizes she's
+"again a producer, now of conferences."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1073101949938081793
+- https://twitter.com/maaretp/status/1065477378917449729
+
 ## 2018 Q1 — glasses, and a code-switching detail — [[../batches/2018-q1|batch]]
 
 Two small, concrete details. First, vision: "5th day with glasses and I

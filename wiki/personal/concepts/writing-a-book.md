@@ -54,3 +54,48 @@ content this book draws on.
 
 Representative posts:
 - https://twitter.com/maaretp/status/824722658751287298
+
+## 2018 Q2 — the Exploratory Testing Book hits Publish — [[../batches/2018-q2|batch]]
+
+A concrete production milestone for the solo book started 2017 Q1: "It
+helps to make what one wrote visible #ExploratoryTestingBook - now with
+Publish -button pressed!" Timed deliberately alongside narrowing her
+conference commitments (see
+`../../testing/entities/international-speaking.md`) — she adds new text
+to it the same week she names "four conferences before I'm out the
+scene," treating the book as where the freed-up time and focus goes.
+The professional-side content, and the new teaching practice it now
+draws directly from, are in
+`../../testing/concepts/whole-team-testing.md` and the new
+`../../testing/concepts/experiential-testing-training.md` page.
+
+Representative posts:
+- https://twitter.com/maaretp/status/997515570353508353
+- https://twitter.com/maaretp/status/997121533981200384
+
+## 2018 Q3 — readership keeps climbing — [[../batches/2018-q3|batch]]
+
+Steady, unremarked growth: 245 readers by 6 August, 279 by 15 September.
+No new chapters or structural changes noted this quarter — just
+continued incremental additions alongside her other writing.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1026510031146151939
+- https://twitter.com/maaretp/status/1040883980390858752
+
+## 2018 Q4 — a third book begins — [[../batches/2018-q4|batch]]
+
+The Exploratory Testing Book passes 325 copies sold. A new, third book
+starts at year's end: **Strong-Style Pairing**, growing out of years of
+conference material and blog posts on the driver-navigator pairing
+style — first version (20 pages) published 26 December as a Christmas
+project, already 34 pages by New Year's Eve. Names directly why she
+keeps doing this: "writing is the BEST form of self reflection on how I
+feel when pairing, and a great conversation starter." Professional-side
+content in `../../testing/concepts/whole-team-testing.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1068791117217452032
+- https://twitter.com/maaretp/status/1076970872639029251
+- https://twitter.com/maaretp/status/1078012356247150592
+- https://twitter.com/maaretp/status/1079742256356225025

@@ -82,3 +82,28 @@ Representative posts:
 - https://twitter.com/maaretp/status/163280801507721217
 - https://twitter.com/maaretp/status/164787038825086976
 - https://twitter.com/maaretp/status/256837406609797121
+
+## 2018 Q3 — a prolific writing stretch — [[../batches/2018-q3|batch]]
+
+Close to a dozen blog posts in three months, each refining the concept
+from a slightly different angle rather than repeating the same ground:
+"Refining a 34 Year Old Practice," "There's Such a Thing as Low Quality
+Exploratory Testing," "The Line Between Exploratory Testing and
+Managing It," "Going Meta: Writing an Article about What is Exploratory
+Testing," and "Three Kinds of Testing" among them. The
+automation-vs-exploring debate that's run since 2016 sharpens into a
+clean rejection of the dichotomy itself, in a sustained exchange with
+@CuriousAgilist: "What separates those two now is a belief in
+pre-made choice of opportunity cost" — automation code gets explored
+just as much as an application does, "like an invitation to explore"
+when a script fails unexpectedly. Also names a sharper distinction
+between exploratory testing and *managing* it (sessions, scopes,
+debriefs) — the label describes the thinking, not the management
+layer wrapped around it.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1022735208653758464
+- https://twitter.com/maaretp/status/1024008013135458312
+- https://twitter.com/maaretp/status/1024033765146992642
+- https://twitter.com/maaretp/status/1038127527208923136
+- https://twitter.com/maaretp/status/1019462639267786752

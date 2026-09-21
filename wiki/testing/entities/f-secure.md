@@ -95,6 +95,22 @@ Representative posts:
 - https://twitter.com/maaretp/status/925452062279729154
 - https://twitter.com/maaretp/status/932597313008295936
 
+## 2018 Q2 — becomes a manager — [[../batches/2018-q2|batch]]
+
+She moves from Lead Quality Engineer into management: "senior manager"
+of two R&D teams, chosen partly via her own team's say in the interview
+process. The full account — power-dynamics friction, the
+timesheet-approval irritant, and the estimates/predictability debate
+that comes with new scheduling accountability — is in the new
+[[../concepts/management-transition|Management Transition]] concept
+page. Scope grows fast: from leading one product to overseeing release
+cycles across five, cutting one release process from three days to two
+hours.
+
+Representative posts:
+- https://twitter.com/maaretp/status/993425516739821568
+- https://twitter.com/maaretp/status/1001823158591213568
+
 ## 2017 Q2 — Poznan confirmed, a 15-year-old joins the team — [[../batches/2017-q2|batch]]
 
 The Q1 hint of a Poland-based teammate is now explicit: "my teams in

@@ -324,6 +324,113 @@ Representative posts:
 - https://twitter.com/maaretp/status/942015677929611264
 - https://twitter.com/maaretp/status/942128738992644097
 
+## 2018 Q2 — travel safety, mansplaining named structurally, and a management-title backlash — [[../batches/2018-q2|batch]]
+
+A busy quarter across several registers:
+
+- **Conference travel safety**: shares "the story of how I ended up
+  sharing room with 5 strangers (men) while traveling for a conference.
+  That's what I get for booking services defining my gender based on
+  name" — a booking system's name-based gender inference put her in a
+  shared room with strange men; she'd expected to share a room, "just
+  not with men." Also names booth babes recurring at "at least one
+  testing conference" she'd thought the industry was past.
+- **Mansplaining/manterrupting named structurally**, in a sustained
+  exchange with @AQAguy/@rosiesherry/@ministryoftest (29 May): "White
+  men typically say unkind things. There's a reason why concepts of
+  mansplaining and manterrupting exist. It's structural," pushing back
+  on "not all men" as deflection: "Saying people misbehave in a
+  particular way when those people are white men who don't identify
+  they're behaving badly, why would it help hiding them." A day later,
+  with @adrian_coroi, adds an intersectional note not made this
+  explicitly before: men of color, as an industry minority themselves,
+  don't show the same pattern — "Many white men don't and expect
+  minority groups explain them."
+- **A management-title backlash**: within weeks of her promotion (see
+  [[management-transition]]), "As I updated my work title to 'manager'
+  in LinkedIn, two men emerged assuming I don't know my job and told me
+  how to do it better. It's hard not to see a pattern." A concrete,
+  real-time instance of the credibility gap she's named abstractly in
+  prior quarters.
+- Defends her own blog as a personal, not academic, space against men
+  telling her what she should be writing about instead (the
+  @ReggieMoto/@LlewellynFalco/@Grady_Booch/@sarahmei thread, 6 May) —
+  names her Twitter bubble directly as "70% women and so lovely," and
+  connects it to why she joined the platform in the first place, not
+  identity performance.
+- A smaller, sharper aside: "Getting tired of folks who assume I'm man
+  as if women don't exist" while gaming online — the same default-male
+  assumption showing up outside professional contexts too.
+- **Women in Testing Slack** named as a positive counter-example: "how
+  nicely people still talk to each other... Communication styles are
+  gendered" — the recurring point that women-dominated spaces read
+  differently, offered as evidence rather than just preference.
+
+Representative posts:
+- https://twitter.com/maaretp/status/994051886113345536
+- https://twitter.com/maaretp/status/992107109658611712
+- https://twitter.com/maaretp/status/1001318893934268417
+- https://twitter.com/maaretp/status/1010420654896709633
+
+## 2018 Q3 — "the lowest difficulty setting I never get to play on" — [[../batches/2018-q3|batch]]
+
+- **A sharp new formulation** of the structural-disadvantage theme she's
+  named for years: "I'm sick of the world where my gender is a handicap.
+  The only way to not feel crushed by this is to aim lower... white male
+  is the lowest difficulty setting I never get to play on."
+- **A "too emotional" incident**, 25 years in: "I think that after 25
+  years of professional experience, I finally nailed the feedback about
+  me being too emotional. It still stings that people consider my
+  strength a negative" — a direct instance of the pattern named
+  abstractly in earlier quarters (loudness, "Burden of Evidence"), this
+  time tied to a specific workplace meeting.
+- **Mansplaining and Codes of Conduct**: "Code of conduct never stopped
+  anyone mansplaining to me and I don't think stopping it has been a
+  major part of them. This is a pattern so common that we don't think of
+  it as bad behavior. Instead we teach women techniques to respond /
+  dismiss the behavior." See [[cdt-community-culture]] for the same
+  quarter's CoC-effectiveness blog post.
+- **Mirroring gendered address**: "Try greeting the group as 'hey
+  ladies' and maybe then some folks will understand how those of us
+  always feel who don't identify with guys" — and continued, deliberate
+  non-binary pronoun practice ("everyone," "folks," "y'all," "they"),
+  with an explicit admission she still struggles with being corrected on
+  it.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1025692028603166720
+- https://twitter.com/maaretp/status/1028205180720959488
+- https://twitter.com/maaretp/status/1023214036203257857
+- https://twitter.com/maaretp/status/1014420565124374528
+
+## 2018 Q4 — "privilege hires," and hard data on being talked over — [[../batches/2018-q4|batch]]
+
+- **"Diversity hires" reframed sharply**: "Any men telling women they
+  are 'diversity hires' should really start with understanding that are
+  'privilege hires'. Have you ever thought about how many things you
+  get just because of your gender without having to work extra for it?"
+- Signs the **#NotAGuy petition** (targeting major dictionaries over
+  "guys" as gender-neutral) and keeps naming the pattern of being made
+  a platform for men: "Twitter is funny. It is teaching me that
+  whatever I say serves as platform for a man to say something better
+  and get likes from other men."
+- **A sustained defense of the #WiT (Women in Testing) Slack** against
+  "exclusionary space" criticism, backed with real data for the first
+  time — apps measuring gendered speaking patterns show women's voices
+  "dominate" at just 30%, and interruptions read as "positive tone,
+  they just say it better." Names the structural point precisely: "It's
+  not about how the lovely men I talk to behave. It's how other people
+  see the man and make me invisible."
+- Praises a male colleague taking equal sick-kid days as changing the
+  hiring risk calculus for women: "With men like him around, it stops
+  being a risk associated with women."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1062388282015793152
+- https://twitter.com/maaretp/status/1056393916134682624
+- https://twitter.com/maaretp/status/1057936152928419841
+- https://twitter.com/maaretp/status/1063095085913530370
+
 ## 2018 Q1 — a second awesome-testers list, a creepy response, and a hardened line on "guys" — [[../batches/2018-q1|batch]]
 
 A dense quarter for this theme:
