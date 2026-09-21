@@ -145,4 +145,23 @@ concepts/gender-in-tech (a sustained public dispute with @paul_gerrard;
 diversity charter signed), and concepts/whole-team-testing (Guidebook
 passes 380 readers, #testgems launches, first keynote lands).
 
+## [2026-09-21] ingest | 2016 Q4 (1074 posts, 708 after dropping retweets, final 2016 batch)
+Created batch page [[batches/2016-q4]]. Added 2016-Q4 sections to 8
+existing pages: entities/james-bach (TMAcad aftermath runs hot for a
+week — a copyright threat, a mid-keynote heckle — then he doesn't
+reappear in the archive this quarter), concepts/cdt-community-culture
+(she declines to frame the pattern as gendered, names her actual
+spending-limit on the conflict), concepts/tester-identity (settles into
+a plain, unarguable definition: "hired as one"), concepts/pay-to-speak
+(a self-aware close to the year naming her own privilege),
+concepts/whole-team-testing (Guidebook passes 397 readers, a new peer
+conference planned with @Maaikees), concepts/gender-in-tech
+(intersectionality — gender + introversion — named directly for the
+first time), entities/international-speaking (a 59-talks/33-topics
+tally for 2015-2016), and entities/f-secure (the job change's first
+real cost: 10 lost commute hours/week). Also a short note added to
+entities/eurotestingconf (closing the second organizing cycle). 2016 is
+now fully ingested across both wikis — the wiki's most eventful year
+yet.
+
 <!-- newest entries at the bottom -->

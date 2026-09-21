@@ -248,3 +248,24 @@ Representative posts:
 - https://twitter.com/maaretp/status/781216249678364672
 - https://twitter.com/maaretp/status/781218424898936832
 - https://twitter.com/maaretp/status/760502428169109504
+
+## 2016 Q4 — the extrovert/introvert tension resurfaces, named more precisely — [[../batches/2016-q4|batch]]
+
+At TestBash Philadelphia, the extrovert/introvert contradiction first
+noted in 2011 and restated in 2014 ("professional me tends to be very
+different from private me") gets its most concrete treatment yet: "I'm
+supposed to be an extrovert (energy from people around me) but I
+recognize myself from most stuff" a talk on introvert experience
+describes — leading to a blog post, "Ruining the life of an introvert."
+She also names a compounding effect for the first time — gender and
+introversion together, not separately: "Being 1:30 [women in the room]
+leaves me thinking of the emotional load of being different. With my
+gender, that's two things to carry," and "for me it's about the 1000
+paper cuts where ever I'm minority." See
+`../../testing/concepts/gender-in-tech.md` for the professional-context
+version of the same observation.
+
+Representative posts:
+- https://twitter.com/maaretp/status/796834013927407616
+- https://twitter.com/maaretp/status/797067276214292480
+- https://twitter.com/maaretp/status/797118932922626048

@@ -87,3 +87,16 @@ Representative posts:
 - https://twitter.com/maaretp/status/776279670807470080
 - https://twitter.com/maaretp/status/779203464966574080
 - https://twitter.com/maaretp/status/752511982155272192
+
+## 2016 Q4 — final stretch before the Helsinki edition — [[../batches/2016-q4|batch]]
+
+Closing out a second year of organizing (Feb 8, 2017 date confirmed,
+pre-conference trainings including her own full-day MobTesting course)
+with the same practical accommodations as before: offering to invoice
+early-bird tickets in January for people blocked by year-end purchasing
+freezes. She names finishing this cycle explicitly as "closing yet
+another year's work on our conference."
+
+Representative posts:
+- https://twitter.com/maaretp/status/804208245078376448
+- https://twitter.com/maaretp/status/790477872842637312

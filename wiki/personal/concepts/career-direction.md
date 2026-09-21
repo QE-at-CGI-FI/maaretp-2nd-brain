@@ -204,3 +204,17 @@ Representative posts:
 - https://twitter.com/maaretp/status/749311119706259457
 - https://twitter.com/maaretp/status/767957283913564160
 - https://twitter.com/maaretp/status/776117686065631233
+
+## 2016 Q4 — the new job's first real cost — [[../batches/2016-q4|batch]]
+
+The F-Secure move (Q3) gets its first concrete downside this quarter:
+"The ten lost hours for commute after change of jobs is getting to me. I
+used to do miracles with those hours" — see
+`../../testing/entities/f-secure.md`. A small, telling detail against
+the "they found me, I wasn't looking" framing from Q3: the practical
+adjustment (organizing her time differently) is still unresolved by
+year's end. No further movement on the (likely abandoned) US-relocation
+thread this quarter.
+
+Representative posts:
+- https://twitter.com/maaretp/status/788989849109925888

@@ -178,3 +178,18 @@ Representative posts:
 - https://twitter.com/maaretp/status/781728868063412224
 - https://twitter.com/maaretp/status/781844810193838080
 - https://twitter.com/maaretp/status/781735270798520320
+
+## 2016 Q4 — landing on a plain, practical definition — [[../batches/2016-q4|batch]]
+
+After the year's sharpest identity fights, she settles — at least for
+now — on a definition stripped of philosophy: "The thing that makes me a
+tester is that I am hired as one. The thing that makes me good is that I
+learn a little every day," and, separately, "I know I'm a tester when I
+take so much pleasure out of figuring out ways the product doesn't
+work." Neither claims apply to role, hours, or anyone else's
+recognition — a deliberately unarguable ground to stand on after a year
+spent defending the label against exactly that kind of argument.
+
+Representative posts:
+- https://twitter.com/maaretp/status/795483269957636096
+- https://twitter.com/maaretp/status/786505427911479296

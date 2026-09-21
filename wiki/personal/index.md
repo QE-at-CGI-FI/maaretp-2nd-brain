@@ -7,12 +7,11 @@ tags: [index]
 Personal reflection, growth, and psychology synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
 See [[../progress]] for what's been ingested (2010: no personal content;
-2011–2015: thin at first, substantial by 2014; 2016 Q1–Q3 done, Q4– not
-started).
+2011–2016: thin at first, substantial by 2014; 2017– not started).
 
 ## Entities
 
-- [[entities/family|Family]] — two kids (son starts school 2014, daughter codes by 2014), a brother, a sister (named 2014), her mother's influence on her relationship to planning
+- [[entities/family|Family]] — two kids (son starts school 2014, daughter named Emilia 2016-Q4), a brother, a sister (named 2014), her mother's influence on her relationship to planning, a partner first mentioned 2015-Q4
 
 ## Concepts
 
@@ -33,3 +32,4 @@ started).
 - [[batches/2016-q1|2016 Q1]] — 791 posts (467 after dropping retweets), thin quarter for personal content; career-direction moves from stated intent to logistics (relocation prep); privilege recurs three times as a personal self-reflection lens.
 - [[batches/2016-q2|2016 Q2]] — 1183 posts (817 after dropping retweets). A real, unexplained job decision ("chose quality of life and family"); son joins her at an international conference for the first time; the most direct self-work quarter yet, including the first confirmation that the 2014 Bach block genuinely hurt.
 - [[batches/2016-q3|2016 Q3]] — 1121 posts (775 after dropping retweets). Career-direction resolves (new job at F-Secure) and the long US-relocation thread appears to quietly die; social anxiety named directly for the first time; a rare public low point over her writing.
+- [[batches/2016-q4|2016 Q4]] — 1074 posts (708 after dropping retweets). Her daughter is named for the first time in the whole archive (Emilia, 7); the introvert/extrovert tension since 2011 gets its most concrete treatment yet; the new job's first real cost (commute time) surfaces.

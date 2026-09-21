@@ -95,4 +95,14 @@ year (James Bach) runs through this quarter — see
 `../testing/entities/james-bach.md` and
 `../testing/concepts/cdt-community-culture.md`.
 
+## [2026-09-21] ingest | 2016 Q4 (1074 posts, 708 after dropping retweets, final 2016 batch)
+Created batch page [[batches/2016-q4]]. Added 2016-Q4 sections to
+entities/family.md (her daughter named for the first time in the whole
+archive — Emilia, 7 — plus two smaller follow-ups), concepts/self-
+understanding.md (the introvert/extrovert tension since 2011 gets its
+most concrete treatment yet, plus a new gender+introversion
+intersectionality observation), and concepts/career-direction.md (the
+F-Secure move's first real cost: 10 lost commute hours/week). 2016 is
+now fully ingested across both wikis.
+
 <!-- newest entries at the bottom -->

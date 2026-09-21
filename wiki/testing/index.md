@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2015 done, 2016 Q1–Q3 done, Q4– not started).
+See [[../progress]] for what's been ingested (2010–2016 done, 2017– not started).
 
 ## Entities
 
@@ -64,3 +64,4 @@ See [[../progress]] for what's been ingested (2010–2015 done, 2016 Q1–Q3 don
 - [[batches/2016-q1|2016 Q1]] — 791 posts (467 after dropping retweets). EuroTestConf runs and delivers honorariums; #PayToSpeak provokes a real disagreement with Michael Bolton; the "settled" James Bach relationship and the intent to slow down speaking both turn out to have been premature reads.
 - [[batches/2016-q2|2016 Q2]] — 1183 posts (817 after dropping retweets), densest quarter yet. James Bach disputes whether she qualifies as a tester at all; a bullying/argument-culture critique of the CDT community is named directly for the first time; checking-vs-testing and tester-identity functionally merge into one fight.
 - [[batches/2016-q3|2016 Q3]] — 1121 posts (775 after dropping retweets). The heaviest conflict quarter yet: James Bach publicly attacks her at a conference talk, new block/unblock history surfaces, and a painful fight breaks out over public vs. private responses to bad community behavior. A real job change: Granlund (named for the first time) to F-Secure.
+- [[batches/2016-q4|2016 Q4]] — 1074 posts (708 after dropping retweets). The Bach conflict's aftermath runs hot for a week, then cools for good this year; tester-identity settles into a plain, unarguable definition; pay-to-speak closes the year with self-aware humility about her own privilege. 2016 closes as the wiki's most eventful year yet.

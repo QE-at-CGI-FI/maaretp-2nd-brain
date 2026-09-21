@@ -246,3 +246,28 @@ Representative posts:
 - https://twitter.com/maaretp/status/752284904075956224
 - https://twitter.com/maaretp/status/780877622523863041
 - https://twitter.com/maaretp/status/781844275445325825
+
+## 2016 Q4 — the aftermath, then a real cooldown — [[../batches/2016-q4|batch]]
+
+The TMAcad fallout runs hot through the first week of October — new
+detail surfaces that during her own keynote there, he interrupted with
+"aha, you just said you're not a tester," the only thing he said during
+the whole talk — then he threatens copyright infringement over people
+tweeting his slide. She posts a formal response on her own blog and
+(pending moderation) as a comment on his. A parallel debate with
+@LaikaTestDog/@DawnMHaynes pushes her to frame the pattern as gendered;
+she resists that framing directly — "I've been told I'm not a tester by
+men in both camps often enough to realize bad behavior is not limited to
+James," and, notably, "I've wanted to quit the industry for agilists
+making me feel like I don't belong but never for James" — naming a
+*different* community as the one that's actually made her consider
+leaving. After the first week of October, Bach doesn't appear in the
+archive again this quarter — a real cooldown after the year's worst
+stretch, not just a lull between flare-ups like 2015's pattern. See
+[[../concepts/cdt-community-culture]] for how this resolves into her
+settled position on the underlying disagreement.
+
+Representative posts:
+- https://twitter.com/maaretp/status/782343598469746688
+- https://twitter.com/maaretp/status/782365145070702596
+- https://twitter.com/maaretp/status/782366015992791040

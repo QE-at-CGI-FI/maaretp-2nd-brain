@@ -171,3 +171,20 @@ unrelated Twitter dispute.
 Representative posts:
 - https://twitter.com/maaretp/status/778465303973945344
 - https://twitter.com/maaretp/status/771741223505825792
+
+## 2016 Q4 — the daughter is named for the first time — [[../batches/2016-q4|batch]]
+
+A first in the whole archive: her daughter is named directly —
+**Emilia, 7 years old** — crediting her with the artwork used in a
+conference-talk slide ("The author of my wonderful images is my
+daughter Emilia"). Two smaller, warm follow-ups: she tries Python with
+Emilia after Hour-of-Code Minecraft/Blockly work, finding traditional
+syntax "boring" by comparison; and a comment from Emilia (about a
+"fixed mindset") lands as a small parenting win — "that coming out of my
+daughter's mouth is an accomplishment of its own." The son remains
+unnamed.
+
+Representative posts:
+- https://twitter.com/maaretp/status/795957475430305792
+- https://twitter.com/maaretp/status/804028599770742784
+- https://twitter.com/maaretp/status/811978076036993024

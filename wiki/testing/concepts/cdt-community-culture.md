@@ -78,3 +78,24 @@ Representative posts:
 - https://twitter.com/maaretp/status/752289416085966848
 - https://twitter.com/maaretp/status/756233596944474113
 - https://twitter.com/maaretp/status/781734889024544768
+
+## 2016 Q4 — declining the gendered framing, then investing elsewhere — [[../batches/2016-q4|batch]]
+
+Early October carries the TMAcad aftermath (see
+[[../entities/james-bach]]), including a debate with @LaikaTestDog and
+@DawnMHaynes over whether to read Bach's pattern of behavior as
+specifically about women. She pushes back: "This is not about women,
+imho. It's about competition," and "it is most of all, in my view, about
+fear. Fear of a wasted life." She names her actual limit plainly — "I'm
+not sure there is enough for me to gain from investing that time on him.
+I rather coach 10 new speakers with the investment" — choosing where her
+energy goes rather than continuing to litigate the disagreement. After
+the first week of October, the conflict itself goes quiet for the rest
+of the quarter; her energy visibly redirects into #testgems, SpeakEasy
+mentoring, and a new peer conference planned with @Maaikees for March
+2017.
+
+Representative posts:
+- https://twitter.com/maaretp/status/782312744766828544
+- https://twitter.com/maaretp/status/782313063320084481
+- https://twitter.com/maaretp/status/782367945104162816

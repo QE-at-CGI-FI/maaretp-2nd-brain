@@ -143,3 +143,15 @@ Representative posts:
 - https://twitter.com/maaretp/status/757583238105890816
 - https://twitter.com/maaretp/status/758736616722542592
 - https://twitter.com/maaretp/status/780718274753490944
+
+## 2016 Q4 — the tally, and 2017 already filling up — [[../batches/2016-q4|batch]]
+
+A discussion at TestBash prompts an actual count: "59 talks of 33
+topics" across 2015–2016 — a number that surprises her when said aloud.
+Already booking into next year: Agile2017 (US) confirmed in December.
+Closes the year having attended TestBash Philadelphia, #aadays2016
+(Warsaw), and #AgileTD, on top of the quarter's conflict-heavy October.
+
+Representative posts:
+- https://twitter.com/maaretp/status/796892646446927872
+- https://twitter.com/maaretp/status/806612073228750852

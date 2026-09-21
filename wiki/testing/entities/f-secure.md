@@ -37,3 +37,19 @@ Representative posts:
 - https://twitter.com/maaretp/status/767957283913564160
 - https://twitter.com/maaretp/status/776117686065631233
 - https://twitter.com/maaretp/status/776806527533518848
+
+## 2016 Q4 — a real cost surfaces — [[../batches/2016-q4|batch]]
+
+The "they found me" framing from Q3 gets a first concrete downside:
+"The ten lost hours for commute after change of jobs is getting to me. I
+used to do miracles with those hours" — the F-Secure move brought back a
+commute after years without one (she'd mentioned, in 2016 Q2, going four
+years with none at Granlund, worth roughly 5 extra hours a week). The
+team's C++/Python stack also pushes her into becoming
+**polyglot** — she'd worked in 13 languages by her own count (2016-Q2)
+but names this as qualitatively different, wanting to "talk with a
+linguist" about the cognitive switching cost.
+
+Representative posts:
+- https://twitter.com/maaretp/status/788989849109925888
+- https://twitter.com/maaretp/status/811890157586698242

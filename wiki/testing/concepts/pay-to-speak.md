@@ -103,3 +103,20 @@ Representative posts:
 - https://twitter.com/maaretp/status/758645623830831108
 - https://twitter.com/maaretp/status/779631393924153344
 - https://twitter.com/maaretp/status/758718985164775424
+
+## 2016 Q4 — a self-aware close to the year — [[../batches/2016-q4|batch]]
+
+Closes the year's advocacy with an unusually self-critical post: "Hat
+tip to all people who make it as international conference speakers with
+less privilege than what I have" — naming her own position (Finnish,
+employed, well-connected) as itself a form of the advantage she's spent
+two years campaigning to reduce for others. Restates the core claim once
+more, plainly: "Speaking is work that should be paid for, not pay for."
+Also makes an equity distinction sharper than before: free conference
+*access* only helps people who can also afford the travel and the time
+away from work — a two-part cost, not one.
+
+Representative posts:
+- https://twitter.com/maaretp/status/814771223112613888
+- https://twitter.com/maaretp/status/814714191298854912
+- https://twitter.com/maaretp/status/814730850289991680

@@ -221,3 +221,21 @@ Representative posts:
 - https://twitter.com/maaretp/status/770187947643666436
 - https://twitter.com/maaretp/status/778962001519382530
 - https://twitter.com/maaretp/status/770335728798670848
+
+## 2016 Q4 — intersectionality named directly — [[../batches/2016-q4|batch]]
+
+A new, more precise self-observation at TestBash Philadelphia: "Being
+1:30 [women in a large room] leaves me thinking of the emotional load of
+being different. With my gender, that's two things to carry" and "for me
+it's about the 1000 paper cuts where ever I'm minority" — naming gender
+and introversion (see
+`../../personal/concepts/self-understanding.md`) as compounding, not
+separate, burdens for the first time. Continues defending women-only
+spaces directly to skeptics ("I need women-only spaces even more as a
+developer") and, in a lighter register, gets a diversity ticket to a C++
+conference for being a woman who works with C++ developers.
+
+Representative posts:
+- https://twitter.com/maaretp/status/797118932922626048
+- https://twitter.com/maaretp/status/797120218954891265
+- https://twitter.com/maaretp/status/793754200727494656

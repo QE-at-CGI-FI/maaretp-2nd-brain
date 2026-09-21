@@ -187,3 +187,21 @@ Representative posts:
 - https://twitter.com/maaretp/status/758308992561086464
 - https://twitter.com/maaretp/status/767782492891906050
 - https://twitter.com/maaretp/status/773875009894879232
+
+## 2016 Q4 — a peer conference planned, teaching-kids scales up — [[../batches/2016-q4|batch]]
+
+The **Mob Programming Guidebook** passes 397 readers. She and @Maaikees
+plan a new **two-day peer conference "away from meta"** for March 2017
+in Amsterdam — testing and reflecting together, not talking about
+testing in the abstract. [[../entities/teaching-kids-programming|Teaching
+kids programming]] scales further at her new workplace: a 30-kid
+Hour-of-Code Minecraft session using strong-style pairing to involve
+both kids in each pair, growing out of her own kids being off school —
+"me teaching my kids has a tendency of growing... this time to 30 kids."
+Onboarding at [[../entities/f-secure|F-Secure]] continues via
+#MobProgramming for learning Python as a team.
+
+Representative posts:
+- https://twitter.com/maaretp/status/785916042069549057
+- https://twitter.com/maaretp/status/784703944622796800
+- https://twitter.com/maaretp/status/805736869413744640
