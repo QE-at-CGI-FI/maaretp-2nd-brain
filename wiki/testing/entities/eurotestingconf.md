@@ -100,3 +100,19 @@ another year's work on our conference."
 Representative posts:
 - https://twitter.com/maaretp/status/804208245078376448
 - https://twitter.com/maaretp/status/790477872842637312
+
+## 2017 Q1 — third edition delivered in Helsinki — [[../batches/2017-q1|batch]]
+
+Runs Feb 8–10 in Helsinki as planned — four keynotes (one, @NativeWired,
+newly recruited off a strong TestBash showing), a speakers' dinner, an
+in-person smiley-feedback app collecting live session ratings, and a
+single end-of-conference retrospective instead of per-session ones.
+"Conference, delivered. Paperwork up next." Immediately starts thinking
+about 2018 keynotes before this edition's admin is even finished —
+organizing has become a year-round, continuous cycle rather than a
+once-a-year sprint.
+
+Representative posts:
+- https://twitter.com/maaretp/status/830132026137313280
+- https://twitter.com/maaretp/status/831032728606875648
+- https://twitter.com/maaretp/status/847054263230627840

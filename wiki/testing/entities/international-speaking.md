@@ -155,3 +155,29 @@ Closes the year having attended TestBash Philadelphia, #aadays2016
 Representative posts:
 - https://twitter.com/maaretp/status/796892646446927872
 - https://twitter.com/maaretp/status/806612073228750852
+
+## 2017 Q1 — another stated slowdown, immediately contradicted, and a decade-old local wound — [[../batches/2017-q1|batch]]
+
+Opens the year with the same kind of stated intent that's never quite
+held before: "My 2017 focus is to get as many new speakers start as I
+did talks in 2016. Less journeying, more mentoring," and "I like my work
+so much that I don't feel like being in conferences. Good thing I have
+less commitments for 2017." The quarter's actual travel says otherwise:
+UKSTAR (London) and Swiss Testing Day keynotes, Barcelona TestAcademy,
+Agile & Automation Days (Poland), plus [[eurotestingconf|EuroTestConf]]
+itself. A separate, sharper thread surfaces for the first time: "It's
+the time of year when I think of giving up on testing community. 10th
+year of losing the Finnish Tester of the Year vote" — a full decade of
+being nominated and not winning a *local* recognition, despite strong
+international standing (an earlier MIATPP win elsewhere didn't feel
+deserved either — "I felt I wasn't worthy"). She names the coping
+pattern directly: "I can only learn to emotionally withdraw to not be
+hurt" — and connects it to a broader shift already underway, contributing
+more internationally than locally. See
+`../../personal/concepts/self-understanding.md` for the personal-side
+account of this recognition wound.
+
+Representative posts:
+- https://twitter.com/maaretp/status/826110534214877184
+- https://twitter.com/maaretp/status/845284631943548928
+- https://twitter.com/maaretp/status/845377042019471362

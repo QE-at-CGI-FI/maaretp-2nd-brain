@@ -53,3 +53,19 @@ linguist" about the cognitive switching cost.
 Representative posts:
 - https://twitter.com/maaretp/status/788989849109925888
 - https://twitter.com/maaretp/status/811890157586698242
+
+## 2017 Q1 — a title, and the commute cost adds up — [[../batches/2017-q1|batch]]
+
+Reveals her title for the first time: **one of three Lead Quality
+Engineers**, in a "quality engineering" discipline that has no formal
+department — consistent with the hands-on, non-manager framing from her
+hiring in Q3 2016. The commute cost first named in Q4 2016 gets a
+running total: "10 hours less time per week due to travel. That makes
+250 hours by now" — roughly six months in, still unresolved, still
+tracked. Her product team is recruiting testers and programmers in
+Poland — the first sign the team spans more than one country.
+
+Representative posts:
+- https://twitter.com/maaretp/status/821406684027437056
+- https://twitter.com/maaretp/status/841197757528436737
+- https://twitter.com/maaretp/status/837603316209188864

@@ -164,4 +164,19 @@ entities/eurotestingconf (closing the second organizing cycle). 2016 is
 now fully ingested across both wikis — the wiki's most eventful year
 yet.
 
+## [2026-09-21] ingest | 2017 Q1 (765 posts, 478 after dropping retweets, first quarter of 2017)
+Created batch page [[batches/2017-q1]]. Added 2017-Q1 sections to 6
+existing pages: entities/international-speaking (a decade-old local
+recognition wound — Finnish Tester of the Year — surfaces for the first
+time; another stated slowdown immediately contradicted by actual
+travel), entities/eurotestingconf (third edition delivered in
+Helsinki), entities/f-secure (title revealed: Lead Quality Engineer;
+commute cost tallied at 250 hours), concepts/whole-team-testing (a
+second book, #ExploratoryTestingBook, launches), concepts/pay-to-speak
+(a plain admission no employer has ever paid for her conferences), and
+concepts/gender-in-tech (representation milestones at her own meetup;
+advocacy extends past testing into general women-in-tech). No new
+entity or concept pages this batch. James Bach does not appear at all
+this quarter — the Q4 2016 cooldown holds.
+
 <!-- newest entries at the bottom -->

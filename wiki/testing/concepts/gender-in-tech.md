@@ -239,3 +239,23 @@ Representative posts:
 - https://twitter.com/maaretp/status/797118932922626048
 - https://twitter.com/maaretp/status/797120218954891265
 - https://twitter.com/maaretp/status/793754200727494656
+
+## 2017 Q1 — normalization milestones, and a new younger audience — [[../batches/2017-q1|batch]]
+
+The **#TechExcellence meetup she facilitates** (544 members) starts
+hitting representation numbers she treats as milestones toward
+normalcy, not novelties: 60% women at one session ("waiting for the day
+this is so normal I no longer count"), then 4/7 women and 5/7 minorities
+at a Python Koans mob session. She extends her advocacy past testing
+specifically for the first time: volunteers at **#olensuperada** ("Super
+Ada"), a Finnish event introducing 16–22-year-old women to IT, runs
+**#SecuritySaturdays** sessions for the same age group, and starts
+organizing **implicit bias training** at work. A large, low-key
+gesture on International Women's Day (Mar 8): eight consecutive tweets
+naming dozens of women testers she admires, capped with "way too many I
+can't think of within my timebox."
+
+Representative posts:
+- https://twitter.com/maaretp/status/833637535607820289
+- https://twitter.com/maaretp/status/830378413215072257
+- https://twitter.com/maaretp/status/839421041546002432

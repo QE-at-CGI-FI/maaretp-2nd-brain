@@ -39,3 +39,18 @@ quarter.
 Representative posts:
 - https://twitter.com/maaretp/status/658671692588425216
 - https://twitter.com/maaretp/status/666513477725499392
+
+## 2017 Q1 — a second book, this time solo — [[../batches/2017-q1|batch]]
+
+A new project starts, distinct from the co-authored Mob Programming
+Guidebook: the **#ExploratoryTestingBook**, first increment published
+on Leanpub Jan 26. Unlike the first book's slow, quiet start (surfacing
+in 2015 Q2 with no clear topic for two quarters), this one launches with
+a topic and a platform already decided — she's since built the
+infrastructure (Leanpub workflow, incremental-publishing habit) from
+the first book. See
+`../../testing/concepts/whole-team-testing.md` for the professional-side
+content this book draws on.
+
+Representative posts:
+- https://twitter.com/maaretp/status/824722658751287298

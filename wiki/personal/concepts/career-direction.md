@@ -218,3 +218,16 @@ thread this quarter.
 
 Representative posts:
 - https://twitter.com/maaretp/status/788989849109925888
+
+## 2017 Q1 — the commute cost, quantified — [[../batches/2017-q1|batch]]
+
+The Q4 2016 commute frustration gets a running tally: "10 hours less
+time per week due to travel. That makes 250 hours by now" — roughly
+half a year in, and still an unresolved cost of the F-Secure move
+rather than something she's adapted to. See
+`../../testing/entities/f-secure.md` for the professional-side detail
+(her title, revealed for the first time this quarter: one of three Lead
+Quality Engineers).
+
+Representative posts:
+- https://twitter.com/maaretp/status/841197757528436737

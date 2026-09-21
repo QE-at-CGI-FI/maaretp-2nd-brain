@@ -269,3 +269,25 @@ Representative posts:
 - https://twitter.com/maaretp/status/796834013927407616
 - https://twitter.com/maaretp/status/797067276214292480
 - https://twitter.com/maaretp/status/797118932922626048
+
+## 2017 Q1 — a decade-old local recognition wound, named directly — [[../batches/2017-q1|batch]]
+
+A new thread, distinct from the professional community-conflict content
+(Bach, CDT culture): a decade of losing the Finnish "Tester of the Year"
+vote each year, despite genuine international standing — "It's the time
+of year when I think of giving up on testing community." Notable that
+even a win doesn't fully land: "I won MIATPP and felt I wasn't worthy.
+This Finnish tester thing - I feel worthy but 10 times learn I'm not" —
+suggesting the wound isn't really about winning, but about *local*,
+close-to-home recognition specifically, which international acclaim
+doesn't substitute for. Names her coping mechanism plainly: "I can only
+learn to emotionally withdraw to not be hurt." See
+`../../testing/entities/international-speaking.md` for the professional
+framing of the same pattern. Separately, a small but sharp observation
+about invisible work: "team members talk to me about how they feel even
+when they don't freely express it. Emotional labor I do is invisible."
+
+Representative posts:
+- https://twitter.com/maaretp/status/845284631943548928
+- https://twitter.com/maaretp/status/845376364417105922
+- https://twitter.com/maaretp/status/842743418707230721

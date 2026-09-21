@@ -105,4 +105,13 @@ intersectionality observation), and concepts/career-direction.md (the
 F-Secure move's first real cost: 10 lost commute hours/week). 2016 is
 now fully ingested across both wikis.
 
+## [2026-09-21] ingest | 2017 Q1 (765 posts, 478 after dropping retweets)
+Created batch page [[batches/2017-q1]]. Added 2017-Q1 sections to
+entities/family.md (son's first programming moment at 8; a nephew named
+for the first time), concepts/self-understanding.md (a decade-old local
+recognition wound — Finnish Tester of the Year — named directly for the
+first time), concepts/writing-a-book.md (a second book,
+#ExploratoryTestingBook, starts), and concepts/career-direction.md (the
+F-Secure commute cost tallied at 250 hours).
+
 <!-- newest entries at the bottom -->

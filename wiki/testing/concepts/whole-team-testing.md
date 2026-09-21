@@ -205,3 +205,20 @@ Representative posts:
 - https://twitter.com/maaretp/status/785916042069549057
 - https://twitter.com/maaretp/status/784703944622796800
 - https://twitter.com/maaretp/status/805736869413744640
+
+## 2017 Q1 — a second book — [[../batches/2017-q1|batch]]
+
+The **Mob Programming Guidebook** passes 496 readers. A genuinely new
+project starts alongside it: the **#ExploratoryTestingBook**, its first
+increment published on Leanpub Jan 26 — see
+`../../personal/concepts/writing-a-book.md` for the personal-side
+thread. Also names a small but real "aha": what testers call
+**blink testing**, programmers call **approval testing** — "it took me
+two years to realize that," a direct link between her ApprovalTests
+fascination (2016 Q2–Q4) and the vocabulary gap between the two
+disciplines she keeps noticing.
+
+Representative posts:
+- https://twitter.com/maaretp/status/824722658751287298
+- https://twitter.com/maaretp/status/835095363543576578
+- https://twitter.com/maaretp/status/844441230788452352

@@ -188,3 +188,16 @@ Representative posts:
 - https://twitter.com/maaretp/status/795957475430305792
 - https://twitter.com/maaretp/status/804028599770742784
 - https://twitter.com/maaretp/status/811978076036993024
+
+## 2017 Q1 — [[../batches/2017-q1|batch]]
+
+Her son, now 8, gets his own first programming moment, echoing Emilia's:
+"Mom, help with homework, you're programming expert" — first-time
+framing of her as a resource for *his* schoolwork specifically, not just
+a shared family activity. A new relative named for the first time: a
+**13-year-old nephew** (her sister's son), mentioned while arranging
+things for him to do around a EuroTestConf trip.
+
+Representative posts:
+- https://twitter.com/maaretp/status/821785725939154944
+- https://twitter.com/maaretp/status/823120429489541121

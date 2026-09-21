@@ -7,7 +7,8 @@ tags: [index]
 Personal reflection, growth, and psychology synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
 See [[../progress]] for what's been ingested (2010: no personal content;
-2011–2016: thin at first, substantial by 2014; 2017– not started).
+2011–2016: thin at first, substantial by 2014; 2017 Q1 done, Q2– not
+started).
 
 ## Entities
 
@@ -33,3 +34,4 @@ See [[../progress]] for what's been ingested (2010: no personal content;
 - [[batches/2016-q2|2016 Q2]] — 1183 posts (817 after dropping retweets). A real, unexplained job decision ("chose quality of life and family"); son joins her at an international conference for the first time; the most direct self-work quarter yet, including the first confirmation that the 2014 Bach block genuinely hurt.
 - [[batches/2016-q3|2016 Q3]] — 1121 posts (775 after dropping retweets). Career-direction resolves (new job at F-Secure) and the long US-relocation thread appears to quietly die; social anxiety named directly for the first time; a rare public low point over her writing.
 - [[batches/2016-q4|2016 Q4]] — 1074 posts (708 after dropping retweets). Her daughter is named for the first time in the whole archive (Emilia, 7); the introvert/extrovert tension since 2011 gets its most concrete treatment yet; the new job's first real cost (commute time) surfaces.
+- [[batches/2017-q1|2017 Q1]] — 765 posts (478 after dropping retweets). A decade-old local recognition wound (Finnish Tester of the Year) named directly for the first time; son's first programming moment; a nephew named; a second book starts.

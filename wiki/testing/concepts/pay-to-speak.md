@@ -120,3 +120,21 @@ Representative posts:
 - https://twitter.com/maaretp/status/814771223112613888
 - https://twitter.com/maaretp/status/814714191298854912
 - https://twitter.com/maaretp/status/814730850289991680
+
+## 2017 Q1 — a personal admission, and the campaign gets a slogan — [[../batches/2017-q1|batch]]
+
+A new, plain admission about her own history: "Just realized the
+companies I've worked for have never paid for my conferences or
+trainings" — all the speaking/training investment across
+[[../entities/ilmarinen|Ilmarinen]], Granlund, and
+[[../entities/f-secure|F-Secure]] has been self-funded or unpaid time,
+not an employer benefit, undercutting any reading of her advocacy as
+abstract. Reimbursement-delay frustration continues (conferences
+promising to pay but taking months, "#NotYourBank," "#LoanOffice") and
+crystallizes into a slogan for a blog post: "Don't pay to speak, get
+paid to speak."
+
+Representative posts:
+- https://twitter.com/maaretp/status/823570318128201729
+- https://twitter.com/maaretp/status/829015381062856704
+- https://twitter.com/maaretp/status/841882933392728064
