@@ -84,4 +84,17 @@ bridge-building — see entities/istqb.md. James Bach pattern from Q2
 (friction, no rupture, no resolution) repeats with a second, different
 confrontation then normalcy.
 
+## [2026-09-21] ingest | 2015 Q4 (725 posts, final 2015 batch)
+Created batch page [[batches/2015-q4]] and 1 new entity page
+(eurotestingconf — her own conference, built as a #PayToSpeak-free
+alternative, launching Feb 2016). Added 2015-Q4 sections to 6 existing
+pages: concepts/whole-team-testing (the Mob Programming Guidebook
+surfaces as a real product), concepts/tester-identity (a real softening
+on the "developer" label after years of resistance), concepts/gender-
+in-tech (Women Keynoting mastermind launches, Halloween Game Hack),
+concepts/pay-to-speak, entities/international-speaking (33 sessions,
+explicit intent to slow down 2016), and entities/james-bach (settles
+into ordinary, no conflict). 2015 is now fully ingested across both
+wikis.
+
 <!-- newest entries at the bottom -->

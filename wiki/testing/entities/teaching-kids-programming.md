@@ -81,3 +81,20 @@ Representative posts:
 - https://twitter.com/maaretp/status/646934479622262784
 - https://twitter.com/maaretp/status/642393800049082368
 - https://twitter.com/maaretp/status/642735688245506048
+
+## 2015 Q4 — the CYOA project ships, "code ambassador" — [[../batches/2015-q4|batch]]
+
+The choose-your-own-adventure project (46 1st graders, homework alongside
+[[../../personal/entities/family|her own daughter's]] class) ships: "the
+joy of 1st graders seeing the story they made on computer and then doing
+#HelloRuby exercises." Delivers a mob-testing session with Aalto
+University students, whose teacher says mob programming "works great for
+teaching." Her daughter, looking at Linda Liukas's Hello Ruby back cover
+together, declares herself "a code ambassador for Finland too." Separately
+starts trying to organize a DJ-ing course for young girls — see
+[[../concepts/gender-in-tech]].
+
+Representative posts:
+- https://twitter.com/maaretp/status/670153489079775233
+- https://twitter.com/maaretp/status/670245516064768000
+- https://twitter.com/maaretp/status/669921269731729412

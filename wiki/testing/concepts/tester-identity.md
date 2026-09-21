@@ -95,3 +95,23 @@ separate.
 
 Representative posts:
 - https://twitter.com/maaretp/status/646219589370540036
+
+## 2015 Q4 — a real softening — [[../batches/2015-q4|batch]]
+
+A genuine shift from the fierce "I've never liked being called a
+developer" stance she held as recently as Q3: "now that I'm slowly
+accepting being a developer, I'm still a developer with testing
+emphasis. I'm different." Frames it explicitly as expansion, not
+surrender — "today I'm a CSS (Less) designer, tomorrow... a programmer
+for some Selenium. Expanding identities." Alongside this, a sharper
+observation about how the label itself is treated by others: "when I
+don't tell I'm a tester but that I work with software, I'm treated
+better #respecttest" — the identity she insists on for herself still
+costs her something socially. Consistent with the year's broader arc
+(Q2's "I draw the line with my identity not the tasks I do") but this is
+the first time "developer" itself stops being a label she rejects.
+
+Representative posts:
+- https://twitter.com/maaretp/status/666957197566476289
+- https://twitter.com/maaretp/status/666515370518429696
+- https://twitter.com/maaretp/status/662707846652522496

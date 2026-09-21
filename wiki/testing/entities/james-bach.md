@@ -147,3 +147,14 @@ Representative posts:
 - https://twitter.com/maaretp/status/632099539512619008
 - https://twitter.com/maaretp/status/632051512231993344
 - https://twitter.com/maaretp/status/645923637250367488
+
+## 2015 Q4 — ordinary — [[../batches/2015-q4|batch]]
+
+No conflict this quarter — a normal, even warm exchange about finishing
+work and managing personal WIP ("I hate when someone other than me tries
+to manage my personal WIP. But it is great when I do that myself").
+Confirms the Q3 read: the relationship has settled into ordinary
+give-and-take, neither warm nor ruptured.
+
+Representative posts:
+- https://twitter.com/maaretp/status/659660149762715648

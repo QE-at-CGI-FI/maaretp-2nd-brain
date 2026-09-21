@@ -121,3 +121,21 @@ expanding in place of a relocation decision) continues: 19 talks logged
 by mid-September with 8 more booked, but no mention of relocating,
 consultancies, or work permits. See
 `../../testing/entities/international-speaking.md`.
+
+## 2015 Q4 — correction: it reactivates hard — [[../batches/2015-q4|batch]]
+
+The "no movement" read from Q3 turns out to be another lull, not a
+settling — same pattern as the 2013→2014 correction. At #TestBashNY:
+"need to remind again for people... that I'm looking for the perfect
+#testing job in US, needing visa sponsor. Long process," and "would
+prefer west coast but quite open on location for the right job." The
+international-speaking pace closes the year at 33 sessions with an
+explicit stated intent to slow down in 2016 — see
+`../../testing/entities/international-speaking.md` — which sits in
+tension with an active US job search: if the goal is to relocate, does
+slowing the speaking circuit help or hurt that? Not addressed in the
+tweets themselves.
+
+Representative posts:
+- https://twitter.com/maaretp/status/662735976859439104
+- https://twitter.com/maaretp/status/663075909856030720

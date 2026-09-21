@@ -119,3 +119,31 @@ Representative posts:
 - https://twitter.com/maaretp/status/636771830083244032
 - https://twitter.com/maaretp/status/646984229142855680
 - https://twitter.com/maaretp/status/645859392194281472
+
+## 2015 Q4 — [[../batches/2015-q4|batch]]
+
+Two structural programs and one sharp new observation:
+
+- The **Women Keynoting mastermind group** (planned in Q3) launches for
+  real — a paid, facilitated group alongside a free monthly lean-coffee
+  session, both aimed at getting women into keynote slots specifically,
+  not just speaking slots.
+- The all-women **Halloween Game Hack** hackathon: she's accepted,
+  notices subtler dynamics even in an all-women space ("three mentions of
+  not needing to be technical to set up a website... not said when
+  genders are mixed"), and draws a clean line — "all women hackathon = no
+  competition. Good."
+- Wants to organize a **DJ-ing course for young girls** — "tired of 'AV
+  boys' and want to help them run a disco" — extending the same instinct
+  from [[../entities/teaching-kids-programming|kids' coding]] into a new
+  domain.
+- A Finnish Women's Equality Day observation connects gender directly to
+  [[pay-to-speak|#PayToSpeak]]'s underlying economics: volunteer
+  community work in IT is disproportionately done by women, unpaid —
+  "work like that should be compensated."
+
+Representative posts:
+- https://twitter.com/maaretp/status/659641270726447104
+- https://twitter.com/maaretp/status/660397397063921664
+- https://twitter.com/maaretp/status/660093751952547840
+- https://twitter.com/maaretp/status/676377134806515712

@@ -190,6 +190,9 @@
   },
   "active": "2970be9b6cb4c85e",
   "lastOpenFiles": [
+    "wiki/personal/batches/2015-q4.md",
+    "wiki/testing/batches/2015-q4.md",
+    "wiki/testing/entities/eurotestingconf.md",
     "wiki/personal/batches/2015-q3.md",
     "wiki/testing/batches/2015-q3.md",
     "wiki/testing/concepts/testing-research.md",
@@ -212,9 +215,6 @@
     "wiki/personal/batches/2014.md",
     "wiki/testing/batches/2014.md",
     "wiki/testing/entities/altom.md",
-    "wiki/testing/entities/agilefinland.md",
-    "wiki/testing/concepts/gender-in-tech.md",
-    "wiki/testing/concepts/checking-vs-testing.md",
-    "wiki/testing/entities/teaching-kids-programming.md"
+    "wiki/testing/entities/agilefinland.md"
   ]
 }

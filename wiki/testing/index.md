@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2014 done, 2015-Q1–Q3 done, 2015-Q4– not started).
+See [[../progress]] for what's been ingested (2010–2015 done, 2016– not started).
 
 ## Entities
 
@@ -34,6 +34,7 @@ See [[../progress]] for what's been ingested (2010–2014 done, 2015-Q1–Q3 don
 - [[entities/tampere-goes-agile|Tampere Goes Agile]] — AgileFinland conference she launched, first edition Dec 2013
 - [[entities/teaching-kids-programming|Teaching Kids Programming / Hour of Code]] — AgileFinland initiative, reaches real scale 2014
 - [[entities/international-speaking|International Speaking Career]] — self-funded global conference circuit, takes off 2015
+- [[entities/eurotestingconf|EuroTestConf]] — her own conference, built as a #PayToSpeak-free alternative, launching Feb 2016
 
 ## Concepts
 
@@ -57,3 +58,4 @@ See [[../progress]] for what's been ingested (2010–2014 done, 2015-Q1–Q3 don
 - [[batches/2015-q1|2015 Q1]] — 491 posts. First quarterly batch (2015 on split into quarters). International speaking explodes (DEWT5, STPCon, TestBash); possible thaw with Bach; SpeakEasy mentorship.
 - [[batches/2015-q2|2015 Q2]] — 646 posts. Checking-vs-testing reignites hard with Bolton; friction (not a thaw) with Bach; first hands-on mob testing at XP2015; gender-in-tech advocacy busiest since 2014.
 - [[batches/2015-q3|2015 Q3]] — 979 posts. #PayToSpeak campaign launches; mob programming/pairing become routine practice and the Helsinki conference happens; ISTQB pivots to bridge-building; second Bach confrontation then normalcy; gender-in-tech busiest yet.
+- [[batches/2015-q4|2015 Q4]] — 725 posts. The Mob Programming Guidebook surfaces as a real product; EuroTestConf takes shape as a #PayToSpeak-free conference; tester identity softens on "developer" for the first time; year closes at 33 sessions with an explicit intent to slow down.

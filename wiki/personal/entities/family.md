@@ -120,3 +120,22 @@ Representative posts:
 - https://twitter.com/maaretp/status/626667000543232001
 - https://twitter.com/maaretp/status/642393800049082368
 - https://twitter.com/maaretp/status/642735688245506048
+
+## 2015 Q4 — [[../batches/2015-q4|batch]]
+
+**A partner is mentioned for the first time in the whole archive**, noted
+here plainly: in early December she asks about contacts in Phoenix,
+Arizona for a two-week trip over Christmas, and separately, from ~Dec 7,
+describes a week-plus hospital stay — "feeling slightly less immortal
+after sitting 4 days in a hospital. My better half, not me, but both stop
+all side activities" — with periodic updates through "day 7." No name
+given, and the tweets don't establish whether the Arizona trip and the
+hospital stay are connected. A lighter thread continues alongside it: her
+daughter, looking at Linda Liukas's Hello Ruby back cover, declares
+herself "a code ambassador for Finland too" — see
+`../../testing/entities/teaching-kids-programming.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/673762869486485504
+- https://twitter.com/maaretp/status/675009214671134720
+- https://twitter.com/maaretp/status/669921269731729412

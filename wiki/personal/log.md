@@ -52,4 +52,14 @@ self-study), and concepts/career-direction.md (no movement at all this
 quarter, not even the practical questions from Q1/Q2). No update to
 concepts/writing-a-book.md — the project doesn't resurface this quarter.
 
+## [2026-09-21] ingest | 2015 Q4 (final 2015 batch)
+Created batch page [[batches/2015-q4]]. Added 2015-Q4 sections to
+entities/family.md (a partner mentioned for the first time in the whole
+archive — a week-plus hospital stay, unnamed, noted plainly per user
+instruction), concepts/career-direction.md (correction: the US visa
+search reactivates hard after Q3's "no movement" read), concepts/
+writing-a-book.md (resolved — it's the Mob Programming Guidebook), and
+concepts/self-understanding.md (a brief mortality reflection tied to the
+hospital stay). 2015 is now fully ingested across both wikis.
+
 <!-- newest entries at the bottom -->

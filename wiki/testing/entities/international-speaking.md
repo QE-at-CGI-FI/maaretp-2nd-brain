@@ -69,3 +69,19 @@ Representative posts:
 - https://twitter.com/maaretp/status/644254815514685440
 - https://twitter.com/maaretp/status/627910628968136704
 - https://twitter.com/maaretp/status/631519945642385408
+
+## 2015 Q4 — the year closes at 33 sessions, and she calls it enough — [[../batches/2015-q4|batch]]
+
+Final tally for the year: 33 sessions. TestBashNY and AgileTD anchor the
+quarter, alongside building [[eurotestingconf|EuroTestConf]] as her own
+conference. For the first time, she states an explicit intent to slow
+down rather than keep climbing: "you make my resolution to not travel to
+as many conferences next year harder," and a blog post on "speaking goals
+2016 and accomplishments 2015." The US visa/relocation question — parked
+all through Q3 — reactivates hard this quarter; see
+`../../personal/concepts/career-direction.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/667725311224774657
+- https://twitter.com/maaretp/status/667719658515120128
+- https://twitter.com/maaretp/status/666771125515481090

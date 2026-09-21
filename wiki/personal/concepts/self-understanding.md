@@ -157,3 +157,14 @@ Representative posts:
 - https://twitter.com/maaretp/status/636535855029612544
 - https://twitter.com/maaretp/status/637512060235063296
 - https://twitter.com/maaretp/status/648414097772515328
+
+## 2015 Q4 — [[../batches/2015-q4|batch]]
+
+A rare direct brush with mortality, prompted by a partner's hospital stay
+(see [[../entities/family]]): "feeling slightly less immortal after
+sitting 4 days in a hospital." Brief, not elaborated on further — the
+detail belongs to family.md; this page just marks that it registered as
+a self-perception shift, however small, not only an external event.
+
+Representative posts:
+- https://twitter.com/maaretp/status/673762869486485504

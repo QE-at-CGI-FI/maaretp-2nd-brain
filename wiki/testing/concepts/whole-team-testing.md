@@ -99,3 +99,26 @@ Representative posts:
 - https://twitter.com/maaretp/status/616908047953326080
 - https://twitter.com/maaretp/status/640897250194026496
 - https://twitter.com/maaretp/status/631097914677399552
+
+## 2015 Q4 — a guidebook, and mobbing everywhere — [[../batches/2015-q4|batch]]
+
+Mob programming becomes a written artifact: she and a co-author publish
+the **Mob Programming Guidebook** on Leanpub, iterating it in public with
+a running count of paying readers (5, then 14, then more) — see
+`../../personal/concepts/writing-a-book.md` for the personal-side thread
+this resolves. The practice itself keeps spreading beyond her own team:
+the all-women **Halloween Game Hack** hackathon runs as a weekend-long
+mob session, Aalto University students do mob testing with her ("teacher
+of class stated that MobProgramming works great for teaching"), and her
+own team settles into mobbing "1-2 times a week from now on." She also
+starts organizing a **Teaching Exploratory Testing peer conference** (Feb
+2016) — see [[../entities/eurotestingconf]] — aimed at people who teach
+this material publicly. A running, unresolved question: "any other
+non-programmers non-automators trying MobProgramming? ... I find only
+programmers to talk to" — she's aware her own non-coder position in mobs
+is still unusual.
+
+Representative posts:
+- https://twitter.com/maaretp/status/658671692588425216
+- https://twitter.com/maaretp/status/670245516064768000
+- https://twitter.com/maaretp/status/666868226836594689
