@@ -56,3 +56,19 @@ Representative posts:
 - https://twitter.com/maaretp/status/603930707078033408
 - https://twitter.com/maaretp/status/610788439718502400
 - https://twitter.com/maaretp/status/614843155880538112
+
+## 2015 Q3 — the Sept ask delivers — [[../batches/2015-q3|batch]]
+
+The mob programming conference she asked about in June happens: the
+**Helsinki Mob Programming Conference**, 7 Sept, Woody Zuill headlining,
+Taitotalo venue (120 capacity), tickets sold in advance. Tech Excellence
+continues with a new **#polyglot themed series** (volunteer language
+experts running dojos). By late September she quotes the org's own
+reach stats: 16 channels, ~8,628 people maximum combined reach — a
+scale marker for how much bigger her community organizing has gotten
+since the 2013 arrival described in that year's section above.
+
+Representative posts:
+- https://twitter.com/maaretp/status/616908047953326080
+- https://twitter.com/maaretp/status/640114690916515840
+- https://twitter.com/maaretp/status/647665178285338624

@@ -83,3 +83,15 @@ Representative posts:
 - https://twitter.com/maaretp/status/610362871193698304
 - https://twitter.com/maaretp/status/610363505942896641
 - https://twitter.com/maaretp/status/610312523074641920
+
+## 2015 Q3 — [[../batches/2015-q3|batch]]
+
+A brief but pointed addition: blogs "about remembering personality types
+when defining what a tester is/is not" — explicitly folding MBTI-style
+personality variation (see
+`../../personal/concepts/self-understanding.md`) into the identity
+argument, rather than keeping the professional and personal framings
+separate.
+
+Representative posts:
+- https://twitter.com/maaretp/status/646219589370540036

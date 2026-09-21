@@ -65,3 +65,19 @@ Representative posts:
 - https://twitter.com/maaretp/status/608971003033739264
 - https://twitter.com/maaretp/status/609278257339453440
 - https://twitter.com/maaretp/status/612722306641711107
+
+## 2015 Q3 — into the classroom, and into her daughter's public life — [[../batches/2015-q3|batch]]
+
+Moves from an opt-in after-school club model to being embedded in the
+school itself: "this autumn I spend time in my kids classroom teaching
+programming with teacher... the whole age group for fun in one go when
+removing opt-in." Her daughter's own participation grows too, beyond
+playtesting into public-facing moments: co-hosting (by vote) a session at
+CITCON, and contributing "kids' slides" to a powerpoint-karaoke bit that
+gets thanked by name afterward. See [[../../personal/entities/family]]
+for the family-side detail.
+
+Representative posts:
+- https://twitter.com/maaretp/status/646934479622262784
+- https://twitter.com/maaretp/status/642393800049082368
+- https://twitter.com/maaretp/status/642735688245506048

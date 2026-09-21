@@ -8,7 +8,7 @@ Personal reflection, growth, and psychology synthesized from @maaretp's public p
 
 See [[../progress]] for what's been ingested (2010: no personal content;
 2011–2014: thin at first, substantial by 2014; 2015-Q1 done (thin again),
-2015-Q2 done, 2015-Q3– not started).
+2015-Q2–Q3 done, 2015-Q4– not started).
 
 ## Entities
 
@@ -28,3 +28,4 @@ See [[../progress]] for what's been ingested (2010: no personal content;
 - [[batches/2014|2014]] — biggest and most difficult yet: a sister named, a bullying confession, a reported workplace sexist incident, and the "work abroad" dream returning hard after 2013 wrongly called it settled.
 - [[batches/2015-q1|2015 Q1]] — thin again: mostly small family color; the real thread is career-direction's continuation (US travel intensifies, work-permit question opens).
 - [[batches/2015-q2|2015 Q2]] — a book project surfaces; kids' ages confirmed (6, 7) and directly involved in Hello Ruby playtesting; career-direction stays parked while the speaking circuit expands instead.
+- [[batches/2015-q3|2015 Q3]] — daughter's public participation steps up (CITCON co-hosting); a direct callback to the 2013 "unfit for my profession" wound; career-direction sees no movement at all; the book project goes quiet.

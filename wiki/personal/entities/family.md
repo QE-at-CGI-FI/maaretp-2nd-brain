@@ -103,3 +103,20 @@ Representative posts:
 - https://twitter.com/maaretp/status/608971003033739264
 - https://twitter.com/maaretp/status/609278257339453440
 - https://twitter.com/maaretp/status/612886992959983616
+
+## 2015 Q3 — [[../batches/2015-q3|batch]]
+
+A small, direct affirmation: "on a day your 6-yo daughter tells you she
+wants work like yours ('computer expert') when she grows up, you think
+you're ok." Her daughter's participation in Maaret's professional world
+steps up a level too — sitting between strangers at CITCON's open-space
+format, getting voted in to co-host a session, and contributing "kids'
+slides" to a powerpoint-karaoke bit that gets a public thank-you
+afterward. See
+`../../testing/entities/teaching-kids-programming.md` for the parallel
+school-side expansion this quarter.
+
+Representative posts:
+- https://twitter.com/maaretp/status/626667000543232001
+- https://twitter.com/maaretp/status/642393800049082368
+- https://twitter.com/maaretp/status/642735688245506048

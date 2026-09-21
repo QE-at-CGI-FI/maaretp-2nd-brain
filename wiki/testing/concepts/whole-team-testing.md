@@ -77,3 +77,25 @@ Representative posts:
 - https://twitter.com/maaretp/status/602907206695178240
 - https://twitter.com/maaretp/status/603185155008782336
 - https://twitter.com/maaretp/status/603893994255421440
+
+## 2015 Q3 — the practice becomes routine — [[../batches/2015-q3|batch]]
+
+Mob programming stops being a special event and becomes a repeated
+practice: the **Helsinki Mob Programming Conference** she asked about in
+Q2 actually happens (7 Sept, Woody Zuill headlining, Taitotalo, 120
+capacity, tickets sold), her own team does full mob days on Selenium
+knowledge-sharing, and mob/mob-testing spreads to CITCON, #testival
+(Croatia), and #TAHelsinki. She also writes a **3-part blog series on
+strong-style pairing** (driver/navigator roles) and starts weekly remote
+pair-testing sessions as a standing practice ("did my first of the week
+pair testing session today. 5 more to go"). A running debate with
+[[../entities/michael-bolton|Bolton]] over whether "mob" is the right
+word doesn't move her: "I don't believe the name changes the behavior."
+Ties back to her own bottleneck problem — "I'm a bottleneck for my team's
+ability to release" — mobbing as the deliberate fix, not just a teaching
+tool.
+
+Representative posts:
+- https://twitter.com/maaretp/status/616908047953326080
+- https://twitter.com/maaretp/status/640897250194026496
+- https://twitter.com/maaretp/status/631097914677399552

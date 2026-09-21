@@ -84,3 +84,38 @@ Representative posts:
 - https://twitter.com/maaretp/status/588263697790935041
 - https://twitter.com/maaretp/status/599190933138239488
 - https://twitter.com/maaretp/status/613082372544839681
+
+## 2015 Q3 — [[../batches/2015-q3|batch]]
+
+The busiest quarter yet for this theme, moving further into structural
+action:
+
+- **The Agile2015 t-shirt episode**: women's conference shirts turn out
+  to be sized-down, not styled differently — "see the difference? It's
+  not in the place you usually need it for" — so she cuts her own shirt
+  with scissors to actually fit, blogs about it, and argues "sponsors
+  should want women to wear, not use for cleaning."
+- Attends #WomenInAgile networking at Agile2015 and sets up an email list
+  for it.
+- Praises TestBashNY's 50/50 speaker gender split as a direct result of
+  Rosie Sherry's community-building work.
+- Names a sharper, more specific critique than before: "most women in
+  tech movements diss women in testing" — no listing/promoting of
+  testing conferences by broader women-in-tech initiatives, a doubled
+  marginalization she hadn't named this explicitly before.
+- Sets up a **Women Keynoting mastermind group** with @deborahh — a
+  second concrete structural program alongside SpeakEasy mentoring.
+- At #TAHelsinki, tracks the numbers directly (45% women attendees, only
+  3 of 15 speakers) and works the room in real time finding new women
+  speakers for future events, offering to write out a list of 30.
+- A conference-culture observation distinct from her own identity: not
+  drinking alcohol at conferences draws disproportionate attention and
+  the awkwardness is gendered — "I used to get 'are you pregnant' a lot.
+  Now just apologies I don't need." Blogs a piece collecting "stories and
+  thoughts of being a woman (like me) in testing."
+
+Representative posts:
+- https://twitter.com/maaretp/status/628250671188451328
+- https://twitter.com/maaretp/status/636771830083244032
+- https://twitter.com/maaretp/status/646984229142855680
+- https://twitter.com/maaretp/status/645859392194281472

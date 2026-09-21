@@ -112,3 +112,12 @@ relocation decision rather than building toward it.
 Representative posts:
 - https://twitter.com/maaretp/status/583298498499510273
 - https://twitter.com/maaretp/status/599955957586735104
+
+## 2015 Q3 — no movement — [[../batches/2015-q3|batch]]
+
+No US-relocation content at all this quarter — not even the practical
+work-permit questions from Q1/Q2. The pattern from Q2 (speaking circuit
+expanding in place of a relocation decision) continues: 19 talks logged
+by mid-September with 8 more booked, but no mention of relocating,
+consultancies, or work permits. See
+`../../testing/entities/international-speaking.md`.

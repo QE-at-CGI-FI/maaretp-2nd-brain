@@ -127,3 +127,23 @@ Representative posts:
 - https://twitter.com/maaretp/status/614484563281186816
 - https://twitter.com/maaretp/status/614536062384345088
 - https://twitter.com/maaretp/status/614539504699973638
+
+## 2015 Q3 — a second confrontation, then normalcy — [[../batches/2015-q3|batch]]
+
+A different, more substantive clash in mid-August, this time explicitly
+about the word "kind": he tells her some of what she says is unkind; she
+pushes back harder than in June rather than de-escalating — "kindness
+would be to then listen to me," and "you might have a track record of
+treating good people bad and thus making misjudgements. Your truth isn't
+universal." Also defends the CDT people around her against his charge
+that they're shallow ("if you consider them shallow, you haven't found
+the right topic... to go deeper"). By late September the relationship
+reads as ordinary again — an unremarkable exchange about Finnish sauna
+and drinking culture, no residual tension visible. Consistent picture
+across Q2–Q3: real, recurring friction that neither ruptures further nor
+resolves.
+
+Representative posts:
+- https://twitter.com/maaretp/status/632099539512619008
+- https://twitter.com/maaretp/status/632051512231993344
+- https://twitter.com/maaretp/status/645923637250367488

@@ -43,4 +43,13 @@ a self-aware admission during the Bach exchange), and
 concepts/career-direction.md (parked, not progressed — the speaking
 circuit expands in its place).
 
+## [2026-09-21] ingest | 2015 Q3 (979 posts)
+Created batch page [[batches/2015-q3]]. Added 2015-Q3 sections to
+entities/family.md (daughter's public participation steps up at CITCON),
+concepts/self-understanding.md (a direct, two-years-later callback to
+the 2013 "unfit for my profession" disclosure, plus ongoing pairing
+self-study), and concepts/career-direction.md (no movement at all this
+quarter, not even the practical questions from Q1/Q2). No update to
+concepts/writing-a-book.md — the project doesn't resurface this quarter.
+
 <!-- newest entries at the bottom -->

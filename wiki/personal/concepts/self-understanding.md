@@ -137,3 +137,23 @@ Representative posts:
 - https://twitter.com/maaretp/status/608271907050373120
 - https://twitter.com/maaretp/status/614539504699973638
 - https://twitter.com/maaretp/status/608271735583068160
+
+## 2015 Q3 — [[../batches/2015-q3|batch]]
+
+A specific, nuanced self-observation about the coding/identity boundary:
+"I can easily see me coding my own app (with tests). But the idea of
+automating tests as my work — no" — a finer distinction than the
+tester-vs-developer framing she's used before. Continues the 2014
+fear-of-pairing thread as active, ongoing self-study rather than a
+resolved wound: "I'm currently investigating how I feel about my ability
+to excel in pair/mob... I treat it as a chance to learn to know me." A
+direct callback to 2013's "unfit for my profession" disclosure resurfaces
+in a different context — recruitment agencies — "being one of the people
+who has a paper saying I'm not right for my work, I find the recruitment
+agencies disturbing," suggesting that wound is still live, two years
+later, and shapes how she reads unrelated situations.
+
+Representative posts:
+- https://twitter.com/maaretp/status/636535855029612544
+- https://twitter.com/maaretp/status/637512060235063296
+- https://twitter.com/maaretp/status/648414097772515328

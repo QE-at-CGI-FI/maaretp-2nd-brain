@@ -78,3 +78,23 @@ Representative posts:
 - https://twitter.com/maaretp/status/329115576196816896
 - https://twitter.com/maaretp/status/332486542511722497
 - https://twitter.com/maaretp/status/369726382537846784
+
+## 2015 Q3 — from reform-from-within to bridge-building — [[../batches/2015-q3|batch]]
+
+A real pivot from 2014's "given up... politics" note, prompted by an
+extended debate with a fellow CDT member (@kengel100) and
+[[michael-bolton|Bolton]] about whether taking ISTQB's money for a
+certificate is a betrayal. She reframes it as pragmatic: "the more CDT
+community pushes negatively, the more it alienates people. Let's change
+something," and "I do wonders for CDT with ISTQB money" — treating the
+~200 EUR cert fee as a funding source for CDT work rather than a
+concession. Ends the quarter speaking at **FiSTB Testing Assembly**
+(#TAHelsinki), an ISTQB-affiliated conference, calling it "bridges" —
+and actively works the room finding new women speakers for future CDT
+events, treating the ISTQB crowd as a recruiting ground rather than
+opposition.
+
+Representative posts:
+- https://twitter.com/maaretp/status/631662115032551424
+- https://twitter.com/maaretp/status/631552405130334208
+- https://twitter.com/maaretp/status/646965627387805696

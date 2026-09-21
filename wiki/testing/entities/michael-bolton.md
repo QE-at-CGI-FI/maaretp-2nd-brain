@@ -96,3 +96,22 @@ Representative posts:
 - https://twitter.com/maaretp/status/608271907050373120
 - https://twitter.com/maaretp/status/608379781470666756
 - https://twitter.com/maaretp/status/610363505942896641
+
+## 2015 Q3 — [[../batches/2015-q3|batch]]
+
+Wordplay fatigue becomes explicit: "I'm one of the people who strongly
+dislikes the play of words instead of investigation of intents and
+meanings" — a shift in tone from actively engaging the
+[[../concepts/checking-vs-testing|checking-vs-testing]] vocabulary fights
+to naming the genre itself as unproductive. Two separate threads with him
+this quarter stay collegial despite disagreement: whether "mob" is the
+right word for [[../concepts/whole-team-testing|mob programming]] (she
+holds her ground — "the name doesn't change the behavior") and whether
+paying [[istqb|ISTQB]] money for a certificate is defensible (see
+[[istqb]] for the fuller pivot). "I accept things I cannot change to
+focus on things I can change" sums up her working resolution on both.
+
+Representative posts:
+- https://twitter.com/maaretp/status/639046140948819968
+- https://twitter.com/maaretp/status/644830808595894272
+- https://twitter.com/maaretp/status/631659201333473280

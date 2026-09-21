@@ -70,4 +70,18 @@ or concept pages this batch. Checking-vs-testing reignites hard with
 Bolton (sharpest since 2013); the James Bach relationship shows friction
 rather than the "possible thaw" Q1 flagged — see entities/james-bach.md.
 
+## [2026-09-21] ingest | 2015 Q3 (979 posts)
+Created batch page [[batches/2015-q3]] and 1 new concept page
+(pay-to-speak — sustained conference-fairness campaign launched this
+quarter). Added 2015-Q3 sections to 9 existing pages:
+entities/michael-bolton, entities/james-bach, entities/istqb,
+entities/international-speaking, entities/teaching-kids-programming,
+entities/agilefinland, concepts/whole-team-testing (mob programming
+becomes routine, strong-style pairing), concepts/gender-in-tech (busiest
+quarter yet), and concepts/tester-identity. Major shift: ISTQB
+relationship pivots from "given up on reform" (2014) to active
+bridge-building — see entities/istqb.md. James Bach pattern from Q2
+(friction, no rupture, no resolution) repeats with a second, different
+confrontation then normalcy.
+
 <!-- newest entries at the bottom -->

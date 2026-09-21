@@ -53,3 +53,19 @@ Representative posts:
 - https://twitter.com/maaretp/status/583298498499510273
 - https://twitter.com/maaretp/status/599955957586735104
 - https://twitter.com/maaretp/status/600004672863215616
+
+## 2015 Q3 — [[../batches/2015-q3|batch]]
+
+Quantifies the pace herself: "looks like I've done 19 talks this year, 8
+more to go." Highlights: a full week at Agile2015 (Washington DC,
+including [[../concepts/gender-in-tech|the t-shirt episode]] and a
+#WomenInAgile meetup), #testival in Croatia, #TAHelsinki (FiSTB Testing
+Assembly, an ISTQB-affiliated event — see [[istqb]]), and a running
+[[../concepts/pay-to-speak|#PayToSpeak]] advocacy thread throughout.
+No new movement on US relocation this quarter — see
+`../../personal/concepts/career-direction.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/644254815514685440
+- https://twitter.com/maaretp/status/627910628968136704
+- https://twitter.com/maaretp/status/631519945642385408
