@@ -272,6 +272,17 @@ Representative posts:
 - https://twitter.com/maaretp/status/782365145070702596
 - https://twitter.com/maaretp/status/782366015992791040
 
+## 2018 Q1 — declining a proxy fight — [[../batches/2018-q1|batch]]
+
+A single, deliberate-distance mention: asked to weigh in on an ongoing
+Bach/[[michael-bolton|Bolton]] dispute, she opts out entirely — "I
+haven't bothered to listen to them and their 'war' isn't mine." Confirms
+the relationship stays quiet on her end while acknowledging the two of
+them are still sparring with each other, independent of her.
+
+Representative posts:
+- https://twitter.com/maaretp/status/962212867692027904
+
 ## 2017 Q2 — a small, neutral reappearance — [[../batches/2017-q2|batch]]
 
 The first mention of him since the Q4 2016 cooldown, and it's entirely

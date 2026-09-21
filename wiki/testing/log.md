@@ -224,4 +224,18 @@ a girl intern next), and concepts/tester-identity (a calmer, settled
 defense of the tester label). No new entity or concept pages this
 batch. 2017 is now fully ingested across both wikis.
 
+## [2026-09-21] ingest | 2018 Q1 (991 posts, 692 after dropping retweets, first 2018 batch)
+Created batch page [[batches/2018-q1]]. Added 2018-Q1 sections to 6
+existing pages: entities/eurotestingconf (fourth edition, Amsterdam,
+~200 attendees, biggest yet), concepts/pay-to-speak (hardens into real
+contract negotiation — walks away from an unfavorable ExpoQA deal),
+concepts/gender-in-tech (a second "125 Awesome Testers" list, a creepy
+response to wanting a girl intern, "STOP KICKING WOMEN OUT", a named
+submission-fronting tactic, real self-correction on binary language),
+concepts/whole-team-testing (#NoPO experiment concludes), entities/
+james-bach (declines a proxy fight in an ongoing Bach/Bolton dispute),
+and entities/international-speaking (talk #354, 25 countries,
+confirms no interest in leaving F-Secure). No new entity or concept
+pages this batch.
+
 <!-- newest entries at the bottom -->

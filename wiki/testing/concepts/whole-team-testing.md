@@ -269,3 +269,15 @@ successful pipeline-building.
 Representative posts:
 - https://twitter.com/maaretp/status/923474182133952513
 - https://twitter.com/maaretp/status/923604860951519233
+
+## 2018 Q1 — the No-PO experiment concludes — [[../batches/2018-q1|batch]]
+
+The 3-month [[../entities/f-secure|#NoPO experiment]] (started Q4 2017)
+reaches its scheduled reflection point and ships a results blog. The
+team keeps the underlying practice regardless of formal framing: "team
+decides for *the best of the customer* in mind... constrained by our
+purpose" — decision ownership, not the absence of a title, is what the
+experiment was really testing.
+
+Representative posts:
+- https://twitter.com/maaretp/status/969610749395001344

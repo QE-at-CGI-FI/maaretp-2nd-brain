@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2017 done, 2018– not started).
+See [[../progress]] for what's been ingested (2010–2017 done, 2018 Q1 done, Q2– not started).
 
 ## Entities
 
@@ -69,3 +69,4 @@ See [[../progress]] for what's been ingested (2010–2017 done, 2018– not star
 - [[batches/2017-q2|2017 Q2]] — 358 posts (199 after dropping retweets), thinnest quarter yet. The years-long "cut down on speaking" intent finally actually holds; EuroTestConf 2018 moves to Amsterdam; a well-documented mentoring thread with a 15-year-old summer employee; James Bach reappears once, briefly and neutrally.
 - [[batches/2017-q3|2017 Q3]] — 687 posts (450 after dropping retweets). EuroTestConf 2018 replaces the CFP with 120 individual collaboration calls; the Mob Programming Guidebook draws real publisher interest; a candid #SpeakerConfessions thread reveals the salary benefit of speaking despite her anti-#PayToSpeak advocacy.
 - [[batches/2017-q4|2017 Q4]] — 1035 posts (656 after dropping retweets), final 2017 batch. A named harassment scandal ("MrCreep") and extended CoC debate; the keynote-speaker goal finally achieved; a substantial privilege exchange with Woody Zuill reveals real origin-story detail; F-Secure runs a formal No-Product-Owner experiment.
+- [[batches/2018-q1|2018 Q1]] — 991 posts (692 after dropping retweets), first 2018 batch. EuroTestConf's biggest edition yet (Amsterdam, ~200 attendees); pay-to-speak hardens into real contract negotiation; a dense gender-in-tech quarter (a second awesome-testers list, a creepy response to wanting a girl intern, a named submission-fronting tactic); James Bach declines a proxy fight, confirming continued distance.

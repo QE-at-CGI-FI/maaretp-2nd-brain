@@ -234,3 +234,19 @@ Representative posts:
 - https://twitter.com/maaretp/status/941689409254166528
 - https://twitter.com/maaretp/status/946943038948904962
 - https://twitter.com/maaretp/status/947165883754979329
+
+## 2018 Q1 — the tally keeps climbing, and she confirms she's not leaving — [[../batches/2018-q1|batch]]
+
+Individual talks pass #354; a separate personal tally hits 25 countries.
+The volume is real — 2018 travel plans already span Macedonia,
+Switzerland, India, Greece, Australia, the Netherlands, UK, Spain, USA,
+and Estonia by February — enough that she jokes about being "in-demand
+anywhere but not in Finland." A quieter but telling data point: after
+"reading job ads for fun for a few weeks," she concludes "I don't think
+anyone else gives me the unique combination I have now" — confirming,
+explicitly, that the constant travel and market attention haven't
+translated into wanting to leave [[f-secure|F-Secure]].
+
+Representative posts:
+- https://twitter.com/maaretp/status/967716877563723777
+- https://twitter.com/maaretp/status/972118776727654400

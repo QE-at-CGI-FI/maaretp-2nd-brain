@@ -151,3 +151,19 @@ Representative posts:
 - https://twitter.com/maaretp/status/899194761269190658
 - https://twitter.com/maaretp/status/906432336266448897
 - https://twitter.com/maaretp/status/914161359612456960
+
+## 2018 Q1 — fourth edition, Amsterdam, ~200 attendees — [[../batches/2018-q1|batch]]
+
+Runs Feb 19–20 as planned, drawing roughly 200 attendees — the biggest
+edition yet. The collaboration-call selection process (2017 Q3) becomes
+a standing part of the identity: "I found *amazing* content that wasn't
+the official submission by just talking to people... I ended up
+coaching a few all the way to their best delivery." Immediately starts
+work on the 2019 keynote lineup and a "Call for Collaboration" the same
+month the current edition wraps. Planning for a future edition in
+Amsterdam is already underway too — the conference now runs on a
+rolling, continuous cycle rather than an annual sprint.
+
+Representative posts:
+- https://twitter.com/maaretp/status/964788504525004800
+- https://twitter.com/maaretp/status/968244590540152833

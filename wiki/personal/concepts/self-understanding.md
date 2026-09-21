@@ -344,3 +344,18 @@ to keep making the same case.
 
 Representative posts:
 - https://twitter.com/maaretp/status/947165883754979329
+
+## 2018 Q1 — glasses, and a code-switching detail — [[../batches/2018-q1|batch]]
+
+Two small, concrete details. First, vision: "5th day with glasses and I
+start to realize how little I saw without them. A new phase in life" —
+a mundane but real marker of getting older, noted without much
+elaboration. Second, a self-observed code-switching pattern: "in women
+only spaces (and messaging my family) I'm an emoji person. Only
+realized the separation I create a few days ago" — noticing, for the
+first time, that she presents differently (more openly expressive) with
+family and women-only groups than in her general professional voice.
+
+Representative posts:
+- https://twitter.com/maaretp/status/965899646727065601
+- https://twitter.com/maaretp/status/957199191226363904

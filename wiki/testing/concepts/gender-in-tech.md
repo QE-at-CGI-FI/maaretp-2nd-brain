@@ -323,3 +323,45 @@ Representative posts:
 - https://twitter.com/maaretp/status/919108553675366400
 - https://twitter.com/maaretp/status/942015677929611264
 - https://twitter.com/maaretp/status/942128738992644097
+
+## 2018 Q1 — a second awesome-testers list, a creepy response, and a hardened line on "guys" — [[../batches/2018-q1|batch]]
+
+A dense quarter for this theme:
+
+- **A second "125 Awesome Testers" list** ships, alongside the first
+  (2017 Q3–Q4) — an ongoing, deliberate visibility project, not a
+  one-off.
+- **The Q4-2017 "sexist" pushback for wanting a 15-yo girl intern
+  recurs, worse**: recruiting a 16-year-old girl this time draws a
+  genuinely creepy response from a man — "When I say I'm looking for a
+  16-year old girl (to recruit to work on my team), NEVER tell me as a
+  man that you're looking for one too. That is just gross." She
+  explicitly connects it to workplace safety: "How am I supposed to
+  make a 16-yo feel safe working if they need to listen to shit from
+  old men (my age)?"
+- **A raw, emphatic line** after a "getting fired" tweet draws private
+  disclosures from other women: "STOP KICKING WOMEN OUT OF THIS
+  INDUSTRY."
+- **The credit-misattribution pattern recurs directly**: "if your
+  female colleague works all night for a crisis fix and you accept
+  their pull request in the morning and manager attributes it all to
+  you, please be stronger in setting the manager correct" — and,
+  separately, her own idea getting presented by someone else as their
+  own, "still painful."
+- **A new structural tactic named for the first time**: men who have
+  women "front" their conference submissions using the woman's name and
+  email for status — she's identified this only by cross-checking
+  contact patterns as an organizer.
+- **"Guys" and misgendering**: an extended, sometimes testy defense of
+  correcting "guys" as address, ending with real self-correction on her
+  own use of binary language — "I retweet, only to remember I have a
+  misgendering lesson to learn. Gender is not binary. I'll practice my
+  pronouns."
+- Two blog posts frame a settled position: "I'm an awesome tester, who
+  also happens to be a woman," and "Why Positive Discrimination is
+  Equality over Time."
+
+Representative posts:
+- https://twitter.com/maaretp/status/953603570720563200
+- https://twitter.com/maaretp/status/966972570716311552
+- https://twitter.com/maaretp/status/969251269771776000

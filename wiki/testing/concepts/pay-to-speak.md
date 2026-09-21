@@ -176,3 +176,23 @@ Representative posts:
 - https://twitter.com/maaretp/status/936573603184889856
 - https://twitter.com/maaretp/status/941683586654236672
 - https://twitter.com/maaretp/status/936526957214302208
+
+## 2018 Q1 — from naming bad terms to refusing to sign them — [[../batches/2018-q1|batch]]
+
+The advocacy hardens into contract negotiation: she pushes back on
+ExpoQA's speaker terms (in particular a clause making her "financially
+liable for replacement speaker in case of illness") and, when they call
+her edits "unacceptable," walks away from the deal entirely — "So no
+deal, ExpoQA." Publishes a running list of "speaker annoyances" (asking
+for slides months in advance, mandatory templates, one-night-only
+hotel stays) as concrete non-negotiables, and defends the no-liability
+position at length against pushback: "The conferences pay me nothing,
+often not even travel... when sick, I cannot be liable for costs of
+replacement." Ties her own conference's practice back to this directly —
+[[../entities/eurotestingconf|EuroTestConf]] covers a sick speaker's
+travel costs rather than penalizing them.
+
+Representative posts:
+- https://twitter.com/maaretp/status/968448350256271361
+- https://twitter.com/maaretp/status/968501935614685184
+- https://twitter.com/maaretp/status/968507250833752064

@@ -140,4 +140,12 @@ pattern via an extended community dispute). No updates to
 entities/family.md or concepts/career-direction.md this quarter. 2017
 is now fully ingested across both wikis.
 
+## [2026-09-21] ingest | 2018 Q1 (991 posts, 692 after dropping retweets, first 2018 batch)
+Created batch page [[batches/2018-q1]]. Added a 2018-Q1 section to
+concepts/self-understanding.md only (getting glasses for the first
+time; a self-observed code-switching pattern — more expressive/
+emoji-heavy with family and in women-only spaces). No updates to
+entities/family.md or concepts/career-direction.md — thin quarter for
+personal content overall.
+
 <!-- newest entries at the bottom -->
