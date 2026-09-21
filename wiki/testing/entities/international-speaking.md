@@ -127,3 +127,19 @@ Representative posts:
 - https://twitter.com/maaretp/status/715896615345790976
 - https://twitter.com/maaretp/status/730469431793569792
 - https://twitter.com/maaretp/status/732289880831692800
+
+## 2016 Q3 — #Agile2016, and the first keynote lands — [[../batches/2016-q3|batch]]
+
+A full week at #Agile2016 (Atlanta, ~2500 people) — paying her own
+travel despite her own [[../concepts/pay-to-speak|#PayToSpeak]]
+advocacy, a tension she names directly rather than glossing over. The
+Q2 "finally keynoting" milestone resolves concretely at Test Master's
+Academy (Sept 27) — see [[../concepts/whole-team-testing]] — though
+that same event is also where the [[james-bach|Bach]] incident happens.
+Self-reports "over 20 conferences" for the year at #Agile2016, still no
+sign of the Q4-2015 stated intent to slow down actually landing.
+
+Representative posts:
+- https://twitter.com/maaretp/status/757583238105890816
+- https://twitter.com/maaretp/status/758736616722542592
+- https://twitter.com/maaretp/status/780718274753490944

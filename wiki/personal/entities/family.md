@@ -156,3 +156,18 @@ Representative posts:
 - https://twitter.com/maaretp/status/725218372997255168
 - https://twitter.com/maaretp/status/721454186366439424
 - https://twitter.com/maaretp/status/738256961142153216
+
+## 2016 Q3 — [[../batches/2016-q3|batch]]
+
+A small origin-story correction, fact-checked with her mother: "I was 12
+not 14 when I started programming. Mom bought the Vic20 when I was 11" —
+a specific, concrete detail about how her programming career actually
+began, and a small window into her mother as the source of it (matches
+the Q1 [[../concepts/self-understanding|self-understanding]] mother
+tribute). The partner ("my better half"/"my partner") recurs again,
+still unremarkable — referenced in passing while defending herself in an
+unrelated Twitter dispute.
+
+Representative posts:
+- https://twitter.com/maaretp/status/778465303973945344
+- https://twitter.com/maaretp/status/771741223505825792

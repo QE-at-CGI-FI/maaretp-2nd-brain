@@ -158,3 +158,23 @@ Representative posts:
 - https://twitter.com/maaretp/status/731886900118732801
 - https://twitter.com/maaretp/status/731785884383772676
 - https://twitter.com/maaretp/status/747420974174310400
+
+## 2016 Q3 — the argument staged as a conference slide — [[../batches/2016-q3|batch]]
+
+The identity fight stops being a Twitter exchange and becomes a public
+talk. At TMAcad (Sept 27), [[../entities/james-bach|Bach]]'s own
+session — titled "Future of the Testing Role" — includes a "How I differ
+from Maaret" slide; she suspects "James' view of me is not the future of
+the role." She defends her standing on the same terms as June's "hours"
+argument, now sharpened: he's labeled her "not a tester, and damaging
+the industry (of testers)" directly to others. Her response stays
+consistent with the year's whole arc — "I'm not unaccountable even if I
+refuse to donate my life to random arguments" — asserting the identity
+without re-litigating it point by point this time. See
+[[../entities/james-bach]] for the full incident and
+[[cdt-community-culture]] for the community response it triggered.
+
+Representative posts:
+- https://twitter.com/maaretp/status/781728868063412224
+- https://twitter.com/maaretp/status/781844810193838080
+- https://twitter.com/maaretp/status/781735270798520320

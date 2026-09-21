@@ -48,3 +48,33 @@ Representative posts:
 - https://twitter.com/maaretp/status/732954027605020672
 - https://twitter.com/maaretp/status/746616968816492544
 - https://twitter.com/maaretp/status/746400401210089472
+
+## 2016 Q3 — the disagreement about how to respond becomes its own conflict — [[../batches/2016-q3|batch]]
+
+The concept moves from meta-commentary into something she's actively
+fighting about. A sustained, painful exchange with @noahsussman
+(mid-July) over whether public confrontation is the right response to
+[[../entities/james-bach|Bach]]'s behavior: he pushes for visible
+accountability; she defends a private, 1:1-support approach — "I can't
+stop or change James (have tried), so I choose to focus on helping other
+victims outside this noisy media" — and names the encounter itself as
+harmful: "Classic attack. :( Time to stop, I feel offended." A parallel,
+longer-running friction with @AGareev peaks late July: "You're aware
+that this mission of yours to assign blame feels worse for me than what
+James did, because this continues on and on?" — naming the *pursuit* of
+accountability as its own cost, distinct from the original behavior.
+She reports private discussions with others who are leaving Twitter over
+the negativity, and processes her own part in it publicly: "Blogged on a
+personal trigger: the abuse terminology" and "Blogged on my realization
+of what I'm doing wrong on twitter." The quarter closes with the
+concept's clearest embodiment yet — Bach's public TMAcad slide (see
+[[../entities/james-bach]]) — after which she restates her position
+without softening it: "I am not advocating for faked niceness. I'm
+advocating deep learning about how to treat others better, even ones we
+feel don't deserve it," and, distinguishing her stance precisely: "I'm
+not against debate. I'm against argument culture."
+
+Representative posts:
+- https://twitter.com/maaretp/status/752289416085966848
+- https://twitter.com/maaretp/status/756233596944474113
+- https://twitter.com/maaretp/status/781734889024544768

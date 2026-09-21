@@ -166,3 +166,24 @@ Representative posts:
 - https://twitter.com/maaretp/status/727243462559461376
 - https://twitter.com/maaretp/status/720573071778779136
 - https://twitter.com/maaretp/status/748245001184907265
+
+## 2016 Q3 — the guidebook keeps climbing, #testgems launches, first keynote lands — [[../batches/2016-q3|batch]]
+
+The **Mob Programming Guidebook** passes 350 readers (July 27) then 380
+(Sept 24). She launches **#testgems**, a Ministry of Testing webinar
+series for new voices, co-hosted with @ru_altom, kicking off Aug 22.
+Q2's "finally keynoting this autumn" resolves concretely: she keynotes
+at Test Master's Academy (Sept 27) — the same event where the
+[[../entities/james-bach|Bach]] incident happens (see that page and
+[[tester-identity]]). At [[../entities/f-secure|her new job]] (starting
+Sept 12), mob programming and strong-style pairing are already the norm
+on the team she joins, and she's back to hands-on #MobTesting within her
+first week. The **ApprovalTests** fascination from Q2 continues into a
+concrete teaching role: a 2-day test-automation course (14 of 15
+positive reviews) built around mobbing through Selenium, JUnit, and
+ApprovalTests exercises together.
+
+Representative posts:
+- https://twitter.com/maaretp/status/758308992561086464
+- https://twitter.com/maaretp/status/767782492891906050
+- https://twitter.com/maaretp/status/773875009894879232

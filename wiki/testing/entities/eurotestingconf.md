@@ -68,3 +68,22 @@ women speakers and higher ticket sales for a similar conference.
 
 Representative posts:
 - https://twitter.com/maaretp/status/748245001184907265
+
+## 2016 Q3 — near gender parity, and speeding up reimbursement — [[../batches/2016-q3|batch]]
+
+Two milestones in the 2017 planning. First, submission review reaches a
+kind of parity she names explicitly for the first time: "I got to tell
+no to almost as many women as men for #EuroTestConf" — rejections, not
+just acceptances, now roughly balanced by gender, meaning the applicant
+pool itself is balanced. Second, she pushes the
+[[../concepts/pay-to-speak|#PayToSpeak]] model further than just paying
+speakers — blogging on cutting the *wait time* before speakers get
+reimbursed ("Speakers != a loan office") and sending expense-claim links
+so people can invoice as costs are incurred rather than after the event.
+A parallel travel-pay experiment runs at #Agile2016 to test a new
+compensation model before applying it to 2017.
+
+Representative posts:
+- https://twitter.com/maaretp/status/776279670807470080
+- https://twitter.com/maaretp/status/779203464966574080
+- https://twitter.com/maaretp/status/752511982155272192

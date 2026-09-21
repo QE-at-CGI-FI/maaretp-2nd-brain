@@ -203,3 +203,46 @@ Representative posts:
 - https://twitter.com/maaretp/status/747416272279904256
 - https://twitter.com/maaretp/status/747417671659061248
 - https://twitter.com/maaretp/status/746400401210089472
+
+## 2016 Q3 — a public conference attack, and new history revealed — [[../batches/2016-q3|batch]]
+
+The relationship's worst point in the archive so far, unfolding across
+the whole quarter rather than one incident.
+
+- **Mid-July**: defending herself in a long exchange with @noahsussman
+  and @AGareev about how to respond to his behavior, she discloses new
+  history — "When James Bach blocked me 1st time and then announced I'm
+  no longer a tester, I got to meet a lot of the ones who seem silent"
+  (confirming, for the first time, that the 2014 block came with a
+  public declaration that she wasn't a real tester) — and that
+  organizations are quietly choosing not to buy his training as a result.
+  She resists the push toward public confrontation, preferring private
+  1:1 support of people he's affected, and names the emotional cost
+  directly in two blog posts: "on a personal trigger: the abuse
+  terminology" and "on my realization of what I'm doing wrong on
+  twitter."
+- **Sept 27, TMAcad**: during his own conference talk ("Future of the
+  Testing Role"), he puts up a slide titled "How I differ from Maaret"
+  that she calls full of misrepresentation, then keeps going when an
+  audience member asks to hear the actual talk instead — "misuse of his
+  power position as speaker... unsafety undermining my community speaker
+  encouragement work." He's since labeled her "not a tester" and
+  "damaging the industry" directly to others.
+- **New history disclosed**: beyond the documented 2014 block, she
+  reveals "he blocked and unblocked me twice. On the second time, I just
+  did not follow him again. I sense a third time" — meaning the
+  relationship has cycled through block/unblock more than once outside
+  what's recorded elsewhere in this wiki; exact dates aren't given.
+
+She holds a consistent public position through all of it — "I respect
+James' past (and some of current) contributions... I don't need to sink
+to his level" — while privately naming real hurt. See
+[[../concepts/cdt-community-culture]] for the wider debate this
+triggered about public vs. private responses to bad community behavior,
+and [[../concepts/tester-identity]] for the identity content of the
+TMAcad slide itself.
+
+Representative posts:
+- https://twitter.com/maaretp/status/752284904075956224
+- https://twitter.com/maaretp/status/780877622523863041
+- https://twitter.com/maaretp/status/781844275445325825

@@ -82,4 +82,17 @@ that the 2014 Bach block genuinely hurt — surfaced via a testing-wiki
 community-culture discussion, see
 `../testing/concepts/cdt-community-culture.md`).
 
+## [2026-09-21] ingest | 2016 Q3 (1121 posts, 775 after dropping retweets)
+Created batch page [[batches/2016-q3]]. Added 2016-Q3 sections to
+concepts/career-direction.md (the job-change question resolves — new
+role at F-Secure — while the long-running US/relocation thread appears
+to quietly die rather than resolve explicitly), entities/family.md (a
+programming-origin detail fact-checked with her mother), and
+concepts/self-understanding.md (social anxiety named directly for the
+first time, distinct from general "introvert" language; a rare public
+low point over her writing). The heaviest professional conflict of the
+year (James Bach) runs through this quarter — see
+`../testing/entities/james-bach.md` and
+`../testing/concepts/cdt-community-culture.md`.
+
 <!-- newest entries at the bottom -->

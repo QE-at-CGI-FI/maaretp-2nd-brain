@@ -200,3 +200,24 @@ Representative posts:
 - https://twitter.com/maaretp/status/740913262963920896
 - https://twitter.com/maaretp/status/738256558946193409
 - https://twitter.com/maaretp/status/745504956170440704
+
+## 2016 Q3 — a sustained public fight, and a formal commitment — [[../batches/2016-q3|batch]]
+
+A pointed, sustained public dispute with @paul_gerrard (Aug 29) over an
+all-male webinar/keynote lineup at #esconfs: "Do you really think
+excluding women & minorities enables diversity of ideas?" and, naming
+the mechanism precisely, "Being invited. E.g Six slots all invite, 0
+women." She names the compounding effect directly — "The less women we
+see speaking, the less worthy we feel to speak" — and signs a formal
+**diversity charter** for events (Sept 22). See
+[[../entities/eurotestingconf]] for the same quarter's near-parity
+milestone in her own conference's submissions. A smaller but telling
+data point: her own test-automation course this quarter runs 8/15 women
+— "this gender split is what I live with regularly" — and she notes
+courses/meetups run by women draw more women, a pattern she's observed
+but not seen researched.
+
+Representative posts:
+- https://twitter.com/maaretp/status/770187947643666436
+- https://twitter.com/maaretp/status/778962001519382530
+- https://twitter.com/maaretp/status/770335728798670848

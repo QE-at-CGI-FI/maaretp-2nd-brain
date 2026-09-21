@@ -85,3 +85,21 @@ Representative posts:
 - https://twitter.com/maaretp/status/721466775276253188
 - https://twitter.com/maaretp/status/740208478338289664
 - https://twitter.com/maaretp/status/740223478708752385
+
+## 2016 Q3 — living the contradiction, and pushing past payment itself — [[../batches/2016-q3|batch]]
+
+She names her own exposure to the problem directly while at #Agile2016:
+"I still think conferences should pay the speaker's travel + stay. I'm
+at #Agile2016 speaking while paying my travel. Privilege in play" —
+practicing the advocacy doesn't mean she's opted out of the cost
+herself. The campaign also pushes past the pay/don't-pay binary into
+mechanics: [[../entities/eurotestingconf|EuroTestConf]] speeds up
+reimbursement timing, not just amount (see that page), and she starts
+naming a further, more radical ask — paying for the *submission work*
+itself, win or lose: "I dream of a world where conferences would pay for
+the submission work. I'm getting a point of being against unpaid work."
+
+Representative posts:
+- https://twitter.com/maaretp/status/758645623830831108
+- https://twitter.com/maaretp/status/779631393924153344
+- https://twitter.com/maaretp/status/758718985164775424

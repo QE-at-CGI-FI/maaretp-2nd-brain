@@ -177,3 +177,30 @@ Representative posts:
 - https://twitter.com/maaretp/status/720954326756278272
 - https://twitter.com/maaretp/status/722318870581768192
 - https://twitter.com/maaretp/status/736157800913506304
+
+## 2016 Q3 — a real job change, and the relocation thread appears to quietly die — [[../batches/2016-q3|batch]]
+
+Two developments, one resolved and one likely abandoned:
+
+- **The job move resolves**: leaves her employer of ~4.5 years
+  (unnamed until now — Granlund) on Sept 2, starts at
+  **[[../../testing/entities/f-secure|F-Secure]]** on Sept 12, a company
+  she'd worked at once before, pre-archive. Framed as passive, not
+  sought — "they made me feel they want me... I wasn't really looking" —
+  a different register than Q2's effortful "chose quality of life and
+  family" decision; the wiki can't confirm whether these describe the
+  same opportunity or two separate ones.
+- **The US/relocation thread, likely dead**: early in the quarter (July
+  2) she says "Preparing to change countries. So this is just
+  practical" while giving away belongings — consistent with the Q1
+  book-packing logistics. But by September she's taken a new job at a
+  Finnish company, describing it as "home ground." Nothing in the
+  archive explicitly closes the relocation question, but taking root in
+  a new Finnish role reads as the thread quietly ending rather than
+  resuming — flagged here as likely abandoned rather than asserted as
+  confirmed, since no tweet directly says so.
+
+Representative posts:
+- https://twitter.com/maaretp/status/749311119706259457
+- https://twitter.com/maaretp/status/767957283913564160
+- https://twitter.com/maaretp/status/776117686065631233

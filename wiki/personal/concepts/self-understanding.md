@@ -221,3 +221,30 @@ Representative posts:
 - https://twitter.com/maaretp/status/721001726803886080
 - https://twitter.com/maaretp/status/745006818229891073
 - https://twitter.com/maaretp/status/746400401210089472
+
+## 2016 Q3 — social anxiety named directly, and a public low point — [[../batches/2016-q3|batch]]
+
+Two new pieces of direct self-disclosure, both against the backdrop of
+the year's worst professional conflict (see
+`../../testing/entities/james-bach.md` and
+`../../testing/concepts/cdt-community-culture.md`):
+
+- **Social anxiety, named plainly for the first time**: "I have social
+  anxiety with new people. Speaking helps them speak to me on things I
+  speak about" and "I'm terrified of small talk and forced discussions."
+  Reframes years of "introvert" self-description (2011–) into something
+  more specific and clinical-sounding than before.
+- **A public low point over her writing**: "my blog is not an
+  authoritative source and attacking me for writing makes me just want
+  to quit. Feeling down" (Aug 2) — a rare moment where the usual
+  resilience ("I enjoy writing") visibly cracks before recovering within
+  the same thread.
+
+Both sit alongside — but are recorded here as personal self-knowledge,
+distinct from — the professional-side account of the Bach conflict this
+quarter, which is the heaviest single thread of the batch.
+
+Representative posts:
+- https://twitter.com/maaretp/status/781216249678364672
+- https://twitter.com/maaretp/status/781218424898936832
+- https://twitter.com/maaretp/status/760502428169109504

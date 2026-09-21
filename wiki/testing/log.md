@@ -129,4 +129,20 @@ concepts/whole-team-testing (MobProgConf Boston, ApprovalTests
 fascination begins). Also added a short 2016-Q2 note to
 entities/eurotestingconf (2017 keynote planning begins).
 
+## [2026-09-21] ingest | 2016 Q3 (1121 posts, 775 after dropping retweets, heaviest conflict quarter yet)
+Created batch page [[batches/2016-q3]] and 1 new entity page
+(f-secure — new employer from Sept 2016, a return after ~7-8 years;
+Granlund named for the first time as the prior employer). Added
+2016-Q3 sections to 7 existing pages: entities/james-bach (a public
+conference attack at TMAcad, new block/unblock history revealed),
+concepts/cdt-community-culture (the response-to-bad-behavior debate
+becomes its own painful fight with @noahsussman and @AGareev),
+concepts/tester-identity (the Bach conflict staged as a conference
+slide), entities/eurotestingconf (near gender parity in submissions,
+faster reimbursement), concepts/pay-to-speak (naming her own exposure
+to the problem; pushing to pay for submission work itself),
+concepts/gender-in-tech (a sustained public dispute with @paul_gerrard;
+diversity charter signed), and concepts/whole-team-testing (Guidebook
+passes 380 readers, #testgems launches, first keynote lands).
+
 <!-- newest entries at the bottom -->
