@@ -58,3 +58,22 @@ Representative posts:
 - https://twitter.com/maaretp/status/532778227912437760
 - https://twitter.com/maaretp/status/532979749996744704
 - https://twitter.com/maaretp/status/540232277561991168
+
+## 2015 Q2 — mob testing, first-hand — [[../batches/2015-q2|batch]]
+
+The Mob Programming thread (Woody Zuill, 2014) extends into a new
+practice: **mob testing**, experienced first-hand at #xp2015 — "very
+powerful group learning to how to analyse a feature and find bugs...
+Changes how I teach." Blogs the lessons afterward. Ties to a reframing
+she voices the same week: "tests as artifact — something you write" vs.
+her preference, "tests as performance — something you do." AgileFinland's
+Tech Excellence pod runs a TDD mobbing session and a separate legacy-code
+workshop (Peel & Slice) — whole-team practice now has a recurring local
+venue, not just conference exposure. By quarter's end she's asking
+AgileFinland about organizing a full mob programming conference for
+September.
+
+Representative posts:
+- https://twitter.com/maaretp/status/602907206695178240
+- https://twitter.com/maaretp/status/603185155008782336
+- https://twitter.com/maaretp/status/603893994255421440

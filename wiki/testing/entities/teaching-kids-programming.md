@@ -47,3 +47,21 @@ Representative posts:
 - https://twitter.com/maaretp/status/572766762124611584
 - https://twitter.com/maaretp/status/575212660612022272
 - https://twitter.com/maaretp/status/580262713621889024
+
+## 2015 Q2 — [[../batches/2015-q2|batch]]
+
+Her own kids get directly involved for the first time as participants,
+not just an inspiration: they playtest Linda Liukas's **Hello Ruby** with
+her, coming away talking about CPU/DPU/RAM/ROM as "inhabitants of the
+computer." A small, specific detail: her daughter's self-selected
+"remote controller" action in the game is "make mom happy." Separately,
+she requests man-woman pairs for kids' teaching sessions specifically "to
+model what is right" (see [[../concepts/gender-in-tech]]), and blogs
+about deliberately avoiding passing her own biases on to kids given
+programming's move into the national curriculum from 2016 — "9 years in
+school, an hour at a time adds up."
+
+Representative posts:
+- https://twitter.com/maaretp/status/608971003033739264
+- https://twitter.com/maaretp/status/609278257339453440
+- https://twitter.com/maaretp/status/612722306641711107

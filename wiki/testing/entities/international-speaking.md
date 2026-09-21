@@ -37,3 +37,19 @@ Representative posts:
 - https://twitter.com/maaretp/status/581908164272095232
 - https://twitter.com/maaretp/status/558952076106268672
 - https://twitter.com/maaretp/status/557537995814092800
+
+## 2015 Q2 — [[../batches/2015-q2|batch]]
+
+The pace holds. STPCon (San Diego, Apr 1–2) and an Agile San Diego
+meetup talk open the quarter; a keynote and workshop follow at #BTDconf,
+plus — new this quarter — "a keynote in Estonia." She announces an
+**Exploratory Testing Work Course in Brighton, UK (Oct 22)** with the
+Ministry of Testing, and books a talk on "Intrapreneurial Testing" for
+FiSTB Testing Assembly in September. No sign of the pace slowing or the
+US work-permit/consultancy question from Q1 resolving — see
+`../../personal/concepts/career-direction.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/583298498499510273
+- https://twitter.com/maaretp/status/599955957586735104
+- https://twitter.com/maaretp/status/600004672863215616

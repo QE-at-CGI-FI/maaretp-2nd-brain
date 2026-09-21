@@ -63,3 +63,23 @@ Representative posts:
 - https://twitter.com/maaretp/status/576031769704693760
 - https://twitter.com/maaretp/status/576034719927795712
 - https://twitter.com/maaretp/status/577595267383427072
+
+## 2015 Q2 — [[../batches/2015-q2|batch]]
+
+Sharpest statement yet of the identity-not-role distinction, in a thread
+with @SmartGoogler: developers can test (reframes "developer changes the
+code, introduces a new bug, she tests the fix" to show testing isn't
+gatekept), testers can fix production code without stopping being
+testers, and the line she draws isn't around tasks at all — "I draw the
+line with my *identity* not the tasks I do." Also, in the parallel
+[[../entities/michael-bolton|Bolton]] debate: "I don't see the gatekeeper
+role metaphor as the right one to consider... goalies _can_ leave the
+goal," and "I prefer to view the world as a place where I'm blocked by my
+(lack of) skills, not my role." Consistent with 2014's formulation but now
+applied specifically to the boundary question — what a tester is and isn't
+"allowed" to do — rather than the label itself.
+
+Representative posts:
+- https://twitter.com/maaretp/status/610362871193698304
+- https://twitter.com/maaretp/status/610363505942896641
+- https://twitter.com/maaretp/status/610312523074641920

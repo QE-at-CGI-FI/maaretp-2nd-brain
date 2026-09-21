@@ -88,3 +88,18 @@ Representative posts:
 - https://twitter.com/maaretp/status/492820220554534912
 - https://twitter.com/maaretp/status/466140203326124032
 - https://twitter.com/maaretp/status/517617400095969280
+
+## 2015 Q2 — [[../batches/2015-q2|batch]]
+
+**Kids' ages confirmed: 6 and 7.** Both play-test Linda Liukas's *Hello
+Ruby* with her ("Ruby's birthday party sounds like fun! Loving her
+work."), coming away talking about CPU/DPU/RAM/ROM as "inhabitants of the
+computer" — the [[../../testing/entities/teaching-kids-programming|kids'
+coding]] thread now runs through her own household directly. A small,
+specific detail: her daughter's self-selected "remote controller" action
+in the game is "make mom happy."
+
+Representative posts:
+- https://twitter.com/maaretp/status/608971003033739264
+- https://twitter.com/maaretp/status/609278257339453440
+- https://twitter.com/maaretp/status/612886992959983616

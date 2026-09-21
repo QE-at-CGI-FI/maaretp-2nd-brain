@@ -62,3 +62,25 @@ RST students often walk away remembering the versus and losing the nuance.
 This is the most sustained, structured disagreement she has with Bach in
 the whole archive — see [[../entities/james-bach]] and
 [[../batches/2013]].
+
+## 2015 Q2 — [[../batches/2015-q2|batch]]
+
+The most intense round of this debate since 2013, this time with
+[[../entities/michael-bolton|Bolton]] over nearly a week (9–15 June). New
+ground: whether *creating* a check counts as testing rather than
+checking ("isn't checking using programming to the domain of testing:
+collecting info about the product. Creativity in simplifying for
+computers"), and pushback on redefining automation-heavy programmer-
+testers as mere "checkers" as "a bit insulting." She holds a consistent
+line — testing isn't ensuring, it's (partial) information; quality is
+abstract — but the exchange visibly wears on her: "I've been seriously
+considering stopping work on software. The industry needs to learn to be
+nicer." Processes it in two blog posts afterward: "my trouble with
+checking vs. testing" and "feeling like an idiot with all the word play."
+See [[../entities/michael-bolton]] and [[tester-identity]] for the
+adjacent identity/role thread in the same exchange.
+
+Representative posts:
+- https://twitter.com/maaretp/status/609267558412324864
+- https://twitter.com/maaretp/status/609278257339453440
+- https://twitter.com/maaretp/status/609716323183104000

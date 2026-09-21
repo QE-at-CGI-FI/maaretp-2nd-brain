@@ -41,3 +41,18 @@ Representative posts:
 - https://twitter.com/maaretp/status/474248781895303170
 - https://twitter.com/maaretp/status/503111562467758080
 - https://twitter.com/maaretp/status/537175285666701312
+
+## 2015 Q2 — [[../batches/2015-q2|batch]]
+
+The **Tech Excellence pod** becomes a recurring local venue for
+[[../concepts/whole-team-testing|whole-team practice]]: a TDD mobbing
+session and a separate legacy-code (Peel & Slice) workshop. By late June
+she's asking the AgileFinland community about hosting a full mob
+programming conference (Woody Zuill keynote) in September — a bigger,
+Tampere-Goes-Agile-scale ambition growing directly out of the pod's
+smaller sessions.
+
+Representative posts:
+- https://twitter.com/maaretp/status/603930707078033408
+- https://twitter.com/maaretp/status/610788439718502400
+- https://twitter.com/maaretp/status/614843155880538112

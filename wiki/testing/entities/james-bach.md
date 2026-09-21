@@ -107,3 +107,23 @@ Whether the block itself was lifted isn't confirmed either way — see
 Representative posts:
 - https://twitter.com/maaretp/status/580293868299677696
 - https://twitter.com/maaretp/status/577547192426188800
+
+## 2015 Q2 — friction, not a thaw — [[../batches/2015-q2|batch]]
+
+The cautious re-engagement from Q1 doesn't hold. A tense exchange on 26
+June (in the context of a wider CDT/Australian testers spat) has her
+saying she's spent "a lot of time explaining CDT != you," that his
+"chosen style" makes her life harder, and — in a line that reads as her
+quoting back something said to her rather than her own voice — "Grow up,
+Maaret. Stop expecting you care. Finland is fine." She ends the thread
+self-aware rather than resolved: "I need to learn to stop these. Let me
+just say I respect your professional contribution a lot + you as a person
+I've met," and separately, "I will never stop believing, but I will stop
+making an effort." No mention of the 2014 block itself this quarter, in
+either direction — but the tone answers the Q1 "possible thaw?" question:
+not a rupture repeat, but not warm either.
+
+Representative posts:
+- https://twitter.com/maaretp/status/614484563281186816
+- https://twitter.com/maaretp/status/614536062384345088
+- https://twitter.com/maaretp/status/614539504699973638
