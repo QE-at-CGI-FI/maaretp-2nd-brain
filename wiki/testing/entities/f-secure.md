@@ -69,3 +69,19 @@ Representative posts:
 - https://twitter.com/maaretp/status/821406684027437056
 - https://twitter.com/maaretp/status/841197757528436737
 - https://twitter.com/maaretp/status/837603316209188864
+
+## 2017 Q2 — Poznan confirmed, a 15-year-old joins the team — [[../batches/2017-q2|batch]]
+
+The Q1 hint of a Poland-based teammate is now explicit: "my teams in
+Helsinki and Poznan" — the product team spans two countries, recruiting
+in both. A notable, warmly-written thread this quarter: a **15-year-old
+joins as a full team member for a summer job**, strong-style pairing
+with her on testing and automation from day one — "Feeling delighted
+that some bugs I couldn't get fixed get fixed with a 15-yo reporting
+them. I expected and planned for this." See
+[[../concepts/whole-team-testing]] for the teaching detail.
+
+Representative posts:
+- https://twitter.com/maaretp/status/879282250961080320
+- https://twitter.com/maaretp/status/870161384914513920
+- https://twitter.com/maaretp/status/876771405081214976

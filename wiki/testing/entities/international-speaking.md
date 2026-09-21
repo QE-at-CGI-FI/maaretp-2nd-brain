@@ -181,3 +181,20 @@ Representative posts:
 - https://twitter.com/maaretp/status/826110534214877184
 - https://twitter.com/maaretp/status/845284631943548928
 - https://twitter.com/maaretp/status/845377042019471362
+
+## 2017 Q2 — the cutback finally actually holds — [[../batches/2017-q2|batch]]
+
+For the first time since the "slow down" intent first appeared (2015
+Q4), the numbers back it up: "Stats on my public talks 2015-2017: 75
+sessions. Since I had 60 in the two full years, this leaves this year's
+'I'm cutting down' a success," and a mid-quarter check-in confirms it —
+"12 done, 6 more scheduled. That's less than 30 still. Includes 4
+keynotes." Still real travel (CraftConf, nCrafts Paris, NTD2017
+Rotterdam, an #adriga17 opening keynote), just genuinely less of it than
+2015 or 2016. Unlike prior years, nothing in the text suggests this
+took active willpower — it reads as the natural result of liking her
+day-to-day work more (see [[f-secure]]).
+
+Representative posts:
+- https://twitter.com/maaretp/status/860477347128107008
+- https://twitter.com/maaretp/status/874634983201284096

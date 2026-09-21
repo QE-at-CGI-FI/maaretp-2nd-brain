@@ -116,3 +116,15 @@ Representative posts:
 - https://twitter.com/maaretp/status/830132026137313280
 - https://twitter.com/maaretp/status/831032728606875648
 - https://twitter.com/maaretp/status/847054263230627840
+
+## 2017 Q2 — 2018 moves to Amsterdam — [[../batches/2017-q2|batch]]
+
+Planning for the next edition starts as soon as this year's speaker
+lineup work is done: the "#CallForCollaboration" for the **2018
+edition, relocating to Amsterdam** — the first time the conference
+leaves Finland since launching in Bucharest (2016) and running Helsinki
+(2017).
+
+Representative posts:
+- https://twitter.com/maaretp/status/867298432083537920
+- https://twitter.com/maaretp/status/878176143488176128

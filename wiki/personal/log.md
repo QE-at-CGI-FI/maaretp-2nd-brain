@@ -114,4 +114,12 @@ first time), concepts/writing-a-book.md (a second book,
 #ExploratoryTestingBook, starts), and concepts/career-direction.md (the
 F-Secure commute cost tallied at 250 hours).
 
+## [2026-09-21] ingest | 2017 Q2 (358 posts, 199 after dropping retweets, thinnest quarter yet)
+Created batch page [[batches/2017-q2]]. Added a 2017-Q2 section to
+concepts/self-understanding.md only (a security/networks academic
+background detail tied to a named area of imposter syndrome; the
+recognition-wound pattern from Q1 recurs in a new context). No updates
+to entities/family.md or concepts/career-direction.md — nothing new
+surfaced this quarter.
+
 <!-- newest entries at the bottom -->

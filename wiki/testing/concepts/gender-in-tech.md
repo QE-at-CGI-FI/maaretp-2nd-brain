@@ -259,3 +259,25 @@ Representative posts:
 - https://twitter.com/maaretp/status/833637535607820289
 - https://twitter.com/maaretp/status/830378413215072257
 - https://twitter.com/maaretp/status/839421041546002432
+
+## 2017 Q2 — excluded from a list she was nominated for, a small counter-win — [[../batches/2017-q2|batch]]
+
+A new variant of the recognition wound running alongside the Finnish
+Tester-of-the-Year pattern (see
+`../../personal/concepts/self-understanding.md`): excluded from a
+public "women in testing" list despite being nominated by many people —
+"many people tried which makes it all the worse that they don't just
+exclude me, but people who cared for me" — and explicitly not
+attributing it to malice, just structural invisibility. Continues
+pushing back on "guys" as address ("Never identified into that group"),
+and gets a real counter-data-point the same month: she makes @mheusser's
+"The Gurus" list — "#honored." Also has a pointed, terse exchange with
+[[../entities/michael-bolton|Bolton]] and others over historical
+credit bias (a prize given to a husband for work shared with his wife),
+ending it deliberately rather than continuing to argue: "instead of
+discussing with you, I will go back to my detailed technical work."
+
+Representative posts:
+- https://twitter.com/maaretp/status/859664270728060928
+- https://twitter.com/maaretp/status/863025212010496001
+- https://twitter.com/maaretp/status/871735643256258562

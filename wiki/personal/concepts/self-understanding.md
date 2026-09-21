@@ -291,3 +291,21 @@ Representative posts:
 - https://twitter.com/maaretp/status/845284631943548928
 - https://twitter.com/maaretp/status/845376364417105922
 - https://twitter.com/maaretp/status/842743418707230721
+
+## 2017 Q2 — an academic background detail, and the recognition wound recurs — [[../batches/2017-q2|batch]]
+
+A small but specific piece of background surfaces for the first time:
+"my studies were much around computer security and networks" — yet
+security is, by her own naming, "my 'area of imposter syndrome'" — a
+precise instance of the general imposter-syndrome pattern rather than a
+vague feeling. The Q1 recognition wound (Finnish Tester of the Year)
+gets a parallel this quarter: excluded from a public "women in testing"
+list despite being nominated by many — "just makes me feel like giving
+up" — recorded here as the same underlying pattern (being unseen despite
+visible effort and support from others) showing up in a second context.
+See `../../testing/concepts/gender-in-tech.md` for the professional-side
+account.
+
+Representative posts:
+- https://twitter.com/maaretp/status/854955579391053824
+- https://twitter.com/maaretp/status/859663166858547200

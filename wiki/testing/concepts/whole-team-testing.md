@@ -222,3 +222,21 @@ Representative posts:
 - https://twitter.com/maaretp/status/824722658751287298
 - https://twitter.com/maaretp/status/835095363543576578
 - https://twitter.com/maaretp/status/844441230788452352
+
+## 2017 Q2 — teaching a 15-year-old, one small win at a time — [[../batches/2017-q2|batch]]
+
+A sustained, gentle mentoring thread runs through the quarter: a
+15-year-old summer employee at [[../entities/f-secure|F-Secure]],
+strong-style paired on both exploratory testing and automation from
+day one. Concrete, specific wins recorded as they happen — going "from
+'I don't care to try code academy' to '50% of 1st course completed' in
+a day," discovering that emoji work as name-field input via a naughty
+strings reference sheet, then reporting real bugs unassisted by
+mid-June. She blogs it directly as "Pairing with a 15-year old,"
+treating it as a genuine case study in how fast someone new can become
+useful with the right pairing style, not just a warm anecdote.
+
+Representative posts:
+- https://twitter.com/maaretp/status/849564095854632960
+- https://twitter.com/maaretp/status/849645962066833408
+- https://twitter.com/maaretp/status/868054387935064064

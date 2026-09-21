@@ -271,3 +271,14 @@ Representative posts:
 - https://twitter.com/maaretp/status/782343598469746688
 - https://twitter.com/maaretp/status/782365145070702596
 - https://twitter.com/maaretp/status/782366015992791040
+
+## 2017 Q2 — a small, neutral reappearance — [[../batches/2017-q2|batch]]
+
+The first mention of him since the Q4 2016 cooldown, and it's entirely
+ordinary: sharing a link to his writing as a helpful resource for
+someone asking about testing pathways, no charge attached ("And this
+from James Bach [link]"). Consistent with the rest of 2017 so far — the
+relationship stays quiet rather than escalating again.
+
+Representative posts:
+- https://twitter.com/maaretp/status/855000706465619969

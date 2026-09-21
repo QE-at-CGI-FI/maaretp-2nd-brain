@@ -179,4 +179,17 @@ advocacy extends past testing into general women-in-tech). No new
 entity or concept pages this batch. James Bach does not appear at all
 this quarter — the Q4 2016 cooldown holds.
 
+## [2026-09-21] ingest | 2017 Q2 (358 posts, 199 after dropping retweets, thinnest quarter yet)
+Created batch page [[batches/2017-q2]]. Added 2017-Q2 sections to 6
+existing pages: entities/international-speaking (the years-long
+"cut down" intent finally actually holds — 75 sessions 2015-2017 vs 60
+in the prior two years), entities/eurotestingconf (2018 edition moves
+to Amsterdam), entities/f-secure (Poznan team confirmed, a 15-year-old
+summer employee), concepts/whole-team-testing (the mentoring thread
+with that 15-year-old, tracked week by week), entities/james-bach (a
+single brief, entirely neutral reappearance — the cooldown holds), and
+concepts/gender-in-tech (excluded from a women-in-testing list despite
+many nominations; makes a "Gurus" list the same month). No new entity
+or concept pages this batch.
+
 <!-- newest entries at the bottom -->
