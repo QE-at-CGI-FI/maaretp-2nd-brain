@@ -97,3 +97,18 @@ Representative posts:
 - https://twitter.com/maaretp/status/170775658690134017
 - https://twitter.com/maaretp/status/174145126388609024
 - https://twitter.com/maaretp/status/263513818032922624
+
+## 2015 Q2 — parked, not progressed — [[../batches/2015-q2|batch]]
+
+No new movement on relocation or the work-permit/consultancy question
+this quarter — the thread stays exactly where Q1 left it, warm but
+unresolved. The international-speaking pace itself keeps climbing
+instead (STPCon, Agile San Diego, BTDconf including an Estonia keynote,
+plus a Brighton course and a FiSTB talk booked for later in the year) —
+see `../../testing/entities/international-speaking.md` for detail. Worth
+watching whether the speaking circuit is quietly substituting for the
+relocation decision rather than building toward it.
+
+Representative posts:
+- https://twitter.com/maaretp/status/583298498499510273
+- https://twitter.com/maaretp/status/599955957586735104

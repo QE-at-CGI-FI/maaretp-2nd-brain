@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2014 done, 2015-Q1 done, 2015-Q2– not started).
+See [[../progress]] for what's been ingested (2010–2014 done, 2015-Q1–Q2 done, 2015-Q3– not started).
 
 ## Entities
 
@@ -54,3 +54,4 @@ See [[../progress]] for what's been ingested (2010–2014 done, 2015-Q1 done, 20
 - [[batches/2013|2013]] — 945 posts. Helsinki Testing Days delivers; joins AgileFinland exec committee and launches Tampere Goes Agile; sharpest-ever disagreement with James Bach; becomes a commercial BBST instructor.
 - [[batches/2014|2014]] — 1540 posts, biggest batch yet. James Bach blocks her; Stop ISO 29119 campaign; co-founds Testausyhdistys; Teaching Kids Programming reaches scale; "work abroad" dream returns with a booked US trip.
 - [[batches/2015-q1|2015 Q1]] — 491 posts. First quarterly batch (2015 on split into quarters). International speaking explodes (DEWT5, STPCon, TestBash); possible thaw with Bach; SpeakEasy mentorship.
+- [[batches/2015-q2|2015 Q2]] — 646 posts. Checking-vs-testing reignites hard with Bolton; friction (not a thaw) with Bach; first hands-on mob testing at XP2015; gender-in-tech advocacy busiest since 2014.

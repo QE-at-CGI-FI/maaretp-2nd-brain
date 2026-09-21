@@ -33,4 +33,14 @@ concepts/career-direction.md (US travel intensifies, work-permit question
 opens). No changes to entities/family.md or self-understanding.md this
 quarter — content was too thin to warrant additions.
 
+## [2026-09-21] ingest | 2015 Q2 (646 posts)
+Created batch page [[batches/2015-q2]] and 1 new concept page
+(writing-a-book — a book project surfaces this quarter, Scrivener/Git/
+Bitbucket, topic unknown). Added 2015-Q2 sections to entities/family.md
+(kids' ages confirmed at 6 and 7, Hello Ruby playtesting),
+concepts/self-understanding.md (industry-tone cost named directly,
+a self-aware admission during the Bach exchange), and
+concepts/career-direction.md (parked, not progressed — the speaking
+circuit expands in its place).
+
 <!-- newest entries at the bottom -->

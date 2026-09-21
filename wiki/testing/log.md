@@ -59,4 +59,15 @@ concept pages (tester-identity, gender-in-tech). 2015 split into
 quarters going forward per CLAUDE.md guidance for dense years — see
 wiki/progress.md.
 
+## [2026-09-21] ingest | 2015 Q2 (646 posts)
+Created batch page [[batches/2015-q2]]. Added 2015-Q2 sections to 8
+existing pages: entities/michael-bolton, entities/james-bach,
+entities/international-speaking, entities/teaching-kids-programming,
+entities/agilefinland, concepts/tester-identity,
+concepts/checking-vs-testing, concepts/gender-in-tech, and
+concepts/whole-team-testing (mob testing, first hands-on). No new entity
+or concept pages this batch. Checking-vs-testing reignites hard with
+Bolton (sharpest since 2013); the James Bach relationship shows friction
+rather than the "possible thaw" Q1 flagged — see entities/james-bach.md.
+
 <!-- newest entries at the bottom -->

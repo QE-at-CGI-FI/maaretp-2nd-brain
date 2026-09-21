@@ -18,7 +18,7 @@ quarters at ingest time — split rows here if you do.
 | 2013 | 945 | done (2026-09-21) | testing, personal | [[testing/batches/2013]], [[personal/batches/2013]] |
 | 2014 | 1540 | done (2026-09-21) | testing, personal | [[testing/batches/2014]], [[personal/batches/2014]] |
 | 2015-Q1 | 491 | done (2026-09-21) | testing, personal | [[testing/batches/2015-q1]], [[personal/batches/2015-q1]] |
-| 2015-Q2 | 646 | not started | | |
+| 2015-Q2 | 646 | done (2026-09-21) | testing, personal | [[testing/batches/2015-q2]], [[personal/batches/2015-q2]] |
 | 2015-Q3 | 979 | not started | | |
 | 2015-Q4 | 725 | not started | | |
 | 2016 | 4169 | not started | | |

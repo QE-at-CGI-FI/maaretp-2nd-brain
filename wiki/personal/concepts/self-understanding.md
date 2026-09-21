@@ -116,3 +116,24 @@ Representative posts:
 - https://twitter.com/maaretp/status/516618849685630976
 - https://twitter.com/maaretp/status/526719463685885953
 - https://twitter.com/maaretp/status/528153050729312257
+
+## 2015 Q2 — [[../batches/2015-q2|batch]]
+
+The professional-side [[../../testing/concepts/checking-vs-testing|word
+fight]] with Michael Bolton draws out a rare, direct statement of
+personal cost: "It's so unnice that I've been seriously considering
+stopping work on software. The industry needs to learn to be nicer" —
+not framed as a professional problem to solve, but as something wearing
+on her personally. A parallel exchange with James Bach ends the same way
+2012's RTI course did: naming a pattern about herself rather than the
+disagreement's content — "I need to learn to stop these." Also a small,
+sharp self-assertion against pressure to "stay relevant" through coding:
+"I'm fine with people loving code. But I don't want it imposed on me...
+I'm relevant already." See
+`../../testing/entities/michael-bolton.md` and
+`../../testing/entities/james-bach.md` for the professional-side detail.
+
+Representative posts:
+- https://twitter.com/maaretp/status/608271907050373120
+- https://twitter.com/maaretp/status/614539504699973638
+- https://twitter.com/maaretp/status/608271735583068160

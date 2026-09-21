@@ -8,7 +8,7 @@ Personal reflection, growth, and psychology synthesized from @maaretp's public p
 
 See [[../progress]] for what's been ingested (2010: no personal content;
 2011–2014: thin at first, substantial by 2014; 2015-Q1 done (thin again),
-2015-Q2– not started).
+2015-Q2 done, 2015-Q3– not started).
 
 ## Entities
 
@@ -18,6 +18,7 @@ See [[../progress]] for what's been ingested (2010: no personal content;
 
 - [[concepts/self-understanding|Self-Understanding]] — MBTI self-typing, learning style, gender, a bullying confession, a reported workplace incident
 - [[concepts/career-direction|Career Direction]] — the "work abroad" dream: acted on 2012, apparently settled 2013, returns hard in 2014 with a booked US trip
+- [[concepts/writing-a-book|Writing a Book]] — a book project surfaces 2015-Q2 (Scrivener, Git, Bitbucket), topic unknown
 
 ## Batches
 
@@ -26,3 +27,4 @@ See [[../progress]] for what's been ingested (2010: no personal content;
 - [[batches/2013|2013]] — most substantial yet at the time: kids' exact ages, gender named directly for the first time, a painful "unfit for my profession" disclosure.
 - [[batches/2014|2014]] — biggest and most difficult yet: a sister named, a bullying confession, a reported workplace sexist incident, and the "work abroad" dream returning hard after 2013 wrongly called it settled.
 - [[batches/2015-q1|2015 Q1]] — thin again: mostly small family color; the real thread is career-direction's continuation (US travel intensifies, work-permit question opens).
+- [[batches/2015-q2|2015 Q2]] — a book project surfaces; kids' ages confirmed (6, 7) and directly involved in Hello Ruby playtesting; career-direction stays parked while the speaking circuit expands instead.
