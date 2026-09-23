@@ -221,3 +221,119 @@ Representative posts:
 - https://twitter.com/maaretp/status/1057587763409797121
 - https://twitter.com/maaretp/status/1070776351718891523
 - https://twitter.com/maaretp/status/1074595126901727232
+
+## 2019 Q1 — fifth edition delivered in Valencia, and a peer-conference spin-off — [[../batches/2019-q1|batch]]
+
+Runs as planned in Valencia (14–15 Feb). The 200-person speedmeet format
+gets a deliberate redesign (encouraging stepping out mid-conversation) and
+its own dedicated blog post, "EuroTestConf SpeedMeet, how does it work?" A
+new ticketing system (@useTito) "saved a lot of nerves" this cycle. The
+LAWST-style peer workshop previewed in 2018 Q3 happens as planned (16 Feb)
+and gets a name: **[[et19|ET19]]** — "35 years" of exploratory testing
+reflection, co-run with @charrett and **Alex Schladebeck** (@alex_schl) —
+see the new [[et19]] entity page for the series itself. Also runs a public
+thread of anonymized code-of-conduct scenarios from past editions,
+extending the organizing-responsibility theme from 2018 Q2–Q3 into a
+teaching resource rather than a private lesson — see
+[[../concepts/cdt-community-culture]].
+
+Representative posts:
+- https://twitter.com/maaretp/status/1097496499926253571
+- https://twitter.com/maaretp/status/1097487379286372352
+- https://twitter.com/maaretp/status/1097186347952029697
+- https://twitter.com/maaretp/status/1095699400834404357
+
+## 2019 Q2 — the numbers made public, and real doubt about the model itself — [[../batches/2019-q2|batch]]
+
+The profit-sharing design (2015 Q3–) gets its most concrete accounting
+yet: "2019 finances are now clear — our profit sharing model ended up
+paying 1362 euros for a keynote talk and 273 euros for a regular track
+talk. We pay *every speaker* and share our risk and financial success."
+Defends the sums against @lisacrispin's skepticism with a cost
+breakdown: "after a year long production, organizer team's of 7 salary
+cut is less than 20k. The travel is reasonable. The pay is not. It's the
+audiences that need to change for this, not the conferences."
+
+By late May, though, the 2018 Q4 admission ("not the fairest... an
+experimentation platform") sharpens into open reconsideration of the
+model itself: "I'm really thinking #EuroTestConf needs to stop sharing
+profits and just cover expenses. The months of work in the background
+for the bureaucracy this entails are a reason I wanted to experiment
+with this, but now thinking it comes with too big of a cost — not just
+money." Traces the cost precisely across a long thread: paying
+non-incorporated speakers means each becomes a short-term employment
+contract with unpredictable tax jurisdiction ("we never know we will be
+paying people until after the conference... a 2–3 month project"), while
+incorporated speakers are straightforward — the entrepreneurship status
+of the recipient, not the sum, is what makes or breaks the payment.
+Concludes without fully resolving it: "I completely understand that
+conferences don't do this... Haven't really yet figured out what the
+change is for #EuroTestConf." Her sister does the bulk of the
+bureaucratic phone-work this cycle — "my secret weapon to navigating
+these jungles" — see
+`../../personal/entities/family.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1113476021951639552
+- https://twitter.com/maaretp/status/1113666244098633728
+- https://twitter.com/maaretp/status/1131205085567049728
+- https://twitter.com/maaretp/status/1131206222508625921
+- https://twitter.com/maaretp/status/1131206967266029568
+- https://twitter.com/maaretp/status/1131271111310749703
+
+## 2019 Q3 — three new organizers, paying participants get a real say, pronouns on every badge — [[../batches/2019-q3|batch]]
+
+The 2020 Call for Collaboration cycle opens with real organizational
+change: **three new organizers join** (@vibranttester, @alex_schl,
+@kriscorbus), and she floats moving toward an online format entirely,
+consistent with her stated preference for exploration over defending
+sunk practice. Defends the collaboration-call model's real cost
+directly in a blog: "Me saving 40 hours isn't worth the community
+losing 760 hours." A genuine process change this cycle: **paying
+ticket-holders get a formal say in programming, weighted above
+non-paying community input** — "those who pay should have more weight
+than us freebies" — a sharper resolution of the 2018 Q4 "not the
+fairest" admission than simply continuing to absorb the cost herself.
+Pronoun handling moves from opt-in stickers (2018) to structural: every
+badge is printed with the attendee's stated pronoun, collected at
+enrollment. A new, slightly ironic self-critique surfaces mid-cycle: for
+a *European* testing conference, this round's strongest collaboration
+calls have skewed American — "where are you, speakers on Testing and
+Quality in Europe?" The cycle closes with results announced, including
+**three paired talks for 2020**, each with full travel and hotel paid
+for both speakers — a further extension of the pay-every-speaker model
+into non-solo talk formats.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1154447951718223873
+- https://twitter.com/maaretp/status/1155911171687493633
+- https://twitter.com/maaretp/status/1169226873722851328
+- https://twitter.com/maaretp/status/1170619172126121985
+- https://twitter.com/maaretp/status/1166360846508929025
+- https://twitter.com/maaretp/status/1177632464442925057
+
+## 2020 Q1 — the fifth edition runs, announced in advance as the last — [[../batches/2020-q1|batch]]
+
+Before the cycle even opens, she names the ending on her own terms
+rather than letting it fade out: "Time to tell y'all something we've
+know a while: #EuroTestConf 2020, 5th edition is last in its series...
+The 2020 one will be awesome!" Gives the real reason plainly — not
+burnout in the dramatic sense, but a considered trade: "I want more
+time for other things. I decided I'll do 5 years. Profit sharing keeps
+the finances difficult and includes lots of work." Runs 6–7 February in
+Amsterdam as planned, with a full slate of organizers she thanks
+individually by name after — @vibranttester, @MaritvanDijk77,
+@AdharaIT, @Mirolitka, @al_innutza, @geeky_jazzy, @alex_schl — closing
+with real sentimentality: "it's been five awesome years of learning to
+organize this conference." External validation lands the same
+weekend: "this is the most diverse conference I have ever been to."
+The ending is planned, not forced — consistent with the pattern this
+page has tracked since 2015 Q3 of naming trade-offs directly rather
+than letting them go unspoken.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1214296903543853057
+- https://twitter.com/maaretp/status/1214305652178345985
+- https://twitter.com/maaretp/status/1220786205056491521
+- https://twitter.com/maaretp/status/1226076257621880832
+- https://twitter.com/maaretp/status/1226180279989145600

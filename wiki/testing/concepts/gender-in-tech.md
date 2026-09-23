@@ -472,3 +472,179 @@ Representative posts:
 - https://twitter.com/maaretp/status/953603570720563200
 - https://twitter.com/maaretp/status/966972570716311552
 - https://twitter.com/maaretp/status/969251269771776000
+
+## 2019 Q1 — the trainee pattern recurs, worse — [[../batches/2019-q1|batch]]
+
+The 2017 Q4/2018 Q1 pattern (wanting a girl trainee, getting told it's
+sexist to prefer one) recurs a third time, with a sharper self-directed
+edge: "I get a trainee in the team next summer. Again a young man" (Jan
+21), and by late March, resolved with visible reluctance — "I hate myself
+for accepting this. Monday is the day to fight to make room for a girl"
+— taking on a second (paired) trainee slot specifically to fix it rather
+than let one boy hire stand. Names the underlying tradeoff bluntly rather
+than softening it: girls entering the industry "get treated poorly on
+EVERY industry. At least this one pays a decent salary and us senior
+women with power and enlightened others are ready to stand up for more
+than ourselves."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1087381562591723520
+- https://twitter.com/maaretp/status/1111966657973489664
+- https://twitter.com/maaretp/status/1111967954600636416
+- https://twitter.com/maaretp/status/1111976222886633473
+
+## 2019 Q2 — the busiest hiring-pipeline quarter yet, and a scolded trainee — [[../batches/2019-q2|batch]]
+
+The trainee-hiring advocacy (2017 Q4–2019 Q1) scales into something
+closer to a personal recruiting operation: 30 contacts for an entry-
+level women-programmer position found "in an hour," "tens of women"
+interviewed with a 15-minute-pairing exercise instead of CV screening,
+[[../entities/mimmitkoodaa|MimmitKoodaa]] Python/React sessions hosted
+at [[../entities/f-secure|F-Secure]] and in Turku, and three summer
+trainees signed for three teams — one a 40-plus career changer, older
+than Maaret herself. A concrete new inclusion effort: asking a candidate
+whether they identify as "woman or non-binary" rather than assuming, an
+attempt not always well received.
+
+Two incidents sharpen the advocacy with real cost attached. First, a
+recruitment ad requiring "Mac in detail... fluent in Python, Swift and
+objective C" for a junior role — "guess how many women applied?" —
+named as an unforced structural error, not scarcity. Second, and more
+severe: a female trainee gets her first pull request approved, only for
+"a guy" to publicly scold her over it, discouraging her from trying
+again "for two years" — she names the compounding self-doubt directly:
+"we still look at what women do when moving to code with a higher
+standard than the men. Even I do, it's so well in the structures." A
+Finnish-language exchange with @eskohannula names a concrete, ugly
+example of the workplace culture the recruiting pipeline feeds into:
+a team meeting where a colleague was motivated to cooperate via "näytä
+tissit" ("show your tits") while a manager and ten coworkers stayed
+silent — offered as evidence against Hannula's claim of limited exposure
+to women coders' actual experience.
+
+The [[../entities/international-speaking|SpeakEasy]] mentoring pipeline
+(2015 Q1–) gets its first hard numbers: **19 graduates since SpeakEasy
+2.0, 60 matched with mentors not yet spoken, 60 more waiting to be
+matched** — a structural program, not anecdotal goodwill, now
+measurable at real scale.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1112696215865573378
+- https://twitter.com/maaretp/status/1114419158341623808
+- https://twitter.com/maaretp/status/1144871509980254208
+- https://twitter.com/maaretp/status/1144872327093637121
+- https://twitter.com/maaretp/status/1128402214270185472
+- https://twitter.com/maaretp/status/1144641518210289669
+
+## 2019 Q3 — a pay-equity data point, a hiring-on-merit critique, and MimmitKoodaa at 4000 — [[../batches/2019-q3|batch]]
+
+A concrete, external validation of the pay-gap advocacy: "Since July
+2019, #Nokia updated salaries of people having unfounded salary
+differences globally. Turns out over 90% of corrections were women."
+She independently spots the same pattern in her own conference's
+collaboration-call sample: "among the people lowest salaries belong to
+women. I caught *myself* making excuses to say it's ok. It isn't." Acts
+on it personally, not just advocates: "I confess to telling people
+seeking employment close to me what are the rates and specifically *my
+own salary* to help them negotiate." A sharper self-critique of hiring
+practice than in prior quarters: after hiring three summer interns, she
+concludes hiring on demonstrated merit rather than potential
+structurally excludes women — "there's no 16-yo woman with 6 years of
+programming experience" — a direct, first-person admission that a
+seemingly neutral hiring criterion isn't. Names her own reporting chain
+plainly for the first time: "there's nothing but white dudes in my
+reporting chain at work. It does not make me happy." **MimmitKoodaa's
+autumn launch reaches roughly 4000 people**, up from earlier
+mentions of thousands in the community but not a stated headcount — the
+clearest scale marker yet for the initiative she's taught for since
+2018 Q4.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1155189364865060864
+- https://twitter.com/maaretp/status/1166601374982971394
+- https://twitter.com/maaretp/status/1167368068387000321
+- https://twitter.com/maaretp/status/1167406035524628481
+- https://twitter.com/maaretp/status/1165593072388005888
+- https://twitter.com/maaretp/status/1167365901227876352
+
+## 2019 Q4 — a second consecutive all-women keynote lineup, and a recurring line from a colleague — [[../batches/2019-q4|batch]]
+
+[[../entities/eurotestingconf|EuroTestConf]]'s 2020 keynote lineup turns
+out all-women for a second consecutive year — "we did ask some men
+(really!) but they were not available" — and she names the double
+standard directly this time rather than just reporting the fact: "we
+always hear 'we asked women they were not available' is normalized
+until genders are swapped... the statement is obviously bad excuse." A
+live hiring-bias example: a colleague asks a female candidate to define
+an acronym as interview trivia and rejects her on it, without ever
+quizzing either of the two male candidates the same way — enough to
+make her float quotas as the more honest fix. A specific, ugly historical
+detail surfaces about the Finnish industry she's spent her career in:
+"20 years ago with 'internet bubble,' there was special work for women
+in IT companies — delight and decoration on programmer's desk and
+office. It was not just ads that drove women away from programming."
+And an exact, word-for-word recurrence from
+[[../batches/2019-q1|2019 Q1]]'s worst sexism disclosure: a colleague
+again offers "women only write comments in code" as a considered
+observation — the same line, from presumably a different person,
+several months later.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1179997378662817793
+- https://twitter.com/maaretp/status/1179998276818554882
+- https://twitter.com/maaretp/status/1185090183806541827
+- https://twitter.com/maaretp/status/1204321727238549504
+- https://twitter.com/maaretp/status/1200379208226295809
+
+## 2020 Q1 — a mirror to her own past, and a hardened quotas argument — [[../batches/2020-q1|batch]]
+
+An extended thread breaks from her usual register: describing a young
+"programmer-tester" close to giving up on the industry over the exact
+pattern this page has tracked in her own history for a decade — blamed
+for others' mistakes, typecast as "difficult" for defending herself —
+she names the resemblance directly rather than staying at arm's length:
+"the young woman isn't me. But it's like I'm looking at the mirror of my
+past." A sharper formulation of the quota argument than in prior
+quarters: "quotas increase competence levels by replacing mediocre
+men." A new instance of the attribution pattern named in 2019 Q4, this
+time from other women rather than men: "it still takes counting to 100
+in my head to hear how my ideas get attributed to my male colleagues -
+by my female colleagues." An all-male lineup at a Finnish testing event
+draws direct criticism for a structural excuse rather than intent:
+excluding women because "the research partners easy access
+representatives are not women."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1233286348162859009
+- https://twitter.com/maaretp/status/1233288488419778560
+- https://twitter.com/maaretp/status/1237108224807112705
+- https://twitter.com/maaretp/status/1227516137484832768
+- https://twitter.com/maaretp/status/1220403511688646657
+
+## 2020 Q2 — the same hiring-bias pattern at a new company, and blocking as protection — [[../batches/2020-q2|batch]]
+
+The recurring interview-trivia pattern (2017 Q4–2020 Q1) plays out again
+almost identically: a co-interviewer rejects a female candidate with two
+years of paid programming experience for not knowing an acronym, then
+asks no acronyms of a 15-year-old boy with no work experience, praising
+his "programming since age 9." She names the structural point sharper
+than before: "the recruiting managers hold a lot of power in who gets
+paid to learn to work... they blame 'pipeline' for lack of diverse
+options. They are a significant part of that pipeline." The 2019-Q4
+Falco mass-block gets reframed, in solidarity with a harassed Twitch
+streamer (@Katjaplays2), as a general principle rather than a one-off
+crisis response: "having been through blocking 3000 users on twitter
+because I needed a layer between me and someone else... protecting
+boundaries as you have only so many spoons isn't a form of bullying...
+block says that the consent of following isn't there." A new
+intersectional-language thread surfaces from Finnish legislation: "Finnish
+legislation seems to have reserved 'equality' for (white) men and women
+and 'equity' for all others" — read as a structural tell, not just
+wording.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1269606854168137730
+- https://twitter.com/maaretp/status/1269606401200066560
+- https://twitter.com/maaretp/status/1276382256563728385
+- https://twitter.com/maaretp/status/1276382709322059777
+- https://twitter.com/maaretp/status/1277531524984983552

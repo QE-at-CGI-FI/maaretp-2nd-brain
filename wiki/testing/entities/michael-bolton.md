@@ -158,3 +158,22 @@ Representative posts:
 - https://twitter.com/maaretp/status/726025469997490176
 - https://twitter.com/maaretp/status/732160039327268867
 - https://twitter.com/maaretp/status/746371957344575488
+
+## 2019 Q1 — "testers being powerless" called old-fashioned — [[../batches/2019-q1|batch]]
+
+A new, public break from his teaching, distinct in kind from 2018 Q2's
+"James is your problem" charge: replying to a thread with him and others
+(29 Mar), she calls his "testers are powerless, managers hold power"
+framing "old-fashioned," and argues automation collapses the distinction
+he still teaches — "The more we automate, the more we are also part of
+the rule set that pushes the buttons." Where 2013–2016's fights were
+mostly [[../concepts/checking-vs-testing|vocabulary]], this is a direct
+disagreement about testers' actual decision-making authority — "I look at
+this as timeline of 25 years and a selection of self-appointed gurus
+teaching testers their role. I'm saying it has changed and should change."
+No reply from him recorded in the batch.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1111495533577814017
+- https://twitter.com/maaretp/status/1111500970234728448
+- https://twitter.com/maaretp/status/1111516435585662976

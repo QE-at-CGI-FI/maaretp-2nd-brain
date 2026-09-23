@@ -190,4 +190,66 @@ per her own tweets in early October — it remains undocumented here
 per that same instruction. 2018 is now fully ingested across both
 wikis.
 
+## [2026-09-23] ingest | 2019 Q1 (745 posts, first 2019 batch)
+Created batch page [[batches/2019-q1]]. Added 2019-Q1 sections to 3
+existing pages: concepts/self-understanding (the most direct
+sexism-incident disclosure yet — specific remarks, specific settings,
+including a cruder incident recalled from further back), entities/family
+(daughter Emilia's first-open-space speaking debut at 7 recalled, a
+second speaking milestone prepared at #AgileIndia2019), and concepts/
+career-direction (a single unexplained forward marker — "summer 2021 I
+change jobs again as planned" — flagged to watch). 2019 is now underway
+across both wikis.
+
+## [2026-09-23] ingest | 2019 Q2 (873 posts, second 2019 batch)
+Created batch page [[batches/2019-q2]] and new concept page
+concepts/health-accommodation.md (a severe animal allergy, named for the
+first time, costing conference/workplace/family access — three separate
+incidents this quarter). Added 2019-Q2 sections to 3 existing pages:
+concepts/career-direction (a nearer, more concrete one-year
+management-exit marker alongside the still-open summer-2021 one),
+concepts/self-understanding (turning 45, a sharper university-isolation
+memory, a recurring "private secretary" success-fantasy, a new Patreon
+blog), and entities/family (son's Istanbul trip, a sister's load-bearing
+practical role).
+
+## [2026-09-23] ingest | 2019 Q4 (923 posts, fourth and final 2019 batch)
+Created batch page [[batches/2019-q4]]. Added 2019-Q4 sections to 3
+existing pages: entities/family (a relationship ends, entangled with a
+serious professional dispute — see testing/entities/llewellyn-falco.md;
+a daughter's ambivalence about the industry), concepts/self-understanding
+(insisting on the distinction between the breakup and harassment; a new
+"internalized misogyny"/self-erasure disclosure over uncredited research
+work), and concepts/career-direction (the exit plan turns into a public,
+external job search — the first time she's said she wants to leave her
+employer entirely). 2019 is now fully ingested across both wikis.
+
+## [2026-09-23] ingest | 2020 Q1 (842 posts, first 2020 batch)
+Created batch page [[batches/2020-q1]]. Added 2020-Q1 sections to 3
+existing pages: concepts/career-direction (the job search resolves into
+an actual move, to Vaisala), concepts/self-understanding (a named
+ex-partner identified as the source of years of "smile more" feedback;
+a 25-year career anniversary; a light "decrowning" callback), and
+entities/family (her daughter's continued presence at the F-Secure
+office in its final weeks).
+
+## [2026-09-23] ingest | 2020 Q2 (834 posts, second 2020 batch)
+Created batch page [[batches/2020-q2]]. Added 2020-Q2 sections to 3
+existing pages: concepts/career-direction (settles into Vaisala,
+naming what the old job lacked), concepts/writing-a-book (the Patreon
+experiment closes; the Exploratory Testing Book gets a real 25-year-
+anniversary deadline), and concepts/self-understanding (the Falco
+mass-block reframed as a standing boundary principle; a 46th
+birthday).
+
+## [2026-09-23] ingest | 2019 Q3 (890 posts, third 2019 batch)
+Created batch page [[batches/2019-q3]]. Added 2019-Q3 sections to 3
+existing pages: concepts/career-direction (the exit plan becomes a real,
+agreed conversation with her boss — "I'm a developer, not a manager"),
+concepts/self-understanding (naming ~40 as the age she finally found a
+programmer identity after CS-studies harassment; single motherhood
+named directly as friction for the first time), and entities/family (a
+genuine division-of-labor point of pride set against an ironic moment —
+her son still believes girls don't like computers).
+
 <!-- newest entries at the bottom -->

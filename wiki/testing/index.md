@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2018 done, 2019– not started).
+See [[../progress]] for what's been ingested (2010–2019 done, 2020-Q1–Q2 done, 2020-Q3– not started).
 
 ## Entities
 
@@ -37,6 +37,11 @@ See [[../progress]] for what's been ingested (2010–2018 done, 2019– not star
 - [[entities/eurotestingconf|EuroTestConf]] — her own conference, built as a #PayToSpeak-free alternative, launching Feb 2016
 - [[entities/f-secure|F-Secure]] — employer from Sept 2016, a return after ~7-8 years; previously at Granlund ~2012–2016; she becomes a manager there 2018-Q2
 - [[entities/mimmitkoodaa|MimmitKoodaa]] — Finnish women's-coding initiative, teaching for it from 2018-Q4
+- [[entities/et19|ET19]] — LAWST-style exploratory testing peer conference, launched Feb 2019
+- [[entities/tech-excellence|#TechExcellence]] — Helsinki technical-agile meetup, grows into a standalone conference launching June 2019
+- [[entities/ddd-europe|DDD Europe]] — Amsterdam DDD conference, first keynote Feb 2019
+- [[entities/llewellyn-falco|Llewellyn Falco]] — Mob Programming Guidebook co-author; a copyright dispute over the book ends in him doxxing her, 2019-Q4
+- [[entities/vaisala|Vaisala]] — her next employer after F-Secure, named 2020-Q1, start following an April 2020 departure
 
 ## Concepts
 
@@ -76,3 +81,9 @@ See [[../progress]] for what's been ingested (2010–2018 done, 2019– not star
 - [[batches/2018-q2|2018 Q2]] — 768 posts (473 after dropping retweets). The most consequential identity quarter since the 2016 Bach conflict: she becomes a manager for the first time since 2012, and launches a new sustained teaching practice (Experiential Exploratory Testing Training); a sharp break with Michael Bolton over his enablement of Bach's behavior; a real, weighed cut to the autumn speaking schedule for family.
 - [[batches/2018-q3|2018 Q3]] — 1513 posts (1112 after dropping retweets), densest quarter yet. She retires from unpaid conference speaking and it actually holds this time; EuroTestConf 2019 scales up hugely (311 submissions, +60% YoY); the management transition turns a real corner and she resumes a long-paused Computer Science degree.
 - [[batches/2018-q4|2018 Q4]] — 1131 posts (774 after dropping retweets), final 2018 batch. The speaking retirement nuances further (a 2019 circuit booked, year-end tally complicates the "cut back" story again); a new entity, MimmitKoodaa; real reorg pressure on the management role; a third book, Strong-Style Pairing, begins.
+- [[batches/2019-q1|2019 Q1]] — 745 posts, first 2019 batch. A second team and a self-limiting management goal ("removed as unnecessary by June 2020"); EuroTestConf's fifth edition spins off a peer conference, ET19; a new conference (#TechExcellence) and a first DDD Europe keynote; a new direct public break with Michael Bolton's teaching.
+- [[batches/2019-q2|2019 Q2]] — 873 posts, second 2019 batch. Old James Bach scars reopen indirectly over an "exploratory testing" terminology dispute with Dan Ashby/Noah Sussman, met with a public "SLA announcement"; #TechExcellence's first edition runs; EuroTestConf's finances go public alongside real doubt about the profit-sharing model; "minimum viable management" and a named one-year exit plan; the busiest gender-in-tech hiring quarter yet.
+- [[batches/2019-q3|2019 Q3]] — 890 posts, third 2019 batch. The one-year exit plan becomes a real conversation with her boss ("I'm a developer, not a manager"); a public rebuttal to the ET-deprecation fight and a new attended/unattended vocabulary proposal; ET19's second edition runs at CAST19; EuroTestConf gives paying participants weighted programming input; Nokia's pay-equity correction and a self-critique of merit-based hiring.
+- [[batches/2019-q4|2019 Q4]] — 923 posts, fourth and final 2019 batch. Mob Programming Guidebook co-author Llewellyn Falco doxxes her after a copyright dispute and a breakup; an unexpected reversal arguing for giving James Bach a second chance; the internal management-exit plan stalls and becomes a public external job search; talk #400 and a Top 100 Finnish IT influencer listing; #35YearsOfExploratoryTesting becomes real historical research. 2019 is now fully ingested.
+- [[batches/2020-q1|2020 Q1]] — 842 posts, first 2020 batch (year split into quarters, 4487 posts total). The management-transition arc resolves: steps down internally, then leaves F-Secure entirely for a new employer, Vaisala; EuroTestConf's 5th edition runs as its announced last; the Bach/Bolton reversal holds under a real test; "Mob Programming" itself starts getting retired in favor of Group/Ensemble Programming; COVID-19 enters the record.
+- [[batches/2020-q2|2020 Q2]] — 834 posts, second 2020 batch. Starts at Vaisala as principal engineer, testing embedded software; the Mob→Ensemble rename becomes real and committed; a recurring hiring-bias pattern recurs at the new company; the Falco mass-block gets reframed as a standing boundary-setting principle.

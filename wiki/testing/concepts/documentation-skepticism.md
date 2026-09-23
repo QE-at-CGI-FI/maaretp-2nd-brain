@@ -85,3 +85,40 @@ Representative posts:
 - https://twitter.com/maaretp/status/465027187075448832
 - https://twitter.com/maaretp/status/465140348881481728
 - https://twitter.com/maaretp/status/465172934525718528
+
+## 2019 Q1 — a costed comparison, and a Jira/PR ratio — [[../batches/2019-q1|batch]]
+
+Two concrete data points, sharper than the usual anecdote-level argument:
+"Two comparable projects in one organization where one believed in trust
+and discovery and other in detailing specs. Both succeeded. The latter
+cost 3M where the first was 1M. I lead testing in both" — a direct cost
+comparison she can point to, not just a preference. And, on ticket
+volume: "we had 500 of those [Jira tickets] pass through us last year...
+10 [pull requests] for every ticket. If every Jira ticket is a minute,
+that we saved a week of work" — reframing low ticket usage as a
+measurable saving rather than a missing-documentation risk. The
+underlying position is unchanged from 2010–2014 (documentation as tool,
+not deliverable) — what's new is being able to attach numbers to it.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1083644243363708928
+- https://twitter.com/maaretp/status/1087286172341153792
+- https://twitter.com/maaretp/status/1083368325562941440
+
+## 2019 Q2 — Jira as "a bad proxy for quality" — [[../batches/2019-q2|batch]]
+
+The 2019 Q1 ticket/PR ratio argument sharpens into a direct verdict:
+"Four days ago our test automation alerted us on a problem. Jira case
+got created. And today, it blocked our release. Lesson? Stop with the
+Jira cases, they are a bad proxy for quality." A three-year practice of
+skipping tickets for casual, direct bug mentions has "improved" fix
+rates and "removed the pushback that was strong at first" — the earlier
+numeric argument (2019 Q1) now backed by a multi-year track record
+rather than a single comparison. Names a specific anti-pattern of the
+tool used defensively rather than communicatively: "Jira ping pong where
+you keep your list clean by having it all on other people's queues."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1143475636423593986
+- https://twitter.com/maaretp/status/1143763278671355905
+- https://twitter.com/maaretp/status/1125785512663556096

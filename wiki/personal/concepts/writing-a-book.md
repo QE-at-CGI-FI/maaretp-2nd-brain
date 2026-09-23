@@ -99,3 +99,23 @@ Representative posts:
 - https://twitter.com/maaretp/status/1076970872639029251
 - https://twitter.com/maaretp/status/1078012356247150592
 - https://twitter.com/maaretp/status/1079742256356225025
+
+## 2020 Q2 — a Patreon experiment closes, and a 25-year-anniversary deadline — [[../batches/2020-q2|batch]]
+
+The Patreon experiment started in [[../batches/2019-q2|2019 Q2]] closes
+quietly: "my adventure to Patreon gave me $37.66 after taxes and fees,
+of total of $53. I owe lunch to [three named supporters] who stayed and
+supported me for the year. Now closing the account." The content
+migrates to her regular blog and a renamed outlet, "Seasoned Tester's
+Crystal Ball," rather than disappearing — consistent with her habit of
+never fully discarding earlier writing (see the 2019 Q3 "self-erasure"
+reflection in `../concepts/self-understanding.md` for the contrast: this
+time nothing gets lost). The Exploratory Testing Book (2017 Q1–) gets a
+real deadline for the first time: "Planning on finishing
+#ExploratoryTestingBook in 2020 for my 25-year career anniversary" — see
+`../../testing/entities/international-speaking.md` for the anniversary
+itself.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1249698015465672704
+- https://twitter.com/maaretp/status/1250485649527971841

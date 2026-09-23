@@ -7,8 +7,8 @@ tags: [index]
 Personal reflection, growth, and psychology synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
 See [[../progress]] for what's been ingested (2010: no personal content;
-2011–2017: thin at first, substantial by 2014; 2018 fully done, 2019–
-not started).
+2011–2017: thin at first, substantial by 2014; 2018–2019 fully done,
+2020-Q1–Q2 done, 2020-Q3– not started).
 
 ## Entities
 
@@ -19,6 +19,7 @@ not started).
 - [[concepts/self-understanding|Self-Understanding]] — MBTI self-typing, learning style, gender, a bullying confession, a reported workplace incident
 - [[concepts/career-direction|Career Direction]] — the "work abroad" dream: acted on 2012, apparently settled 2013, returns hard in 2014 with a booked US trip, appears to quietly die 2016-Q3 when she takes a new Finnish job
 - [[concepts/writing-a-book|Writing a Book]] — a book project surfaces 2015-Q2 (Scrivener, Git, Bitbucket), topic unknown
+- [[concepts/health-accommodation|Health & Accommodation Needs]] — a severe animal allergy, named directly for the first time 2019-Q2, costing conference/workplace/family access
 
 ## Batches
 
@@ -42,3 +43,9 @@ not started).
 - [[batches/2018-q2|2018 Q2]] — 768 posts (473 after dropping retweets), densest personal quarter since 2017 Q3. Career direction shifts to management for the first time since 2012, alongside a planned family tradeoff (three fall conferences cancelled); a real low point taking facilitation feedback as a new manager; the Exploratory Testing Book hits Publish.
 - [[batches/2018-q3|2018 Q3]] — 1513 posts (1112 after dropping retweets), most direct self-work quarter since 2016. Finds a therapist and does sustained direct work on anger; discloses a weight/health matter kept even from friends and a harassment-heavy university history; resumes a long-paused Computer Science degree.
 - [[batches/2018-q4|2018 Q4]] — 1131 posts (774 after dropping retweets), final 2018 batch. Quieter for self-reflection than Q3; the degree is confirmed as a Master of Science program; a defensive job-crafting episode; a third book begins; daughter Emilia confirmed at 10.
+- [[batches/2019-q1|2019 Q1]] — 745 posts, first 2019 batch. The most direct sexism-incident disclosure yet, naming specific remarks and settings; daughter Emilia's speaking history recalled and a second milestone prepared; a single unexplained forward marker on a future job change (summer 2021).
+- [[batches/2019-q2|2019 Q2]] — 873 posts, second 2019 batch. A nearer, more concrete career-exit marker (one year, toward developer work) alongside the still-unresolved summer-2021 one; turning 45; a new concept page for a severe animal allergy costing conference, workplace, and family access; her sister emerges as a load-bearing practical presence.
+- [[batches/2019-q3|2019 Q3]] — 890 posts, third 2019 batch. The exit plan becomes a real, agreed conversation with her boss; naming a specific age (~40) for finally finding a programmer identity after CS-studies harassment; single motherhood named directly as friction for the first time; an ironic moment where her son still believes girls don't like computers.
+- [[batches/2019-q4|2019 Q4]] — 923 posts, fourth and final 2019 batch. A relationship ends, entangled with a serious professional dispute; a genuinely new self-criticism naming "internalized misogyny" and self-erasure over uncredited research work; the management-exit plan turns into a public, external job search. 2019 is now fully ingested.
+- [[batches/2020-q1|2020 Q1]] — 842 posts, first 2020 batch. The job search resolves into an actual move to a new employer, Vaisala; a named ex-partner surfaces as the source of years of "smile more" feedback; a 25-year career anniversary and a light "decrowning" callback.
+- [[batches/2020-q2|2020 Q2]] — 834 posts, second 2020 batch. Settles into Vaisala, naming what the old job lacked; the Patreon experiment closes and the Exploratory Testing Book gets a real 25-year-anniversary deadline; the Falco mass-block becomes a standing boundary principle.

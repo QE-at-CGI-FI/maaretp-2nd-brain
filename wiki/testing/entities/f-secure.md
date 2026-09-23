@@ -126,3 +126,73 @@ Representative posts:
 - https://twitter.com/maaretp/status/879282250961080320
 - https://twitter.com/maaretp/status/870161384914513920
 - https://twitter.com/maaretp/status/876771405081214976
+
+## 2019 Q1 — a second team, and a self-limiting goal — [[../batches/2019-q1|batch]]
+
+Runs her first annual-review cycle as manager (11 direct reports) the same
+quarter F-Secure drops stack ranking and decouples bonuses from short-term
+goals. Mid-cycle, she's asked to take on a **second team** — "the goal
+post shifted." States the clearest self-limiting goal yet for the role:
+"I'm a manager working to be removed as unnecessary by June 2020." The
+multi-year monolith-to-microservices effort gets a concrete number for the
+first time: three years of chipping away, an earlier one killed in seven.
+Also names a structural shift she hadn't called out before: "Realized
+today we've moved to DevOps by not retaining ops people and moving
+responsibilities to dev every time someone moves. It's been so slow change
+that we did not even see it coming." See
+[[../concepts/management-transition]] for the fuller professional-side
+account of the review cycle and the goal.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1099682237480689665
+- https://twitter.com/maaretp/status/1101534169685995520
+- https://twitter.com/maaretp/status/1109461484831035394
+- https://twitter.com/maaretp/status/1101746618737586176
+- https://twitter.com/maaretp/status/1097581243728912384
+
+## 2019 Q2 — an accidentally polyglot team, and telemetry as a security lens — [[../batches/2019-q2|batch]]
+
+Discovers the team's real language footprint piecemeal: "My Friday as a
+manager of a C++/C#/Python team. I vaguely knew we have NodeJS. Today I
+discovered we have Go" — then "Oh I forgot Lua!" — a lighter callback to
+the polyglot cost she'd wanted to name precisely back in 2016 Q4. Scale
+keeps surfacing in concrete numbers: **107 Windows test VMs running
+24/7** within her team alone, most living under an hour. A new
+professional thread starts from the product's automatic-patching work:
+telemetry across the installed base reveals "quite an attack surface
+continuously being created with unpatched software," sharp enough that
+she notes, half-joking, that "knowing which vendors make updating their
+software harder than it should be can come in handy" for less scrupulous
+purposes — security-mindedness surfacing directly from testing/telemetry
+work rather than a separate discipline.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1126767468125417473
+- https://twitter.com/maaretp/status/1141329372227559424
+- https://twitter.com/maaretp/status/1143169718590889984
+- https://twitter.com/maaretp/status/1143182890064384001
+
+## 2020 Q1 — steps down as manager, then leaves the company entirely — [[../batches/2020-q1|batch]]
+
+The employment arc that began 12 September 2016 closes this quarter.
+First, the internal goal from 2019 Q1 ("removed as unnecessary by June
+2020") lands early and cleanly: "I am again a lead quality engineer and
+not a manager! I love my team but being a manager is such a waste of a
+great tester." A trust break follows fast: her boss brings HR into a
+1:1 meeting without warning — "trust will never recover from the action
+of hiding this from me." Weeks later, the external job search announced
+in 2019 Q4 resolves: "the call I have been excitedly looking for came
+today: I will be changing jobs in a few months." The new employer is
+named directly for the first time: **[[vaisala|Vaisala]]**. Her last
+day at F-Secure is set for **24 April 2020**, closing a return that
+lasted three years and seven months. She teaches a new experiential
+testing course, "Diversifying Test Approaches using Constraints," as a
+self-described "parting gift" on her way out.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1224262147699625984
+- https://twitter.com/maaretp/status/1229823594043203584
+- https://twitter.com/maaretp/status/1229827477700255746
+- https://twitter.com/maaretp/status/1231868232170164224
+- https://twitter.com/maaretp/status/1242780214217842689
+- https://twitter.com/maaretp/status/1237305270100996096

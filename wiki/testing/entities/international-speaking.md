@@ -323,3 +323,29 @@ translated into wanting to leave [[f-secure|F-Secure]].
 Representative posts:
 - https://twitter.com/maaretp/status/967716877563723777
 - https://twitter.com/maaretp/status/972118776727654400
+
+## 2019 Q4 — talk #400, external recognition, and a stated pivot to local — [[../batches/2019-q4|batch]]
+
+Hits the round-number milestone: talk #400, "Agile as If You Meant It,"
+delivered at FlowCon France (Dec) — then immediately, wryly undercuts
+the idea it's a stopping point: "I guess I did not retire with 400
+talks. Just promised to do two in Sweden next Spring." External
+recognition lands the same month: **Finland's Top 100 IT influencers
+list, and 18th most-followed on Twitter nationally** — she credits it
+explicitly to product/quality work over security specifically, "let's
+share more love for developers and testers who care." Closes the year
+naming a real intended shift, distinct from every prior "cutting back"
+statement this page has tracked since 2015 Q4: not fewer talks in the
+abstract, but a **geographic pivot toward Finland** — "public speaking
+has taken me to 26 countries. Next year I center more locally... to
+focus on learning more." Sits alongside
+`../concepts/management-transition.md`'s year-end external job search —
+both point toward a 2020 spent closer to home rather than further out.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1203622300244987904
+- https://twitter.com/maaretp/status/1204150618216116224
+- https://twitter.com/maaretp/status/1205423491652022272
+- https://twitter.com/maaretp/status/1205441610919448576
+- https://twitter.com/maaretp/status/1212026658309464065
+- https://twitter.com/maaretp/status/1212055658218098690

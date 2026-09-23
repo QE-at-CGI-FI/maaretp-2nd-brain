@@ -302,4 +302,98 @@ start of this quarter and resolves per her own tweets in early
 October — it remains undocumented here per that same instruction. 2018
 is now fully ingested across both wikis.
 
+## [2026-09-23] ingest | 2019 Q1 (745 posts, first 2019 batch)
+Created batch page [[batches/2019-q1]] and 3 new entity pages (et19 — a
+LAWST-style exploratory testing peer conference spun off from
+EuroTestConf; tech-excellence — an existing Helsinki meetup grows into a
+standalone conference; ddd-europe — a first keynote outside the testing
+community proper). Added 2019-Q1 sections to 8 existing pages:
+entities/f-secure (a second team, a self-limiting management goal),
+entities/eurotestingconf (fifth edition in Valencia, the ET19 spin-off,
+a public CoC-scenario thread), entities/michael-bolton (a new direct
+public disagreement — "testers are powerless" called old-fashioned),
+concepts/cdt-community-culture (harassment from #NoEstimates opponents
+outside the CDT community; the CoC-scenario thread), concepts/
+management-transition (first full review cycle, second team), concepts/
+whole-team-testing (a golden-master-vs-approval-testing naming dispute),
+concepts/documentation-skepticism (two concrete cost/ratio numbers
+attached to the long-standing position), and concepts/gender-in-tech
+(the wanting-a-girl-trainee pattern recurs a third time). 2019 is now
+underway across both wikis.
+
+## [2026-09-23] ingest | 2019 Q2 (873 posts, second 2019 batch)
+Created batch page [[batches/2019-q2]]. Added 2019-Q2 sections to 8
+existing pages: concepts/exploratory-testing (coins #toad, asserts
+reframed as exploration, prepping the 35th anniversary), concepts/
+cdt-community-culture (old James Bach scars reopen via an Ashby/Sussman
+terminology dispute, a public "SLA announcement"), entities/
+eurotestingconf (exact honorarium numbers made public, real doubt about
+the profit-sharing model), concepts/management-transition ("minimum
+viable management," a named one-year exit plan, a leaked-bugs low
+point), entities/tech-excellence (the first standalone edition runs 3
+June, closing 2019-Q1's open thread), entities/f-secure (an accidentally
+polyglot team, telemetry as a security lens), concepts/
+whole-team-testing ("Testing != Testing," a three-filters model, PR
+review as diagnostic), concepts/documentation-skepticism (Jira named a
+"bad proxy for quality"), and concepts/gender-in-tech (busiest
+hiring-pipeline quarter yet, a scolded trainee, SpeakEasy's first hard
+numbers).
+
+## [2026-09-23] ingest | 2019 Q4 (923 posts, fourth and final 2019 batch)
+Created batch page [[batches/2019-q4]] and a new entity page,
+entities/llewellyn-falco (Mob Programming Guidebook co-author, named for
+the first time; a copyright dispute over the book ends in him doxxing
+her). Added 2019-Q4 sections to 6 existing pages: concepts/
+cdt-community-culture (the Falco doxxing and mass-block; an unexpected
+reversal arguing for giving James Bach a second chance), concepts/
+management-transition (the internal exit plan stalls, becomes a public
+external job search), entities/international-speaking (talk #400, a Top
+100 Finnish IT influencer listing, a stated pivot to local speaking),
+concepts/exploratory-testing (#35YearsOfExploratoryTesting becomes real
+historical research; a third pyramid dimension; "continuous testing"),
+and concepts/gender-in-tech (a second consecutive all-women EuroTestConf
+keynote lineup, a live hiring-bias example, an exact recurrence of
+2019-Q1's "women only write comments in code"). 2019 is now fully
+ingested across both wikis.
+
+## [2026-09-23] ingest | 2020 Q1 (842 posts, first 2020 batch)
+2020 split into quarters (4487 posts total for the year) per the
+progress table's dense-year guidance. Created batch page
+[[batches/2020-q1]] and a new entity page, entities/vaisala (her next
+employer after F-Secure). Added 2020-Q1 sections to 6 existing pages:
+entities/f-secure and concepts/management-transition (the multi-year
+arc resolves — steps down as manager, a trust break with her boss, then
+leaves the company entirely for Vaisala), entities/eurotestingconf (the
+5th edition runs as its announced last), concepts/cdt-community-culture
+(the Bach/Bolton reversal holds under a real test — attending a joint
+session and reaffirming forgiveness), concepts/whole-team-testing
+(retiring the word "Mob" itself in favor of Group/Ensemble
+Programming), and concepts/gender-in-tech (a direct mirror drawn to her
+own career history; a sharpened quotas argument).
+
+## [2026-09-23] ingest | 2020 Q2 (834 posts, second 2020 batch)
+Created batch page [[batches/2020-q2]]. Added 2020-Q2 sections to 3
+existing pages: entities/vaisala (starts as principal engineer, testing
+embedded software, inherits a Robot Framework codebase, takes on a
+summer trainee), concepts/whole-team-testing (the Mob→Ensemble
+Testing/Programming rename becomes real and committed, explained as
+values over consensus), and concepts/gender-in-tech (the interview-
+trivia hiring-bias pattern recurs at the new company; the 2019-Q4 Falco
+mass-block reframed as a standing boundary-setting principle).
+
+## [2026-09-23] ingest | 2019 Q3 (890 posts, third 2019 batch)
+Created batch page [[batches/2019-q3]]. Added 2019-Q3 sections to 7
+existing pages: concepts/management-transition (the one-year exit plan
+becomes a real conversation with her boss, "I'm a developer, not a
+manager"), concepts/exploratory-testing (a public "we have not retired
+it" rebuttal, a new attended/unattended vocabulary proposal), entities/
+et19 (second edition runs at CAST19, resolving the Q1/Q2 open thread),
+concepts/cdt-community-culture (an unrelated dispute reopens a
+decade-old "word corrector" wound), entities/eurotestingconf (three new
+organizers, paying participants get weighted programming input, pronoun
+badges become structural), concepts/gender-in-tech (Nokia's pay-equity
+correction, a self-critique of merit-based hiring, MimmitKoodaa at
+~4000), and entities/tech-excellence (a Women edition, a new ScanAgile
+track-chair role).
+
 <!-- newest entries at the bottom -->

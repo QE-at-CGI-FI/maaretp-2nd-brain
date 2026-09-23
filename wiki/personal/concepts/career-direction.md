@@ -291,3 +291,111 @@ Quality Engineers).
 
 Representative posts:
 - https://twitter.com/maaretp/status/841197757528436737
+
+## 2019 Q1 — a stray forward marker: summer 2021 — [[../batches/2019-q1|batch]]
+
+A single, offhand aside to a colleague, unexplained and unelaborated:
+"don't worry, I'm still returning from my management visit, summer 2021 I
+change jobs again as planned." No context given for what "as planned"
+refers to — the first concrete future date attached to a next career move
+since the 2014–2016 US-relocation thread, but too thin on its own to say
+whether it's related. Flagged here to watch in later batches.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1101832245499912193
+
+## 2019 Q2 — a one-year pendulum plan, distinct from the summer-2021 marker — [[../batches/2019-q2|batch]]
+
+A concrete near-term plan, more specific than Q1's stray "summer 2021"
+aside: "I'm in management pendulum job crafting like crazy. I've
+scheduled a change in one year: leave this position. Pendulum moves
+towards being a developer. Sometimes 'director' does not look a bad
+option but I know I'd do that for other not me." The wiki can't yet tell
+whether this one-year management-exit plan and the earlier summer-2021
+"I change jobs again as planned" marker describe the same underlying
+timeline or two separate ones — flagged to watch as both approach. See
+`../../testing/concepts/management-transition.md` for the professional-
+side account, including the burnout ("really tired of being a manager")
+that sits behind the plan, and a low point where she names testing over
+managing as a real personal preference, not just a stated goal:
+"I just keep thinking a great tester is wasted on being a great
+manager."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1131421117170761728
+
+## 2019 Q3 — the plan becomes a real, agreed conversation with her boss — [[../batches/2019-q3|batch]]
+
+The one-year plan from Q2 moves from private intent to a shared,
+concrete process on her first day back from summer vacation: "having a
+discussion with my boss about me quitting this job in a year and making
+an actual plan of action what we could do to make that happen. I feel
+seen." Names the destination directly for the first time: "I'm a
+developer, not a manager. I'm going to build something I haven't yet" —
+resolving the "pendulum towards being a developer" language from Q2 into
+a specific stated identity rather than a direction of travel. A real
+precondition surfaces too: a three-year technical project at work has
+to land first, "before I can leave" — see
+`../../testing/concepts/management-transition.md` for the professional-
+side account, including the goal-delegation and peer-review experiments
+that reinforce the same self-removal logic.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1155901035489177601
+- https://twitter.com/maaretp/status/1156077238829367297
+- https://twitter.com/maaretp/status/1165332283018158082
+
+## 2019 Q4 — from an internal plan to a public, external job search — [[../batches/2019-q4|batch]]
+
+The one-year plan agreed with her boss in Q3 doesn't resolve as hoped by
+year's end — "I aspired that 2 years would show how unnecessary the
+role is in my team but looks like I can't win them all" — and the
+response is sharper than another internal adjustment: a public year-end
+job search, "New year new job? If you know where I should look, hint
+because I'm looking." The first time in the archive she's stated wanting
+to leave her employer entirely, rather than just changing her role
+within it — a real reversal of the 2018 Q1 conclusion that no other
+employer could match what she had. See
+`../../testing/concepts/management-transition.md` for the professional-
+side account, including the likely trigger (a failed change used against
+her in a career-progression discussion).
+
+Representative posts:
+- https://twitter.com/maaretp/status/1204354924747857921
+- https://twitter.com/maaretp/status/1211228232718192640
+
+## 2020 Q1 — resolved: a real job change, to Vaisala — [[../batches/2020-q1|batch]]
+
+The exit plan that ran through all of 2019 resolves in two steps. First
+a clean internal win — "I am again a lead quality engineer and not a
+manager!" — undercut almost immediately by a trust break at work (her
+boss brings HR into a 1:1 without warning). The external job search
+from Q4 then lands for real: a new employer, **Vaisala**, with a start
+date following her F-Secure exit on 24 April 2020. The first time in
+the archive a stated career-exit intent resolves into an actual company
+change rather than an internal renegotiation — see
+`../../testing/concepts/management-transition.md` and
+`../../testing/entities/f-secure.md` for the professional-side account.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1224262147699625984
+- https://twitter.com/maaretp/status/1231868232170164224
+- https://twitter.com/maaretp/status/1242780214217842689
+- https://twitter.com/maaretp/status/1237305270100996096
+
+## 2020 Q2 — settling in, and finding what the old job didn't have — [[../batches/2020-q2|batch]]
+
+Starts at Vaisala on 27 April as a principal engineer, not a manager —
+see `../../testing/entities/vaisala.md` for the professional-side
+detail. Names the adjustment honestly rather than as an immediate
+triumph: "in my first month, I saw a lot of things I was missing from my
+old job. Second month is different as I now see all the things this job
+has that the old didn't. These people are great." A quieter, structural
+relief surfaces too: multiple new managers agree to informal pings
+rather than scheduled 1:1s — the same "no meetings" way of working she'd
+had to explain to her F-Secure successors on her way out now simply
+accepted at the new company.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1268173983050055684
+- https://twitter.com/maaretp/status/1260872291652710402

@@ -107,3 +107,96 @@ Representative posts:
 - https://twitter.com/maaretp/status/1024033765146992642
 - https://twitter.com/maaretp/status/1038127527208923136
 - https://twitter.com/maaretp/status/1019462639267786752
+
+## 2019 Q2 — "35 next year," a coined umbrella term, and asserts reframed as exploration — [[../batches/2019-q2|batch]]
+
+Two new formulations extend the 2018 Q3 writing stretch rather than
+repeating it. First, a **negative-space model**: "when modeling for
+#ExploratoryTesting we build shapes. Looking at those shapes from the
+perspective of negative space is powerful. What is missing, if you turn
+the model around just a little, do you see it?" — imagination-as-
+bottleneck (2012) now has a concrete visualization technique attached.
+Second, she coins **#toad — Testing, Observability and DevOps** — "for
+y'all who think the testing we've been thinking of as testing isn't
+testing... testing++" — a defensive umbrella term built specifically to
+avoid restating the automation-vs-exploring argument yet again with
+@DanAshby04 and @noahsussman (see
+[[../concepts/cdt-community-culture]] for the harassment/community-
+culture side of that same exchange). Within that exchange she also
+sharpens the automation relationship past 2018 Q3's "rejection of the
+dichotomy": "asserts are a tool for exploring... I use the word intent
+rather than expectation when I do TDD. I formulate an intent but I'm
+doing so to learn, not to document" — assertion as a magnifying glass,
+not a checkpoint. Starts publicly preparing to mark **exploratory
+testing turning 35** in 2020, treating the anniversary as a rediscovery
+project (consistent with [[../entities/et19|ET19]]'s framing) rather
+than a retrospective one.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1136552124261765120
+- https://twitter.com/maaretp/status/1143188129949597696
+- https://twitter.com/maaretp/status/1143777939248623616
+- https://twitter.com/maaretp/status/1143965910807564289
+- https://twitter.com/maaretp/status/1144159044539752454
+
+## 2019 Q4 — tracing the term back decades, a third pyramid dimension, and "continuous testing" — [[../batches/2019-q4|batch]]
+
+The **#35YearsOfExploratoryTesting** project (announced 2019 Q2) becomes
+genuine historical research rather than just a slogan: a public,
+back-and-forth thread with Cem Kaner (@DrCemKaner) himself traces the
+earliest documented uses of "exploratory testing" —
+the term appears in a general psychology journal as early as 1940 (not
+in a software context), then in Kaner's own *Testing Computer Software*
+(1999 edition, though she owns and checks the 1990 edition too) and
+Elfriede Dustin's 1999 writing on automated testing, converging on 1994
+as the concept's likely software-testing origin per a 2006 talk. Closes
+the research with a pointed, forward-looking line rather than a
+nostalgia piece: "time to start making progress and stop clinging on
+the past." Two new working models extend the
+[[../batches/2019-q3|Q3]] attended/unattended vocabulary: a **third
+pyramid dimension** — "the third side of the pyramid is attended vs.
+unattended execution. Second side is exploratory testing (as in when
+tests are created)" — turning what had been a simple triangle into a
+3-axis model; and a preferred new term, **"continuous testing,"** for
+testing that is truly ongoing and therefore must include automation as
+a core part, not an add-on. A related identity shift, named directly
+for the first time: "more and more of the testing I do comes from a
+**builder mindset**. There is still use for the breaker/reporter
+mindset, but my impact with that is better when it is built on a more
+constructive foundation."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1197891756098019334
+- https://twitter.com/maaretp/status/1197917892584574979
+- https://twitter.com/maaretp/status/1197930405464285184
+- https://twitter.com/maaretp/status/1197962936616136706
+- https://twitter.com/maaretp/status/1192542562999062528
+- https://twitter.com/maaretp/status/1203639285309755392
+- https://twitter.com/maaretp/status/1203709272615469061
+
+## 2019 Q3 — "we have not retired it," ET19's second edition, and "attended/unattended" — [[../batches/2019-q3|batch]]
+
+The Ashby/Sussman deprecation fight from 2019 Q2 gets a public, settled
+rebuttal rather than more debate: "Service announcement. We have not
+retired #ExploratoryTesting. We are rediscovering it." The 35th-
+anniversary rediscovery project announced in Q2 gets its concrete
+second event: **[[../entities/et19|ET19]]'s second edition runs 16
+August at CAST19** (Cocoa Beach, FL) — resolving the open thread from
+both 2019 Q1 and Q2 batches about whether the August sequel would
+actually happen. A genuinely new vocabulary proposal emerges from a
+sustained thread: replacing "manual vs. automated" with **"attended vs.
+unattended"** — "the dichotomy is not exploratory testing / test
+automation - I explore with automation... attended/unattended would
+capture the intent better." Extends the frame concretely to her own
+numbers: "the testing that happens unattended isn't exploratory. It
+turns again exploratory when we need to analyze problems. 50% of our
+testing is unattended. The other half is exploratory" — a cleaner
+successor to 2018 Q3's "automation gets explored too" argument, with a
+name for the axis that was previously unnamed.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1156646250906902528
+- https://twitter.com/maaretp/status/1162332295237447686
+- https://twitter.com/maaretp/status/1171313808004063232
+- https://twitter.com/maaretp/status/1171320928774578177
+- https://twitter.com/maaretp/status/1172046256488816640

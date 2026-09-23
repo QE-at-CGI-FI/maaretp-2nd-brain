@@ -340,3 +340,102 @@ experiment was really testing.
 
 Representative posts:
 - https://twitter.com/maaretp/status/969610749395001344
+
+## 2019 Q1 — golden master, not approval testing — [[../batches/2019-q1|batch]]
+
+The **ApprovalTests** fascination (since 2016 Q2) sharpens into a naming
+dispute: she insists on **golden master testing** as the correct,
+test-community-originated term against Applitools/2bittester's "approval
+testing" branding — "there's decades of literature on golden master
+testing" that tool vendors are erasing by renaming it after their tool. A
+separate but related vocabulary-precision moment at the
+[[../entities/tech-excellence|#TechExcellence]] meetup: a hands-on
+session distinguishing mock/stub/spy/fake/dummy as five genuinely
+different things, not synonyms — "these terms in OOP have more specific
+ideas that help think around what each test gives feedback on,"
+consistent with her general insistence (see
+[[../concepts/checking-vs-testing]]) that sloppy shared vocabulary costs
+real understanding.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1093027837458763782
+- https://twitter.com/maaretp/status/1093093528127844352
+- https://twitter.com/maaretp/status/1093098417147072514
+- https://twitter.com/maaretp/status/1100796345315540992
+
+## 2019 Q2 — "Testing != Testing," three filters, and pull requests as the real review unit — [[../batches/2019-q2|batch]]
+
+A recurring line, repeated at least twice this quarter, names variance
+in testing *quality* rather than testing *presence* as the real problem:
+"One tests a feature and is deemed ok. Another tests as feature and it
+is still ok. Third tests a feature and we pull it from a release due to
+relevant issues. **Testing != Testing.**" She reaches for a working
+model of what testers specifically add on a team that already tests:
+"testers help in the process applying three filters: bug filter (catch
+after), quality filter (catch before) and noise filter (focus,
+visibility)" — and, reacting to
+[[../entities/michael-bolton|Bolton]]'s "testers are powerless" framing
+from [[../batches/2019-q1|2019 Q1]], pushes the same point further:
+"'I don't decide, I provide information' is such a cop out... information
+flows both ways." Reviewing "50 of everyone's last pull requests" becomes
+a recurring diagnostic practice this quarter, assigning informal labels
+to reviewers by their recurring feedback patterns — and surfacing a wry
+observation about the ritual itself: writing "test this please" a third
+time into a PR to get tests passing "felt like praying to something with
+higher power." Names the durability of reputation directly, in a way
+that connects back to menders-vs-makers (2018 Q4): "signature moves get
+easily stuck with you. Do you know what you're known for?"
+
+Representative posts:
+- https://twitter.com/maaretp/status/1124221552021659648
+- https://twitter.com/maaretp/status/1138484069367504897
+- https://twitter.com/maaretp/status/1144349452863328256
+- https://twitter.com/maaretp/status/1135128989641715712
+- https://twitter.com/maaretp/status/1143803395121274880
+- https://twitter.com/maaretp/status/1126343712311791617
+
+## 2020 Q1 — retiring the word "mob" itself — [[../batches/2020-q1|batch]]
+
+A genuinely new move, distinct from the [[../entities/llewellyn-falco|Falco]]
+fallout that dominated 2019 Q4: she surveys several communities of
+"not-men" for alternative vocabulary to **#MobProgramming**, finding the
+word's connotations land badly regardless of the practice's value —
+"moving from #MobProgramming to vocab with less negative connotations
+rules swarm out as only a little less negative." Settles on two
+candidates rather than one: "#MobProgramming for me turns into either
+#GroupProgramming or #EnsembleProgramming. I like both." Commits to
+carrying the change through the book itself: "I'll decide on a new name
+I start using and rename #MobProgrammingGuidebook to something I can
+live with." Unlike the Q4 dispute, this reads as values-driven language
+work, not conflict repair — though the timing, a month after the
+Falco doxxing, is hard to read as fully unrelated.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1232326961827065857
+- https://twitter.com/maaretp/status/1232697650253828097
+- https://twitter.com/maaretp/status/1231907053167312896
+
+## 2020 Q2 — the rename becomes real: five years of Mob Testing become Ensemble Testing — [[../batches/2020-q2|batch]]
+
+The Q1 "considering" resolves into a committed, public change: "Five
+years since I started #MobTesting... I will move to speaking of
+#EnsembleTesting and #EnsembleProgramming," marked with a blog post,
+"Five Years of #MobTesting." States the reasoning plainly, prioritizing
+impact over her own comfort with changing five years of terminology:
+"I care how people feel and prioritize underprivileged people's safety
+(mobs are triggering) over my own comfort... I don't need the others to
+change, my commitment is to my values." Distinguishes it explicitly from
+seeking consensus with the practice's other originators: "I really
+don't want to waste my time in having this conversation with the
+fathers of mob programming." Names three concrete uses for
+**Ensemble Testing** going forward — testers gathering in siloed
+organizations, whole agile teams making space for testing beyond
+automation, and teaching testing to any group — the same three
+functions the older vocabulary served.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1264237585108525057
+- https://twitter.com/maaretp/status/1251208070333636609
+- https://twitter.com/maaretp/status/1251210229137780741
+- https://twitter.com/maaretp/status/1251211294247718913
+- https://twitter.com/maaretp/status/1264257945208061952

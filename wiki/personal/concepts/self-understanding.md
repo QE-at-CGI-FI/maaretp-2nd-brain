@@ -439,3 +439,168 @@ family and women-only groups than in her general professional voice.
 Representative posts:
 - https://twitter.com/maaretp/status/965899646727065601
 - https://twitter.com/maaretp/status/957199191226363904
+
+## 2019 Q1 — the most direct sexism disclosure yet — [[../batches/2019-q1|batch]]
+
+A specific, named-incident thread (30 Mar) goes further than any prior
+gender-related disclosure in the archive: being doubted on knowing Python
+("They thought you know of Python, how did you fool them?"), being told
+"women only write comments in code," both said "in front of my manager
+and the whole team. No one said anything except me" — and, separately, a
+much cruder incident recalled from further back: "Show me your boobs" as
+a response to asking for
+[[../../testing/concepts/whole-team-testing|pairing]] in a team meeting.
+She notes the contrast with her present environment without softening the
+original incidents: "I quite prefer the eye roll responses I'm now
+getting for same requests." Distinct from 2018 Q3's university-years
+disclosure (which named a formative period as "awfully difficult" in
+general terms) — this one names specific remarks, specific settings, and
+the fact that no one but her objected at the time.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1111950156134440960
+- https://twitter.com/maaretp/status/1111950494761713666
+- https://twitter.com/maaretp/status/1111955038677680135
+- https://twitter.com/maaretp/status/1111955948007051264
+
+## 2019 Q2 — turning 45, an old isolation memory, and a recurring helper fantasy — [[../batches/2019-q2|batch]]
+
+Turns 45 on 17 June, framed simply and without the usual self-analysis:
+"Sun shine and life is good." A day later, a friend reframes what she'd
+described as personality traits into something more generous: "sounds
+like your values are community and independence" — she notes explicitly
+how much more positive the friend's framing was than her own. A specific
+university-years memory surfaces, sharper than 2018 Q3's general
+"awfully difficult" disclosure: "I spent years in university doing my
+programming assignments alone because even with that it was always
+someone claiming I smile my way through courses" — social credit denied
+even when working in isolation specifically to avoid it.
+
+A recurring fantasy runs through several posts this quarter: wanting a
+**private secretary/personal assistant**, explicitly named as her own
+"definition of success" — "having someone help me and not have to rely
+on me." She connects it directly to how she talks about testers
+("I can test but testers test better") and to a specific gendered
+history — the "great secretaries" of an earlier working era had
+"superpowers of mind reading" that made office life easier and have
+since been replaced by self-service, a loss she frames as personal, not
+just nostalgic. Also begins **Patreon** this quarter — "back to
+blogging... experiment with new ways of feeling sense of connectedness"
+— a paywalled, monetized personal writing outlet distinct from the
+self-published books tracked in `writing-a-book.md`, and consistent with
+her stated view (2018 Q4, re: Strong-Style Pairing) that writing is her
+best form of self-reflection.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1140508947125854208
+- https://twitter.com/maaretp/status/1141360232276398087
+- https://twitter.com/maaretp/status/1121354038036062209
+- https://twitter.com/maaretp/status/1121504117107634176
+- https://twitter.com/maaretp/status/1123616201547104256
+
+## 2019 Q3 — finding a programmer identity at 40, and a single-mother reflection — [[../batches/2019-q3|batch]]
+
+The most concrete timeline yet on a wound traced since 2018 Q3's
+university-years disclosure: "the term 'poisoning the pipeline' speaks
+to me on a personal level. I had enough students at Computer Science
+studies poisoning the pipeline for me to find my programmer identity
+only at around age 40" — naming a specific age, not just a difficult
+period, for when the damage from CS-studies belittling actually
+resolved. A related recall in the same stretch: "I started off scarred
+as my CS studies were full of ridiculing me for the idea that I must
+have smiled my code to existence. I wonder if I am ever able to act
+normally unless people understand how much little things hurt." The
+2019 Q2 "private secretary" success-fantasy recurs in a lighter register
+during a bout of procrastination: "Can't I just plan on hiring a
+personal assistant instead?" A new self-description, offered without
+much elaboration: "I'm not a thought leader. I'm a co-dependent
+thinker," and, later in the quarter, a more developed version of the
+same idea — "I've been thinking of me as a hero of my own movie, and
+film extra in others." Single motherhood is foregrounded directly for
+the first time as a source of friction, not just a fact of family life:
+"I learned it bothers me when other people's struggles are 'assigned'
+to me just because I'm a single mother."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1173226653927034881
+- https://twitter.com/maaretp/status/1168085340931919877
+- https://twitter.com/maaretp/status/1156648349619150857
+- https://twitter.com/maaretp/status/1167322147187855361
+- https://twitter.com/maaretp/status/1174929825506578438
+- https://twitter.com/maaretp/status/1178190520784437248
+
+## 2019 Q4 — naming harassment plainly after a breakup, and a self-erasure confession — [[../batches/2019-q4|batch]]
+
+Two distinct, unusually direct pieces of self-work this quarter. First,
+in the aftermath of a relationship ending (see
+[[../entities/family]] and
+`../../testing/entities/llewellyn-falco.md`), she insists on a precise
+distinction rather than letting the two blur: "This is not about the
+breakup. This is harassment in the professional community." Names the
+specific move that would have made a real difference and didn't happen
+— "if someone accidentally doxes you, they apologize. When they choose
+to ignore the impact and harm they caused, letting them play ally ain't
+ok" — treating accountability, not the original mistake, as the real
+test. Second, a genuinely new self-disclosure: realizing almost two
+years of her own research work was published under a male
+collaborator's name on his thesis, "even mostly my text," she names the
+pattern in herself rather than only in him — "I myself let so much of
+my work be attributed to the men around me. Internalized misogyny... I
+self-erased myself" — and extends herself a rare, explicit grace: "I
+need to practice some empathy for my younger self because today I'm
+just calling her names. She did the best she could with the knowledge
+she had." A smaller, sharper callback closes the quarter: watching
+Hannah Gadsby's *Douglas*, she recalls being told to smile at a
+conference two years earlier, costing her "2 days of not smiling," and
+wishes she'd had Gadsby's words ready for it at the time.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1188051629817389057
+- https://twitter.com/maaretp/status/1187811974542954497
+- https://twitter.com/maaretp/status/1192713331552985088
+- https://twitter.com/maaretp/status/1192717757122596866
+- https://twitter.com/maaretp/status/1192722493548769280
+- https://twitter.com/maaretp/status/1192178971192020994
+
+## 2020 Q1 — an ex's "smile more," a 25-year anniversary, and a decrowning — [[../batches/2020-q1|batch]]
+
+A specific origin surfaces for a pattern named abstractly in earlier
+quarters: "one of my ex's loved giving me that advice. If I only
+smiled more, I would be more approachable. I learned about the
+'resting bitch face' phenomenon only after years of that" — years of
+gendered feedback about her manner traced to a named source rather than
+a diffuse "they." She marks her **25-year career anniversary** this
+year, and uses it to reflect on a choice she still second-guesses: "I've
+been doing it most of it in my local language Finnish, until that one
+day I chose to switch. Regularly I think about switching back." A wry,
+undefended callback closes the quarter: "my facebook history reminds me
+that 6 years ago I was dubbed 'Queen of Testing Scene in Finland' on
+Twitter. Time flies, and I've been decrowned since" — the recognition
+theme this page has tracked since 2016 treated lightly here rather than
+as a wound.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1230032279713435649
+- https://twitter.com/maaretp/status/1230031737389846529
+- https://twitter.com/maaretp/status/1234096861415378944
+- https://twitter.com/maaretp/status/1243851106343665664
+- https://twitter.com/maaretp/status/1243586135852486657
+
+## 2020 Q2 — reframing the mass-block as a standing principle — [[../batches/2020-q2|batch]]
+
+The defensive mass-block from the Falco doxxing (2019 Q4) gets revisited
+and generalized, prompted by supporting a harassed Twitch streamer:
+"having been through blocking 3000 users on twitter because I needed a
+layer between me and someone else... it was about establishing my
+boundary, not their actions." Names the underlying resource limit
+directly: "protecting boundaries as you have only so many spoons isn't a
+form of bullying." A 46th birthday (17 June) is marked simply and
+happily: "start with huge turnout for my morning broadcast on
+testability, end with outside family time in best company" — work and
+family in the same sentence, without tension between them.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1276382256563728385
+- https://twitter.com/maaretp/status/1276382709322059777
+- https://twitter.com/maaretp/status/1276382968873918464
+- https://twitter.com/maaretp/status/1273330446433243137

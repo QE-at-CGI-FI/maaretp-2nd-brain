@@ -232,3 +232,99 @@ Representative posts:
 - https://twitter.com/maaretp/status/1069966547010109442
 - https://twitter.com/maaretp/status/1065964039661072384
 - https://twitter.com/maaretp/status/1077490634687238145
+
+## 2019 Q1 — daughter's first speaking milestone recalled, and a second one prepared — [[../batches/2019-q1|batch]]
+
+At #AgileIndia2019, daughter Emilia (10) gets a specific origin story: she
+"spoke in her first open space when she was 7" — the earliest concrete
+public-speaking data point for either child in the archive, recalled here
+for the first time even though the event itself predates this batch. By
+the same trip's end she's "prepping a talk on programming" as a
+non-native English speaker — the first time either child is described
+actively building their own talk rather than accompanying or contributing
+to Maaret's. Consistent with, and a step further than, 2017 Q3's "both
+kids travel internationally" milestone.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1109303504667996160
+- https://twitter.com/maaretp/status/1109829123948642304
+
+## 2019 Q2 — an Istanbul trip, ballet, and a sister's quiet load-bearing role — [[../batches/2019-q2|batch]]
+
+Her son joins her at #TestIstanbul, echoing the 2017 Q3 travel pattern —
+"today I'm enjoying Istanbul in the best company — my son," who sums up
+her keynote in one line ("always keep practicing something"). A Finnish
+Mother's Day family photo and a ballet-performance photo of her daughter
+both land the same week in May, alongside a small, specific credit split
+on a family drawing/pancake photo ("the artwork is my son's, the pancake
+is my daughter's"). Her sister, previously named only briefly (2014),
+takes on a concrete, sustained role this quarter: doing "numerous hours"
+of bureaucratic phone-work for
+`../../testing/entities/eurotestingconf.md`'s speaker-payment tangle —
+"my secret weapon to navigating these jungles." A whole-extended-family
+gathering gets skipped over an animals-in-venue conflict tied to her
+allergy — see the new
+[[../concepts/health-accommodation|Health & Accommodation Needs]]
+concept page. A lighter close to the quarter: the family plays Harry
+Potter: Wizards Unite together as summer vacation starts.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1118469661769834497
+- https://twitter.com/maaretp/status/1127462135955709953
+- https://twitter.com/maaretp/status/1127558762640879616
+- https://twitter.com/maaretp/status/1131271111310749703
+- https://twitter.com/maaretp/status/1142095112010391553
+
+## 2019 Q3 — divided household labor, an ironic computer-fixing moment, and mother-daughter time — [[../batches/2019-q3|batch]]
+
+A small, specific point of pride about how the household actually runs:
+"being a mom means my son has dinner ready when I come home and my
+daughter organizes laundry for the whole family. They are more of a
+help than hindrance" — division of labor at home offered as evidence
+against the "single mom of two" framing sometimes read as a burden (see
+`../concepts/self-understanding.md`). A sharper, more painful moment the
+same quarter: she fixes her son's computer herself, and he still
+believes girls don't like computers — "if I can't teach this to my own
+son, what hope do I have at work" — the clearest instance yet of the
+gender-in-tech advocacy failing to fully land even inside her own home.
+The quarter closes on a warm, small note: choosing sushi with her
+daughter over finishing conference emails — "mother-daughter time was
+great."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1158311107800576000
+- https://twitter.com/maaretp/status/1170409110661140480
+- https://twitter.com/maaretp/status/1178759085782716416
+
+## 2019 Q4 — a relationship ends, and a daughter's ambivalence about the industry — [[../batches/2019-q4|batch]]
+
+A relationship ends this quarter — "our breakup (he left)" — surfacing
+publicly only because it becomes entangled with a serious professional
+dispute; see
+`../../testing/entities/llewellyn-falco.md` for that account and
+[[../concepts/self-understanding]] for the safety/boundary-setting
+themes it raises. The wiki does not have grounds to connect this to the
+unnamed partner first mentioned in 2015 Q4 — that mention gave no name
+and nothing here confirms or rules out the connection. Separately, a
+lighter but pointed note: her daughter "swears never to work in our
+industry," which she meets with equanimity rather than alarm — "she
+likely will though" — a small, undramatic instance of the tension
+between the gender-in-tech advocacy she's built her career on and her
+own daughter's live ambivalence about it.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1188513409131786240
+- https://twitter.com/maaretp/status/1190235546884485121
+
+## 2020 Q1 — a daughter's continued presence at work — [[../batches/2020-q1|batch]]
+
+Small, warm continuations of the daughter-at-work thread tracked since
+2015: she brings her daughter along on a day extracting her mental
+backlog at the office, and separately, "when your daughter redecorates
+your place at work, you are really one happy bean" — both landing in
+the same quarter she's counting down her final weeks at
+`../../testing/entities/f-secure.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1234373560631689216
+- https://twitter.com/maaretp/status/1237053233136353293

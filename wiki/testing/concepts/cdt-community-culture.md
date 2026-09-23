@@ -172,3 +172,168 @@ Representative posts:
 - https://twitter.com/maaretp/status/782312744766828544
 - https://twitter.com/maaretp/status/782313063320084481
 - https://twitter.com/maaretp/status/782367945104162816
+
+## 2019 Q1 — harassment from #NoEstimates opponents, and a public CoC-scenario thread — [[../batches/2019-q1|batch]]
+
+Two distinct incidents.
+
+Early February: a sustained pile-on from three people (@henebb,
+@EugenTorica, @ntcoding) who keep tagging her in #NoEstimates disputes
+after she's repeatedly asked them to stop — "Say what you want but stop
+following me around. I'm not your audience. Some people's idea of free
+speech is harassment." Distinct from the CDT-internal bullying pattern
+this page usually tracks (Bach, Bolton, their followers) — this is
+targeted harassment from outside the community, over a specific advocacy
+position, but the same insistence on naming it plainly rather than
+absorbing it applies.
+
+Mid-March: rather than another private processing thread, she publishes a
+public, anonymized set of **code-of-conduct scenarios** drawn from years
+of organizing [[../entities/eurotestingconf|EuroTestConf]] — a keynoter
+who rejects a CoC on stage and asks an inappropriate question; a
+conference that approves a talk late then claims "too late" to reject it;
+an organizer who apologizes and isn't kicked out; a report that stays
+anonymous by design. Closes with the same point made more sharply than in
+the 2018 Q2/Q3 self-critiques: "Notice how often it is about having
+discussions to change how things are in the future. Letting it slide
+leaves a mark that is hard to see" — the scenarios read as a teaching
+resource for other organizers, not just an account of her own experience.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1092027937250004992
+- https://twitter.com/maaretp/status/1092036694990311425
+- https://twitter.com/maaretp/status/1106459787859058688
+- https://twitter.com/maaretp/status/1106464830901370880
+
+## 2019 Q2 — old scars reopened over a word, and a public SLA for her own time — [[../batches/2019-q2|batch]]
+
+The [[../entities/james-bach|Bach]] conflict resurfaces indirectly, not
+through him: [[../entities/michael-bolton|Bolton]]'s associate
+@noahsussman argues, alongside @DanAshby04, that "exploratory testing"
+as a term should be retired because Bach "deprecated" it — reopening a
+wound she thought was settled. She names the mechanism precisely rather
+than just the pain: "Nothing is irreversible. What you are saying is
+that because of the guy who attacked me while I was keynoting, you are
+using your power to work on taking away a core concept of my career? Why
+do you still keep assigning James this power?" and, days into the
+exchange, "Same old power dynamics. I get that it's not intentional but
+it's constant... Lucian and you just joined the pattern" — the pattern
+being men correcting her by invoking a more "relevant" authority. Names
+the tiredness itself as evidence, not weakness: "I'm just tired of the
+idea that whatever I have experienced, I should always bow to an
+authority... Old scars." The exchange culminates in an unusually sharp
+reversal of who's cast as the aggressor: "I'm done with this bullying.
+Working as a mob to alienate a recovering bully is bullying. My cycle of
+not accepting it is getting shorter" — naming the pile-on itself, not
+just the original disagreement, as the harm. Distinct from, but
+structurally identical to, the private-vs-public-response fight with
+@noahsussman in [[../batches/2016-q3|2016 Q3]] — the same interlocutor,
+the same underlying question of who gets to hold [[../entities/james-bach|Bach]]
+accountable and how.
+
+A second, separate thread names the same boundary more procedurally: an
+unrelated harasser (@smce82) keeps engaging after being asked to stop,
+and she posts a public **"SLA announcement"**: "Posting on public forums
+may mean you respond in ways I don't like and I accept that. If you want
+to discuss, approach with curiosity not challenge. My presence on
+twitter is not an open cheque to my time" — reused later the same month
+in the Ashby/Sussman thread ("Joining with challenge, argument or debate
+is outside my SLA"). A formalized, repeatable version of the boundary-
+setting first named ad hoc in [[../batches/2019-q1|2019 Q1]]'s
+#NoEstimates harassment.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1144159823765880833
+- https://twitter.com/maaretp/status/1143473664014344192
+- https://twitter.com/maaretp/status/1143453015548076032
+- https://twitter.com/maaretp/status/1144172981243060225
+- https://twitter.com/maaretp/status/1138024225527205888
+- https://twitter.com/maaretp/status/1144341939623538691
+
+## 2019 Q3 — a decade-old wound named plainly in an unrelated dispute — [[../batches/2019-q3|batch]]
+
+A minor exchange about conference proposal wording turns unexpectedly
+personal: after a stranger (@markdalgarno) corrects her word choice
+rather than asking what she meant, she names the reaction precisely
+rather than just being annoyed by it: "Having been trapped by word
+corrector in testing community for decade, you hit one of my traumas.
+Sorry about that." — a direct, first-person link between an unrelated,
+low-stakes disagreement and the years of
+[[../concepts/checking-vs-testing|checking-vs-testing]] vocabulary
+fights with [[../entities/michael-bolton|Bolton]] and others, confirming
+those fights left a lasting mark rather than being resolved by
+"accepting things I cannot change" (2015 Q3). The public rebuttal to the
+Q2 Ashby/Sussman "exploratory testing" deprecation fight — "we have not
+retired it, we are rediscovering it" — closes that thread for the
+quarter without further escalation; see
+[[../concepts/exploratory-testing]].
+
+Representative posts:
+- https://twitter.com/maaretp/status/1166780363349405703
+
+## 2019 Q4 — a mass-block over a doxxing, and an unexpected call to give Bach a second chance — [[../batches/2019-q4|batch]]
+
+Two developments, one a new low and one a real reversal.
+
+Late October: a copyright dispute over the Mob Programming Guidebook
+escalates into her co-author, [[../entities/llewellyn-falco|Llewellyn
+Falco]], doxxing her (publishing her home address) after their
+relationship ends — see that new entity page for the full account. She
+insists on naming it precisely rather than letting it read as personal
+drama — "this is not about the breakup. This is harassment in the
+professional community" — and mass-blocks roughly 700 people who
+wouldn't disavow him, a more drastic self-protective action than
+anything recorded earlier in this page's history.
+
+Mid-December: in a sustained exchange with @AngelaRiggs_,
+[[../entities/michael-bolton|Bolton]], and @jamesmarcusbach himself, she
+argues, for the first time in the archive, **for giving
+[[../entities/james-bach|Bach]] a second chance** — "isn't it time...
+with the pertaining evidence of bullying being already a few years old?"
+and "I have not heard a beep of that in the last three years after he
+attacked me on stage. Do we really think he did not learn?" A real
+change of register from every prior quarter's account of the Bach
+conflict: she now names the *pursuit* of ongoing accountability as its
+own problem, an echo of 2016 Q3's @AGareev friction — "I find that right
+now people follow him around to prove he is bad... a group that
+intimidates the hell out of me now that I decided to speak against it."
+Explicitly apologizes to Riggs for her own past silence ("I sat through
+multiple insults to you and said nothing") while still calling for a
+reset: "I don't choose to give him a second chance, I choose to stand
+against bullying a bully" — reframing her position as consistent with,
+not a betrayal of, the anti-bullying stance this page has tracked since
+2016.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1188051629817389057
+- https://twitter.com/maaretp/status/1188031928160718848
+- https://twitter.com/maaretp/status/1206812928286085122
+- https://twitter.com/maaretp/status/1206947859830059011
+- https://twitter.com/maaretp/status/1206959436264353795
+- https://twitter.com/maaretp/status/1206961090145456128
+- https://twitter.com/maaretp/status/1206985587959517184
+
+## 2020 Q1 — watching Bach and Bolton together, and finding no reason left to exclude them — [[../batches/2020-q1|batch]]
+
+The December reversal gets a real-world test within weeks: she attends
+an AST "testopsy" session pairing [[../entities/james-bach|Bach]] and
+[[../entities/michael-bolton|Bolton]] live, four years after last
+choosing to engage with either. Reports it carefully, looking
+specifically for the old patterns — "I was looking for instances of
+behaviors I have found harmful over the years. Personal attacks - none
+in this session" — while still naming what hasn't changed ("the test
+automation bashing... would help us all if you also got it can be yes
+and, not either or") and crediting a real shift in Bach specifically:
+"'I don't do twitter fights anymore' from JB indicates he has learned
+something." Closes without qualification: "I cannot say I witnessed a
+reason for me to keep alienating them from the community... I refuse to
+use old stuff as reason of excluding people. I know I may be the only
+one to forgive, but I have." The most settled this page has ever
+recorded the Bach/Bolton relationship.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1215007324064141317
+- https://twitter.com/maaretp/status/1215007664054374400
+- https://twitter.com/maaretp/status/1215009864797294592
+- https://twitter.com/maaretp/status/1215010242158837760
+- https://twitter.com/maaretp/status/1215011139555381251

@@ -111,3 +111,159 @@ Representative posts:
 - https://twitter.com/maaretp/status/1069572904323596288
 - https://twitter.com/maaretp/status/1071828353563414528
 - https://twitter.com/maaretp/status/1059906750273519628
+
+## 2019 Q1 — a first full review cycle, a second team, and a self-limiting goal — [[../batches/2019-q1|batch]]
+
+Runs her first annual-review cycle as manager (11 direct reports) —
+genuinely nervous going in, and processes the format itself changing
+under her: [[../entities/f-secure|F-Secure]] drops stack ranking and
+decouples bonuses from short-term goals the same cycle, which she treats
+with more curiosity than her usual "annual demotivating cycle" joke.
+Names what the reviews are actually for, for her: "reinforcing the
+learning through appreciation. People forget all the good stuff they did,
+and downplay their contributions." Mid-review-cycle, she's asked to take
+on a **second team** — "the goal post shifted." States the clearest
+self-limiting goal yet for the role: "I'm a manager working to be removed
+as unnecessary by June 2020" — consistent with, but more concrete than,
+2018 Q2's "convenience function that needs minimizing."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1099682237480689665
+- https://twitter.com/maaretp/status/1099786185843634181
+- https://twitter.com/maaretp/status/1101534169685995520
+- https://twitter.com/maaretp/status/1109461484831035394
+
+## 2019 Q2 — "minimum viable management," a one-year exit plan, and a leaked-bugs low point — [[../batches/2019-q2|batch]]
+
+The self-limiting goal from 2019 Q1 ("removed as unnecessary by June
+2020") gets a sharper personal target: "I'm in management pendulum job
+crafting like crazy. I've scheduled a change in one year: leave this
+position. Pendulum moves towards being a developer" — the first time
+she names a specific direction (developer, not just "removed") for
+where the role goes next, while also naming the road not taken:
+"'director' does not look a bad option but I know I'd do that for other
+not me." A new working phrase captures the whole approach: "Minimum
+viable management. Discovering how little of a manager I have to be
+while being a manager" — consistent with, but pithier than, 2018 Q2's
+"convenience function that needs minimizing." A real burnout note
+surfaces too, distinct from the earlier quarters' resistance-then-relief
+arc: "Really tired of being a manager. Needed to enforce a rule on one
+and they think it's a great idea to spend time playing devil's advocate
+on how to go around the rule. I did not opt in for these games."
+
+The [[../entities/f-secure|#NoProductOwner]] experiment (running since
+2017 Q4) gets its clearest one-line defense yet, in a sustained exchange
+with @allankellynet: "We're simply saying that caring and attending to
+customer needs is too important to be left for single person but needs
+to be shared in team. This leaves us with no product owner," paired with
+an explicit rejection of theorizing it: "I don't do line of reasoning. I
+look at a system and interject changes. This was one that made a world
+of positive difference for us."
+
+A real low point closes the quarter: three straightforward bugs leak
+into a release while she was doing management work instead of testing —
+"I hate that I spent time doing 'management'... and did not get to
+test," followed by a rare direct statement of role-preference over
+duty: "I just keep thinking a great tester is wasted on being a great
+manager. Shows a personal preference." See
+`../../personal/concepts/self-understanding.md` for the fuller personal-
+side account of this episode, and
+`../../personal/concepts/career-direction.md` for the one-year exit
+plan's personal framing.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1123479800520294401
+- https://twitter.com/maaretp/status/1125109364023545856
+- https://twitter.com/maaretp/status/1131421117170761728
+- https://twitter.com/maaretp/status/1141430781421789189
+- https://twitter.com/maaretp/status/1141776977797496833
+- https://twitter.com/maaretp/status/1141788409977085953
+
+## 2019 Q3 — the exit plan becomes a real conversation with her boss — [[../batches/2019-q3|batch]]
+
+The one-year plan named privately in 2019 Q2 becomes an actual, agreed
+process: "First day back from vacation and having a discussion with my
+boss about me quitting this job in a year and making an actual plan of
+action what we could do to make that happen. I feel seen." A concrete
+precondition surfaces for the first time — a multi-year technical
+project (the monolith-to-microservices effort tracked since
+[[../entities/f-secure|F-Secure]]'s 2019-Q1 section) has to land first:
+"There's a big change I've been working on for the last three years,
+saying I need that done before I can leave. It has never looked as
+likely to go through as it does now." States the destination more
+plainly than before: "I'm a developer, not a manager. I'm going to
+build something I haven't yet." Pushes back on a pattern she finds
+insulting to her own competence at the role while still leaving it:
+"Tired of the 'best developers get promoted to bad managers' thing
+going around. How about accepting that some of us could actually be
+good at both." Two structural experiments reinforce the "removed as
+unnecessary" goal from 2019 Q1: goal-setting fully delegated to reports
+("All of my goals are now set by the people who report to me. This
+feels right."), and performance reviews run in peer pairs instead of
+top-down manager judgment — "may have been my greatest experiment yet."
+A colleague names the pattern back to her directly: "not wanting to be
+a manager" serves two purposes — urgency for the team's self-
+organization, and modeling that people can drive their own careers.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1155901035489177601
+- https://twitter.com/maaretp/status/1165332283018158082
+- https://twitter.com/maaretp/status/1156077238829367297
+- https://twitter.com/maaretp/status/1156090582701400064
+- https://twitter.com/maaretp/status/1159831940070952961
+- https://twitter.com/maaretp/status/1165279617411932161
+
+## 2019 Q4 — the internal path stalls, and she looks outside instead — [[../batches/2019-q4|batch]]
+
+The "removed as unnecessary by June 2020" goal (2019 Q1) reaches its
+natural checkpoint without the clean resolution she'd hoped for: "On my
+way away from a manager role. I aspired that 2 years would show how
+unnecessary the role is in my team but looks like I can't win them
+all." Restates the underlying self-concept plainly rather than
+softening the setback: "I am good at a lot of things and doing what I
+do is much less about being a manager and more about being me... It
+has been good but time to change." By year's end the plan takes a
+sharper turn than anything stated in Q2 or Q3: rather than stepping
+down from management *within* [[../entities/f-secure|F-Secure]], she
+announces a public, external **job search** — "I'm a tester who can
+significantly increase developer productivity. I'm looking for a new
+place to work my magic on a lovely product. New year new job?" A likely
+proximate cause surfaces the same week: "when you try a change and it
+fails, and that fail is quoted as the reason to block your career
+progression, it's not a safe to fail organization," alongside a wry
+note about "three comfortable years... driving change." This directly
+reverses the conclusion reached in
+`../entities/international-speaking.md`'s 2018 Q1 section, where she'd
+decided no other employer could offer her current combination of role
+and freedom.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1204354924747857921
+- https://twitter.com/maaretp/status/1204501840630632449
+- https://twitter.com/maaretp/status/1211228232718192640
+- https://twitter.com/maaretp/status/1211226251559653377
+- https://twitter.com/maaretp/status/1211290167732035586
+
+## 2020 Q1 — resolved: steps down, then leaves the company — [[../batches/2020-q1|batch]]
+
+The arc that opened in 2018 Q2 closes this quarter, in two stages
+rather than one. First, a clean internal resolution of the 2019 Q1 goal:
+"I am again a lead quality engineer and not a manager! I love my team
+but being a manager is such a waste of a great tester. Still working
+through a next step, this is just removing the manager on the side." A
+trust breakdown follows almost immediately — her boss brings HR into a
+1:1 without warning — and three weeks after celebrating the internal
+step-down, the external job search from 2019 Q4 resolves too: she's
+leaving [[../entities/f-secure|F-Secure]] entirely for
+[[../entities/vaisala|Vaisala]], last day 24 April 2020. Read together,
+the sequence suggests the internal fix came too late to repair the
+underlying relationship — see
+`../../personal/concepts/career-direction.md` for the personal-side
+framing of the same resolution.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1224262147699625984
+- https://twitter.com/maaretp/status/1222448361921564673
+- https://twitter.com/maaretp/status/1229823594043203584
+- https://twitter.com/maaretp/status/1229827477700255746
+- https://twitter.com/maaretp/status/1231868232170164224
