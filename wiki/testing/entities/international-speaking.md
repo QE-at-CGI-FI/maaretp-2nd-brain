@@ -452,3 +452,148 @@ Representative posts:
 - https://twitter.com/maaretp/status/1449024408866234368
 - https://twitter.com/maaretp/status/1475927369751932940
 - https://twitter.com/maaretp/status/1467582817626435592
+
+## 2022 Q1 — board work expands, and a real family travel deal — [[../batches/2022-q1|batch]]
+
+The Q4 2021 TIVIA ry board commitment turns out to be one of three:
+"this year I'm in board of a non-profit, a company and a foundation" —
+a deliberate, named 2021 career-reflection goal ("learning work in
+boards") now acted on. Travel, mostly paused, gets one concrete
+exception: she books flights for a September trip to Bratislava and
+Vienna, taking her teenage daughter along under a standing family
+rule — "our deal is we travel together or we don't travel."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1481000510882729986
+- https://twitter.com/maaretp/status/1509595411970936833
+
+## 2022 Q2 — the STAR-conference story confirmed directly, and a fourth book — [[../batches/2022-q2|batch]]
+
+A concrete, first-person confirmation of the 2021 Q2 "organizer removed
+after harassment allegations" story, offered as one of three examples
+in a reflection on the cost of idealism: "Back in the days, I showed up
+for a major international keynote with a report of the main organiser
+harassing someone in the community. I requested the main organiser be
+dismissed and he was. Today, I wonder if I was wrong in my idealism."
+The other two examples in the same thread — refusing payment for a
+volunteer theatre production, then giving away a big bonus to an
+underpaid colleague — extend the pattern beyond community advocacy into
+a lifelong habit of costly principle. Separately, a **third
+book** publishes this quarter: an "Ensemble Testing Guidebook,"
+following the Exploratory Testing book (2015) and Ensemble Programming
+Guidebook (2020 rename). A near-500-talks tally closes out —
+23 committed sessions for 2022 alone across 18 different talks, with
+"breaking the 500 limit still this year, for sure."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1513851374836097032
+- https://twitter.com/maaretp/status/1513850768759136271
+- https://twitter.com/maaretp/status/1513851046170439682
+- https://twitter.com/maaretp/status/1535222246524047361
+- https://twitter.com/maaretp/status/1532403459026296833
+
+## 2022 Q3 — the "babysit my kids" incident dated precisely, and a death threat — [[../batches/2022-q3|batch]]
+
+Applying her own "experiences expire" heuristic, she precisely dates
+the "babysit my kids" wound (2021 Q1/Q2/2022 Q1) for the first time:
+"today my experience of assuming women you talk to are not keynoting
+even when you are a husband of a woman keynoting expires as it turns 5
+years. 'Are you here to look after your kids' still stings" — pinning
+the incident to roughly July 2017. A much heavier disclosure follows in
+the same month: organizing
+[[../entities/eurotestingconf|European Testing Conference]] brought her
+a death threat, never mentioned before in the archive (see that page
+for the fuller account). A real cost of unpaid/underpaid speaking
+surfaces too: "I had the choice that left my kids without presents at
+Christmas. I chose to speak at conferences that paid expenses after and
+were late enough to miss Christmas." The year's talk tally reaches 496
+by late September, with the 500th expected in November. She also joins
+the **Selenium Project Leadership Committee**, a new kind of
+community-governance role distinct from conference organizing or
+speaking.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1544725284485828608
+- https://twitter.com/maaretp/status/1549119680723435521
+- https://twitter.com/maaretp/status/1572631645127073797
+- https://twitter.com/maaretp/status/1560289718427844608
+
+## 2022 Q4 — 25 years, talk #500, and a new mentoring cohort — [[../batches/2022-q4|batch]]
+
+Celebrates 25 years in the industry as **#maaretpSilverJubilee** (week
+of 23-27 October): four free 16-person online workshops, plus talks,
+capped by launching **#TestingDozen** — a free, 6-month
+volunteer mentoring/coaching program training 12 new testing
+specialists in Finland, with the explicit aspirational goal of getting
+everyone employed by the end. Talk #500 lands in the same window: "Next
+talk is number 500! ...I guess 38 keynotes delivered shows I do exist
+with 'women of merit'" — a direct callback to
+`../entities/eurostar.md`'s long-running dating dispute. The year-end
+tally (17 Dec) closes at 509 sessions total, 39 added this year, only 9
+of them in Finland despite an explicit intent to refocus locally. She
+names her selection principle plainly this quarter too: "I said yes to
+every speaking engagement that was not about me ending up paying to
+speak. I submitted to zero call for proposals" — and discloses one real
+cancellation over unaffordable travel cost, plus one older
+conference standing grudge (refusing to sign a contract making her
+personally financially liable if she got sick).
+
+Representative posts:
+- https://twitter.com/maaretp/status/1578297969052651520
+- https://twitter.com/maaretp/status/1579481486574882816
+- https://twitter.com/maaretp/status/1584545670857646080
+- https://mas.to/@maaretp/109529154621426093
+- https://mas.to/@maaretp/109529306600894359
+
+## 2023 — the travel break ends, then a real retirement — [[../batches/2023|batch]]
+
+The 3.5-year conference-travel pause (started 13 Dec 2019) ends in May
+with NewCrafts Paris: "This ends my 13.12.2019 started conference
+travel break." Barely four months later it's over again, this time
+deliberately: after a string of hostile anonymous conference feedback
+— "I wonder how she always gets to speak, her presentations are
+confusing and not clear," later escalating to being told outright she
+can't understand "why anyone would allow me on any stage" — she
+announces retirement from public speaking, delivers her last two
+committed talks (Budapest #HUSTEF, Oct 4), and holds the line: 18
+declined engagements by late September, 19 by the end of October. The
+closing tally, posted in December: **529 talks, 50 keynotes, 28
+countries.** Her last keynote scores 4.47/5 — "Take that, guy who told
+me they can't understand why anyone would allow me on stage." A
+previously untold story surfaces once retirement removes the need for
+discretion: she once "contributed to conference organiser being fired
+half an hour before my keynote" after he tried trading a hotel room for
+a speaking slot with an aspiring young woman speaker — "I was lucky to
+hold enough power that time and be foolhardy enough to try."
+
+Representative posts:
+- https://mas.to/@maaretp/110414054899691586
+- https://mas.to/@maaretp/110752520233998986
+- https://mas.to/@maaretp/111176091303194654
+- https://mas.to/@maaretp/111254635109546369
+- https://mas.to/@maaretp/111545906164993980
+- https://mas.to/@maaretp/110509428719242437
+
+## 2024 — un-retiring for a new job, and "quit quitting" — [[../batches/2024|batch]]
+
+The 2023 retirement lasts eight months: accepting the CGI director role
+(see `../concepts/management-transition.md`) comes with a talk the very
+next day and a keynote booked for October, framed self-deprecatingly as
+following "some of the lovely retired people I work with in Tivia where
+the real impact on the industry starts after retirement." The
+comeback stays deliberately smaller and more local than before —
+mostly Finnish audiences, broadcast/community sessions, far fewer
+international flights — and by October the running tally reaches 545
+sessions and 53 keynotes overall (16 sessions, 3 keynotes since the
+June restart). She sums up the year in five words at November's close:
+"Quit speaking 2023 and quit quitting 2024." Selenium turns 20 on 28
+October, and she marks the anniversary with a reflective blog post
+("Selenium is the friends we made along the way") crediting the
+community rather than the tool itself.
+
+Representative posts:
+- https://mas.to/@maaretp/112248488204685213
+- https://mas.to/@maaretp/112558324193443935
+- https://mas.to/@maaretp/113369725871170191
+- https://mas.to/@maaretp/113563020094511314
+- https://mas.to/@maaretp/113387031192991492

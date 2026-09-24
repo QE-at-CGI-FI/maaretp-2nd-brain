@@ -98,3 +98,22 @@ Representative posts:
 - https://twitter.com/maaretp/status/1341384334826217478
 - https://twitter.com/maaretp/status/1344681011196604418
 - https://twitter.com/maaretp/status/1344774005925031936
+
+## 2022 Q1 — another internal team move, and an old F-Secure wound resurfaces — [[../batches/2022-q1|batch]]
+
+Continues the team-by-team rotation pattern (2020 Q4's "2 down in 8
+months"): joins a new team, finishes its first release successfully,
+and receives strong written feedback passed along secondhand —
+"multiple really happy people have told me specifically your help has
+been valuable and good." In discussing the move with her new and old
+managers, an old wound resurfaces: "my writing was discussed as a
+liability. Well, the old org mistreated me, and mistreating me is a
+liability" — "the old org" reads as `entities/f-secure.md`, not
+Vaisala, given the promotion-denial history already on record there.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1481654996122812418
+- https://twitter.com/maaretp/status/1482058044154515459
+- https://twitter.com/maaretp/status/1482058809933709315
+- https://twitter.com/maaretp/status/1502347220003266568
+- https://twitter.com/maaretp/status/1502347657834029059

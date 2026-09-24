@@ -296,3 +296,26 @@ Representative posts:
 - https://twitter.com/maaretp/status/1375077344545796103
 - https://twitter.com/maaretp/status/1372618193601228802
 - https://twitter.com/maaretp/status/1371541084061437954
+
+## 2022 Q1 — a 25-year milestone, a book rewrite, and RF leaves the course itself — [[../batches/2022-q1|batch]]
+
+Marks 25 years in software testing with an unusually specific honesty
+about the learning curve: "It took me 8 years of doing the work before
+I started telling myself... that I can be good at it." Starts a
+**complete 2022 rewrite** of her Exploratory Testing book, and updates
+**Exploratory Testing Foundations to version 2.0**, replacing Robot
+Framework with pytest — the 2021 Q4 removal wasn't just a personal
+tooling choice, it reached her actual teaching materials. A new blog,
+"In Search of a Contemporary Exploratory Tester," continues defining
+the term named in 2021 Q1. She also notices convergent, independent
+work: James Lyndsay's teaching material lands on very similar ground,
+described appreciatively rather than as a priority dispute — a
+different register than most of this page's attribution fights.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1497637410020249607
+- https://twitter.com/maaretp/status/1497638946662191105
+- https://twitter.com/maaretp/status/1497939204701147143
+- https://twitter.com/maaretp/status/1498398409874677760
+- https://twitter.com/maaretp/status/1484631405284007938
+- https://twitter.com/maaretp/status/1509190245039972353

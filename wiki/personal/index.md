@@ -7,8 +7,8 @@ tags: [index]
 Personal reflection, growth, and psychology synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
 See [[../progress]] for what's been ingested (2010: no personal content;
-2011–2017: thin at first, substantial by 2014; 2018–2020 fully done,
-2021– not started).
+2011–2017: thin at first, substantial by 2014; 2018–2024 fully done,
+2025– not started).
 
 ## Entities
 
@@ -55,3 +55,9 @@ See [[../progress]] for what's been ingested (2010: no personal content;
 - [[batches/2021-q2|2021 Q2]] — 766 posts, second 2021 batch. A 30 Jun thread finally identifies the concrete source of the 2013 "unfit for my profession" wound — a psychological-testing job interview, likely the original incident rather than an echo of it; the F-Secure promotion denial gets a direct gender comparison for the first time.
 - [[batches/2021-q3|2021 Q3]] — 814 posts, third 2021 batch. A previously undocumented conference trauma surfaces (a "tech uncle" keynote and a second man silencing her about it); the origin of a harassment memory tied to her first Ensemble Programming session; "intimidating" (first flagged in 2011) named a decade later as internalized misogyny; her sister named directly as a co-collaborator.
 - [[batches/2021-q4|2021 Q4]] — 673 posts, fourth and final 2021 batch. A brief general harassment disclosure in an unnamed "safe space"; a plainly-named "approval addiction" self-diagnosis; warm daughter-as-technical-resource beats. **2021 is now fully ingested.**
+- [[batches/2022-q1|2022 Q1]] — 642 posts, first 2022 batch (year split into quarters). A brief domestic-conflict disclosure ("attacked at home for daring to joke about my code"); a concrete number (8 years) for how long self-belief took; a real negotiated family travel exception for September.
+- [[batches/2022-q2|2022 Q2]] — 913 posts, second 2022 batch, densest yet. A dated "intimidating" incident collapsed with "smile more" into one bitter line; expert-erasure named directly as a social-anxiety trigger; a lifetime-of-idealism reflection; "single mom of two teenagers" stated plainly for the first time.
+- [[batches/2022-q3|2022 Q3]] — 710 posts, third 2022 batch. A death threat disclosed for the first time, met with years of silence as mitigation; a current team-exclusion incident; the real financial cost of unpaid speaking (missed Christmas presents) named directly; a daughter now doing the family's travel photography herself.
+- [[batches/2022-q4|2022 Q4]] — 589 posts, fourth and final 2022 batch (Twitter→Mastodon transition quarter). Leaving Twitter on principle, named as grief and idealism together; teenagers named directly as a source of energy; a new, unrelated health accommodation (degrading eyesight) surfaces. **2022 is now fully ingested.**
+- [[batches/2023|2023]] — 1293 posts, first fully post-Twitter year (Mastodon only), not split into quarters. A near-resignation resolved by "an exceptional manager"; a new pronoun reflection; the year's heaviest disclosure — "defined through abuse of man"; kids old enough to stay home alone; a 50th-birthday trip to New York planned with her daughter. **2023 is now fully ingested.**
+- [[batches/2024|2024]] — 1240 posts, not split into quarters. The James Bach keynote-attack wound gets a conscious closure ("I stop reinforcing memory. Now"); an old family wound resurfaces (a brother's "social justice warrior" jab); a reframed Mother's Day; a 30-year school reunion. **2024 is now fully ingested.**

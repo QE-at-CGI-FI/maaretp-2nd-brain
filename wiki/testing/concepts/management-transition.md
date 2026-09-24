@@ -267,3 +267,101 @@ Representative posts:
 - https://twitter.com/maaretp/status/1229823594043203584
 - https://twitter.com/maaretp/status/1229827477700255746
 - https://twitter.com/maaretp/status/1231868232170164224
+
+## 2022 Q4 — considering a return to management — [[../batches/2022-q4|batch]]
+
+Nearly three years after stepping down as manager at F-Secure (2020
+Q1), a new consideration surfaces at year's end: "I made big decisions
+today on again becoming a manager. Last time I did this I learned that
+just as I can craft a tester job to be barely recognizable, I can do
+the same for a manager job. Still not an easy choice." No outcome given
+yet — flagged here as an open thread for 2023.
+
+Representative posts:
+- https://mas.to/@maaretp/109592477151944322
+
+## 2023 — the second management stint becomes real, and a hard year admitted plainly — [[../batches/2023|batch]]
+
+Officially starts as engineering manager at Vaisala 1 March (unofficially
+two months earlier), explicit that it is "a lateral move or even
+demotion" from principal engineer, not a promotion. The trigger surfaces
+in a November reflection: eleven months earlier she'd called her manager
+to resign after landing another job, he asked "what would need to be
+different for you to stay?", delivered on his promise overnight, and she
+stayed — "I have an exceptional manager." The year that follows is
+candidly mixed. She builds a leadership duo instead of the "five headed
+monster" she inherited, recruits heavily (seven additions by April
+alone), and gets to a place she calls "most productive and happy
+product development in the organization" as an aspiration not yet
+met: "I have not been happy overall. But I work with amazing folks." The
+sharpest admission is a first-time failure against her own 15-year
+track record — a real multi-month "stabilization phase" (Aug 31–Dec 14)
+she'd always successfully avoided before: "It gives me so much shame
+that I must say it out loud." Throughout, she keeps naming the specific
+cost of the role — "It's not the responsibility that makes manager work
+hard. It is the exclusion" — while continuing hands-on testing whenever
+she can find the time.
+
+Representative posts:
+- https://mas.to/@maaretp/110351066726588249
+- https://mas.to/@maaretp/110782067522686955
+- https://mas.to/@maaretp/111421583240884231
+- https://mas.to/@maaretp/111421638395365875
+- https://mas.to/@maaretp/111580479298839317
+
+## 2024 — from Vaisala engineering manager to CGI testing director — [[../batches/2024|batch]]
+
+After roughly four years at Vaisala (her second management stint there
+running just over a year), she accepts a new position and resigns in
+early April: "Today I accepted a position in a new company, and
+resigned from my position in the current company." The new role — a
+Director title at `../entities/cgi.md`, leading testing services with a
+focus on AI — starts 3 June, sourced the same way most of her jobs have
+been: "co-create the position I want from a single social media post."
+It's a step further from hands-on engineering management: not a
+product team but multi-customer consulting, recruiting her own team,
+and by autumn holding roughly 130 targeted customer-meeting contacts a
+year. She names the tradeoff candidly: "What they don't tell you about
+being in positions with the higher salaries is how much of your work
+is holding back to things you can't say out loud." A parting note on
+her old team resurfaces the "5-year survival" question this page has
+tracked before — this time she expects her old ways of working *not*
+to outlast her departure, unlike the three-year survival after leaving
+F-Secure: "I feel like failure because I'm certain my way of doing
+things won't last a month."
+
+Representative posts:
+- https://mas.to/@maaretp/112202223069723112
+- https://mas.to/@maaretp/112558324193443935
+- https://mas.to/@maaretp/112446624871444520
+- https://mas.to/@maaretp/113078593137634898
+
+## 2025 — year two at CGI: burnout named and corrected, a title fought for twice — [[../batches/2025|batch]]
+
+Year two brings the strain into focus. In April she names it directly:
+"I recognize I'm approaching burnout. Not because of the work itself
+but because of the conditions of powerlessness surrounding the work" —
+and takes visible corrective action, most concretely in September when
+she resets to office-worker basics: "First day of working at office
+life. I'm relearning public transport. Stopping work at 8 hrs. Taking
+a lunch break. Promising and doing less." Her job title ("test lead")
+gets administratively swapped out for a generic one twice within six
+months — right after she'd lost a €24M bid for lacking the word "test"
+in a title — and she fights, successfully, to get it reinstated both
+times. A near-departure surfaces in October, not planned but
+triggered by one hostile colleague ("dropping team manager and sales
+expectations... someone decides hostility is the way to go"), and by
+November she's interviewing elsewhere and turning down at least one
+recruiter pitching a €2,500/month raise, without deciding to leave.
+Throughout, she keeps naming the structural absurdity of the
+consultant-director role — client bids requiring named individuals
+with rare combinations of certifications, competing teams each losing
+5% of a gig's value bidding unpaid — while still finding real wins:
+a full year of documented productivity-metric improvements at one
+client, credited back to her first year's groundwork.
+
+Representative posts:
+- https://mas.to/@maaretp/114303942122884157
+- https://mas.to/@maaretp/115129513832109019
+- https://mas.to/@maaretp/115305147699005845
+- https://mas.to/@maaretp/115470403441625560

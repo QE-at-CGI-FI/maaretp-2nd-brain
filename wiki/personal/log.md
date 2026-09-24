@@ -309,4 +309,68 @@ harassment disclosure in an unnamed "safe space"; a plainly-named
 daughter-as-technical-resource beats). **2021 is now fully ingested
 (Q1–Q4).**
 
+## [2026-09-24] ingest | 2022 Q1 (642 posts, first 2022 batch)
+2022 split into quarters at ingest time (3211 posts total, dense-year
+rule). Created batch page [[batches/2022-q1]]. Added 2022-Q1 sections
+to 2 existing pages: concepts/self-understanding (a brief domestic-
+conflict disclosure — "attacked at home for daring to joke about my
+code"; a concrete number for how long self-belief took to arrive; a
+rejection of "queen of testing") and entities/family (a real negotiated
+family travel exception for September; the sister thread continues).
+
+## [2026-09-24] ingest | 2022 Q2 (913 posts, second 2022 batch, densest yet)
+Created batch page [[batches/2022-q2]]. Added 2022-Q2 sections to 2
+existing pages: concepts/self-understanding (a dated "intimidating"
+incident collapsed with "smile more" into one bitter line; expert-
+erasure named directly as a social-anxiety trigger; a lifetime-of-
+idealism reflection) and entities/family ("single mom of two teenagers"
+stated plainly for the first time; a warm April Fools' beat).
+
+## [2026-09-24] ingest | 2022 Q3 (710 posts, third 2022 batch)
+Created batch page [[batches/2022-q3]]. Added 2022-Q3 sections to 2
+existing pages: concepts/self-understanding (the heaviest disclosure of
+the quarter — a death threat over organizing EuroTestConf, met with "a
+few years of silence" as her chosen mitigation; a current team-
+exclusion incident echoing the "I must be awful"/"weirdest feedback"
+split) and entities/family (the real financial cost of unpaid speaking
+named directly for the first time — missed Christmas presents; the
+September Bratislava/Vienna trip closes with her daughter as her own
+"personal photographer," a callback to the 2022 Q1 travel deal; a warm
+generational Instagram beat).
+
+## [2026-09-24] ingest | 2022 Q4 (589 posts, fourth and final 2022 batch, Twitter→Mastodon transition quarter)
+Created batch page [[batches/2022-q4]]. Added 2022-Q4 sections to 3
+existing pages: concepts/self-understanding (leaving Twitter over
+Musk's treatment of employees, named as grief and principle together —
+a live example of the idealism pattern first named in 2022 Q2; a plain
+admission of her own financial constraints), entities/family
+(teenagers named directly as a source of energy; a delighted
+"biggest flex" moment over her daughter's chemistry book), and
+concepts/health-accommodation (a second, unrelated accommodation
+surfaces for the first time — degrading eyesight). **2022 is now
+fully ingested (Q1–Q4).**
+
+## [2026-09-24] ingest | 2023 (1293 posts, first fully post-Twitter year, Mastodon only)
+Not split into quarters. Created batch page [[batches/2023]]. Added
+2023 sections to 2 existing pages: concepts/self-understanding (a
+near-resignation resolved by "an exceptional manager"; a new pronoun
+reflection — tired of "she," not of being a woman; the year's
+heaviest disclosure, "defined through abuse of man," tied to the
+James Bach saga; a small moment of recognizing herself as the odd one
+out among other parents) and entities/family (kids now old enough to
+stay home alone, directly shaping travel decisions; a 50th-birthday
+trip to New York planned with her daughter; small ordinary-life
+warmth). **2023 is now fully ingested.**
+
+## [2026-09-24] ingest | 2024 (1240 posts, not split into quarters)
+Created batch page [[batches/2024]]. Added 2024 sections to 2 existing
+pages: concepts/self-understanding (the James Bach keynote-attack
+wound gets its most precise dating yet and a conscious closure — "I
+stop reinforcing memory. Now"; an old family wound resurfaces, a
+brother's derogatory "social justice warrior" jab; a colleague's
+"drawing pictures" observation lands as an accurate self-description)
+and entities/family (a reframed Mother's Day card six years on; her
+son's F-Secure homework triggers nostalgia; a warm aside about her
+mother; a 30-year school reunion). **2024 is now fully ingested.**
+
 <!-- newest entries at the bottom -->

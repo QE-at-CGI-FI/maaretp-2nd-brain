@@ -407,3 +407,114 @@ response to pervasiveness of problems."
 Representative posts:
 - https://twitter.com/maaretp/status/1466300970732769281
 - https://twitter.com/maaretp/status/1471013937617547267
+
+## 2022 Q1 — a real travel exception, and the sister thread continues — [[../batches/2022-q1|batch]]
+
+With international travel still mostly paused, she books one concrete
+exception — Bratislava and Vienna in September — taking her teenage
+daughter along under a standing family rule: "our deal is we travel
+together or we don't travel." A clarifying detail on an old trip
+surfaces too: at #AgileIndia, her daughter "learned to use a system
+camera and picked up photography as a hobby." Her sister
+(@StillMimii, see `../../testing/concepts/whole-team-testing.md`)
+continues the professional thread from 2021 Q3, now training a new
+colleague of her own the same way Maaret trained her — through pairing.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1509595411970936833
+- https://twitter.com/maaretp/status/1499649490793418757
+- https://twitter.com/maaretp/status/1478823773923127300
+
+## 2022 Q2 — "single mom of two teenagers," stated plainly — [[../batches/2022-q2|batch]]
+
+Turning down a conference submission over travel cost, she states her
+situation directly rather than implying it: "I can't afford to pay my
+travel + hotel to speak as a single mom of two teenagers" — the
+clearest, most matter-of-fact single-parent self-description on record,
+tying the family-travel restraint from 2022 Q1 to a concrete financial
+reason. A small warm beat opens the quarter: her son stages an elaborate
+April Fools' joke, walking her through a fake "blue screen of death"
+troubleshooting session before the reveal — "tailor-made just for me."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1542109046475558913
+- https://twitter.com/maaretp/status/1509961790645547014
+
+## 2022 Q3 — the real cost of unpaid speaking, and a daughter as travel photographer — [[../batches/2022-q3|batch]]
+
+The clearest financial statement yet on the 2022 Q2 "single mom of two
+teenagers" thread: unpaid or late-paid conference speaking is named as
+having a direct, concrete cost — "I had the choice that left my kids
+without presents at Christmas... Some choices are more real than
+others. It's not really a choice for a lot of people." The quarter's
+September Bratislava/Vienna trip (booked in 2022 Q1 under the family's
+"we travel together or we don't travel" rule) closes out with her
+daughter now doing the photography herself: "Tomorrow traveling to a
+conference with a personal photographer. I have #AgileIndia to thank
+for this" — a direct callback to the 2022 Q1 note that she picked up
+photography as a hobby on that same earlier trip. A warm, generational
+beat closes the quarter, continuing the daughter-as-technical-resource
+pattern tracked since 2021 Q2: "That's why you have kids — they teach
+you how to do Instagram" — one of the kids she has "after teaching me
+how to like a private message."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1549119680723435521
+- https://twitter.com/maaretp/status/1574327671924068352
+- https://twitter.com/maaretp/status/1575193235361648641
+
+## 2022 Q4 — teenagers as a source of energy, and a chemistry-book flex — [[../batches/2022-q4|batch]]
+
+Two small, warm beats. Naming what actually energizes versus drains
+her: "things that give me energy (like conversations with my teenagers
+who are growing up brilliant conversationalists) and things that drain
+my energy (like faked/forced collaboration)" — a direct, positive
+framing of both kids now as teenagers, distinct from the technical-
+resource pattern tracked since 2021. And a specific, delighted parent
+moment: her daughter's "biggest flex is that her chemistry book is
+written by her chemistry teacher," with Maaret "just happy she paid
+enough attention to notice and mention it."
+
+Representative posts:
+- https://mas.to/@maaretp/109387035666599392
+- https://mas.to/@maaretp/109457223979847029
+
+## 2023 — kids old enough to stay home, and a 50th-birthday trip planned with her daughter — [[../batches/2023|batch]]
+
+A quiet milestone acknowledged mid-year: "My kids are now officially
+big enough to stay home without me" — directly informing her decisions
+on how much travel and public speaking to take back on. The warmest
+beat of the year looks forward rather than back: a planned trip to New
+York for her 50th birthday (2024) "in best possible company: my
+daughter." Small ordinary-life beats recur throughout — being handed a
+24-pack of Pepsi Max by her kids for "Friends Day," being asked what's
+for dinner and getting silence back, and closing the year by skipping a
+Friday release to go shopping with her daughter instead.
+
+Representative posts:
+- https://mas.to/@maaretp/110198547386075509
+- https://mas.to/@maaretp/109865273014174033
+- https://mas.to/@maaretp/111136984517613460
+- https://mas.to/@maaretp/111425350168631210
+- https://mas.to/@maaretp/111676726978697215
+
+## 2024 — a son's F-Secure homework, and a mother reframed — [[../batches/2024|batch]]
+
+Mother's Day brings a pointed reframe of an old family joke: recalling
+a card from six years earlier that defined her by "parenthood... a
+relationship," she notes her son has since learned better — "our little
+trio is important, other things are too." Her son's own homework
+project on F-Secure (her former employer) triggers a nostalgic aside
+about a collector's-item boxed antivirus CD she once had. A small,
+warm aside about her mother surfaces mid-year — finding silk fabric
+Maaret had bought for a crafting project, prompting a shared laugh
+about the gap between "collecting ingredients" and "completing
+projects" as two different hobbies. She reconnects with old friends at
+a 30-year school reunion, thanking the friend who once gave her a ride
+to entrance exams for setting her whole career trajectory in motion.
+
+Representative posts:
+- https://mas.to/@maaretp/112432460605243195
+- https://mas.to/@maaretp/113091826833436000
+- https://mas.to/@maaretp/112885208532478372
+- https://mas.to/@maaretp/113506242839787364

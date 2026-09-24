@@ -824,3 +824,152 @@ Representative posts:
 - https://twitter.com/maaretp/status/1459217213169311755
 - https://twitter.com/maaretp/status/1459218414476660739
 - https://twitter.com/maaretp/status/1466300970732769281
+
+## 2022 Q1 — a domestic disclosure, and rejecting "queen" — [[../batches/2022-q1|batch]]
+
+A brief but sharp new disclosure, offered in passing while discussing a
+public sexist remark: "reminded how hard I was attacked at home for
+daring to joke about my code" — the first time this page has recorded
+conflict over her technical identity from inside her own home rather
+than at work or in community spaces. No further detail given. Separately,
+marking 25 years in testing, she's unusually candid about how long
+self-belief actually took to arrive — "8 years of doing the work before
+I started telling myself... that I can be good at it" — a concrete
+number for a pattern this page has otherwise only described
+qualitatively. She also explicitly declines a title offered as a
+compliment: "queen of testing" (see
+`../../testing/concepts/gender-in-tech.md` for the full reasoning) — a
+small but clear instance of setting her own terms for recognition
+rather than accepting flattering framing by default.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1501563272708907009
+- https://twitter.com/maaretp/status/1497637410020249607
+- https://twitter.com/maaretp/status/1508370664272666628
+
+## 2022 Q2 — invisibility named as social anxiety, and a lifetime of idealism — [[../batches/2022-q2|batch]]
+
+A direct, dated instance of a pattern this page has tracked since the
+2016 Bach conflict: excluded from an architecture meeting for "asking
+questions... intimidating," reframed a month later into one bitter
+sentence tying "smile more" (her ex-partner's advice, 2020 Q1) directly
+to "intimidating" (2021 Q3's internalized-misogyny naming) for the
+first time in a single breath. A separate, more clinical naming closes
+a long-running thread: "I still haven't learned to deal with this: in
+a room on a topic I'm an expert on, people seek someone else... my
+experiences and expertise don't matter... How do people deal with
+this?" — followed by "It plays to my type of social anxiety" — the
+clearest statement yet that the gender-erasure pattern this wiki has
+tracked for years isn't just professionally frustrating but triggers a
+named anxiety response. A reflective thread on idealism looks back over
+a lifetime of costly principle — refusing payment for volunteer
+theatre work, giving away a bonus to an underpaid colleague, and
+getting a harassing conference organizer dismissed (see
+`../../testing/entities/international-speaking.md`) — closing not with
+regret but an open question: "I have been an idealist all my life. I
+don't want to stop being one. But being one comes with personal losses
+and risks."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1525511018201370625
+- https://twitter.com/maaretp/status/1542457677917437952
+- https://twitter.com/maaretp/status/1537334725509107713
+- https://twitter.com/maaretp/status/1537352854960218112
+- https://twitter.com/maaretp/status/1513851584115060738
+
+## 2022 Q3 — a death threat disclosed, and a real family cost named — [[../batches/2022-q3|batch]]
+
+The heaviest single disclosure of the quarter: organizing
+`../../testing/entities/eurotestingconf.md` brought her a death threat
+over a denied-visa ticket sale, met with "a few years of silence" as
+her chosen mitigation — never mentioned anywhere in the archive before
+this. She names the emotional aftermath plainly rather than
+dramatically: "I was ok then, I am still ok." A second, quieter cost
+surfaces in the same stretch: choosing unpaid/late-paid conference
+speaking over being home for Christmas — "I had the choice that left
+my kids without presents at Christmas... Some choices are more real
+than others. It's not really a choice for a lot of people" — naming the
+class dimension of the #PayToSpeak fight directly for the first time.
+A current, dated workplace-exclusion incident echoes the older
+"intimidating" thread without fully resolving into it: asked why one
+person out of an eight-person team would be told not to join meetings,
+she answers herself with the same split she's named before — "I must
+be awful" versus "I just get the weirdest feedback."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1548308333638983683
+- https://twitter.com/maaretp/status/1548314778417766403
+- https://twitter.com/maaretp/status/1549119680723435521
+- https://twitter.com/maaretp/status/1562530343307345921
+- https://twitter.com/maaretp/status/1562537738934427650
+
+## 2022 Q4 — leaving Twitter on principle, and naming the financial honesty behind it — [[../batches/2022-q4|batch]]
+
+The idealism thread from 2022 Q2 (theatre pay refused, a bonus given
+away, a harassing organizer reported) gets a real-time example this
+quarter rather than a retrospective one. Leaving Twitter over Elon
+Musk's treatment of employees costs her something concrete — community,
+continuity, an audience built over years — and she names both the
+grief and the reasoning plainly: "going into my 2nd day without Twitter
+and saying my goodbyes to friends who stay there, I am sad... Can't
+contribute to the space and stay congruent to what I believe in in the
+world." Restated even more simply weeks later: "I left when the
+mistreatment of employees became a thing. I felt strongly I cannot
+produce contents for a business that treats people like that." The
+same honesty about cost shows up in a smaller, more mundane form: "I
+preach about the underprivileged and financial constraints while
+living with financial constraints" — said while explaining a
+conference cancellation she couldn't afford, not as a complaint but as
+a plain statement of her own situation.
+
+Representative posts:
+- https://mas.to/@maaretp/109363497165286926
+- https://mas.to/@maaretp/109517890836324970
+- https://mas.to/@maaretp/109529306600894359
+
+## 2023 — an almost-resignation, a pronoun reflection, and "defined through abuse of man" — [[../batches/2023|batch]]
+
+A near-departure from her employer opens the year, resolved not by her
+own decision but by a manager who actually delivered: "I called my
+manager with the intention of resigning... he asks what they always
+need to ask: what would need to be different for you to stay? ... I
+have an exceptional manager." A quieter identity thread surfaces for
+the first time — wanting to shed "she" while not minding being a woman,
+tired of pronouns singling her out, "like in my native language."
+The year's heaviest disclosure comes in September, tied to the
+long-running James Bach saga documented on the testing side (see
+`../../testing/entities/james-bach.md`): "they say that women are
+defined through men. It is exhausting to be one defined through abuse
+of man. 8 years and not for the lack of trying to write something
+professionally useful, I have managed once. Almost twice." A smaller,
+telling observation closes the year: sitting with a group of parents
+comparing baby-weight memories, she notices she can't produce that kind
+of recall at all — "normal is a social construct" — a rare moment of
+naming herself as the outlier in an ordinary parenting context rather
+than a professional one.
+
+Representative posts:
+- https://mas.to/@maaretp/110351066726588249
+- https://mas.to/@maaretp/110017764696627570
+- https://mas.to/@maaretp/111071056825536423
+- https://mas.to/@maaretp/111103272775099093
+
+## 2024 — a conscious choice to stop reinforcing an old wound — [[../batches/2024|batch]]
+
+The James Bach keynote-attack story (see
+`../../testing/entities/james-bach.md`) gets its most precise dating
+yet — the 8-year anniversary lands 26 September — and instead of another
+retelling, she names a deliberate decision: "I stop reinforcing memory.
+Now," noting that almost no one but her and one confidante ever actually
+held her in the "attacked" frame she'd feared. An old family wound
+resurfaces the same week the EuroSTAR boycott breaks: her brother once
+derogatorily called her a "social justice warrior," which she reads
+correctly at the time as coming from someone "on the side of what I
+consider injustice" — she's still working on the balance between being
+"intimidating" and staying congruent with what she believes. A quieter,
+structural self-observation closes the year: a colleague notes her work
+is "drawing pictures," and she doesn't disagree.
+
+Representative posts:
+- https://mas.to/@maaretp/113208001556530740
+- https://mas.to/@maaretp/111788084166305742

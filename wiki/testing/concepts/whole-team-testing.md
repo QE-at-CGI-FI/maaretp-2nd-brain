@@ -634,3 +634,42 @@ Representative posts:
 - https://twitter.com/maaretp/status/1462852406543278093
 - https://twitter.com/maaretp/status/1474281946628907020
 - https://twitter.com/maaretp/status/1448273060453404681
+
+## 2022 Q2 — a third book, and the origin history retold once more — [[../batches/2022-q2|batch]]
+
+Publishes an **Ensemble Testing Guidebook**, giving the practice its own
+dedicated book alongside the Exploratory Testing book (2015) and the
+renamed Ensemble Programming Guidebook — timed to "hundreds of
+sessions" finally getting "put into a reference." Retells the origin
+story once more, consistent with the Q3 2021 corrections: first public
+facilitation at XP2015, then a demo ensemble with @lisacrispin at
+Agile2015 Atlanta, a first Ensemble Programming book launched in New
+York in November 2015. The Robot Framework removal keeps paying off
+elsewhere — teaching materials updated, and by June she notes at least
+one other Finnish organization independently replacing RF with
+Playwright, reading it as confirmation rather than credit-seeking.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1535220115905687553
+- https://twitter.com/maaretp/status/1535222246524047361
+- https://twitter.com/maaretp/status/1542161472888967170
+
+## 2022 Q4 — Robot Framework recurs, and ChatGPT enters the record — [[../batches/2022-q4|batch]]
+
+The Robot Framework theme continues unchanged — declining to promote
+"the flagship of Finland in test automation space" even mid-talk. The
+real novelty this quarter is AI: within days of ChatGPT's public
+release she runs it through her own testing lens repeatedly — feeding
+it Advent of Code problems, asking it to draft a talk description, and
+testing what it says about real people in the testing community
+("confidently incorrect... It makes stuff up and looks plausible" —
+naming hallucination as a specific, testable failure mode before the
+term was common). #TestingDozen's session 4 gets reworked live to let
+her mentees explore ChatGPT together instead of the planned agenda —
+the first time an AI tool becomes teaching material in the archive.
+
+Representative posts:
+- https://mas.to/@maaretp/109477407974762442
+- https://mas.to/@maaretp/109457479246583504
+- https://mas.to/@maaretp/109462031004965290
+- https://mas.to/@maaretp/109474538358343812

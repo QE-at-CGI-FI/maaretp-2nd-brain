@@ -98,3 +98,21 @@ Representative posts:
 - https://twitter.com/maaretp/status/631662115032551424
 - https://twitter.com/maaretp/status/631552405130334208
 - https://twitter.com/maaretp/status/646965627387805696
+
+## 2022 Q3 — why she stopped contributing, named directly — [[../batches/2022-q3|batch]]
+
+A new, concrete detail behind her long-standing "detractor" stance:
+"I was there to create ISTQB foundation syllabus. Someone in that group
+deleting changes added through change management process was politics
+I was not prepared for. So failed at correcting worst of it and has not
+contributed since." A public LinkedIn post restating her anti-ISTQB
+position gets real reach (300 likes, ~30,000 views), and she separately
+flags a specific, current concern — a local ISTQB board member
+apparently pressuring a training provider to remove competing (non-
+ISTQB) courses — hoping it's "a rogue individual and not something they
+drive systematically."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1570087626425700352
+- https://twitter.com/maaretp/status/1570433710167851010
+- https://twitter.com/maaretp/status/1570361597096345600

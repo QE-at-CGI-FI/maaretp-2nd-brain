@@ -348,3 +348,80 @@ community against him, not just cost him individual jobs.
 
 Representative posts:
 - https://twitter.com/maaretp/status/1392902693421781001
+
+## 2022 Q2 — AST considers reinstating him, and she pushes back hard — [[../batches/2022-q2|batch]]
+
+The most significant Bach-related development since the 2016 TMAcad
+incident: **AST (the Association for Software Testing)** puts a
+question to its speakers — whether Bach ("JB" in her tweets, identified
+by the reference to "the slide incident," i.e. TMAcad) should be
+allowed back after past code-of-conduct issues — rushing them to vote
+within about 20 hours. She pushes back hard and publicly: "If you...
+want to bring JB back, encourage him to own up to the misbehaviour
+absence is consequence of. He could start by apologising... I was not
+the only one, I was the last. Before he at least shows remorse on
+behaviour widely condemned, you can't bring him back." She also names,
+for the first time, a real personal cost of the whole affair that isn't
+about him: "AST's actions rekindled next generation of testers learning
+my legacy as the one deflecting a blow that brought down a mighty guru.
+My legacy is being attacked but his legacy isn't being attacker who
+never apologized" — newer testers encountering the TMAcad story for the
+first time via this controversy read *her* as the aggressor. She
+processes this candidly rather than just defending her position:
+"instead of his legacy being the bully who never apologized, mine is of
+the wrong target... I'll be ok with that."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1529753938236416001
+- https://twitter.com/maaretp/status/1529759369310752768
+- https://twitter.com/maaretp/status/1529792295792517120
+- https://twitter.com/maaretp/status/1529856323122233346
+- https://twitter.com/maaretp/status/1529861029542469634
+- https://twitter.com/maaretp/status/1532472586050879488
+- https://twitter.com/maaretp/status/1532473692818661380
+- https://twitter.com/maaretp/status/1532560283931222033
+
+## 2023 — the wound reopens without a new incident, and the pattern repeats elsewhere — [[../batches/2023|batch]]
+
+No new direct conflict this year, but a September reflection shows the
+2022 keynote-attack wound hasn't closed: "I do not want to be reminded
+that I barely last year created something to read that people
+considered slightly more relevant than the testing field leader using
+his keynote to talk shit of me... 8 years and not for the lack of
+trying to write something professionally useful, I have managed once.
+Almost twice" — dating the original TMAcad incident to roughly 2015,
+consistent with prior batches. The same week, she names a recurring
+community pattern using Bach and Bolton's own nickname for themselves:
+"drama around the terrible twins of Testing, new weapons: TOS... The
+third in the attacks changes over the years, and I was a third in
+2016. Best of luck for protecting energies for Jason Arbon" — casting
+her own 2016 experience as one instance of a repeating structure now
+landing on someone else.
+
+Representative posts:
+- https://mas.to/@maaretp/111071056825536423
+- https://mas.to/@maaretp/111070994404806777
+
+## 2024 — a boycott, and a conscious decision to stop reinforcing the memory — [[../batches/2024|batch]]
+
+The "terrible twins" pattern turns concrete in January when EuroSTAR
+appoints one of the two as program chair — she responds by boycotting
+the conference outright (see `eurostar.md`), tying it directly to the
+hostile-feedback story behind her 2023 speaking retirement. A LinkedIn
+flare-up the same week has the other twin publicly recasting himself as
+victim ("he's not the bully, I'm the bully"), which she meets with a
+brief, weary service-announcement rather than re-engaging. The clearest
+new data point is a precise date: on 27 September she marks the
+"8-year anniversary of a guy attacking me from a stage" — dating the
+TMAcad incident to 26 September 2016, sharper than the "roughly 2015"
+this wiki had from 2023. Rather than another retelling, she names a
+deliberate choice: "I stop reinforcing memory. Now" — noting that
+almost no one but her and one confidante actually held the story in the
+frame she feared, and reconnecting with the person who'd once told her
+to "just enjoy my 5-minutes of fame from being attacked by famous
+person."
+
+Representative posts:
+- https://mas.to/@maaretp/111787949843957308
+- https://mas.to/@maaretp/111787709520085713
+- https://mas.to/@maaretp/113208001556530740

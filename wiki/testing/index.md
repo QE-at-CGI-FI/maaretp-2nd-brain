@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2020 done, 2021– not started).
+See [[../progress]] for what's been ingested (2010–2024 done, 2025– not started).
 
 ## Entities
 
@@ -41,7 +41,10 @@ See [[../progress]] for what's been ingested (2010–2020 done, 2021– not star
 - [[entities/tech-excellence|#TechExcellence]] — Helsinki technical-agile meetup, grows into a standalone conference launching June 2019
 - [[entities/ddd-europe|DDD Europe]] — Amsterdam DDD conference, first keynote Feb 2019
 - [[entities/llewellyn-falco|Llewellyn Falco]] — Mob Programming Guidebook co-author; a copyright dispute over the book ends in him doxxing her, 2019-Q4
-- [[entities/vaisala|Vaisala]] — her next employer after F-Secure, named 2020-Q1, start following an April 2020 departure
+- [[entities/vaisala|Vaisala]] — her next employer after F-Secure, named 2020-Q1, start following an April 2020 departure; leaves 2024 for CGI
+- [[entities/cgi|CGI]] — her employer from June 2024, Director-level testing services leadership with an AI focus
+- [[entities/mastodon-migration|Twitter → Mastodon Migration]] — the platform switch itself, a values-driven exit over Musk's treatment of employees, 2022-Q4; the Twitter deletion completes 2023
+- [[entities/selenium-project|Selenium Project]] — Selenium Project Leadership Committee seat (2022-Q3) becomes sustained volunteer leadership through 2023 (SeConf Chicago, 19th-anniversary open space conference); the project turns 20 in 2024
 
 ## Concepts
 
@@ -57,6 +60,7 @@ See [[../progress]] for what's been ingested (2010–2020 done, 2021– not star
 - [[concepts/cdt-community-culture|CDT Community Culture]] — bullying/argument-culture critique, named directly for the first time 2016-Q2
 - [[concepts/management-transition|Management Transition]] — becomes a manager at F-Secure, 2018-Q2
 - [[concepts/experiential-testing-training|Experiential Exploratory Testing Training]] — a new sustained 1:1/small-group teaching practice, launched 2018-Q2
+- [[concepts/ai-in-testing|AI in Testing]] — ChatGPT and GenAI enter the record 2022-Q4, become a running skeptical experiment through 2023 ("hallucination testing"), and her actual job focus at CGI from 2024
 
 ## Batches
 
@@ -93,3 +97,9 @@ See [[../progress]] for what's been ingested (2010–2020 done, 2021– not star
 - [[batches/2021-q2|2021 Q2]] — 766 posts, second 2021 batch. A precisely dated Ensemble Testing origin history closing with a named fear of erasure; a EuroSTAR 2021 keynote booking prompts a thread dating "no women of merit" to April 2015 and naming the STAR conference behind her first big international keynote; the F-Secure promotion denial gets a direct gender comparison for the first time.
 - [[batches/2021-q3|2021 Q3]] — 814 posts, third 2021 batch. The Ensemble Testing origin dates get self-corrected twice more; Bach and Bolton become "the terrible twins of test" alongside an admission she was "fooled... for years"; a CDT-identity departure is named directly; the EuroSTAR keynote-trauma arc resolves with an actual successful keynote delivery.
 - [[batches/2021-q4|2021 Q4]] — 673 posts, fourth and final 2021 batch. The year-long Robot Framework dispute reaches an actual resolution; a standing pattern (quietly getting harassing organizers removed while also keynoting) is named directly; the "no women of merit" dating shifts again, leaving two inconsistent accounts on record; a steady year-end tally closes 2021. **2021 is now fully ingested.**
+- [[batches/2022-q1|2022 Q1]] — 642 posts, first 2022 batch (year split into quarters). A 25-year career milestone; the January "babysit my kids" keynote incident gets clarified in March; an all-male "Tester of the Year" shortlist despite equal community representation; a direct rejection of the "queen of testing" title; Robot Framework's removal reaches her actual course materials.
+- [[batches/2022-q2|2022 Q2]] — 913 posts, second 2022 batch, densest yet. AST considers reinstating James Bach as a speaker, prompting the most significant development in that saga since 2016; the 2021 STAR-conference-organizer story gets a direct first-person confirmation; a dated "intimidating" incident and a children's-book erasure campaign; a third book (Ensemble Testing Guidebook) published.
+- [[batches/2022-q3|2022 Q3]] — 710 posts, third 2022 batch. A never-before-mentioned death threat disclosed, tied to organizing EuroTestConf; new detail on why she stopped contributing to ISTQB; a current team-exclusion incident and a gender-swapped writing experiment; the talk tally reaches 496 and she joins the Selenium Project Leadership Committee.
+- [[batches/2022-q4|2022 Q4]] — 589 posts, fourth and final 2022 batch. The Twitter→Mastodon platform transition itself becomes a documented, values-driven event; a 25-year career milestone and #TestingDozen mentoring program launch; talk #500; ChatGPT enters the record. **2022 is now fully ingested.**
+- [[batches/2023|2023]] — 1293 posts, first fully post-Twitter year (Mastodon only), not split into quarters. The Twitter deletion completes; a real retirement from public speaking after the travel break ends; the EuroSTAR "no women of merit" arc closes; the second management stint gets a candid, mixed year-end reckoning; ChatGPT becomes a running experiment; Selenium volunteer leadership grows into a sustained commitment. **2023 is now fully ingested.**
+- [[batches/2024|2024]] — 1240 posts, not split into quarters. Leaves Vaisala for a Director role at CGI; boycotts EuroSTAR over a James Bach program-chair appointment; the 2016 TMAcad wound gets a conscious closure; un-retires from public speaking; Selenium turns 20; AI becomes her actual job focus. **2024 is now fully ingested.**

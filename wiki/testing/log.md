@@ -486,4 +486,106 @@ a steady year-end tally), and concepts/gender-in-tech (a general
 "safe space" harassment disclosure; a clean representation experiment).
 **2021 is now fully ingested (Q1–Q4).**
 
+## [2026-09-24] ingest | 2022 Q1 (642 posts, first 2022 batch)
+2022 split into quarters at ingest time (3211 posts total, dense-year
+rule). Created batch page [[batches/2022-q1]]. Added 2022-Q1 sections
+to 4 existing pages: concepts/exploratory-testing (a 25-year career
+milestone; a full book rewrite; Robot Framework removed from her
+actual course materials), concepts/gender-in-tech (the January
+"babysit my kids" incident clarified in March; an all-male award
+shortlist; a direct rejection of "queen of testing"), entities/vaisala
+(another internal team move; an old F-Secure wound resurfaces), and
+entities/international-speaking (board work expands to three
+organizations; a real negotiated family travel exception).
+
+## [2026-09-24] ingest | 2022 Q2 (913 posts, second 2022 batch, densest yet)
+Created batch page [[batches/2022-q2]]. Added 2022-Q2 sections to 4
+existing pages: entities/james-bach (AST considers reinstating him as
+a speaker — the most significant development in this saga since 2016;
+she processes the cost of being read as the aggressor), entities/
+international-speaking (the 2021 Q2 STAR-conference-organizer story
+gets a direct first-person confirmation; a third book published),
+concepts/gender-in-tech (a dated "intimidating" architecture-meeting
+incident; a children's-book erasure campaign followed by a content
+critique), and concepts/whole-team-testing (the Ensemble Testing
+Guidebook publishes; the Robot Framework removal keeps paying off).
+
+## [2026-09-24] ingest | 2022 Q3 (710 posts, third 2022 batch)
+Created batch page [[batches/2022-q3]]. Added 2022-Q3 sections to 4
+existing pages: entities/eurotestingconf (a significant, never-before-
+mentioned disclosure — organizing the conference brought her a death
+threat, met with years of silence as mitigation), entities/istqb (new
+detail on why she stopped contributing after co-authoring the
+foundation syllabus — a change-management dispute she wasn't prepared
+to fight), entities/international-speaking (the "babysit my kids"
+wound dated precisely to ~July 2017; the talk tally reaches 496; joins
+the Selenium Project Leadership Committee), and concepts/gender-in-tech
+(a current team-exclusion incident; a brief disclosure of a past
+gender-swapped writing experiment).
+
+## [2026-09-24] ingest | 2022 Q4 (589 posts, fourth and final 2022 batch, Twitter→Mastodon transition quarter)
+Created batch page [[batches/2022-q4]] and 1 new entity page
+(mastodon-migration — the platform switch itself, treated as a
+documented values-driven event rather than a silent handoff between
+raw sources). Added 2022-Q4 sections to 5 existing pages:
+entities/international-speaking (25-year #maaretpSilverJubilee
+milestone, #TestingDozen mentoring program launch, talk #500,
+year-end tally of 509 sessions), entities/eurostar (2023 keynote
+confirmed with an explicit "no women of merit" callback),
+concepts/gender-in-tech (pay-gap numbers updated; "corrective
+fairness" named directly as her operating principle for the first
+time), concepts/whole-team-testing (Robot Framework recurs; ChatGPT
+enters the record within days of release, tested and taught to
+#TestingDozen), and concepts/management-transition (a new, undecided
+consideration of returning to management). **2022 is now fully
+ingested (Q1–Q4).**
+
+## [2026-09-24] ingest | 2023 (1293 posts, first fully post-Twitter year, Mastodon only)
+Not split into quarters (under the 2000-post dense-year threshold).
+Created batch page [[batches/2023]] and 2 new pages: entities/
+selenium-project (Selenium Project Leadership Committee seat grows
+into sustained volunteer leadership — SeConf Chicago, a 19th-
+anniversary open space conference, 20th-anniversary planning begins)
+and concepts/ai-in-testing (ChatGPT's public release becomes a
+running, skeptical year-long experiment — she coins "hallucination
+testing"). Added 2023 sections to 6 existing pages: entities/
+mastodon-migration (the December-2022 "undecided" Twitter-deletion
+thread resolves — she deletes everything in July, worried but
+ultimately unaffected on her Top 100 ICT Influencer status),
+entities/international-speaking (the 3.5-year travel break ends in
+May, then a real retirement from public speaking follows after
+hostile anonymous feedback; closing tally 529 talks/50 keynotes/28
+countries), entities/eurostar (the June keynote delivers in person,
+closing the multi-year "no women of merit" arc, with her sister
+present for the first time), entities/james-bach (no new conflict,
+but a September reflection shows the 2022 wound hasn't closed; the
+"terrible twins" pattern recurs on a new target), concepts/
+gender-in-tech (mansplaining from the manager's chair; a new pronoun
+reflection; a stark self-description tied to the Bach saga), and
+concepts/management-transition (the second management stint becomes
+fully real; a candid, mixed year-end reckoning including a first-time
+multi-month stabilization-phase admission). **2023 is now fully
+ingested.**
+
+## [2026-09-24] ingest | 2024 (1240 posts, not split into quarters)
+Created batch page [[batches/2024]] and 1 new entity page: entities/
+cgi (her employer from June 2024, Director-level testing services
+leadership with an explicit AI focus). Added 2024 sections to 7
+existing pages: concepts/management-transition (leaves Vaisala for
+CGI in April, resigning after landing the new job the same day),
+entities/eurostar (boycotts the conference in January over a James
+Bach program-chair appointment, extending it to LambdaTest the same
+day), entities/james-bach (the 2016 TMAcad incident gets its most
+precise dating yet — 8-year anniversary, 26 September — and a
+conscious closure), entities/international-speaking (un-retires for
+the new job after 8 months, closing the year "quit speaking 2023 and
+quit quitting 2024"), entities/selenium-project (the project turns 20
+on 28 October, marked with a reflective blog post and a new
+scholarship program), concepts/gender-in-tech (the EuroSTAR boycott as
+advocacy; a genuinely balanced 9/9 team; a new biographical detail —
+hired twice while pregnant), and concepts/ai-in-testing (AI becomes
+her actual job focus, not just a personal experiment — ethical
+groundwork for Copilot, a costed AI-tool experiment). **2024 is now
+fully ingested.**
+
 <!-- newest entries at the bottom -->

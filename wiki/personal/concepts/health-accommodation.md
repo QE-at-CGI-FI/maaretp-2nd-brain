@@ -49,3 +49,17 @@ Representative posts:
 - https://twitter.com/maaretp/status/1131118618488516608
 - https://twitter.com/maaretp/status/1131203360651141120
 - https://twitter.com/maaretp/status/1142095112010391553
+
+## 2022 Q4 — a new, quieter accommodation: degrading eyesight — [[../batches/2022-q4|batch]]
+
+A second, unrelated accommodation surfaces for the first time,
+disclosed matter-of-factly rather than as a crisis: "My eyesight has
+been degrading, and I find a lot of comfort in a few skills I picked up
+already while I could see well" — touch-typing, contributing to pairs/
+ensembles without touching the keyboard, working remotely for control
+over text size, and starting to integrate text-to-speech. Framed with
+the same dry acceptance as the allergy entries on this page: "with the
+odd chance of becoming old(er)... Computer work relies on eyes a lot."
+
+Representative posts:
+- https://mas.to/@maaretp/109551295895470224

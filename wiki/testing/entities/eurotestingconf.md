@@ -337,3 +337,27 @@ Representative posts:
 - https://twitter.com/maaretp/status/1220786205056491521
 - https://twitter.com/maaretp/status/1226076257621880832
 - https://twitter.com/maaretp/status/1226180279989145600
+
+## 2022 Q3 — a death threat, disclosed for the first time — [[../batches/2022-q3|batch]]
+
+A significant retrospective disclosure, never mentioned before in the
+archive: "organising European Testing Conference also brought me a
+death threat. Not a very likely one to realise, but it still did. All
+because I sold a ticket to someone who tried to use it for visa to
+Europe that was denied." She names her response plainly — "a few years
+of silence is the best mitigation action to avoid that risk from
+escalating any further" — and frames the disclosure itself as
+corrective: "speakers have very little visibility to the stuff that
+organisers have to deal with." In the same thread she names other
+real costs of running the conference for the first time this
+concretely: a legally risky payment/tax structure that "burned me big
+time," and choosing to pay speakers honorariums only to have some
+high-visibility ones resent the tax paperwork it created for them. See
+`../../personal/concepts/self-understanding.md` for the personal-side
+account.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1548308333638983683
+- https://twitter.com/maaretp/status/1548314778417766403
+- https://twitter.com/maaretp/status/1548306221328842752
+- https://twitter.com/maaretp/status/1548306476493508614

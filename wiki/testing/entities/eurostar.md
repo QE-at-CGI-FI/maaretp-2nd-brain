@@ -101,3 +101,53 @@ merit" remark set her against a specific named man, not stated here.
 Representative posts:
 - https://twitter.com/maaretp/status/1453608693342380034
 - https://twitter.com/maaretp/status/1454334251118256128
+
+## 2022 Q4 — the 2023 keynote announced, with the callback made explicit — [[../batches/2022-q4|batch]]
+
+Her second EuroSTAR keynote (first in person, following the 2021 remote
+one) is confirmed for June 2023, and she draws the "no women of merit"
+line herself, unprompted: "Not bad from 'no women of merit' to this
+lineup of keynoters." By year end she's tallying it as her 40th keynote
+overall (later revised to her 47th once older ones are counted more
+completely) — round numbers she notes she's "not disciplined" about
+tracking consistently.
+
+Representative posts:
+- https://mas.to/@maaretp/109353692417712158
+- https://mas.to/@maaretp/109534987281785888
+- https://mas.to/@maaretp/109547973982023447
+
+## 2023 — the second keynote delivered, with her sister beside her — [[../batches/2023|batch]]
+
+The June keynote ("Whose Test Is It Anyway") lands in person, opening
+the conference's second day. Her sister — introduced in earlier batches
+as her Exploratory Testing Academy co-collaborator — joins her on site
+for the first time at a EuroSTAR event: "my best addition to testing,
+my lifelong gift that keeps on giving and a brilliant senior tester...
+who also happens to be my sister." A #Selenium community meetup happens
+alongside it. This closes the multi-year "no women of merit" arc first
+raised in 2021: the keynote itself, delivered, is the answer.
+
+Representative posts:
+- https://mas.to/@maaretp/110515227498030062
+- https://mas.to/@maaretp/110547894516775810
+- https://mas.to/@maaretp/110541807276685767
+
+## 2024 — a boycott, after 2023's chair appointment — [[../batches/2024|batch]]
+
+The relationship this page has tracked since 2021 breaks in January:
+EuroSTAR appoints one of the "terrible twins of testing" (see
+`james-bach.md`) as program chair, and she announces she's done —
+"I'm boycotting EuroSTAR." She ties it explicitly to the same anonymous
+hostile feedback that drove her 2023 retirement from public speaking:
+"me retiring from public speaking at time when EuroSTAR put the
+less-bad-still-bad of the terrible twins of testing as program chair is
+no coincidence. They promote the behavior of abusive comments I used as
+excuse." She extends the boycott to LambdaTest the same day, over an
+award given to the other of the two men three months earlier. No
+EuroSTAR appearance follows this year, a real break after two keynotes
+(2021, 2023) and years of engagement tracked on this page.
+
+Representative posts:
+- https://mas.to/@maaretp/111787949843957308
+- https://mas.to/@maaretp/111787956115018856

@@ -787,3 +787,160 @@ threshold theory, a direct demonstration of it in her own numbers.
 Representative posts:
 - https://twitter.com/maaretp/status/1463484892549951489
 - https://twitter.com/maaretp/status/1475852682485288961
+
+## 2022 Q1 — "babysit my kids," an all-male award shortlist, and rejecting "queen" — [[../batches/2022-q1|batch]]
+
+A new keynote-adjacent incident surfaces in January and gets clarified
+two months later: "the other keynoter's husband asking me if I was
+there to babysit my kids" (Jan) becomes, in a fuller March retelling,
+"asked if I was there to watch after my own kids while my partner
+delivers a talk — by another keynoter's partner" — her own partner had
+in fact accompanied her (without speaking), same as the other
+keynoter's. Just ahead of Women's Day, a Finnish training
+organization's "Tester of the Year" award opens voting with an
+all-male shortlist despite what she describes as genuinely equal
+representation in the wider community — "even automation theme gender
+representation in testing is equal but when the community is asked,
+it's all men." A separate, longer-running irritant gets resolved
+directly: she rejects being called "queen of testing" outright — "in a
+country with no royals... I don't think it respects me... there is no
+'king', men get to be esteemed authors and such" — preferring "tester
+with incredible achievements." Also lists, plainly, several concrete
+pay-equity actions she's taken over the years: asking colleagues what
+they earn and sharing her own, fixing unfair salaries as a manager,
+building raise cases for peers.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1483526416889262082
+- https://twitter.com/maaretp/status/1499649130511147008
+- https://twitter.com/maaretp/status/1499649490793418757
+- https://twitter.com/maaretp/status/1499651308801998854
+- https://twitter.com/maaretp/status/1499468716622458884
+- https://twitter.com/maaretp/status/1508370664272666628
+- https://twitter.com/maaretp/status/1508428808298414084
+- https://twitter.com/maaretp/status/1496252803811061768
+
+## 2022 Q2 — a named architecture-meeting incident, and a children's book campaign — [[../batches/2022-q2|batch]]
+
+A concrete, dated instance of the "intimidating" pattern this page
+tracked as internalized misogyny in 2021 Q3: "I was in an architecture
+meeting and was pulled aside after. I was told me asking questions
+about architecture is intimidating. I did not ask more than anyone else
+in room, nor was my style aggressive... I was asked to not
+participate anymore" — only the one manager felt that way; the
+architects invited her back next time. By late June she folds it into a
+single bitter one-liner synthesizing years of this page's "smile
+more"/"intimidating" threads at once: "Hi I'm Maaret. I would be less
+intimidating if I smiled more and it's better to not bring me in
+architecture meetings because my well-chosen questions intimidate all
+my colleagues." Separately, she runs a real public campaign after
+noticing a Finnish children's testing book leaves its illustrator off
+the cover while crediting the (male) author: emails the publisher,
+blogs "The Ghosts Among Us" connecting it to a broader pattern of
+ghost-writing/ghost-tweeting done disproportionately by women for men,
+and ties it explicitly back to "no women of merit" — the same
+[[../entities/eurostar|EuroSTAR]] phrase this page has tracked since
+2021. A month later she returns to the same book with a content
+critique, not just a credit one: "She created bugs he fixed because he
+was good enough. How internalised gender roles show up in kids book
+about software testing."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1525511018201370625
+- https://twitter.com/maaretp/status/1525512512564875265
+- https://twitter.com/maaretp/status/1542457677917437952
+- https://twitter.com/maaretp/status/1517186561066086400
+- https://twitter.com/maaretp/status/1517230990434918406
+- https://twitter.com/maaretp/status/1517400394023985154
+- https://twitter.com/maaretp/status/1538975433366159360
+- https://twitter.com/maaretp/status/1538979692048527360
+
+## 2022 Q3 — a fresh exclusion incident, and a gender-swap writing experiment — [[../batches/2022-q3|batch]]
+
+A current, dated instance rather than a retrospective one: "Is it
+common for a team of 8 people to have one member receive suggestion
+that they should not participate team meetings? Does this happen to
+anyone else?" — followed by the same self-doubt/pattern-recognition
+split this page has tracked before: "I have these experiences that can
+be explained with 'I must be awful' or that I just get the weirdest
+feedback." Separately, a brief but concrete disclosure of a past
+experiment: "I changed identity to change gender in writing. Wouldn't
+try for conferences. Would not try ever again for writing either" — no
+further detail given on what the experiment revealed, but a rare
+first-person account of directly testing the gender bias she otherwise
+describes third-hand.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1562530343307345921
+- https://twitter.com/maaretp/status/1562537738934427650
+- https://twitter.com/maaretp/status/1551826021632073728
+
+## 2022 Q4 — pay-gap numbers update, and "corrective fairness" named — [[../batches/2022-q4|batch]]
+
+The recurring pay-gap statistic gets a specific, bleaker update: "So, a
+woman's euro in IT in Finland is 80 cents" (Oct), then by December a
+fuller breakdown from a news report — "88 cents after 2 years in the
+industry, taking 10 years to get to 97 cents." A familiar frustration
+recurs (conference organizers admitting they need women only after
+listing an all-male lineup: "Fix the problem not the appearance"), but
+the quarter's real addition is conceptual: she names her operating
+principle directly as **"corrective fairness"** — "current defaults are
+not fair and many of our actions need to work against defaults... if
+you include actions that promote people, you don't do that to only
+those with time to ask you, but for a subgroup in that category" — the
+clearest articulation yet of the reasoning behind years of quota/
+representation advocacy tracked on this page.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1579916474533416960
+- https://mas.to/@maaretp/109438709426631032
+- https://mas.to/@maaretp/109442983846101181
+- https://mas.to/@maaretp/109485249939682564
+
+## 2023 — mansplained from the manager's chair, and a pronoun reflection — [[../batches/2023|batch]]
+
+The pattern continues from a new vantage point: now her colleague's
+manager, she's still mansplained her own expertise, and names the power
+asymmetry directly — the "kindly google me" line she once used as a
+peer developer would now, from a manager's chair, be read as an abuse
+of power: "it is totally socially acceptable for people to mansplain a
+thing I am expert on but not for me to say they are mansplaining." A
+diversity-marketing photo pushes her past her "reaction threshold" for
+the first time on record: "I would like to be a specialist. Not a
+'woman specialist' unless I self-identify and opt-in for that." A new,
+quieter thread opens on pronouns: "Could be 'they' because I'm tired of
+being 'she' while I don't mind being a woman... I just don't want the
+pronouns, like in my native language." And a rare moment of naming her
+own cost in stark terms, tied to the ongoing James Bach saga (see
+`../entities/james-bach.md`): "they say that women are defined through
+men. It is exhausting to be one defined through abuse of man."
+
+Representative posts:
+- https://mas.to/@maaretp/110508950018463742
+- https://mas.to/@maaretp/111346128285581310
+- https://mas.to/@maaretp/110017764696627570
+- https://mas.to/@maaretp/111071056825536423
+
+## 2024 — a boycott as advocacy, and a genuinely balanced team — [[../batches/2024|batch]]
+
+The EuroSTAR/LambdaTest boycott over James Bach's program-chair
+appointment (see `../entities/james-bach.md`) is this year's clearest
+advocacy action — refusing a platform on principle rather than just
+critiquing from outside. A more positive data point recurs too: her new
+team lands at 9 women and 9 men without her having designed for it,
+"so refreshing to work with people of balance matching the world," a
+contrast she notes directly against a same-day meeting of managers
+that ran 5 men to 1 woman. The "only woman in the room" thread from
+earlier years persists even at director level: "It still feels awkward
+to be the only woman in a long list of names of responsibility." A new
+biographical detail surfaces defending against a "women aren't hired"
+narrative: "I was hired twice while pregnant." The pronoun reflection
+from 2023 gets folded into her own advocacy framing: "If I could learn
+to use they/them pronouns (which was a worthwhile cause), I can learn
+to hear what people mean without correcting their vocabulary."
+
+Representative posts:
+- https://mas.to/@maaretp/111787949843957308
+- https://mas.to/@maaretp/111926209621439705
+- https://mas.to/@maaretp/111778952817472459
+- https://mas.to/@maaretp/112450380439011020
