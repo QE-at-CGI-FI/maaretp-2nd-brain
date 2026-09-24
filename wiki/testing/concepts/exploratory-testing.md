@@ -200,3 +200,59 @@ Representative posts:
 - https://twitter.com/maaretp/status/1171313808004063232
 - https://twitter.com/maaretp/status/1171320928774578177
 - https://twitter.com/maaretp/status/1172046256488816640
+
+## 2020 Q3 — four core characteristics, "testing without testing," and a 1997 origin story — [[../batches/2020-q3|batch]]
+
+A blog post crystallizes what had been scattered formulations (negative
+space, TOAD, attended/unattended, builder mindset) into four named
+**core characteristics**: "learning, agency, opportunity cost and
+systems thinking. All these four lack in so much of the testing I work
+to transform these days." Separately coins **"testing without
+testing"** for a pattern she names across whole-team testing, tool
+courses, and the tester role itself — practices and job titles that
+invoke testing while doing little of the actual thinking — see
+[[whole-team-testing]] for that thread. Traces her own origin story
+further back than the 2019 Q4 historical research did: her first job in
+Finland (1997, Microsoft) had a team lead assign her exploratory
+testing and hand her Cem Kaner's *Testing Computer Software* to read,
+in a country where "'formal' was never that big" compared to the US
+community that organized around LAWST workshops. Also draws a clean
+distinction between "testing the verb" (always exploratory) and
+"testing the noun" (not necessarily) — resolving, for herself, a
+long-running ambiguity in "all testing is exploratory" claims. The
+credit dispute with [[../entities/james-bach|Bach]] over the term
+itself reopens this quarter — see
+[[cdt-community-culture]] for that account.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1307607393904349184
+- https://twitter.com/maaretp/status/1310204196881399809
+- https://twitter.com/maaretp/status/1297588611316174853
+- https://twitter.com/maaretp/status/1310302388901810180
+
+## 2020 Q4 — the "automationist's gambit," and a year-end automation taxonomy — [[../batches/2020-q4|batch]]
+
+The verb/noun distinction from Q3 gets applied one step further, to a
+neighboring term: "agile testing" is a noun, not a verb — "people have
+agile testing, they don't agile test" — sharpening the boundary between
+her own always-verb framing of exploratory testing and the practices
+around it. A borrowed metaphor from @cm_stead becomes a named personal
+style: the **"automationist's gambit"**, exploratory testing that
+attacks like a chess opening, requiring the system under test to
+"defend properly" — she credits him directly and adopts it as a
+recurring self-description. Two blog posts extend the four-
+characteristics formulation: "What Exploratory Testing Is Depends on
+Who You Are" and "The One Thing That Turns Testing to Exploratory."
+Closes the year with a concrete taxonomy of what automation is *for*
+within exploratory testing — documenting, extending reach, alerting to
+attend, guiding to detail, fast-forwarding to a starting point,
+repeating for beyond regression — the clearest operationalization yet
+of "you can't automate well without exploring, you can't explore well
+without automating."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1317420609228443648
+- https://twitter.com/maaretp/status/1326400838567407623
+- https://twitter.com/maaretp/status/1329843041318952961
+- https://twitter.com/maaretp/status/1330442880075386880
+- https://twitter.com/maaretp/status/1344405987462144007

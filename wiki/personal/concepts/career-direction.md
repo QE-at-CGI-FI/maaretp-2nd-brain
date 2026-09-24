@@ -399,3 +399,39 @@ accepted at the new company.
 Representative posts:
 - https://twitter.com/maaretp/status/1268173983050055684
 - https://twitter.com/maaretp/status/1260872291652710402
+
+## 2020 Q3 — hiring a coach for ambition — [[../batches/2020-q3|batch]]
+
+A new figure enters the career story directly: a paid coach
+(@SoulCraftswoman, "April") to help sort out her own goals, framed as a
+cost of continued climbing rather than a sign of struggling: "the higher
+I climb, the more I need to pay for a service of sorting out my many
+goals." Names what the arrangement itself corrects for, via a friend's
+observation she adopts as her own: "having support yourself, when you're
+usually being the support for others" — consistent with, but more
+concrete than, the pattern of over-enabling others named in
+[[self-understanding]].
+
+Representative posts:
+- https://twitter.com/maaretp/status/1301178847707226118
+- https://twitter.com/maaretp/status/1311361048402956289
+
+## 2020 Q4 — a fuller F-Secure story, and an internal move at Vaisala — [[../batches/2020-q4|batch]]
+
+A months-later Twitter thread with well-known testing women fills in
+real detail behind the earlier "it's not what you do, it's how"
+promotion denial — a formal written warning for "refusing work," a shop
+steward's involvement, and a report of structural sexism to HR and the
+CEO on her way out that went nowhere — see
+`../../testing/entities/f-secure.md` for the full account. Read against
+the current job, the retelling closes with real relief rather than
+lingering pain: "My current job helps me appreciate that you actually
+can hope for so much more." At Vaisala itself, 8 months in, she moves
+internally from one team/product to another — self-deprecatingly, "I
+fired myself from one team, today was my last day" — continuing the
+same team-by-team continuous-delivery transformation work from 2020 Q2.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1330560873702846474
+- https://twitter.com/maaretp/status/1330578595723489281
+- https://twitter.com/maaretp/status/1344681011196604418

@@ -293,3 +293,16 @@ relationship stays quiet rather than escalating again.
 
 Representative posts:
 - https://twitter.com/maaretp/status/855000706465619969
+
+## 2020 Q3 — the reconciliation doesn't hold — [[../batches/2020-q3|batch]]
+
+Following [[../batches/2020-q1|2020 Q1]]'s "I have forgiven" reset, a 23
+August public exchange over crediting "exploratory testing" reopens the
+conflict — he repeats the credit claim and adds a new charge (that she
+threatened a student of his), she rejects both, and a month later notes
+he's told others he wishes her "go to hell." See
+[[../concepts/cdt-community-culture]] for the full account.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1297451780914151425
+- https://twitter.com/maaretp/status/1297546032612610048

@@ -252,4 +252,21 @@ named directly as friction for the first time), and entities/family (a
 genuine division-of-labor point of pride set against an ironic moment —
 her son still believes girls don't like computers).
 
+## [2026-09-23] ingest | 2020 Q3 (1214 posts, third 2020 batch)
+Created batch page [[batches/2020-q3]]. Added 2020-Q3 sections to 3
+existing pages: concepts/career-direction (hires a career/ambition
+coach), concepts/self-understanding (a rare, fully self-directed
+reckoning with erasing women co-authors; a "recovering control addict"
+aside), and entities/family (her son turns 13; a sister's shared
+interest in exploratory testing surfaces for the first time).
+
+## [2026-09-23] ingest | 2020 Q4 (912 posts, fourth and final 2020 batch)
+Created batch page [[batches/2020-q4]]. Added 2020-Q4 sections to 3
+existing pages: concepts/self-understanding (the Vastaamo psychotherapy
+data breach hits personally; a "Maaret to Wikipedia" project),
+concepts/career-direction (a fuller F-Secure promotion-denial story; an
+internal move at Vaisala), and entities/family (a shared new skill with
+her son; a daughter's long-running dog promise). 2020 is now fully
+ingested.
+
 <!-- newest entries at the bottom -->

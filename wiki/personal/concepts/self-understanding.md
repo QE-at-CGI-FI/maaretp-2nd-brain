@@ -604,3 +604,54 @@ Representative posts:
 - https://twitter.com/maaretp/status/1276382709322059777
 - https://twitter.com/maaretp/status/1276382968873918464
 - https://twitter.com/maaretp/status/1273330446433243137
+
+## 2020 Q3 — owning a blind spot, and a "recovering control addict" — [[../batches/2020-q3|batch]]
+
+A rare moment of turning the self-critical lens fully inward rather than
+describing something done to her: reflecting on a book she'd grown up
+calling by only its male author's name, she names her own pattern
+plainly — "Women like me erase other women until we learn to pay
+attention to the structure" — and immediately generalizes it into a
+question for others, not just an apology for herself (see
+`../../testing/concepts/gender-in-tech.md` for the professional-side
+account). Separately, a small, self-aware aside describes her
+relationship to control at work: "first release I failed to even see in
+the making! Therapeutic for a recovering control addict" — naming a
+tendency, not just a habit, in passing. A reminiscence surfaces the 2016
+MIATPP (Most Influential Agile Testing Professional Person) award again,
+lightly, alongside a newly hired coach — see [[career-direction]] — as
+part of a quarter that reads as more reflective than any since early
+2020.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1308798538587963401
+- https://twitter.com/maaretp/status/1309116161628475396
+- https://twitter.com/maaretp/status/1308773288592715776
+- https://twitter.com/maaretp/status/1303359871228751873
+
+## 2020 Q4 — the Vastaamo breach hits personally, and a Wikipedia ambition — [[../batches/2020-q4|batch]]
+
+The Vastaamo psychotherapy-clinic data breach — a major Finnish national
+scandal — reaches her directly: her therapy records are among those
+stolen, and she receives a personal blackmail email quoting her social
+security number, which she refuses to pay. She responds with the same
+factual, boundary-setting register this wiki has tracked since the 2019
+Falco doxxing — publicly stating she's "not the least bit worried on
+publishing my #vastaamo records" — and uses the moment to normalize
+seeking therapy directly, in her own professional voice: "there is no
+shame in seeking help when you need it... people who are managers of
+people are irresponsible if they don't deal with their own mental
+health proactively." Files a GDPR complaint and blogs a technical
+distinction (knowing a vulnerability existed isn't the same as knowing
+it was exploited) rather than treating the incident as purely personal —
+consistent with how she's processed other crises in this wiki, folding
+the professional lens over the personal cost. Separately, launches a
+lower-stakes but revealing ambition: a "Maaret to Wikipedia" project,
+naming directly why it's hard — see
+`../../testing/concepts/gender-in-tech.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1319308616365674496
+- https://twitter.com/maaretp/status/1320055854842916864
+- https://twitter.com/maaretp/status/1320090918461071360
+- https://twitter.com/maaretp/status/1319325983627935744

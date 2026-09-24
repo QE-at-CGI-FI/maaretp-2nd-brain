@@ -648,3 +648,66 @@ Representative posts:
 - https://twitter.com/maaretp/status/1276382256563728385
 - https://twitter.com/maaretp/status/1276382709322059777
 - https://twitter.com/maaretp/status/1277531524984983552
+
+## 2020 Q3 — owning her own erasure of other women, and a decade-old HR story — [[../batches/2020-q3|batch]]
+
+A sharper, self-directed turn on a pattern this page has tracked from
+the outside before: reflecting on a classic automation book she grew up
+calling "the Fewster automation book," she names her own complicity —
+"Women like me erase other women until we learn to pay attention to the
+structure" — Dorothy Graham, the book's co-author, had simply not
+registered for her. Follows up by turning the same question on her
+audience rather than resting on the confession: "did you promote the
+women author's work and are you sure you don't have the blind spot of
+bias I did? I'm not sure it is gone on me, I know I work on it every
+single day. I have no options as a woman." A second thread recalls a
+specific, decade-old incident for the first time: reporting to HR that
+a company communication-skills training had "quite a sexist flare,"
+teaching women specifically to lower their voice to be convincing while
+"claiming this was not structural just how people operate" — closing
+with the same structural point made freshly: "Erasing half of population
+by training is a great way of not fixing any of this stuff." Also names
+a small, ordinary moment of exclusion at work: sitting silent while men
+in a room swap childbirth stories, "extremely personal experiences to
+me" that she isn't willing to share first-hand. The Finnish
+equality-vs-equity critique from 2020 Q2 recurs once more, unprompted,
+in a Finnish-language exchange about a gender-balance complaint that
+only ever runs one direction.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1308798538587963401
+- https://twitter.com/maaretp/status/1309116161628475396
+- https://twitter.com/maaretp/status/1308669349406924800
+- https://twitter.com/maaretp/status/1298990157215854593
+- https://twitter.com/maaretp/status/1307626312425713665
+
+## 2020 Q4 — the F-Secure promotion story in full, and a Dorothy Graham reconciliation — [[../batches/2020-q4|batch]]
+
+The most detailed account yet of the "it's not what you do, it's how"
+promotion denial (referenced since 2020 Q2/Q3): prompted by a thread of
+well-known testing women sharing similar stories, she names a formal
+written warning for "refusing work" she received on her way out (while
+a male colleague doing the same thing "got away with it"), a shop
+steward's involvement, and confirms she reported structural sexism to
+HR and the CEO on leaving — see
+`../../entities/f-secure.md` for the full account. A separate,
+lighter thread closes a loop from 2020 Q3's self-criticism about
+erasing women co-authors: at EuroSTAR, hearing Dorothy Graham speak in
+person moves her to tears — "Ok, now I'm crying. Damn you
+@DorothyGraham" — read against the Q3 confession, this reads as a
+personal repair of the specific erasure she'd named. The hiring-bias
+pattern recurs once more, this time inverted and self-aware: "We had a
+job opening. I posted it to women's groups, and no men applied... This
+reversed happens all the time." Also launches a "Maaret to Wikipedia"
+project, naming directly the mechanism this page has tracked for years
+— women built up as inspiration and support rather than quotable,
+citable content: "I've written thousands of pages. I never said
+anything quote worthy? That is how I experience writing."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1330560873702846474
+- https://twitter.com/maaretp/status/1330564385010556929
+- https://twitter.com/maaretp/status/1329452653609357319
+- https://twitter.com/maaretp/status/1330810464746561537
+- https://twitter.com/maaretp/status/1330018899073634305
+- https://twitter.com/maaretp/status/1328967457030230016

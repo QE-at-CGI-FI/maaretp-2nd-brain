@@ -396,4 +396,34 @@ correction, a self-critique of merit-based hiring, MimmitKoodaa at
 ~4000), and entities/tech-excellence (a Women edition, a new ScanAgile
 track-chair role).
 
+## [2026-09-23] ingest | 2020 Q3 (1214 posts, third 2020 batch)
+Created batch page [[batches/2020-q3]]. Added 2020-Q3 sections to 7
+existing pages: concepts/cdt-community-culture (the Q1 Bach
+reconciliation doesn't hold — the "exploratory testing" credit dispute
+reopens with a new charge), entities/james-bach (brief cross-reference
+to the same reopening), entities/llewellyn-falco (the Mob Programming
+Guidebook copyright dispute resurfaces via a podcast that raised
+removing her as 1st author), concepts/exploratory-testing (four core
+characteristics named explicitly, a new 1997/Cem Kaner origin story,
+"testing without testing" coined), concepts/gender-in-tech (a
+self-directed reckoning with erasing women co-authors, a decade-old
+sexist-HR-training disclosure), concepts/whole-team-testing ("testing
+without testing," an agile-vs-modern-testing distinction, agile
+hardware), and entities/vaisala (the trainee becomes a full colleague,
+hands-on hardware testing, a sponsoring manager).
+
+## [2026-09-23] ingest | 2020 Q4 (912 posts, fourth and final 2020 batch)
+Created batch page [[batches/2020-q4]]. Added 2020-Q4 sections to 6
+existing pages: entities/f-secure (the fullest account yet of the
+promotion-denial story — written warning, shop steward, unaddressed
+HR/CEO report), concepts/gender-in-tech (the same story from the
+gender-pattern angle, plus a Dorothy Graham reconciliation), concepts/
+exploratory-testing (the "automationist's gambit," verb/noun applied to
+"agile testing," a year-end automation taxonomy), concepts/
+whole-team-testing (a public falling-out with Robot Framework's
+creator, two live Ensemble Testing sessions), entities/vaisala (handoff
+to the former trainee, a colleague's send-off, an internal team move),
+and entities/eurostar (wins the EuroSTAR award, a 2004 origin-story
+callback). 2020 is now fully ingested.
+
 <!-- newest entries at the bottom -->

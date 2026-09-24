@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2019 done, 2020-Q1–Q2 done, 2020-Q3– not started).
+See [[../progress]] for what's been ingested (2010–2020 done, 2021– not started).
 
 ## Entities
 
@@ -87,3 +87,5 @@ See [[../progress]] for what's been ingested (2010–2019 done, 2020-Q1–Q2 don
 - [[batches/2019-q4|2019 Q4]] — 923 posts, fourth and final 2019 batch. Mob Programming Guidebook co-author Llewellyn Falco doxxes her after a copyright dispute and a breakup; an unexpected reversal arguing for giving James Bach a second chance; the internal management-exit plan stalls and becomes a public external job search; talk #400 and a Top 100 Finnish IT influencer listing; #35YearsOfExploratoryTesting becomes real historical research. 2019 is now fully ingested.
 - [[batches/2020-q1|2020 Q1]] — 842 posts, first 2020 batch (year split into quarters, 4487 posts total). The management-transition arc resolves: steps down internally, then leaves F-Secure entirely for a new employer, Vaisala; EuroTestConf's 5th edition runs as its announced last; the Bach/Bolton reversal holds under a real test; "Mob Programming" itself starts getting retired in favor of Group/Ensemble Programming; COVID-19 enters the record.
 - [[batches/2020-q2|2020 Q2]] — 834 posts, second 2020 batch. Starts at Vaisala as principal engineer, testing embedded software; the Mob→Ensemble rename becomes real and committed; a recurring hiring-bias pattern recurs at the new company; the Falco mass-block gets reframed as a standing boundary-setting principle.
+- [[batches/2020-q3|2020 Q3]] — 1214 posts, third 2020 batch. The Q1 reconciliation with James Bach doesn't hold — the "exploratory testing" credit dispute reopens along with a new charge; the Falco copyright dispute resurfaces via a podcast; exploratory testing's core characteristics get named explicitly and a new 1997 origin story surfaces; a rare self-directed reckoning with erasing women co-authors.
+- [[batches/2020-q4|2020 Q4]] — 912 posts, fourth and final 2020 batch. The fullest account yet of her F-Secure promotion denial (written warning, shop steward, unaddressed HR/CEO report); a falling-out with Robot Framework's creator over community fairness; wins the EuroSTAR award and has a Dorothy Graham reconciliation moment; the "automationist's gambit" and a year-end automation taxonomy. 2020 is now fully ingested.

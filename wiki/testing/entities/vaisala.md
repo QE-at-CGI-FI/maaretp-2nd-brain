@@ -53,3 +53,48 @@ Representative posts:
 - https://twitter.com/maaretp/status/1255855575893782529
 - https://twitter.com/maaretp/status/1275525112834461697
 - https://twitter.com/maaretp/status/1273330446433243137
+
+## 2020 Q3 — the trainee graduates, hardware testing firsthand, and a sponsoring manager — [[../batches/2020-q3|batch]]
+
+The June trainee becomes "my colleague previously known as trainee,"
+now reviewing test cases independently and finding "super cool
+important bugs" on her own. Hardware/embedded testing moves from
+observation to hands-on: SIM card testing for globally-deployed devices,
+a literal tropical-rain test improvised in a shower, a backyard weather
+probe test that (harmlessly) worried neighbors about UFOs, and a first
+real encounter with hardware unit testing, which she finds genuinely
+different from its software counterpart. Praises her manager
+specifically for the kind of invisible career sponsorship she'd only
+read about before: "I have a manager who actually does that [sponsors
+you when you're not in the room]... he made me look even better." Also
+notes a milestone of trust in the team's release maturity: "first
+release I failed to even see in the making! Therapeutic for a
+recovering control addict."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1295761727645192192
+- https://twitter.com/maaretp/status/1304010235661742083
+- https://twitter.com/maaretp/status/1301523142129717249
+- https://twitter.com/maaretp/status/1308773288592715776
+- https://twitter.com/maaretp/status/1301603875980554242
+
+## 2020 Q4 — handing off, moving teams, and a colleague's send-off — [[../batches/2020-q4|batch]]
+
+Hands a major testing responsibility fully over to "the colleague
+previously known as trainee," who finds "unknown unknowns" independently
+in a complex environment. The career-changer tester she trained (first
+mentioned in 2020 Q2/Q3) leaves for a new job at year's end, marking the
+occasion with a cake — "so proud of her growth while with us." At 8
+months in, she moves internally from one team/product to another
+("2 down in 8 months," bringing successive teams to continuous
+delivery) — described self-deprecatingly as "I fired myself from one
+team, today was my last day." Closes the year with an affirming
+year-end review from her manager, credited directly as the source of
+her renewed ambition: "he reminded me that I can take up anything I
+feel worthwhile regardless of what the limits first appear to be."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1313538898816098307
+- https://twitter.com/maaretp/status/1341384334826217478
+- https://twitter.com/maaretp/status/1344681011196604418
+- https://twitter.com/maaretp/status/1344774005925031936

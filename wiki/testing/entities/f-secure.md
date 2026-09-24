@@ -196,3 +196,32 @@ Representative posts:
 - https://twitter.com/maaretp/status/1231868232170164224
 - https://twitter.com/maaretp/status/1242780214217842689
 - https://twitter.com/maaretp/status/1237305270100996096
+
+## 2020 Q4 — a fuller, retrospective account of the promotion denial — [[../batches/2020-q4|batch]]
+
+Months after leaving, a Twitter thread with a group of well-known
+testing women fills in detail behind the "it's not what you do, it's
+how" denial-of-promotion story referenced in earlier batches: a manager
+scolded her for showing "leadership qualities" (her title then, senior
+manager), and roughly a year later he and his manager blocked her
+progression, citing the same vague concern and quoting Maya Angelou at
+her without remembering what he'd originally scolded her for. She says
+she tried addressing it on her way out with a shop steward involved,
+and received a formal written warning for "refusing work" in the
+process — while a male colleague doing the same "got away with it."
+Separately confirms she reported structural sexism to HR and the CEO
+when she left, and asked a group of male colleagues to see the
+follow-through — "they did nothing." Names her own resolution plainly:
+"I ended up better... I intend to use those ineducable people for the
+upcoming two decades as an example for those who might be more
+educable." See `../../personal/concepts/self-understanding.md` and
+`../../personal/concepts/career-direction.md` for how this retrospective
+telling connects to the current job at [[vaisala|Vaisala]].
+
+Representative posts:
+- https://twitter.com/maaretp/status/1324776447743987712
+- https://twitter.com/maaretp/status/1324777341130809344
+- https://twitter.com/maaretp/status/1330560873702846474
+- https://twitter.com/maaretp/status/1330564385010556929
+- https://twitter.com/maaretp/status/1330569804999237633
+- https://twitter.com/maaretp/status/1330578595723489281

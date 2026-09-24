@@ -328,3 +328,30 @@ the same quarter she's counting down her final weeks at
 Representative posts:
 - https://twitter.com/maaretp/status/1234373560631689216
 - https://twitter.com/maaretp/status/1237053233136353293
+
+## 2020 Q3 — a teenager in the house, and a sister's depth — [[../batches/2020-q3|batch]]
+
+Her son turns 13 on 22 September: "I have a teenager in my household."
+Her sister, described here for the first time as herself being "into
+#ExploratoryTesting," gives her a moment of professional-personal
+overlap she clearly enjoys — deep shop-talk on testing at the son's
+birthday party: "the best thing about having a sister who is into
+#ExploratoryTesting is the conversation depth... Almost as if I was
+still with #TestCraftCamp and not my son's birthday party."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1308424890903601152
+- https://twitter.com/maaretp/status/1307311314725896192
+
+## 2020 Q4 — a shared new skill, and a five-year-old promise recalled — [[../batches/2020-q4|batch]]
+
+Her son learns Python at his Finnish school, giving them a new shared
+activity: "it means he was ready to program some more with me. New
+things for the two of us together." Her daughter's birthday brings back
+a running family joke with real weight to it — a promise she made five
+years earlier that she'd wait until her mother dies before getting a
+dog — reaffirmed this year, "she is ok waiting very long time."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1318256519222349825
+- https://twitter.com/maaretp/status/1338386237317517312

@@ -7,8 +7,8 @@ tags: [index]
 Personal reflection, growth, and psychology synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
 See [[../progress]] for what's been ingested (2010: no personal content;
-2011–2017: thin at first, substantial by 2014; 2018–2019 fully done,
-2020-Q1–Q2 done, 2020-Q3– not started).
+2011–2017: thin at first, substantial by 2014; 2018–2020 fully done,
+2021– not started).
 
 ## Entities
 
@@ -49,3 +49,5 @@ See [[../progress]] for what's been ingested (2010: no personal content;
 - [[batches/2019-q4|2019 Q4]] — 923 posts, fourth and final 2019 batch. A relationship ends, entangled with a serious professional dispute; a genuinely new self-criticism naming "internalized misogyny" and self-erasure over uncredited research work; the management-exit plan turns into a public, external job search. 2019 is now fully ingested.
 - [[batches/2020-q1|2020 Q1]] — 842 posts, first 2020 batch. The job search resolves into an actual move to a new employer, Vaisala; a named ex-partner surfaces as the source of years of "smile more" feedback; a 25-year career anniversary and a light "decrowning" callback.
 - [[batches/2020-q2|2020 Q2]] — 834 posts, second 2020 batch. Settles into Vaisala, naming what the old job lacked; the Patreon experiment closes and the Exploratory Testing Book gets a real 25-year-anniversary deadline; the Falco mass-block becomes a standing boundary principle.
+- [[batches/2020-q3|2020 Q3]] — 1214 posts, third 2020 batch. Hires a career/ambition coach; a rare, fully self-directed reckoning with erasing women co-authors and a "recovering control addict" aside; her son turns 13 and a sister's shared interest in exploratory testing surfaces for the first time.
+- [[batches/2020-q4|2020 Q4]] — 912 posts, fourth and final 2020 batch. The Vastaamo psychotherapy data breach hits personally, met with public normalization of therapy rather than concealment; a fuller F-Secure promotion-denial story surfaces; an internal move at Vaisala; a shared new skill with her son and a daughter's long-running dog promise. 2020 is now fully ingested.

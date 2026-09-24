@@ -439,3 +439,55 @@ Representative posts:
 - https://twitter.com/maaretp/status/1251210229137780741
 - https://twitter.com/maaretp/status/1251211294247718913
 - https://twitter.com/maaretp/status/1264257945208061952
+
+## 2020 Q3 — "testing without testing," agile vs. modern testing, and agile hardware — [[../batches/2020-q3|batch]]
+
+Coins **"testing without testing"** for practices and roles that invoke
+testing while displacing the actual thinking work — "whole-team
+testing? Testing without testing. Test automation courses introducing
+the tool but not applying it to testing? Testing without testing. Tester
+role? Testing without testing." Draws a considered distinction between
+**agile testing** and **"modern testing"**, a rival framing she's
+skeptical of: "modern is very explicit on testing not testers... modern
+widens testing explicitly by belittling what it is now, agile focuses on
+now + grow" — read together with 2020 Q1's tester-role commentary, she
+sides with growing the role over dissolving it. A #ScanAgile session
+with Joe Justice on agile hardware manufacturing (12-hour shifts, robotic
+assembly, one-day build cycles) leaves her questioning fit rather than
+converting her — "if companies I associate with would want to invest
+that much... to become agile with hardware" — a skepticism consistent
+with, but more concrete than, her own new hands-on hardware/embedded
+testing experience at [[../entities/vaisala|Vaisala]] this quarter.
+Continues building out #RobotFramework Browser library test automation
+and spends several days on model-based testing, connecting it (without
+resolving the connection) to event-storming and DDD-community modeling
+practices.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1310217512987095041
+- https://twitter.com/maaretp/status/1310194424136249344
+- https://twitter.com/maaretp/status/1308068097392365569
+- https://twitter.com/maaretp/status/1306199770684366849
+
+## 2020 Q4 — a public falling-out with Robot Framework's creator, and live Ensemble Testing — [[../batches/2020-q4|batch]]
+
+Her long-running skepticism of Robot Framework (RF) — inherited at
+[[../entities/vaisala|Vaisala]] in 2020 Q2 as a codebase she wanted to
+"delete and replace" — turns into a direct public dispute with its
+creator, @pekkaklarck: she declines an invitation to get more involved
+with the RF community, naming the reason as fairness, not disinterest —
+"the flow of money in your community looks unfair to me... Robot
+Framework pays your salary. It does not pay mine" — and names him as
+"turning hostile" in response. Sharpens the substantive critique past
+simple dislike: RF "is not a test tool, it's a language" that keeps
+developers away from testing rather than bridging the gap. Runs two
+live **#EnsembleTesting** sessions this quarter (login/logging,
+concurrent-user performance) that land well with her team — "we should
+have done this sooner," one developer says — evidence the Q2 rename is
+functioning as intended, not just as vocabulary.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1339145799092068355
+- https://twitter.com/maaretp/status/1337153003917336584
+- https://twitter.com/maaretp/status/1337041411724730369
+- https://twitter.com/maaretp/status/1341697195691667458

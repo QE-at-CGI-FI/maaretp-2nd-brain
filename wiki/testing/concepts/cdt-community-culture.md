@@ -337,3 +337,46 @@ Representative posts:
 - https://twitter.com/maaretp/status/1215009864797294592
 - https://twitter.com/maaretp/status/1215010242158837760
 - https://twitter.com/maaretp/status/1215011139555381251
+
+## 2020 Q3 — the reset doesn't hold — [[../batches/2020-q3|batch]]
+
+The Q1 "no reason left to exclude them" position gets tested directly by
+[[../entities/james-bach|Bach]] himself, over the same underlying issue
+that started the whole conflict: credit for "exploratory testing." A
+23 August public exchange (with @FrancuMarius) reopens it — he claims
+she threatened a student of his and demands credit for popularizing the
+term; she rejects both: "I did not threaten a student of yours. Nor did
+I promise her a researcher position... please stay away from my
+mentions," and separately, on the credit claim itself, "The reason I
+call it Exploratory testing is Cem Kaner and Elfriede Dustin. Oh, and if
+this one wants credit, it's because he deprecated the word as it was
+unnecessary to him." Gives her own account of the underlying incident:
+a woman who postures as his student anonymously posted a private
+conversation with her own hostile gloss (implying she'd offered a paid
+research job on condition of dropping her mentor), then deleted it once
+identified — "The woman presented this as protecting me keeping me
+anonymous. Obviously I let everyone know it is me. She deleted it
+because it was not a good look on her." Names the reversal in her own
+read of him plainly, to @noahsussman: "Ain't it funny that a few months
+ago I was trying to say James could be different. He isn't. He was just
+hiding," and confirms the years-long no-contact status she'd referenced
+before still stands: "he really has not heard any of the things we said
+were bullying. It is still him thinking he has 'principled disagreement'
+with me after years of NC." A month later (23 Sept) she notes, without
+re-engaging, that he's publicly told others he wishes she'd "go to
+hell" — evidence the détente from Q1 didn't produce any lasting change
+on his side, even though her own position (declining to escalate,
+distinguishing this from wanting him excluded from the community) stays
+consistent with the Q1 stance. This is a separate, concurrent dispute
+from the copyright/redistribution fight with
+[[../entities/llewellyn-falco|Falco]] over the Mob Programming
+Guidebook, which also resurfaces this quarter — see that entity page.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1297451780914151425
+- https://twitter.com/maaretp/status/1297452723693146112
+- https://twitter.com/maaretp/status/1297546032612610048
+- https://twitter.com/maaretp/status/1297546808764309504
+- https://twitter.com/maaretp/status/1297548934437654530
+- https://twitter.com/maaretp/status/1297559193289883652
+- https://twitter.com/maaretp/status/1307627666993041408

@@ -53,3 +53,27 @@ Representative posts:
 - https://twitter.com/maaretp/status/1188031928160718848
 - https://twitter.com/maaretp/status/1188051629817389057
 - https://twitter.com/maaretp/status/1189826526713434112
+
+## 2020 Q3 — a podcast raises removing her name, and the legal position gets restated — [[../batches/2020-q3|batch]]
+
+The dispute resurfaces publicly, prompted by a podcast episode that
+apparently floated removing her as 1st author since the 2nd author
+(Falco) is harassing her — she rejects that framing directly: "removing
+1st author because 2nd author is harassing her is a shit move." Restates
+the legal basis for treating his continued distribution as
+unauthorized: "Finnish copyright law states that in case a book is by
+multiple authors, the actions to pass on the rights or to publish it
+must be unanimous. Lack of my consent as 1st author does not make it
+unanimous. The only legal copies around are ones people acquired through
+LeanPub [before the takedown]." Names the underlying continued behavior
+plainly: "after these years he still insists on promoting a version with
+my name on it, without my consent... enabling my harasser is shit move."
+Nearly a year on from the 2019 Q4 doxxing, the copyright/redistribution
+dispute is still open and unresolved, running concurrently with — but
+distinct from — the separate [[../entities/james-bach|Bach]] conflict
+reopening the same quarter (see [[../concepts/cdt-community-culture]]).
+
+Representative posts:
+- https://twitter.com/maaretp/status/1308261476608741376
+- https://twitter.com/maaretp/status/1308274352568373248
+- https://twitter.com/maaretp/status/1308278505873068032
