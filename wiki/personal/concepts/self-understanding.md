@@ -655,3 +655,172 @@ Representative posts:
 - https://twitter.com/maaretp/status/1320055854842916864
 - https://twitter.com/maaretp/status/1320090918461071360
 - https://twitter.com/maaretp/status/1319325983627935744
+
+## 2021 Q1 — the keynote-trauma disclosure, and "it's not men, it's patriarchy" — [[../batches/2021-q1|batch]]
+
+The most raw, specific disclosure in the archive since 2018 Q3's
+university-years account. A 6 Feb thread on "keynote baggage" names two
+of her career's keynotes as genuinely draining, in detail not recorded
+at the time. The first is her own keynote debut (4.5 years earlier,
+~2016): the co-keynoter used half his talk time to publicly
+mischaracterize her — telling the audience she's "not authentic and
+compassionate," doesn't "think discussion is important," and believes
+in "not focusing attention and energy." She posted the slide publicly
+and reports he "lost some jobs" as a result — a real cost to him, not
+just words exchanged. (This is the same event professionally recorded
+as the 2016 Q3 James Bach/TMAcad incident in
+`../../testing/entities/james-bach.md`; the wiki hadn't previously
+known it was her keynote debut too.) The second, ~3.5 years earlier
+(~2017) and previously entirely undocumented: ahead of her first really
+big international keynote (1000+ attendees), she discovered the
+conference organizer who'd invited her had made "very inappropriate
+propositions to new women testers aspiring to become speakers," and
+"used some of my energy, and took a major personal risk in seeking
+consequences" — he'd been removed from running the conference by the
+time she took the stage. She closes not with catharsis but a question
+aimed outward: "I wonder: how many other people have been this
+'lucky'." Traces the *pressure* to reach keynote status back further
+too: a decade into her speaking career, a soon-to-be EuroSTAR program
+chair publicly wrote "no women of merit" — read by her as a direct
+verdict on whether she qualified (see
+`../../testing/entities/eurostar.md`).
+
+A second, distinct piece of direct self-work closes the quarter (11
+Mar): a sustained thread on patriarchy that turns the usual outward-
+facing advocacy fully onto herself and other women, not just men — "it's
+not men, it's patriarchy. Women uphold patriarchy just as much." She
+discloses asking another woman to step down from a women's non-profit
+for victim-blaming, and extends herself no more grace than she'd extend
+anyone: "sometimes it is because women don't believe other women...
+even I do that. And when I do, I appreciate when people point it out in
+the moment." Distinct from 2019 Q4's "internalized misogyny" self-
+erasure confession — this one is about complicity in harming *other*
+women, not erasing her own contributions. A smaller, warmer beat opens
+the quarter: a trainee she'd mentored leaves for a new role, and she's
+visibly moved — "weeping over the tester who left us... taking now my
+moment of sad" — grief over a professional relationship ending well,
+not badly.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1357962520288452608
+- https://twitter.com/maaretp/status/1357963193189076992
+- https://twitter.com/maaretp/status/1357964975503982592
+- https://twitter.com/maaretp/status/1357966798126260229
+- https://twitter.com/maaretp/status/1357967336532238339
+- https://twitter.com/maaretp/status/1369945631784046594
+- https://twitter.com/maaretp/status/1369946549468487682
+- https://twitter.com/maaretp/status/1369949760745058316
+- https://twitter.com/maaretp/status/1345032518052024320
+
+## 2021 Q2 — the source of the 2013 "unfit for my profession" wound, identified — [[../batches/2021-q2|batch]]
+
+A significant clarification of one of this page's oldest open threads.
+The 2013 batch recorded a blog post about "being told I'm unfit
+personality-wise for my profession" with no detail on where the verdict
+came from; 2015 Q3 confirmed the wound was still live via a recruitment-
+agency trigger. A 30 Jun thread finally names the source: a job
+interview process, roughly 15 years into her career (so, around
+2010–2011 — predating the 2013 disclosure, meaning this was very likely
+the original wound, not a later echo of it) — "a full day in
+psychological tests gave me a paper telling me how I am unsuited for
+career I had already been on for 15 years, and continued 10 years
+since. My personality isn't fit for #testing." She names it as one of
+two job processes she ultimately declined, the other rejected over a
+CEO's attitude during a full day of team-based assessment — both read,
+in hindsight, as processes that "were willing to extend" her too little
+trust. Separately, a smaller but sharp disclosure: "algorithmic
+cruelty" — a concept she adopts after being "retriggered by trauma
+resurfacing as algorithmic memories" (an unspecified platform's
+recommendation or "memories" feature surfacing something painful
+unprompted). The 13 May EuroSTAR keynote thread (see
+`../../testing/entities/international-speaking.md` for the professional
+detail) adds real personal color to the career retrospective too: "the
+betrayal I felt" over a man claiming credit for arranging her first big
+international keynote, and a closing reframe of what 20 years of
+speaking actually gave her — "some people collect locations, I collect
+people."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1379785138377228288
+- https://twitter.com/maaretp/status/1410196786363387911
+- https://twitter.com/maaretp/status/1410197227084058625
+- https://twitter.com/maaretp/status/1410197704567922692
+- https://twitter.com/maaretp/status/1392902014305251330
+- https://twitter.com/maaretp/status/1392902693421781001
+
+## 2021 Q3 — a new conference trauma, a harassment origin story, and "intimidating" named as internalized misogyny — [[../batches/2021-q3|batch]]
+
+Three distinct, unusually direct disclosures this quarter, on top of an
+already heavy 2021 for this page:
+
+- **A previously undocumented conference trauma**, prompted by an
+  unnamed "tech uncle" reappearing on her timeline: "I will recount the
+  one time we met. He keynoted at Agile Alliance Tech conference. I left
+  the room crying, feeling like I did not belong. I was also a speaker
+  there. It was a badly framed 'stand up if' thing" — a poorly designed
+  audience exercise (sorting attendees by binary categories) that
+  visibly and publicly excluded women who code. The real damage,
+  though, came from a second, different man: "I was traumatized by
+  another man who chose to tell me I can't tell about how I feel
+  because he had a business opportunity with the uncle" — silenced not
+  by the original incident but by someone protecting his own business
+  relationship with its cause. Distinct from the Q1/Q2 keynote-trauma
+  cluster (TMAcad, the STAR conference) — a fourth, separate instance
+  of the same underlying pattern: real harm compounded by someone
+  else's self-interest in her staying quiet about it.
+- **The origin of a harassment memory**, surfacing from
+  `../../testing/concepts/whole-team-testing.md`'s corrected Ensemble
+  Programming history: "the men trying #EnsembleProgramming rarely have
+  to tell the story I have to tell from my first ensemble: the one
+  colleague who asked me to motivate such ridiculous request by taking
+  my top off." Named plainly as one item on "a long list" of behaviors
+  she's had to deal with, successfully, to keep practicing something
+  she'd go on to build a career around.
+- **"Intimidating," reframed a decade later.** The word first flagged
+  as a self-perception in 2011 ("someone should teach me how to be
+  myself and not intimidating") gets its most direct political reading
+  yet: "Whenever I'm called 'intimidating', I stop to think about that
+  being internalized misogyny, even though some of the people calling
+  me that are women. It is just that the words 'competent', 'driven',
+  'high-achieving', 'impressive' and 'awesome' are ones my male peers
+  get." A podcast crediting her instead with "impressive and awesome"
+  lands as confirmation rather than just praise.
+
+A lighter note closes the quarter: her daughter, 13, offers exactly the
+right words unprompted — "Mom, you are enough." A Kolb Experiential
+Learning Profile assessment names her style as **"Imagining,"** a
+smaller continuation of the learning-style self-study this page has
+tracked since 2011.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1439219361231904769
+- https://twitter.com/maaretp/status/1439227110539866116
+- https://twitter.com/maaretp/status/1413927610950852612
+- https://twitter.com/maaretp/status/1430906883368316934
+- https://twitter.com/maaretp/status/1430579550413598732
+- https://twitter.com/maaretp/status/1438587237751533575
+- https://twitter.com/maaretp/status/1432982247330693122
+
+## 2021 Q4 — a general harassment count, and "approval addiction" — [[../batches/2021-q4|batch]]
+
+A quieter quarter than the rest of 2021 for this page, but with two
+distinct pieces. First, a brief general disclosure prompted by a
+conference-safety debate: "Having been the person who dealt with
+unwanted physical touching, inappropriate content, and a third incident
+I no longer remember in this 'safe space'..." — no names, no dates, but
+a first-person tally of harm in spaces explicitly branded safe (see
+`../../testing/concepts/gender-in-tech.md` for the professional-context
+version). Second, a rare, plainly-named self-diagnosis: "Approval
+addiction. Yep, I got that. I would really want people to not dislike
+me. They may not truly like me" — offered without the usual immediate
+reframe into something more constructive, closer to 2016 Q2's rejection
+disclosure than to this page's more common pattern of quickly
+processing feelings into lessons. A warm, small family beat closes the
+quarter: her teenage daughter diagnoses and fixes a home network
+problem — "so proud."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1463484892549951489
+- https://twitter.com/maaretp/status/1459217213169311755
+- https://twitter.com/maaretp/status/1459218414476660739
+- https://twitter.com/maaretp/status/1466300970732769281

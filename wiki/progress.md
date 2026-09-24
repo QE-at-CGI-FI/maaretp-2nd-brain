@@ -41,7 +41,10 @@ quarters at ingest time — split rows here if you do.
 | 2020-Q2 | 834 | done (2026-09-23) | testing, personal | [[testing/batches/2020-q2]], [[personal/batches/2020-q2]] |
 | 2020-Q3 | 1214 | done (2026-09-23) | testing, personal | [[testing/batches/2020-q3]], [[personal/batches/2020-q3]] |
 | 2020-Q4 | 912 | done (2026-09-23) | testing, personal | [[testing/batches/2020-q4]], [[personal/batches/2020-q4]] |
-| 2021 | 3575 | not started | | |
+| 2021-Q1 | 811 | done (2026-09-24) | testing, personal | [[testing/batches/2021-q1]], [[personal/batches/2021-q1]] |
+| 2021-Q2 | 766 | done (2026-09-24) | testing, personal | [[testing/batches/2021-q2]], [[personal/batches/2021-q2]] |
+| 2021-Q3 | 814 | done (2026-09-24) | testing, personal | [[testing/batches/2021-q3]], [[personal/batches/2021-q3]] |
+| 2021-Q4 | 673 | done (2026-09-24) | testing, personal | [[testing/batches/2021-q4]], [[personal/batches/2021-q4]] |
 | 2022 | 3211 | not started | | |
 | 2023 | 1293 | not started | | |
 | 2024 | 1240 | not started | | |

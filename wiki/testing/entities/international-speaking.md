@@ -349,3 +349,106 @@ Representative posts:
 - https://twitter.com/maaretp/status/1205441610919448576
 - https://twitter.com/maaretp/status/1212026658309464065
 - https://twitter.com/maaretp/status/1212055658218098690
+
+## 2021 Q1 — an unrecorded second keynote incident, and a corrected tally — [[../batches/2021-q1|batch]]
+
+The 6 Feb "keynote baggage" thread (see [[james-bach]] for the TMAcad
+retelling) names a second, previously undocumented incident from her
+**first really big international keynote**, dated here to roughly
+3.5 years earlier (~mid-2017), an event with over 1000 attendees: going
+in, she'd discovered the conference organizer who'd invited her to
+keynote had "made very inappropriate propositions to new women testers
+aspiring to become speakers." By the time she took the stage he was no
+longer running the conference — removed after she "used some of my
+energy, and took a major personal risk in seeking consequences for his
+actions." Neither the organizer nor the conference is named in the
+tweets. She frames both this and the TMAcad incident as the only two
+keynotes in her career that were genuinely draining, and closes with a
+pointed question rather than closure: "I wonder: how many other people
+have been this 'lucky'." Also traces the *pressure* to become a keynote
+speaker back further than previously recorded — ten years into her
+speaking career, "a popular speaker, then program committee chairman
+for [[eurostar|EuroSTAR]] posted about 'no women of merit'," read by her
+as a direct comment on whether she qualified. Separately, a corrected
+year-to-date tally: 442 sessions, 7th year keynoting, 21st year public
+speaking (see [[../concepts/exploratory-testing]] for the same figure in
+context).
+
+Representative posts:
+- https://twitter.com/maaretp/status/1357962520288452608
+- https://twitter.com/maaretp/status/1357963193189076992
+- https://twitter.com/maaretp/status/1357965925484552192
+- https://twitter.com/maaretp/status/1357966281186701317
+- https://twitter.com/maaretp/status/1357966798126260229
+- https://twitter.com/maaretp/status/1357967336532238339
+
+## 2021 Q2 — a EuroSTAR 2021 keynote closes the loop, and the story gets dated — [[../batches/2021-q2|batch]]
+
+Announces she's **keynoting EuroSTAR 2021** — the conference whose
+"no women of merit" episode (see [[eurostar]]) first made her resolute
+about reaching keynote status — and marks it explicitly as closure: "it
+is also, for me, a result of hard work." A 13 May thread retells the
+whole arc with dates and names the Q1 account didn't have: the
+"no women of merit" controversy is now dated to **April 2015**
+("spite-driven development... twitter was the platform"), 14 years into
+her speaking career, and described slightly differently than the Q1
+account — a "group of testers in the community loosely connected with
+the conference," rather than a single named program chair (the wiki
+can't resolve whether these describe the same controversy from two
+angles or two related but separate episodes). She also names, warmly,
+who actually gave her the TMAcad-era opening: "@QA_nna who invited me
+to keynote in her conference in New York," and reveals she'd
+technically already keynoted earlier without calling it that, in
+Ministry of Testing single-track events — a realization she credits to
+@SelenaDelesie. Her **first big international keynote** (the Q1
+"1000+ attendees" incident) is now named as a **STAR conference in the
+US**, with the host, @awadesqe, remembered fondly — "the positive of
+that experience outweigh all things going on under the surface." A
+related but distinct grievance surfaces for the first time, possibly
+from the same event: "For the big international keynote, I had to deal
+with an inner circle man telling me they handed me that keynote that
+was theirs... It was never theirs but the betrayal I felt with the
+claim was hard to deal with" — the wiki can't establish whether this
+man is the same person as the Q1 "organizer removed after harassment
+allegations," a different figure at the same conference, or unrelated.
+Names DDD Europe (2019 Q1) as the keynote she's enjoyed most, "closure
+to work on bridging a gap of communities... on a personal level." Closes
+with what the whole journey has actually given her: "Best part of this
+is the people... I collect people."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1392896002374389765
+- https://twitter.com/maaretp/status/1392896493737193475
+- https://twitter.com/maaretp/status/1392897080268632067
+- https://twitter.com/maaretp/status/1392897440668340231
+- https://twitter.com/maaretp/status/1392898222121758724
+- https://twitter.com/maaretp/status/1392899888350961677
+- https://twitter.com/maaretp/status/1392900741669396483
+- https://twitter.com/maaretp/status/1392902014305251330
+
+## 2021 Q4 — naming a pattern, rescinded invitations, and a steady year-end tally — [[../batches/2021-q4|batch]]
+
+Names a deliberate, standing pattern behind years of keynote-adjacent
+conflict for the first time directly: "I assume a professional role of
+a shield and get in the harms way. That shows up as traveling to a
+conference to do a keynote but in the background getting the conference
+organizer fired for harassment and inappropriate use of position
+towards a community member. Old example." Framed this way, the Q2
+"inner circle man" incident reads less like an isolated grievance and
+more like one instance of something she does on purpose. Separately, a
+concrete cost of protecting her time: "I 'lost' a speaking opportunity...
+Now I don't need to speak for free," followed by a pointed, gendered
+observation — "Men, please say you also get invites rescinded for 'no'
+on extra" — and a private admission that she'd "felt ashamed" for an
+"insufficiently soft" no before deciding to forgive herself. The year
+closes on a steady, undramatic tally: **46 sessions delivered across 27
+different talk titles** for 2021, plus a third consecutive year on
+Finland's Top 100 ICT influencers list (TIVIA), and a new 2022
+commitment as a TIVIA ry board member.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1448933066056011776
+- https://twitter.com/maaretp/status/1448971149342351360
+- https://twitter.com/maaretp/status/1449024408866234368
+- https://twitter.com/maaretp/status/1475927369751932940
+- https://twitter.com/maaretp/status/1467582817626435592

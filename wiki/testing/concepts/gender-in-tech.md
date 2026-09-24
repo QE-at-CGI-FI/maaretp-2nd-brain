@@ -711,3 +711,79 @@ Representative posts:
 - https://twitter.com/maaretp/status/1330810464746561537
 - https://twitter.com/maaretp/status/1330018899073634305
 - https://twitter.com/maaretp/status/1328967457030230016
+
+## 2021 Q1 — an IWD panel, and naming testing's low-paid tier — [[../batches/2021-q1|batch]]
+
+Live-tweets a #ScottishTesting IWD2021 panel with Dorothy Graham,
+Marianne Duijst, and others, collecting quotable framings rather than
+adding her own commentary: Graham on 240 unpaid conference talks
+without needing employer permission, on attitude/confidence
+compensating for missing skill, and on the generational shift from
+learning role models through books to direct online contact; Duijst on
+standing out as the only woman in a room. Separately, a sharper
+structural note distinct from her usual conference/community focus:
+"Testing is full of work that is low-paid. Crowdsourced test case and
+bug hunting; Writing automation to someone else's plan. The interesting
+question is if that is right and acceptable" — naming income stratification
+within testing itself as a gender-adjacent issue worth its own scrutiny,
+not yet connected explicitly to gender in the text but consistent with
+the same "low-paid, low-credit" pattern this page tracks elsewhere. The
+6 Feb keynote-trauma disclosure (see
+[[../entities/international-speaking|International Speaking Career]]
+and [[../entities/eurostar|EuroSTAR]]) belongs here too as advocacy
+context — what "no women of merit" cost her personally to overcome.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1370076053222391812
+- https://twitter.com/maaretp/status/1370083200979066880
+- https://twitter.com/maaretp/status/1370081094071115780
+- https://twitter.com/maaretp/status/1369976147799326727
+
+## 2021 Q2 — "pink tax," a mentoring-policy shift, and a wikipedia payoff — [[../batches/2021-q2|batch]]
+
+Names a new concept in a blog post, **"pink tax on access to agile
+heroes"**: a specific woman's paywalled writing sits behind a fee while
+"the men explain agile without paywall all the time" — a sharper,
+market-priced version of the erasure/low-credit pattern this page has
+tracked since 2019. The F-Secure promotion-denial account gets its most
+concrete telling yet this quarter — see `../entities/f-secure.md` — with
+a direct comparison for the first time: a male colleague did the same
+thing she was formally warned for, "and nothing." Separately, reflecting
+at length on a conference with only 4 of 15 speakers men, she resists
+both an easy celebration and an easy dismissal, landing on a threshold
+theory: once a pipeline is safe enough that women stop self-selecting
+out, representation flips fast — "the women were always there. They
+were already great. We just did not pay attention." Names a real,
+dated policy change: she started mentoring men on public speaking again
+a year earlier, "no longer hard to name thousands of great women" being
+the condition that made room for it. Closes the loop on the 2020 Q4
+"Maaret to Wikipedia" project: "OMG I am in wikipedia. Why didn't
+anyone tell me" — the ambition from Q4 2020 paid off, seemingly through
+a broader "red link women to blue" editing drive rather than her own
+effort.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1390275742278176769
+- https://twitter.com/maaretp/status/1393165407402528771
+- https://twitter.com/maaretp/status/1393167813909614596
+- https://twitter.com/maaretp/status/1382602119258247169
+
+## 2021 Q4 — a general "safe space" harassment disclosure, and a clean representation experiment — [[../batches/2021-q4|batch]]
+
+A brief but weighty general disclosure, prompted by a debate on
+prioritizing safety over comfort at conferences: "Having been the
+person who dealt with unwanted physical touching, inappropriate
+content, and a third incident I no longer remember in this 'safe
+space'..." — no event or person named, but a direct, first-person count
+of harm experienced in community spaces specifically framed as safe.
+See `../../personal/concepts/self-understanding.md` for how this lands
+personally. A cleaner, more concrete data point closes the quarter:
+organizing a 30-spot test-automation meetup herself, 16 women enroll
+unprompted — "This is what the world of testing looks like when you
+organize — equal representation. When you end up with imagining women
+aren't here, it says something about you" — read against the Q2
+threshold theory, a direct demonstration of it in her own numbers.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1463484892549951489
+- https://twitter.com/maaretp/status/1475852682485288961

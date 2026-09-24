@@ -306,3 +306,45 @@ he's told others he wishes her "go to hell." See
 Representative posts:
 - https://twitter.com/maaretp/status/1297451780914151425
 - https://twitter.com/maaretp/status/1297546032612610048
+
+## 2021 Q1 — retelling TMAcad, four years later — [[../batches/2021-q1|batch]]
+
+A 6 Feb thread processing "keynote baggage" retells the
+[[../batches/2016-q3|2016 Q3]] TMAcad incident with detail not recorded
+at the time: it was, she says, her **own keynote debut** too ("4,5
+years ago I finally got to do my 1st keynote, after 15 years of
+speaking") — meaning Bach's "How I differ from Maaret" slide landed
+during the same event where she was first keynoting herself, not a
+separate occasion. She quotes what he said about her from the stage
+more specifically than the original 2016 record: that she's "not
+authentic and compassionate," doesn't "think discussion is important,"
+and believes in "not focusing attention and energy." A previously
+unrecorded outcome closes the account: "I posted that picture on
+twitter, and the guy lost some jobs" — the public backlash to the slide
+had a real professional cost for him, not just a war of words. She
+frames the whole retelling as evidence for a broader pattern rather
+than a fresh grievance — one of "only 2" keynotes in her career that
+were this personally draining (see
+[[../entities/international-speaking|International Speaking Career]]
+for the second).
+
+Representative posts:
+- https://twitter.com/maaretp/status/1357963919353147392
+- https://twitter.com/maaretp/status/1357964507155464193
+- https://twitter.com/maaretp/status/1357964975503982592
+
+## 2021 Q2 — confirmed again as "the first keynote I delivered" — [[../batches/2021-q2|batch]]
+
+A 13 May thread announcing her [[../entities/eurostar|EuroSTAR]] 2021
+keynote (see that page and
+[[../entities/international-speaking|International Speaking Career]] for
+the fuller context) retells TMAcad once more, this time unambiguously:
+"The first keynote I delivered was the keynote where the other keynoter
+decided to use their keynote to talk about *me* instead of their topic
+and it changed testing community significantly. People united against
+bullying" — confirming the Q1 retelling (it was her own debut) and
+adding a detail not recorded before: the backlash united the testing
+community against him, not just cost him individual jobs.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1392902693421781001

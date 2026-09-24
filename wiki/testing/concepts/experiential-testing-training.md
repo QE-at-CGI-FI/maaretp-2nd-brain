@@ -73,3 +73,35 @@ Representative posts:
 - https://twitter.com/maaretp/status/1029314836033884160
 - https://twitter.com/maaretp/status/1036838574925197317
 - https://twitter.com/maaretp/status/1037011446775918594
+
+## 2021 Q1 — Exploratory Testing Foundations, productized — [[../batches/2021-q1|batch]]
+
+The 1:1/small-group practice launched 2018 Q2 gets a formal, reusable
+shape: **Exploratory Testing Foundations**, a classroom course (first
+delivered 17 Feb, licensed CC BY 4.0) built jointly with a recurring
+group of collaborators — @irjastraus, @Parveen_Khan10, and @AdharaIT —
+who pair-test the target application ahead of each delivery. The same
+content is being built in parallel as a video course, but she notices
+mid-delivery that slides written for video don't map cleanly onto
+in-class facilitation, and separately that she barely needs slides at
+all: "I teach from doing." Rather than keep the material in
+presentation-software notes, she folds it into a chapter of her
+LeanPub **Exploratory Testing book**, publishing the slide notes as
+prose instead — "I was uncomfortable writing all that text in slide
+notes in powerpoint, so I made slides and their notes a chapter." The
+same four collaborators plan a public follow-on — four
+#ExploratoryTestingAcademy sessions in late April, same target
+application, each with a different constraint (unconfirmed issues,
+test-automation, self-management, and an open Q&A) — extending the
+"experiential" method from private coaching into a repeatable public
+format for the first time. Separately, at #TCC2021 she agrees with
+@profesor_dragan to co-build a **Real-World Exploratory Testing**
+course, a second collaboration alongside the Foundations line.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1361759906261594116
+- https://twitter.com/maaretp/status/1362079851621056512
+- https://twitter.com/maaretp/status/1363926353171656705
+- https://twitter.com/maaretp/status/1371384930618519553
+- https://twitter.com/maaretp/status/1371488472746311684
+- https://twitter.com/maaretp/status/1370811748681461760

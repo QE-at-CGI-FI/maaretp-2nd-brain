@@ -426,4 +426,64 @@ to the former trainee, a colleague's send-off, an internal team move),
 and entities/eurostar (wins the EuroSTAR award, a 2004 origin-story
 callback). 2020 is now fully ingested.
 
+## [2026-09-24] ingest | 2021 Q1 (811 posts, first 2021 batch)
+2021 split into quarters at ingest time (3575 posts total, dense-year
+rule). Created batch page [[batches/2021-q1]]. Added 2021-Q1 sections to
+7 existing pages: concepts/exploratory-testing ("Contemporary
+Exploratory Testing," a testing-of-code vs. testing-of-systems split,
+"stealth" ET management named directly, a "sprinkle" metaphor, "grounded
+management"), concepts/experiential-testing-training (the practice
+productized as Exploratory Testing Foundations with a recurring
+collaborator group), concepts/whole-team-testing (the Robot Framework
+dispute hardens with a concrete CI-breakage cost and a gendered edge),
+entities/james-bach (a retrospective thread retells the 2016 Q3 TMAcad
+incident with new detail — it was her own keynote debut, and Bach
+reportedly lost work over the backlash), entities/international-speaking
+(a second, previously undocumented ~2017 conference-organizer
+harassment/removal incident disclosed), entities/eurostar (a
+"no women of merit" program-chair post recalled and dated for the first
+time), and concepts/gender-in-tech (an IWD2021 panel, a new note on
+testing's own low-paid work tier).
+
+## [2026-09-24] ingest | 2021 Q2 (766 posts, second 2021 batch)
+Created batch page [[batches/2021-q2]]. Added 2021-Q2 sections to 6
+existing pages: concepts/whole-team-testing (a precisely dated Ensemble
+Testing origin history, 2015–2020, closing with a named fear of
+erasure; the Robot Framework dispute continues with a weary,
+disengaged register), entities/james-bach (TMAcad reconfirmed as her
+keynote debut, with a new community-backlash detail), entities/
+international-speaking (a EuroSTAR 2021 keynote booking prompts a
+thread dating "no women of merit" to April 2015, naming the STAR
+conference/host behind her first big international keynote, and a
+related-but-unreconciled "inner circle man" credit-claiming
+grievance), entities/eurostar (the keynote booking and dating),
+entities/f-secure (the promotion-denial story's originating incident
+named, with a direct gender comparison for the first time), and
+concepts/gender-in-tech ("pink tax on access to agile heroes," a dated
+mentoring-policy change, the "Maaret to Wikipedia" project paying off).
+
+## [2026-09-24] ingest | 2021 Q3 (814 posts, third 2021 batch)
+Created batch page [[batches/2021-q3]]. Added 2021-Q3 sections to 3
+existing pages: concepts/whole-team-testing (the Ensemble Testing origin
+dates self-corrected twice more; a harassment disclosure from that same
+origin story; the Exploratory Testing Slack/Academy launch, revealed as
+a project with her sister; a successful EuroSTAR keynote closing the
+Q1/Q2 keynote-trauma arc), concepts/cdt-community-culture (Bach and
+Bolton become "the terrible twins of test," alongside an admission she
+was "fooled... for years"; a CDT-identity departure named directly),
+and entities/f-secure (the "google me" colleague's years-long
+retaliation, discovered on her way out).
+
+## [2026-09-24] ingest | 2021 Q4 (673 posts, fourth and final 2021 batch)
+Created batch page [[batches/2021-q4]]. Added 2021-Q4 sections to 4
+existing pages: concepts/whole-team-testing (the Robot Framework
+dispute reaches an actual resolution — removed and replaced with
+pytest+Playwright), entities/eurostar (the keynote delivers; the "no
+women of merit" dating shifts again, leaving two inconsistent accounts
+on record), entities/international-speaking (a standing pattern named
+directly — getting harassing organizers removed while also keynoting;
+a steady year-end tally), and concepts/gender-in-tech (a general
+"safe space" harassment disclosure; a clean representation experiment).
+**2021 is now fully ingested (Q1–Q4).**
+
 <!-- newest entries at the bottom -->

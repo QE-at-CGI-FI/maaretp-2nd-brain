@@ -380,3 +380,28 @@ Representative posts:
 - https://twitter.com/maaretp/status/1297548934437654530
 - https://twitter.com/maaretp/status/1297559193289883652
 - https://twitter.com/maaretp/status/1307627666993041408
+
+## 2021 Q3 — "the terrible twins of test," and a CDT identity she's leaving — [[../batches/2021-q3|batch]]
+
+Bach and Bolton get a new joint label for the first time, **"the
+terrible twins of test"** — used after one of them characterizes her,
+via the mob→ensemble rename, as a "prominent tester fallen under the
+sway of mob programming." The sharper move this quarter is inward
+rather than at them: "Terrible twins of test fooled me for years. I did
+not understand their 'constructive criticism'... was centered around
+helping them and only them. When sealioning was finally called out by
+the cartoon that got removed, I discovered the abusive rhetoric" — the
+clearest statement yet that she now reads years of engagement with them
+as having been manipulated, not just repeatedly disagreed with.
+Separately, and consistent with that reassessment, she names a real
+identity shift: "I've identified as a context-driven tester for a
+really long time, and I am now coming to terms with not being that any
+more. I choose places of work that allow for smart testing
+('contemporary exploratory testing') and do transformations to it" —
+see [[../concepts/exploratory-testing]] for that term's own 2021 Q1
+launch.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1438485452525346818
+- https://twitter.com/maaretp/status/1438735081561071620
+- https://twitter.com/maaretp/status/1427870610684891137

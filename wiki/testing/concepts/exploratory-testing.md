@@ -256,3 +256,43 @@ Representative posts:
 - https://twitter.com/maaretp/status/1329843041318952961
 - https://twitter.com/maaretp/status/1330442880075386880
 - https://twitter.com/maaretp/status/1344405987462144007
+
+## 2021 Q1 — "Contemporary Exploratory Testing," a code/systems split, and "stealth" named — [[../batches/2021-q1|batch]]
+
+Opens the year naming a new umbrella for the whole 2018–2020 writing
+stretch: **Contemporary Exploratory Testing** — "the difference from
+before, and the sameness" — becomes a blog series, an updated two-day
+course, and eventually the quarter's closing keynote pitch. Sharpens the
+verb/noun work from 2020 Q3–Q4 into a cleaner split: **"testing of code
+we create"** (four benefits — spec, feedback, regression, granularity;
+different in kind under TDD vs. test-after) versus **"testing of
+systems the code ends up in"** (split further into building systems
+that test systems, and testing those systems) — "it's not either or. It
+is both. And the modern optimization problem... is that you no longer
+can optimize one like testers used to." Names the management pattern
+she's pushed against implicitly for years, this time directly: **ET as
+"stealth"** — "one of the most common ways of managing
+#ExploratoryTesting is 'stealth'. We hide it and focus on what the
+organization expects... I'm seeking ways to stop hiding it." Closes the
+quarter with a matching metaphor for how much ET a team actually needs:
+**"sprinkle on top vs. sprinkle all around"** — sprinkle-on-top is fine
+the way "everyone loves a good steak," but sprinkling it through the
+whole process "turns a good team excellent," and the amount needed
+scales inversely with how exploratory the rest of the testing already
+is. Also crowdsources a list of **ET traps** with @g33klady (bugs,
+premature algorithm development, extensive research, hacking inputs,
+meetings) and, separately, trials a new self-description for the
+tester-adjacent accelerator work she does — **"grounded management"** —
+"working on what we create, hands-on, with end in mind while not
+minding just my own business." Closes with a corrected career tally:
+442 sessions, her 7th year keynoting, 21st year of public speaking.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1345696528120360960
+- https://twitter.com/maaretp/status/1355587375632707588
+- https://twitter.com/maaretp/status/1364560200427012104
+- https://twitter.com/maaretp/status/1365971076304543744
+- https://twitter.com/maaretp/status/1374776976049893378
+- https://twitter.com/maaretp/status/1375077344545796103
+- https://twitter.com/maaretp/status/1372618193601228802
+- https://twitter.com/maaretp/status/1371541084061437954

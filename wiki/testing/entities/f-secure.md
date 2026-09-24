@@ -225,3 +225,43 @@ Representative posts:
 - https://twitter.com/maaretp/status/1330564385010556929
 - https://twitter.com/maaretp/status/1330569804999237633
 - https://twitter.com/maaretp/status/1330578595723489281
+
+## 2021 Q2 — the promotion denial, with specifics and a direct gender comparison — [[../batches/2021-q2|batch]]
+
+A 27 Apr thread goes further than the 2020 Q4 retelling, naming the
+originating incident: "a few years ago... I seriously upset a young man
+[by] explaining testing to me by telling [him] to 'google me'" — used
+later, she says, as the actual grounds for denying her promotion:
+"'they don't remember what you did, but how you made them feel.' I did
+other similar things too. Remembered (blogged) a past failure in test
+automation just as two men who wouldn't take my advice failed same way,
+again." The written-warning story gets a specific gender comparison for
+the first time: "getting a warning on [my] last months at work for
+'refusing work' for pointing out that a metric was off and not taking a
+side project outside my responsibility without going through my
+manager. A man did same and nothing." Closes plainly: "I remembered
+exactly what I did. My manager didn't. But I was still told I'd never
+advance on my career. Every woman has a story like this. I'm happy I
+left." See `../../personal/concepts/career-direction.md` and
+`../../personal/concepts/self-understanding.md` for the personal-side
+account, and [[../concepts/gender-in-tech]] for the pattern this
+extends.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1387033819019157504
+- https://twitter.com/maaretp/status/1387035488813416451
+- https://twitter.com/maaretp/status/1387035972114681857
+- https://twitter.com/maaretp/status/1387037445171007499
+
+## 2021 Q3 — the "google me" colleague's retaliation — [[../batches/2021-q3|batch]]
+
+A small but concrete follow-up to the Q2 disclosure: "Remember that
+time I told a colleague at work to 'google me' when he was explaining
+me testing and agile. He rewarded that tip by spending years telling
+every new hire in office not to talk to me, which I learned when I
+left the company" — the incident used against her in the promotion
+denial had an ongoing, years-long cost she only discovered in
+hindsight, on her way out.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1410516961117749258

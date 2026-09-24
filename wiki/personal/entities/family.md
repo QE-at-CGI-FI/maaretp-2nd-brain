@@ -355,3 +355,55 @@ dog — reaffirmed this year, "she is ok waiting very long time."
 Representative posts:
 - https://twitter.com/maaretp/status/1318256519222349825
 - https://twitter.com/maaretp/status/1338386237317517312
+
+## 2021 Q1 — a small, warm aside — [[../batches/2021-q1|batch]]
+
+A light continuation of the daughter-color thread: given flowers after
+a speaking engagement, "my daughter decided she keeps them because it's
+her color" — a small domestic claim on a professional milestone, in
+keeping with the pattern of overlap this page has tracked since 2015.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1352689952220467201
+
+## 2021 Q2 — a teenage daughter as social-media consultant — [[../batches/2021-q2|batch]]
+
+A small, of-the-moment role reversal: asked to run her employer's
+Instagram Stories takeover, she leans on her teenager for help —
+"good thing I receive consulting from a teenage daughter, gives me a
+fighting chance" — a lighter instance of the daughter-as-resource
+pattern this page has tracked since 2015, now specifically technical/
+generational rather than emotional or artistic.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1397071559647432711
+
+## 2021 Q3 — the sister becomes a named co-collaborator — [[../batches/2021-q3|batch]]
+
+The sister introduced in 2020 Q3 as sharing an interest in exploratory
+testing gets named directly and made concrete: **@StillMimii**, "nowadays
+a tester" after Maaret "wore her out and got her to change careers" —
+and, by quarter's end, revealed as her co-collaborator on the
+Exploratory Testing Academy (see
+`../../testing/concepts/whole-team-testing.md`), "at very different
+stages of our careers." Separately, her daughter (13) offers a small,
+perfectly-timed piece of comfort — "Mom, you are enough" — recorded in
+`../concepts/self-understanding.md`.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1415653970287149065
+- https://twitter.com/maaretp/status/1439565971153432578
+- https://twitter.com/maaretp/status/1439566545844424708
+
+## 2021 Q4 — a tech-savvy daughter, twice — [[../batches/2021-q4|batch]]
+
+Two small, warm beats extend the daughter-as-technical-resource pattern
+tracked since 2021 Q2's Instagram consulting: "when your teenage
+daughter diagnoses your network problem and fixes it — so proud," and,
+shown a stubborn app bug, "she killed and restarted the app in a split
+second. She thought she fixed it. That is the next generation's
+response to pervasiveness of problems."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1466300970732769281
+- https://twitter.com/maaretp/status/1471013937617547267

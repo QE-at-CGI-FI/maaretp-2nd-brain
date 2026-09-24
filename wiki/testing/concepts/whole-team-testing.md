@@ -491,3 +491,146 @@ Representative posts:
 - https://twitter.com/maaretp/status/1337153003917336584
 - https://twitter.com/maaretp/status/1337041411724730369
 - https://twitter.com/maaretp/status/1341697195691667458
+
+## 2021 Q1 — the Robot Framework dispute hardens, and a gendered edge appears — [[../batches/2021-q1|batch]]
+
+The Q4 falling-out settles into a sustained, specific position rather
+than fading. A concrete cost surfaces first: Robot Framework 4's
+release breaks Jenkins jobs across (at least) her own team and others,
+because the core project shipped without coordinating a matching plugin
+update — "I may be the only one who wrote that down on the costs of
+being a part of this ecosystem." That joins the standing fairness
+complaint into a named list: "Free tools aren't free. This tool costs
+plenty... it costs people careers, even if it gives it to some... for
+the last year it has lived rent-free in my brain because I am giving it
+a chance" — explicitly reframing continued engagement as effortful
+goodwill, not indifference. Pressed for specifics, she itemizes rather
+than generalizes for the first time: IDE support, debuggability,
+"limitations in scoping," "limitations in calling," and bugs introduced
+on top of libraries like Selenium — while refusing to maintain the list
+as a public artifact, "because it annoys me that people in that
+community expect me to after saying they only pay dev not test." A new
+element enters the dispute directly: when someone explains RF's value
+to her unprompted, she names the pattern by its familiar shape — "There
+is a whole 'men explain this to me' thread already in the internet on
+this and I really don't care for that... Please refrain from giving me
+advice on this" — the first time the RF conflict gets read through a
+gender lens rather than purely a fairness/technical one. A colleague's
+one-liner she quotes without comment: "this RF shit really feels like
+writing HTML in notepad."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1372985439813054468
+- https://twitter.com/maaretp/status/1372987266709217287
+- https://twitter.com/maaretp/status/1372987847570038788
+- https://twitter.com/maaretp/status/1372998403857248256
+- https://twitter.com/maaretp/status/1373000179863977984
+- https://twitter.com/maaretp/status/1375537568012460034
+
+## 2021 Q2 — the Ensemble Testing origin story, dated precisely — [[../batches/2021-q2|batch]]
+
+A 22 Apr thread lays out the full **#EnsembleTesting/#EnsembleProgramming**
+history with dates the wiki hadn't previously had this precisely: first
+session delivered **13 Sept 2015 at CITCON**, opening with three rules —
+"kindness, consideration and respect" (credited to Woody Zuill), "no
+thinking at the keyboard," and "yes, and." Through 2016 the middle rule
+sharpens to **"no decisions at the keyboard"** after watching groups
+default to waiting for instructions rather than navigating on intent.
+End of 2017: keynotes on it at AgileTD under the title "Learning through
+Osmosis." The [[../batches/2020-q1|2020 Q1]]/[[../batches/2020-q2|Q2]]
+mob→ensemble rename gets exact dates for the first time too — she'd
+"figured out where to" go with @deniseyu21 on **17 April 2020**, and
+executed the change across all her materials, including the Mob
+Programming Guidebook, on **23 May 2020**. Closes not with pride but a
+fear of erasure: "I really would need someone to write this down in a
+publication that I did not write... bringing #EnsembleTesting to the
+world of testers is one of my great achievements, and the history will
+forget me, just like all women" — the same erasure anxiety tracked in
+[[../concepts/gender-in-tech]], applied here to a specific, nameable
+contribution rather than a general pattern. The Robot Framework dispute
+continues in the same register as Q1: RF's ecosystem breakage is
+confirmed again ("RF 4 broke every team's pipelines here on day of
+introduction"), and a new, half-serious response emerges — "the
+tongue-in-cheek side project of 'making robot framework less prominent
+in Finland'," a cross-org group of local testers learning Python
+instead. On finding fresh RF bugs mid-quarter, her stance has hardened
+into weary disengagement rather than advocacy: "not reporting, moving
+on. I will always remember they pay devs but not testers, and hold just
+enough grudge to leave feedback at tweet."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1385099449236606983
+- https://twitter.com/maaretp/status/1385100515877457924
+- https://twitter.com/maaretp/status/1385101619281502208
+- https://twitter.com/maaretp/status/1385102445882269699
+- https://twitter.com/maaretp/status/1407624704811311105
+- https://twitter.com/maaretp/status/1405223244974678018
+
+## 2021 Q3 — the origin dates get corrected again, and a EuroSTAR keynote closes a loop — [[../batches/2021-q3|batch]]
+
+A 15 July thread self-corrects the precisely-dated history from
+[[../batches/2021-q2|Q2]]'s 22 Apr account, working backward through
+her own archive in public: first thought the first session was CITCON
+(2015), then corrected to **Agile2015, 4 Aug, Washington DC** (a demo
+ensemble with @lisacrispin, session "Explore with Intent"), then
+corrected again to the actual first *public facilitation* of Ensemble
+Testing — **XP2015, Helsinki, 25 May 2015** — with the very first
+**#EnsembleProgramming post dated 30 Jan 2015**. A wry footnote: an
+interview from 9 months into the practice has her saying "I'm not
+certain if I enjoy this style of working in the long term." The
+practice's origin also surfaces a harassment disclosure for the first
+time: "the men trying #EnsembleProgramming rarely have to tell the
+story I have to tell from my first ensemble: the one colleague who
+asked me to motivate such ridiculous request by taking my top off" —
+see `../../personal/concepts/self-understanding.md` for the fuller
+account. The Bach/Bolton relationship (tracked in
+[[../concepts/cdt-community-culture]]) resurfaces sharply this quarter
+under a new label, **"the terrible twins of test,"** paired with a
+striking admission: "Terrible twins of test fooled me for years... When
+sealioning was finally called out by the cartoon that got removed, I
+discovered the abusive rhetoric." The Robot Framework dispute stays
+active and, for the first time, self-aware about its own
+inconsistency: "Telling 2000 people in talks I don't recommend Robot
+Framework in two days while still showing RF example. Sorry world.
+Will fix." Closes the quarter with real resolution: she delivers her
+**EuroSTAR 2021 keynote, "Test Automationist's Gambit,"** the conference
+whose "no women of merit" episode first made her resolute about
+reaching keynote status back in 2015 (see [[../entities/eurostar]]) —
+"a dream come true." A new sustained community initiative launches
+alongside all this: the **Exploratory Testing Slack**, growing from
+activation to 170+ members within the quarter, and the
+**Exploratory Testing Academy** is revealed as a two-person project —
+herself and @StillMimii, her sister (see
+`../../personal/entities/family.md`).
+
+Representative posts:
+- https://twitter.com/maaretp/status/1415762042431148037
+- https://twitter.com/maaretp/status/1415769874454962187
+- https://twitter.com/maaretp/status/1415780045780570113
+- https://twitter.com/maaretp/status/1438485452525346818
+- https://twitter.com/maaretp/status/1438735081561071620
+- https://twitter.com/maaretp/status/1443309403222990849
+- https://twitter.com/maaretp/status/1443549791267475467
+- https://twitter.com/maaretp/status/1439565971153432578
+
+## 2021 Q4 — Robot Framework actually removed — [[../batches/2021-q4|batch]]
+
+The year-long dispute reaches a concrete resolution rather than staying
+a grievance: she blogs **"Removing Robot Framework from My World"** (27
+Nov), replacing it with pytest + Playwright, and confirms the change
+pays off in a second domain too — "the process of removing Robot
+Framework + Browser lib and replacing it with pytest+playwright makes
+teaching #ExploratoryTesting Foundations course easier." Elsewhere she
+continues freeing colleagues who'd felt locked into RF by hiring
+requirements: "freeing them from this has transformed their results for
+better." A smaller but telling admission closes the arc's tone: on
+being asked why RF exists at all, she credits its creator directly as
+"wise and has expertise," distinguishing the tool's tradeoffs from any
+judgment of the person — the fairness/community critique from 2020 Q4
+onward was never really about that.
+
+Representative posts:
+- https://twitter.com/maaretp/status/1464304853086347264
+- https://twitter.com/maaretp/status/1462852406543278093
+- https://twitter.com/maaretp/status/1474281946628907020
+- https://twitter.com/maaretp/status/1448273060453404681

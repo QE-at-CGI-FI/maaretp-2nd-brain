@@ -435,3 +435,40 @@ Representative posts:
 - https://twitter.com/maaretp/status/1330560873702846474
 - https://twitter.com/maaretp/status/1330578595723489281
 - https://twitter.com/maaretp/status/1344681011196604418
+
+## 2021 Q1 — the F-Secure exit confirmed as tone-related — [[../batches/2021-q1|batch]]
+
+A small but concrete detail sharpens the 2020 Q4 promotion-denial story
+into something more specific: the recurring phrase "it's not what you
+do, it's how you do it" — used there for the written-warning episode —
+recurs on 4 Jan captioned plainly, "The reason I left my previous job."
+Three weeks later (27 Jan), defending herself in a tone-policing
+exchange, she's more exact about timing: "it's now a year since it
+forced me to change jobs so I respond with more edge than you should
+get" — dating the departure's real trigger to around early 2020, tone
+criticism specifically, not only the promotion/HR account already on
+record in `../../testing/entities/f-secure.md`. Read together, the wiki
+now has two compatible but distinct threads behind the same exit: a
+structural one (written warning, shop steward, an unaddressed HR/CEO
+report) and a personal one (being told, repeatedly, that *how* she
+communicated — not what she did — was the problem).
+
+Representative posts:
+- https://twitter.com/maaretp/status/1346017532717752321
+- https://twitter.com/maaretp/status/1354380669103824903
+- https://twitter.com/maaretp/status/1354369284139573248
+
+## 2021 Q2 — the promotion denial's originating incident, and a direct gender comparison — [[../batches/2021-q2|batch]]
+
+A 27 Apr thread (full account in
+`../../testing/entities/f-secure.md`) names the specific incident used
+against her — upsetting a young male colleague by telling him to
+"google me" rather than re-explain something — and, for the first time,
+states a direct comparison rather than a general pattern: the written
+warning for "refusing work" landed on her; "a man did same and
+nothing." Closes without ambiguity about how she now reads it: "Every
+woman has a story like this. I'm happy I left."
+
+Representative posts:
+- https://twitter.com/maaretp/status/1387033819019157504
+- https://twitter.com/maaretp/status/1387037445171007499

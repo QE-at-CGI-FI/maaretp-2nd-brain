@@ -269,4 +269,44 @@ internal move at Vaisala), and entities/family (a shared new skill with
 her son; a daughter's long-running dog promise). 2020 is now fully
 ingested.
 
+## [2026-09-24] ingest | 2021 Q1 (811 posts, first 2021 batch)
+2021 split into quarters at ingest time (3575 posts total, dense-year
+rule). Created batch page [[batches/2021-q1]]. Added 2021-Q1 sections to
+3 existing pages: concepts/self-understanding (the rawest disclosure
+since 2018 Q3 — a keynote-trauma thread retelling the 2016 TMAcad
+incident with new detail and revealing a second, previously
+undocumented ~2017 incident; a patriarchy self-critique naming her own
+complicity), concepts/career-direction (the F-Secure exit confirmed as
+tone-related, distinct from the structural promotion-denial account),
+and entities/family (a small daughter-color aside).
+
+## [2026-09-24] ingest | 2021 Q2 (766 posts, second 2021 batch)
+Created batch page [[batches/2021-q2]]. Added 2021-Q2 sections to 3
+existing pages: concepts/self-understanding (a 30 Jun thread finally
+identifies the concrete source of the 2013 "unfit for my profession"
+wound — a psychological-testing job interview, likely the original
+incident rather than an echo of it; a new "algorithmic cruelty" trauma
+disclosure), concepts/career-direction (the F-Secure promotion denial's
+originating incident named, with a direct gender comparison for the
+first time), and entities/family (a light role-reversal moment with her
+teenage daughter).
+
+## [2026-09-24] ingest | 2021 Q3 (814 posts, third 2021 batch)
+Created batch page [[batches/2021-q3]]. Added 2021-Q3 sections to 2
+existing pages: concepts/self-understanding (a previously undocumented
+conference trauma — a "tech uncle" keynote and a second man silencing
+her about it; the origin of a harassment memory tied to her first
+Ensemble Programming session; "intimidating," first flagged in 2011,
+named a decade later as internalized misogyny) and entities/family (her
+sister named directly as a co-collaborator on the Exploratory Testing
+Academy; a well-timed comfort from her 13-year-old daughter).
+
+## [2026-09-24] ingest | 2021 Q4 (673 posts, fourth and final 2021 batch)
+Created batch page [[batches/2021-q4]]. Added 2021-Q4 sections to 2
+existing pages: concepts/self-understanding (a brief general
+harassment disclosure in an unnamed "safe space"; a plainly-named
+"approval addiction" self-diagnosis) and entities/family (two warm
+daughter-as-technical-resource beats). **2021 is now fully ingested
+(Q1–Q4).**
+
 <!-- newest entries at the bottom -->
