@@ -8,7 +8,17 @@ sources: [twitter]
 A recurring, serious (not casual) interest in studying testing
 academically — distinct from her practitioner-community organizing work,
 though the two people she discusses it with most are the same:
-[[../entities/juha-itkonen]] and [[../entities/michael-bolton]].
+[[../entities/juha-itkonen]] and [[../entities/michael-bolton]]. Opens
+in 2011 with a stated two-year goal to co-author an academic article,
+sparked by [[exploratory-testing]]'s dissertation debate with Itkonen;
+2012 turns that intent into real, if unpublished, action — mining her
+own team's bug data with an explicit qualitative-methods lens, and
+drawing a repeated line between practitioner "folklore" and research
+held to a higher evidentiary bar. By 2013 the arc shifts from producing
+to consuming and connecting — reading, praising others' published work
+— without her own publication materializing; this page doesn't track
+the thread further, so the 2011 ambition reads as unresolved within
+the archive's tracked span for this concept.
 
 ## 2011 — [[../batches/2011|batch]]
 

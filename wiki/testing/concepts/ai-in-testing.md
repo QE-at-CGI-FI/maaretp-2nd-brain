@@ -5,6 +5,19 @@ sources: [mastodon]
 
 # AI in Testing
 
+Opens in 2023 with ChatGPT's public release, met with skepticism rather
+than adoption — she coins "hallucination testing" and names an ethical
+problem with the training data before finding any bounded, useful cases.
+2024 turns it structural: her CGI director role (see
+[[../entities/cgi]]) makes AI-in-testing her actual job, and the
+skepticism sharpens into a "prune, not generate" principle rather than
+softening. 2025 adds precision tools — a self-critical
+avoiding/trying/using/building classification, the "workslop" coinage —
+and by 2026 the skepticism has grown a research arm: a public
+benchmark-research repository, granular per-task cost tracking, and a
+named standing worry, "cognitive surrender," that outlives any single
+tool or hype cycle.
+
 ## 2023 — GenAI arrives, and she reaches for skepticism first — [[../batches/2023|batch]]
 
 ChatGPT's public release (late 2022) turns into a running experiment

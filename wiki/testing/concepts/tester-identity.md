@@ -5,8 +5,23 @@ sources: [twitter]
 
 # Tester Identity, Not Role
 
-A distinction she insists on repeatedly through 2014: "I find no reason to
-give up my tester identity... It's not my role, it's my identity."
+A distinction she insists on repeatedly from 2014: "I find no reason to
+give up my tester identity... It's not my role, it's my identity." It
+becomes the flashpoint for the year's most significant relational
+rupture — [[../entities/james-bach|James Bach]] blocks her on Twitter
+after a heated exchange over whether "role" is even a useful concept —
+and stays entangled with the Bach relationship through 2016, when he
+directly disputes whether she qualifies as a tester at all (first on
+Twitter, then via a conference slide at TMAcad). Along the way the
+argument evolves from defending the label itself to defending its
+boundaries (developers can test, testers can code) to a real softening
+in 2015 Q4 where "developer" stops being a rejected label. By 2016 Q4
+she lands on a plain, deliberately unarguable definition stripped of
+philosophy or anyone else's recognition, and by 2017 Q4–2018 Q2 she
+can hold or even reclaim the identity calmly, without the earlier
+heat — the fight settles rather than recurring further in the archive.
+See [[../entities/james-bach]] and [[cdt-community-culture]] for the
+surrounding relational and community history.
 
 ## 2014 — [[../batches/2014|batch]]
 

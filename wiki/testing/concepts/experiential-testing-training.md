@@ -9,7 +9,19 @@ A new, sustained teaching practice — distinct from her conference
 workshops and from the junior-dev mentoring documented in
 [[whole-team-testing]] — built around 1:1 and small-group remote
 sessions, pairing on a real (simple) application with testers who have
-under five years' experience.
+under five years' experience. Launches 2018 Q2 off a single tweet that
+draws 40-50 volunteers, the same month she becomes a manager (see
+[[management-transition]]) and her
+[[../../personal/concepts/writing-a-book|Exploratory Testing Book]] hits
+Publish — three commitments landing at once. The method (test first, ask
+about the person after; probe the testing before the tester; discourage
+pre-session documentation) gets worked out in public through 2018,
+alongside paid two-day courses experimenting with a naming technique. By
+2021 Q1 the private-coaching practice is productized into
+**Exploratory Testing Foundations**, a reusable classroom course built
+with a recurring group of collaborators, and extended into a repeatable
+public format via four #ExploratoryTestingAcademy sessions — the last
+entry on record for this page.
 
 ## 2018 Q2 — launch — [[../batches/2018-q2|batch]]
 

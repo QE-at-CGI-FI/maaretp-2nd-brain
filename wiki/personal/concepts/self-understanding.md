@@ -5,6 +5,35 @@ sources: [twitter]
 
 # Self-Understanding
 
+The wiki's most sustained personal throughline, opening in 2011 with
+self-reflection triggered by workplace pairing friction (MBTI, a named
+learning style, a first flag on being called "intimidating") and
+deepening steadily rather than settling. A recurring public/private
+split — professional extroversion masking a more anxious private self —
+runs from 2011 through 2016's direct naming of social anxiety and 2026's
+clinical relabeling as "rejection sensitive dysphoria." Gender is named
+directly from 2013, and several of the page's oldest wounds resolve only
+slowly, across a decade: the 2013 "unfit for my profession" disclosure
+is finally traced to its originating incident (a c.2010 psychological-
+testing job rejection) in 2021 Q2, then directly confronted with a
+stranger in a 2025 job interview. 2018 Q3 marks a real turning point —
+finding a therapist, doing sustained work on anger, disclosing a
+university-years harassment history — after which the self-work reads
+as more direct rather than deflected into professional framing. 2021 is
+the heaviest single year: two previously undocumented conference/keynote
+traumas surface, alongside a rare self-critique of her own complicity in
+patriarchy and a renaming of "intimidating" as internalized misogyny.
+The misgendering thread, opened in 2023, escalates sharply through
+2025–2026 into a described cognitive/physical cost — even as other old
+wounds, the 2016 James Bach keynote attack and the Finnish recognition
+wound among them, get conscious, deliberate closure in 2024. Throughout,
+a consistent counter-thread of hard-won grace: extending herself the
+same empathy she extends to others, and a support-seeking stance
+(therapy, boundary-setting, asking for help) that only strengthens with
+time rather than fading. See
+[[../../testing/concepts/gender-in-tech|gender-in-tech]] for the
+professional-advocacy register of much of the same material.
+
 ## 2011 — [[../batches/2011|batch]]
 
 First real seam of self-reflection in the archive, mostly triggered by

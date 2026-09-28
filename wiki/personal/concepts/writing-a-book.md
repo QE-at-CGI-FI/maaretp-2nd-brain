@@ -5,6 +5,22 @@ sources: [twitter]
 
 # Writing a Book
 
+A recurring creative-writing thread that turns out to run three books
+deep. First surfaces in 2015 Q2 as a vague, tooling-only aspiration
+(Scrivener, Git, Bitbucket) with no topic yet, and resolves the same
+year as the co-authored **Mob Programming Guidebook**, self-published on
+Leanpub. A second, solo project follows in 2017 Q1 (the **Exploratory
+Testing Book**), launching with topic and publishing infrastructure
+already in place, and grows steadily through 2018 before a third book,
+**Strong-Style Pairing**, begins as a Christmas project at the end of
+2018 Q4. By 2020 Q2 the Exploratory Testing Book gets a real deadline
+tied to her 25-year career anniversary, and a parallel Patreon
+experiment closes quietly, its content folded into her ongoing blog
+rather than discarded. This page's account stops there; the
+professional content and context for all three books lives in
+[[../../testing/concepts/whole-team-testing|whole-team-testing]] and
+[[../../testing/entities/international-speaking|international-speaking]].
+
 ## 2015 Q2 — [[../batches/2015-q2|batch]]
 
 First appearance in the archive of a book project: "I'm also loving

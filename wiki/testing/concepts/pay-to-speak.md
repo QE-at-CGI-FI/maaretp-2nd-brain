@@ -5,10 +5,21 @@ sources: [twitter]
 
 # #PayToSpeak
 
-A sustained advocacy campaign, not just personal grumbling: she names and
-tracks which conferences require speakers to pay their own way (entry,
-travel, stay) versus which compensate them, and pushes publicly for the
-latter to become the norm.
+Launches in 2015 Q3 as a sustained public campaign and tracking
+spreadsheet (maintained since 2015) naming which conferences pay
+speakers versus expect them to self-fund entry, travel, and stay. Moves
+fast from commentary into construction — [[../entities/eurotestingconf|EuroTestConf]]
+is built partly as a living counter-example, delivering real
+honorariums from 2016 Q1 — and hardens over time from moral argument
+into contract negotiation, walking away from bad speaker-agreement
+terms outright by 2018 Q1. Runs alongside real self-awareness about
+campaigning from inside the privilege it critiques (2016 Q4's
+self-critical close, 2017 Q3's guilt over the salary boost speaking
+gave her). Overlaps but is distinct from [[../entities/international-speaking|International Speaking Career]]
+and [[gender-in-tech]]. The archive doesn't track it as an active,
+named campaign past 2018 Q1 — its energy appears to fold into the
+broader unpaid-speaking retirement that International Speaking
+Career's later batches cover.
 
 ## 2015 Q3 — [[../batches/2015-q3|batch]]
 

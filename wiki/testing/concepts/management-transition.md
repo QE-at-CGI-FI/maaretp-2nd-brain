@@ -5,6 +5,25 @@ sources: [twitter]
 
 # Management Transition
 
+Opens in 2018 Q2 when she becomes a manager at [[../entities/f-secure|F-Secure]]
+— a real career-axis shift, unlike the brief PM sidetrack tracked in
+[[test-manager-vs-project-manager]]. The arc runs resistance-then-relief
+(Q2 grief into Q3 "magic"), then a self-limiting goal stated with
+increasing precision across 2019 ("removed as unnecessary," "minimum
+viable management," a one-year exit plan) that finally resolves in 2020
+Q1 — she steps down internally, then leaves F-Secure entirely for
+[[../entities/vaisala|Vaisala]]. A second stint follows in 2023,
+candidly harder than the first (a first-ever "stabilization phase"
+failure against her 15-year track record), before a 2024 move to a
+Director role at [[../entities/cgi|CGI]] — a step up in scope, from
+hands-on engineering management to multi-customer consulting
+leadership. There, rather than settling, the role keeps expanding: 2025
+brings a named burnout and a fought-for title, 2026 a hashtag rename
+(#RegretfulManager to #ReluctantManager) alongside still-growing scope
+and no resolution by the latest entry. See
+`../../personal/concepts/career-direction.md` for the personal-side
+account of the same job changes and exit deliberations.
+
 ## 2018 Q2 — becoming a manager — [[../batches/2018-q2|batch]]
 
 A real career-axis shift, not the brief "sidetrack" of 2012: on 7 May she

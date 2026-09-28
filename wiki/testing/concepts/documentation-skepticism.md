@@ -5,6 +5,20 @@ sources: [twitter]
 
 # Documentation Skepticism
 
+A steady position rather than an evolving one: documentation as a tool
+that earns its keep, not a deliverable to be produced and graded — held
+consistently from 2010 through 2019, the only real change being the
+evidence she can bring to it. Early entries are anecdotal (a 47-page
+document cut to 2 pages, a test plan called "correct but useless"); a
+genuine self-correction on mindmaps in 2014 shows the underlying value
+(match the document to reader and moment) taking priority over any one
+favored format. By 2019 the same position gets backed with real numbers
+— a 3x cost comparison between trust-based and spec-heavy projects, a
+multi-year Jira-ticket reduction — turning a long-held preference into
+a measurable track record. Closely tied to [[exploratory-testing]],
+whose adoption resistance is largely resistance to skipping this kind
+of documentation.
+
 ## 2010 — [[../batches/2010|batch]]
 
 A steady thread of frustration with testing documentation treated as a

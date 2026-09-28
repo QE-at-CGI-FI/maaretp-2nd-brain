@@ -6,9 +6,30 @@ sources: [twitter]
 # Gender in Tech/Testing (professional advocacy)
 
 Professional-context gender advocacy — distinct from, but connected to,
-her personal experience of gender documented in the personal wiki's
-`self-understanding.md`. First named directly in 2013; becomes a
-recurring, active throughline in 2014.
+her personal experience of gender documented in
+[[../../personal/concepts/self-understanding|self-understanding]]. First
+named directly in 2013, a recurring throughline from 2014, and the
+wiki's densest concept page by a wide margin. The shape shifts every few
+years without ever resolving: 2014–2015 moves from commentary to
+structural participation (SpeakEasy mentoring, a Women Keynoting
+mastermind group); 2016 adds sustained public disputes and formal
+commitments, and names intersectionality directly for the first time;
+2017–2019 scales into a real hiring-and-mentoring pipeline
+(MimmitKoodaa, trainee advocacy, pay-equity actions) alongside a
+recurring set of named patterns — mansplaining, "guys" as address,
+credit/attribution theft, the "lowest difficulty setting" line; 2020
+turns self-directed for a stretch, with her own complicity in erasing
+women named alongside the fullest account yet of a promotion denial at
+[[../entities/f-secure|F-Secure]]; and 2021–2022 crystallizes the
+reasoning behind years of advocacy into named concepts ("pink tax,"
+"corrective fairness") while incidents keep recurring almost unchanged
+(interview-trivia bias, "intimidating," all-male lineups). By 2023–2026,
+now at director level, the same patterns persist from a higher vantage
+point — mansplained from the manager's chair, excluded from the room
+deciding her company's AI strategy, "all women have this story and it's
+always a guy" — alongside real, if partial, progress: a genuinely
+balanced team, and by 2026 no longer being the only woman in her
+leadership group.
 
 ## 2014 — [[../batches/2014|batch]]
 

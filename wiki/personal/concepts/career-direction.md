@@ -5,6 +5,32 @@ sources: [twitter]
 
 # Career Direction
 
+First named in 2011 as a "long-time dream" of working abroad, this
+thread runs through a repeating pattern of premature declarations of
+resolution followed by reactivation: 2012's application abroad redirects
+into a domestic role, 2013 reads as settled and isn't, 2014 reopens hard
+with a booked US trip, and 2015's quiet quarters turn out to be lulls
+rather than closure — before the relocation dream appears to quietly die
+in 2016 Q3 when a new Finnish job (F-Secure) takes root instead. The
+axis then shifts from geography to role: a 2018 Q2 return to management
+(after a brief 2012 "sidetrack") escalates into a genuine one-year exit
+plan by 2019, explicitly framed around leaving management for a
+developer identity, and resolves in 2020 Q1 with an actual employer
+change to Vaisala — the first time a stated exit intent becomes a real
+company move rather than an internal renegotiation. The F-Secure
+departure then gets fuller, harder detail across 2020–2021: a formal
+written warning, a shop steward, an unaddressed HR/CEO report, and
+eventually a direct gender comparison ("a man did same and nothing...
+Every woman has a story like this"). The thread goes quiet for several
+years until the CGI-era strain resurfaces it: a near-departure in
+October 2025, not sought but triggered by one hostile colleague, turns
+into "quietly looking" by April 2026 with a Central Europe relocation
+thought, then fades again by August without a stated resolution —
+leaving open the same question the page has returned to more than once:
+does this settle, or reopen again? See
+[[../../testing/concepts/management-transition|management-transition]]
+for the professional-side account running in parallel throughout.
+
 ## 2011 — [[../batches/2011|batch]]
 
 Named as a "long-time dream" at year's end: working abroad, at a large

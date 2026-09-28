@@ -5,6 +5,17 @@ sources: [twitter]
 
 # Checking vs. Testing
 
+Vocabulary worked out largely in public, in recurring reply-thread
+rounds with [[../entities/james-bach|James Bach]] and
+[[../entities/michael-bolton|Michael Bolton]] starting in 2010. By 2013
+it crystallizes into a durable formula — "testing = checked + explored"
+— that she defends against Bach's own "checking" framing rather than
+simply adopting it. The disagreement resurfaces sharply with Bolton in
+2015 Q2 and again in 2016 Q2 ("checking is on my icky list"), each round
+costing her more visibly than the last, until by 2016 Q2 the
+vocabulary fight has merged into the broader [[tester-identity]]
+question of whether "tester" is worth keeping as a role at all.
+
 ## 2010 — [[../batches/2010|batch]]
 
 Worked out largely in public, in reply threads with [[james-bach]] and

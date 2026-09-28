@@ -6,8 +6,26 @@ sources: [twitter]
 # Whole-Team Testing
 
 Getting developers to test — pairing, unit tests, Selenium — as a
-deliberate, patient campaign rather than a policy. The dominant workplace
-theme of 2013.
+deliberate, patient campaign rather than a policy; the dominant
+workplace theme of 2013. Turns partly inward in 2014 when she faces her
+own fear of pairing on code, the same year Woody Zuill's Mob
+Programming keynote gives the whole page its lasting shape: mob
+testing becomes routine practice through 2015-2016, ships as the
+**Mob Programming Guidebook** (see
+`../../personal/concepts/writing-a-book.md`), and gets deliberately
+renamed **Ensemble Testing/Programming** in 2020 for inclusivity
+reasons, with its origin story dated and re-dated with increasing
+precision through 2021. A long, separate sub-thread runs alongside
+it: a fairness dispute with Robot Framework's creator (2020 Q4–2021),
+which hardens, picks up a gendered edge, and resolves with an actual
+tool migration by 2021 Q4. A third book, the **Ensemble Testing
+Guidebook**, ships in 2022. The page's own tracking effectively ends
+in 2022 Q4, the quarter ChatGPT enters the record — its successor
+thread continues in [[ai-in-testing]] rather than here. See
+[[gender-in-tech]] for the erasure-anxiety register that recurs
+throughout (the Ensemble Testing origin story, the Robot Framework
+dispute) and [[../entities/llewellyn-falco]] for the Guidebook
+co-author relationship.
 
 ## 2013 — [[../batches/2013|batch]]
 

@@ -5,6 +5,31 @@ sources: [twitter]
 
 # Exploratory Testing
 
+Her default professional practice from before the archive begins, and
+the wiki's most sustained throughline — present in nearly every batch
+from 2010 to 2026. The early years (2010–2012) are about vocabulary and
+transplant: fitting ET into a plan-driven employer, then working out
+session-vs-thread management and what the label should and shouldn't
+cover in a week-long dissertation debate with
+[[../entities/james-bach|Bach]], [[../entities/michael-bolton|Bolton]],
+and [[../entities/juha-itkonen|Itkonen]]. A prolific 2018 Q3 writing
+stretch reopens the automation-vs-exploring dichotomy and rejects it
+outright, and 2019–2020 turn that into durable structure: TOAD, the
+attended/unattended axis, a builder-mindset identity shift, historical
+research tracing the term to 1940/1994 (with Cem Kaner directly), and a
+blog-crystallized set of **four core characteristics** — learning,
+agency, opportunity cost, systems thinking — that becomes the page's
+recurring test for whether something counts as exploratory testing at
+all. 2021 Q1 names the umbrella that holds the whole 2018–2020 stretch
+together, **Contemporary Exploratory Testing**, which she keeps
+building on through new formulations ("resultful testing," "mandate
+levels," a systematic results-gap benchmark) into 2025–2026, the same
+years AI agents start joining her ensemble-testing sessions as
+participants rather than tools. The most recent entry (2026) closes on
+an open, self-directed doubt about the vocabulary itself — whether
+"exploratory testing" was ever the right name for what she's actually
+teaching.
+
 ## 2010 — [[../batches/2010|batch]]
 
 The dominant theme of her earliest surviving tweets. She already practices

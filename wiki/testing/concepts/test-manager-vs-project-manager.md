@@ -5,6 +5,20 @@ sources: [twitter]
 
 # Test Manager vs. Project Manager
 
+A short, closed early-archive arc. Opens in 2010 as role-identity
+discomfort — being pulled toward project-management work she doesn't
+want, skeptical of "test manager" as a title when it's really PM work
+with a test label. In 2011 the tension resolves through an actual
+double role change (freed from management, then pulled "to the dark
+side" as PM again), and by 2012 it closes for good: she quits
+[[../entities/ilmarinen|Ilmarinen]] for a hands-on tester role and
+reframes the whole detour, in hindsight, as training rather than a
+competing identity — "needed to sidetrack in management though, but
+now back." The identity question resurfaces in a different, more
+deliberate register years later in [[management-transition]], once she
+actually becomes a people manager rather than drifting into PM-adjacent
+work.
+
 ## 2010 — [[../batches/2010|batch]]
 
 A recurring identity/role tension, distinct from the documentation fight but

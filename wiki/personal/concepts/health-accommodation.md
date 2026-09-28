@@ -5,11 +5,19 @@ sources: [twitter]
 
 # Health & Accommodation Needs
 
-A severe animal (dog) allergy, named for the first time in the archive
-this quarter, with real professional and family cost attached — distinct
-from the disability/accessibility advocacy she does *for others* (see
-`../../testing/concepts/gender-in-tech.md` and elsewhere), this is a
-personal accommodation need of her own.
+A recurring physical-accommodation cost, first named directly in 2019 Q2
+with a severe dog allergy that closes off conference attendance, a
+workplace meeting, and a family gathering all in the same quarter —
+distinct from the disability/accessibility advocacy she does *for
+others* (see [[../../testing/concepts/gender-in-tech|gender-in-tech]]),
+this is a personal accommodation need of her own. A second, unrelated
+accommodation — degrading eyesight — surfaces in 2022 Q4, disclosed with
+the same dry acceptance rather than alarm. The allergy thread recurs in
+2025 and 2026 unchanged in kind but worse with time rather than better
+("you'd imagine I feel less about this after 30 years but it's just
+getting worse"), and by 2026 it's paired directly with a workplace
+dress-code refusal as one felt cost of "being difficult because I am
+different."
 
 ## 2019 Q2 — a conference conflict, a workplace conflict, and a skipped family gathering — [[../batches/2019-q2|batch]]
 

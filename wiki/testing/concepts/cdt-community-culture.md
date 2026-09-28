@@ -9,7 +9,18 @@ A meta-level throughline distinct from any one relationship: her direct
 critique of *how* the context-driven testing community debates and
 treats its own members, running alongside — but analytically separate
 from — her specific frictions with [[../entities/james-bach|James Bach]]
-and [[../entities/michael-bolton|Michael Bolton]].
+and [[../entities/michael-bolton|Michael Bolton]]. Named directly in
+2016 Q2 ("bullying and accepting it," "argument culture"), it hardens
+through 2016–2019 into concrete boundary-setting practice — a public
+"SLA announcement," a mass-block of ~700 people after a co-author's
+doxxing — even as she also turns the critique on herself (a 2018
+confession about her own conference's CoC gaps). Late 2019 brings an
+unexpected reversal, arguing for giving Bach a second chance; a 2020 Q1
+détente looks real but doesn't hold past Q3. By 2021 Q3 the relationship
+with Bach and Bolton — now "the terrible twins of test" — is reread
+retrospectively as manipulation rather than disagreement, and she names
+a clean break from CDT identity itself in favor of
+[[exploratory-testing|Contemporary Exploratory Testing]].
 
 ## 2016 Q2 — first named directly — [[../batches/2016-q2|batch]]
 
