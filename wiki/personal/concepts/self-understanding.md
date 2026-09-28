@@ -973,3 +973,28 @@ is "drawing pictures," and she doesn't disagree.
 Representative posts:
 - https://mas.to/@maaretp/113208001556530740
 - https://mas.to/@maaretp/111788084166305742
+
+## 2025 — misgendering as a physical cost, and a job interview settles an old score — [[../batches/2025|batch]]
+
+The pronoun/misgendering thread opened in 2023 gets its most severe
+account yet, named as a cognitive and bodily reaction rather than an
+annoyance: "My brain as reaction to misgendering - fog and sleep
+whenever I try to do anything related to where it happened... it is
+getting worse. Like my brain shuts off." She traces her own coping
+mechanism's escalation alongside it — counting silently through "guys,"
+then learning to let people ask rather than volunteering help, now this
+— naming the trend as getting *harder*, not easier, with more practice.
+(See `../../testing/concepts/gender-in-tech.md` for the same year's
+professional-advocacy register of the same thread, including a wry
+year-end observation about watching men cry at work.) Separately, a
+decade-old wound gets a direct, deliberate confrontation: in a November
+job interview, she brings up — unprompted — a rejection from ten years
+earlier based on a personality test that judged her "not fit for a
+tester," a role she'd by then already succeeded in for 28 years. Reads
+as a continuation of 2021 Q2's identification of that test as the likely
+original source of the 2013 "unfit for my profession" wound, now handled
+by naming it directly to a stranger rather than carrying it privately.
+
+Representative posts:
+- https://mas.to/@maaretp/114183010310208024
+- https://mas.to/@maaretp/115631867631120416

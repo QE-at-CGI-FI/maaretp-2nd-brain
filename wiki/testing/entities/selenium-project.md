@@ -54,3 +54,25 @@ Representative posts:
 - https://mas.to/@maaretp/112649561790558376
 - https://mas.to/@maaretp/113387031192991492
 - https://mas.to/@maaretp/113561893092338749
+
+## 2025 — three years in, and stepping back — [[../batches/2025|batch]]
+
+In July, three years into the Leadership Committee, she weighs whether
+to continue, change how she volunteers, or leave: "I am starting to be
+inclined on the first [leaving]... Dice sounds like a plan?" Weeks
+later, alongside stepping back from other non-profit boards and
+leadership groups, the decision firms up: "I finally made a decision:
+no more volunteering for leadership groups for now. The upcoming year
+will be challenging in many ways, and I need my hobbies to be
+recharging me, not being about difficult organizational problems" — a
+direct consequence of the burnout she names the same season (see
+`../concepts/management-transition.md`). She still shows up as a
+practitioner and community member — organizing a Selenium demo,
+proposing the project as an analysis target for a friend's open-source
+AI tooling project in December — but the sustained leadership-committee
+commitment tracked on this page since 2022 ends.
+
+Representative posts:
+- https://mas.to/@maaretp/114783399405851216
+- https://mas.to/@maaretp/114902794918292043
+- https://mas.to/@maaretp/115746022359423835

@@ -7,8 +7,8 @@ tags: [index]
 Personal reflection, growth, and psychology synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
 See [[../progress]] for what's been ingested (2010: no personal content;
-2011–2017: thin at first, substantial by 2014; 2018–2024 fully done,
-2025– not started).
+2011–2017: thin at first, substantial by 2014; 2018–2025 fully done,
+2026– not started).
 
 ## Entities
 
@@ -61,3 +61,4 @@ See [[../progress]] for what's been ingested (2010: no personal content;
 - [[batches/2022-q4|2022 Q4]] — 589 posts, fourth and final 2022 batch (Twitter→Mastodon transition quarter). Leaving Twitter on principle, named as grief and idealism together; teenagers named directly as a source of energy; a new, unrelated health accommodation (degrading eyesight) surfaces. **2022 is now fully ingested.**
 - [[batches/2023|2023]] — 1293 posts, first fully post-Twitter year (Mastodon only), not split into quarters. A near-resignation resolved by "an exceptional manager"; a new pronoun reflection; the year's heaviest disclosure — "defined through abuse of man"; kids old enough to stay home alone; a 50th-birthday trip to New York planned with her daughter. **2023 is now fully ingested.**
 - [[batches/2024|2024]] — 1240 posts, not split into quarters. The James Bach keynote-attack wound gets a conscious closure ("I stop reinforcing memory. Now"); an old family wound resurfaces (a brother's "social justice warrior" jab); a reframed Mother's Day; a 30-year school reunion. **2024 is now fully ingested.**
+- [[batches/2025|2025]] — 1044 posts, not split into quarters. The misgendering thread escalates into a described cognitive/physical cost; a near-departure from her employer surfaces in October; a decade-old personality-test rejection confronted directly in a job interview; turns 51. **2025 is now fully ingested.**

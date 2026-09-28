@@ -472,3 +472,24 @@ woman has a story like this. I'm happy I left."
 Representative posts:
 - https://twitter.com/maaretp/status/1387033819019157504
 - https://twitter.com/maaretp/status/1387037445171007499
+
+## 2025 — a near-departure not sought, and turning down a raise — [[../batches/2025|batch]]
+
+The first real "I'm ready to change my job" statement since the 2024 CGI
+move surfaces in October, prompted not by dissatisfaction with the work
+itself but by one hostile colleague: "wasn't planning on leaving but
+dropping team manager and sales expectations. There has to be someone in
+the world that is willing to pay my salary for getting their things
+done." By November she's interviewing — using the process partly to
+settle an old score (see `../concepts/self-understanding.md`) — and
+turns down at least one recruiter's pitch of a €2,500/month raise
+without deciding to leave, naming the pull of money directly rather than
+pretending it isn't a factor: "getting hard to not be financially
+motivated." No resolution by year's end; see
+`../../testing/concepts/management-transition.md` for the same year's
+burnout and title-fight context this near-departure sits inside.
+
+Representative posts:
+- https://mas.to/@maaretp/115305147699005845
+- https://mas.to/@maaretp/115631867631120416
+- https://mas.to/@maaretp/115405382230175458

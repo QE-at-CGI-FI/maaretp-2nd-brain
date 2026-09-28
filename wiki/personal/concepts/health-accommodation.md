@@ -63,3 +63,16 @@ odd chance of becoming old(er)... Computer work relies on eyes a lot."
 
 Representative posts:
 - https://mas.to/@maaretp/109551295895470224
+
+## 2025 — the animal-allergy accommodation, thirty years on — [[../batches/2025|batch]]
+
+The 2019 Q2 allergy thread recurs, worse rather than better with time:
+having to negotiate animals-at-office policy in job interviews and
+before conferences, or "live through what feels like a flu" when
+workplaces normalize "office dogs" — "you'd imagine I feel less about
+this after 30 years but it's just getting worse." No new incident
+detail, just a plain statement that the accommodation cost hasn't
+lessened with age or seniority.
+
+Representative posts:
+- https://mas.to/@maaretp/115450409263343892

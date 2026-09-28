@@ -61,3 +61,36 @@ Representative posts:
 - https://mas.to/@maaretp/112762416440853561
 - https://mas.to/@maaretp/112885735967594797
 - https://mas.to/@maaretp/113505391862931394
+
+## 2025 — from budget-line skepticism to a working classification — [[../batches/2025|batch]]
+
+The skepticism from 2023–2024 stays intact but gets more precise tools
+to work with. She names a self-critical classification of her own AI
+use — **avoiding, trying, using, building** — and admits her bar for
+"building" has been set too high, calling a third-party API call "using"
+rather than "building" even when it was the point she wanted to make.
+Names a new term for a familiar failure mode: **"workslop"** — AI-
+generated text passed off as work product by someone who didn't know the
+topic well enough to judge whether it added value — and keeps asking the
+same question of colleagues: "what is the value add your processing
+(with AI) added on the understanding we are creating?" Tracks how genAI
+has already changed code review in practice — reviewers dismiss AI
+comments more easily than human ones ("being rude to a machine is
+acceptable"), but the appearance of review may discourage real review —
+a blog post, "Code reviews have already changed," makes the case in
+full. A vendor's genAI test tool quietly drops its per-test cost display
+once it stops working for non-OpenAI APIs, read as a "design of your
+defaults" problem, not a bug. She demos a friend's Claude-Code-based
+"Agentic QE Fleet" tool and proposes [[../entities/selenium-project|
+Selenium]] as its open-source analysis target. Closes the year unmoved
+by both credulous and dismissive extremes — unimpressed by a manager
+claiming weeks of work in "4 hours" of vibe-coding when the commit
+history says otherwise, and equally unimpressed by "faster bad" as a
+solution to a testing chain that was already broken before AI arrived.
+
+Representative posts:
+- https://mas.to/@maaretp/115274621933790173
+- https://mas.to/@maaretp/115708410719051085
+- https://mas.to/@maaretp/114948695012474469
+- https://mas.to/@maaretp/115746022359423835
+- https://mas.to/@maaretp/115700908331510701

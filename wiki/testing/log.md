@@ -588,4 +588,25 @@ her actual job focus, not just a personal experiment — ethical
 groundwork for Copilot, a costed AI-tool experiment). **2024 is now
 fully ingested.**
 
+## [2026-09-28] ingest | 2025 (1044 posts, not split into quarters)
+Created batch page [[batches/2025]]. Added 2025 sections to 7 existing
+pages: concepts/management-transition (burnout named directly in April
+and corrected in September; a "test lead" title administratively
+swapped out twice and fought back both times; a near-departure in
+October triggered by one hostile colleague), entities/cgi (the business
+of testing services made explicit — time split across four roles; sales
+training endured; four ISTQB Advanced certs plus CPACC completed; FY25
+numbers), entities/selenium-project (three years in, steps back from
+sustained Leadership Committee volunteering for good — a direct
+consequence of the same burnout), concepts/gender-in-tech (a 12th
+Tester-of-the-Year nomination refused on principle; the misgendering
+cognitive-fog thread escalates sharply), concepts/ai-in-testing (an
+avoiding/trying/using/building self-classification; "workslop" named;
+genAI's effect on code review), concepts/exploratory-testing
+("resultful testing," "mandate levels," AI agents joining ensemble
+exploratory testing sessions), entities/international-speaking (a
+steady work-driven cadence rather than a renewed circuit), and
+entities/istqb (completes the full Advanced set, names a reluctant
+practical use for the credential). **2025 is now fully ingested.**
+
 <!-- newest entries at the bottom -->

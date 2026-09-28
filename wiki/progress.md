@@ -51,7 +51,7 @@ quarters at ingest time — split rows here if you do.
 | 2022-Q4 | 589 | done (2026-09-24) | testing, personal | [[testing/batches/2022-q4]], [[personal/batches/2022-q4]] |
 | 2023 | 1293 | done (2026-09-24) | testing, personal | [[testing/batches/2023]], [[personal/batches/2023]] |
 | 2024 | 1240 | done (2026-09-24) | testing, personal | [[testing/batches/2024]], [[personal/batches/2024]] |
-| 2025 | 1044 | not started | | |
+| 2025 | 1044 | done (2026-09-28) | testing, personal | [[testing/batches/2025]], [[personal/batches/2025]] |
 | 2026 (partial, through Aug) | 690 | not started | | |
 
 Total posts: 38,111 (33,551 tweets, 2010-05-13–2022-10-29; 4,935 toots, 2022-11-08–2026-08-28).

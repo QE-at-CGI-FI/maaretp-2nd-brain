@@ -319,3 +319,35 @@ Representative posts:
 - https://twitter.com/maaretp/status/1498398409874677760
 - https://twitter.com/maaretp/status/1484631405284007938
 - https://twitter.com/maaretp/status/1509190245039972353
+
+## 2025 — "resultful testing," mandate levels, and agents joining the ensemble — [[../batches/2025|batch]]
+
+Three new formulations extend the Contemporary Exploratory Testing line
+opened in 2021 Q1. First, **"resultful testing"** (a blog post of the
+same name) as a deliberate alternative to "manual"/"automated" — testing
+judged by results delivered, not by method. Second, **"mandate
+levels"** — a model reused from an earlier employer for how much agency
+different testers hold, tied to a **"shift down"** critique of testing
+work that's mostly administrative overhead rather than empirical
+insight: "testing includes too much of management and administrative
+work and not enough of work that actually generates the empirical
+insights." Third, a direct, repeated results-gap diagnosis from a year
+of job-interview and workplace observation: too many testers "can't find
+the information that I'd reasonably expect... can't filter signal from
+noise... can't discuss coverage in relation to a model." New teaching
+material follows the same line — a python-for-testers course, a
+"Reimagined Tester" blog post on what growing one actually costs (~80
+hours over five months for one trainee), and "Bug Advocacy Is to Go
+Beyond Reporting." The practice itself extends into a new territory by
+year's end: running remote **ensemble exploratory testing** sessions
+that bring AI agents into the mob alongside people, treating the same
+four core characteristics (learning, agency, opportunity cost, systems
+thinking) as the test for whether the session counts as exploratory
+testing at all, tool included.
+
+Representative posts:
+- https://mas.to/@maaretp/114348824782946492
+- https://mas.to/@maaretp/114057533670696633
+- https://mas.to/@maaretp/115589543515873007
+- https://mas.to/@maaretp/115102196742375780
+- https://mas.to/@maaretp/115151912384495150

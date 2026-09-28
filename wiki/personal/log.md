@@ -373,4 +373,18 @@ and entities/family (a reframed Mother's Day card six years on; her
 son's F-Secure homework triggers nostalgia; a warm aside about her
 mother; a 30-year school reunion). **2024 is now fully ingested.**
 
+## [2026-09-28] ingest | 2025 (1044 posts, not split into quarters)
+Created batch page [[batches/2025]]. Added 2025 sections to 4 existing
+pages: concepts/self-understanding (the misgendering thread named in
+2023 escalates into a described cognitive/physical cost — "brain fog
+and sleep"; a November job interview becomes the occasion for directly
+confronting a decade-old personality-test rejection), concepts/career-
+direction (a near-departure from her employer surfaces in October,
+triggered by one hostile colleague; turns down a recruiter's raise
+offer without deciding to leave), concepts/health-accommodation (the
+animal-allergy accommodation recurs, thirty years on and still getting
+worse), and entities/family (turns 51; a running vocabulary game with
+her son; a small aside about living "vicariously" through her
+daughter). **2025 is now fully ingested.**
+
 <!-- newest entries at the bottom -->

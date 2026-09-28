@@ -6,7 +6,7 @@ tags: [index]
 
 Professional/testing insights synthesized from @maaretp's public posts (Twitter 2010–2022, Mastodon 2022–present).
 
-See [[../progress]] for what's been ingested (2010–2024 done, 2025– not started).
+See [[../progress]] for what's been ingested (2010–2025 done, 2026– not started).
 
 ## Entities
 
@@ -103,3 +103,4 @@ See [[../progress]] for what's been ingested (2010–2024 done, 2025– not star
 - [[batches/2022-q4|2022 Q4]] — 589 posts, fourth and final 2022 batch. The Twitter→Mastodon platform transition itself becomes a documented, values-driven event; a 25-year career milestone and #TestingDozen mentoring program launch; talk #500; ChatGPT enters the record. **2022 is now fully ingested.**
 - [[batches/2023|2023]] — 1293 posts, first fully post-Twitter year (Mastodon only), not split into quarters. The Twitter deletion completes; a real retirement from public speaking after the travel break ends; the EuroSTAR "no women of merit" arc closes; the second management stint gets a candid, mixed year-end reckoning; ChatGPT becomes a running experiment; Selenium volunteer leadership grows into a sustained commitment. **2023 is now fully ingested.**
 - [[batches/2024|2024]] — 1240 posts, not split into quarters. Leaves Vaisala for a Director role at CGI; boycotts EuroSTAR over a James Bach program-chair appointment; the 2016 TMAcad wound gets a conscious closure; un-retires from public speaking; Selenium turns 20; AI becomes her actual job focus. **2024 is now fully ingested.**
+- [[batches/2025|2025]] — 1044 posts, not split into quarters. Names burnout directly and steps back from Selenium Leadership Committee volunteering; a title fought for twice; a 12th Tester-of-the-Year nomination refused on principle; "resultful testing" and "mandate levels" extend Contemporary Exploratory Testing; AI agents join ensemble exploratory testing sessions. **2025 is now fully ingested.**

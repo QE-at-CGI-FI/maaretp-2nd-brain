@@ -944,3 +944,31 @@ Representative posts:
 - https://mas.to/@maaretp/111926209621439705
 - https://mas.to/@maaretp/111778952817472459
 - https://mas.to/@maaretp/112450380439011020
+
+## 2025 — a 12th nomination refused on principle, and misgendering escalates — [[../batches/2025|batch]]
+
+Nominated for Finnish Tester of the Year a 12th time, she names the
+structural problem rather than accepting the honor quietly: "There
+were a few years in between when I refused them adding me as nominee,
+because it is silly how there are no other women (when there are
+LOTS)" — and separately notes she was listed last, out of alphabetical
+order, in the "equalized" descriptions. A blunt gender-bias incident
+surfaces from an interview she conducted: a male candidate admitted he
+avoided answering her technical questions because "it was my title and
+gender that lead him to believe I did not really expect answers." The
+misgendering thread first named in 2023 gets markedly worse this year:
+"My brain as reaction to misgendering - fog and sleep whenever I try
+to do anything related to where it happened... it is getting worse.
+Like my brain shuts off." She continues turning advocacy into concrete
+action — declining to promote an all-male-panel event she still
+attended, naming women available to speak to its organizers — and
+closes the year with a wry observation from the other side of the
+table: "Being a woman in management means I get to see men cry at work
+when things are hard. I had not realized that men may never get to
+experience what I consider normal."
+
+Representative posts:
+- https://mas.to/@maaretp/113900389268414293
+- https://mas.to/@maaretp/113958877293656652
+- https://mas.to/@maaretp/114183010310208024
+- https://mas.to/@maaretp/115390288665213795

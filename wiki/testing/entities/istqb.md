@@ -116,3 +116,27 @@ Representative posts:
 - https://twitter.com/maaretp/status/1570087626425700352
 - https://twitter.com/maaretp/status/1570433710167851010
 - https://twitter.com/maaretp/status/1570361597096345600
+
+## 2025 — collecting the full set, and a reluctant use as a hiring filter — [[../batches/2025|batch]]
+
+Completes all four **ISTQB Advanced** certifications this year (Test
+Automation Engineer among them), on top of the Foundation cert she
+co-authored — the detractor stance from 2022 Q3 stays intact ("the
+contents are still bad") but she names a real, if uncomfortable,
+practical use for the credential she hadn't voiced before: passing a
+timed multiple-choice exam on content you disagree with correlates with
+things that actually matter for the job — reading comprehension,
+empathizing with a wrong-but-expected answer, and recovering from
+failure under pressure. "To my personal dismay, I have started using
+ability to pass an ISTQB test as telltale on people qualified for
+testing." Separately measures how far actual study time diverges from
+the syllabus's own timing assumptions: colleagues in her orbit spend
+1–30 working days against a syllabus built for under 3, with 30% going
+over her own 5-day benchmark — read as more evidence the certification's
+real function is closer to "sales training" than technical education.
+
+Representative posts:
+- https://mas.to/@maaretp/114755678093307454
+- https://mas.to/@maaretp/115265009757374599
+- https://mas.to/@maaretp/115265037487381663
+- https://mas.to/@maaretp/114640450521315446

@@ -597,3 +597,33 @@ Representative posts:
 - https://mas.to/@maaretp/113369725871170191
 - https://mas.to/@maaretp/113563020094511314
 - https://mas.to/@maaretp/113387031192991492
+
+## 2025 — a steady, work-driven cadence rather than a campaign — [[../batches/2025|batch]]
+
+The comeback from 2024 settles into a routine rather than a renewed
+circuit: 30 talks delivered for work in her second CGI year (29 in the
+first), tracked from her own versioned slide decks rather than a public
+tally push. Travel stays real but modest compared to the 2015–2019 peak
+— SeleniumConf Valencia, a friend meetup in London, Vilnius, Munich, and
+a hybrid BCS SIGiST Summer Conference session designed for non-traveling
+speakers. A single week in December brings three podcast appearances out
+at once (recorded across two months), and she's interviewed for a
+"Women in Tech" career-story blog, her first experience being
+ghostwritten from a conversation rather than writing herself. Attends
+the **Nordic Women in Tech Awards** gala and notices a small irony: she
+feels just as out of place among women, as an individual contributor by
+temperament, as she does anywhere else — while being "unfairly happy"
+her own award categories have always been gender-mixed. Turns down
+promoting one all-male-panel event she still attends, naming women
+available to speak to the organizers instead (see
+[[../concepts/gender-in-tech]]). The SpeakEasy/mentoring throughline
+continues in a new register: acting as a "community greeter" who expands
+the room rather than running formal programs, and — at least once —
+deliberately declining a speaking slot over a pay-to-play "expo-first"
+structure she's refused on principle since 2015.
+
+Representative posts:
+- https://mas.to/@maaretp/115182265577912730
+- https://mas.to/@maaretp/115351190215922211
+- https://mas.to/@maaretp/115665649898060301
+- https://mas.to/@maaretp/115447347610697722

@@ -518,3 +518,28 @@ Representative posts:
 - https://mas.to/@maaretp/113091826833436000
 - https://mas.to/@maaretp/112885208532478372
 - https://mas.to/@maaretp/113506242839787364
+
+## 2025 — a vocabulary game with her son, and a 51st birthday — [[../batches/2025|batch]]
+
+Turns 51 on 17 June, marked simply — "a team learning day and dinner
+with the fam. Life is good." A running bit with her son continues the
+teenager-as-resource thread this page has tracked since 2021, now
+playful rather than technical: he tries to find English words she
+doesn't know ("eschew" stumps her), and the two of them puzzle together
+over words that don't translate cleanly between Finnish and English
+(*vestibule*/*eteinen*). He also coins a nickname from her own oversharing
+— "LLM: LinkedIn Legend Maaret" — after she mentions being called a
+"LinkedIn legend" by a stranger, a small callback to the teenager-
+diagnoses-the-adult-world pattern (2021 Q4's network-troubleshooting
+daughter) now running through her son instead. A small, warmer aside
+about her daughter closes the year: describing herself as living
+"vicariously through my daughter," ensuring she has access to things
+Maaret would have wanted for herself — a phrase specific enough that
+she can't place where she picked it up, and one her son, tellingly,
+doesn't recognize at all.
+
+Representative posts:
+- https://mas.to/@maaretp/114699059956565330
+- https://mas.to/@maaretp/114806640372266418
+- https://mas.to/@maaretp/114140498214838014
+- https://mas.to/@maaretp/115015731363850988
