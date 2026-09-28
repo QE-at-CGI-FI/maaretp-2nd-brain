@@ -631,4 +631,14 @@ tightens further with an explicit stated cap of three conferences).
 **2026 is ingested through August (partial) — the raw archive currently
 ends here; check for newer posts before the next ingest session.**
 
+## [2026-09-28] backfill | testing-research.md missed thread in 2025/2026
+Concept-summary pass flagged a gap: the 2025 and 2026 ingests missed a
+real revival of concepts/testing-research (dormant since 2013). Added
+2025 (a degree-completion attempt via an oral/competency-recognition
+route, a thesis, and a "grey literature to academic" framing — outcome
+of the stated June-2025 graduation target not confirmed in the archive)
+and 2026 (a single January callback restating the same framing as an
+ongoing project) sections, updated the page's arc summary and its
+index.md bullet accordingly. No other pages affected.
+
 <!-- newest entries at the bottom -->

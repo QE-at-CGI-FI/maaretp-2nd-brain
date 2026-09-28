@@ -53,7 +53,7 @@ ingested through August — partial, the current end of the raw archive).
 - [[concepts/checking-vs-testing|Checking vs. Testing]] — vocabulary worked out with Bach/Bolton (2010–), crystallizes into "checked + explored" in 2013
 - [[concepts/documentation-skepticism|Documentation Skepticism]] — test docs as deliverable vs. tool; reverses on mindmaps in 2014
 - [[concepts/test-manager-vs-project-manager|Test Manager vs. Project Manager]] — role identity tension, resolved in 2012 in favor of hands-on testing
-- [[concepts/testing-research|Empirical Research on Testing]] — recurring academic-research ambition, becomes real work in 2012
+- [[concepts/testing-research|Empirical Research on Testing]] — recurring academic-research ambition, becomes real work in 2012; goes quiet for a decade, then resurfaces 2025 as an actual degree-completion effort and a "grey literature to academic" reframe
 - [[concepts/whole-team-testing|Whole-Team Testing]] — getting developers to test; turns partly inward (facing her own coding fears) in 2014
 - [[concepts/tester-identity|Tester Identity, Not Role]] — the flashpoint for the 2014 James Bach rupture
 - [[concepts/gender-in-tech|Gender in Tech/Testing]] — professional advocacy, sustained throughline from 2014
