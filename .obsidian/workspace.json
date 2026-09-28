@@ -190,6 +190,9 @@
   },
   "active": "2970be9b6cb4c85e",
   "lastOpenFiles": [
+    "tools/__pycache__/generate_themes_diagram.cpython-312.pyc",
+    "tools/__pycache__",
+    "tools/generate_themes_diagram.py",
     "wiki/personal/batches/2026.md",
     "wiki/testing/batches/2026.md",
     "wiki/personal/batches/2025.md",
@@ -216,7 +219,6 @@
     "wiki/personal/batches/2021-q4.md",
     "wiki/testing/batches/2021-q4.md",
     "wiki/personal/batches/2021-q3.md",
-    "wiki/testing/batches/2021-q3.md",
     "themes-over-time.png",
     "themes-over-time.drawio",
     "wiki/themes-over-time.png",
