@@ -365,3 +365,34 @@ Representative posts:
 - https://mas.to/@maaretp/115129513832109019
 - https://mas.to/@maaretp/115305147699005845
 - https://mas.to/@maaretp/115470403441625560
+
+## 2026 — from #RegretfulManager to #ReluctantManager, and scope that keeps growing — [[../batches/2026|batch]]
+
+Rather than pulling back after 2025's burnout, the role's scope
+expands. In January she names a deliberate experiment: "This year, I
+have embraced management. For a #RegretfulManager I see this as a
+major shift" — but the burnout thread keeps resurfacing rather than
+closing: in February, reflecting on a colleague's burnout after a
+€24M bid mistake she'd made the year before, she asks "I am wondering
+if I am on that route too"; in May, someone tells her a talk on
+failure "hit different after burnout," a reminder she doesn't dispute.
+Scope grows anyway — an interim DCS (director/manager) assignment for
+12 cloud-native developers in May, on top of her existing team, then
+15 more direct reports "to optimize the flow of AI + testing
+upskilling," not for more pay. By June the identity shift is real
+enough to rename the hashtag: "Now I feel like I am starting to get
+leading. Not sure I still like it, but I start to get it.
+#ReluctantManager." That shift coexists with real doubt about the
+whole arrangement — in April, "I'm starting to come to terms with the
+idea that I'm not cut out for consulting" — and by July, performance-
+review season for her 22 reports reads as "both preparing for battle
+and considering leaving the battlefield," the battle entirely internal
+("imposter or invisible"). No resolution either way by the end of the
+ingested range (through August).
+
+Representative posts:
+- https://mas.to/@maaretp/115944892681251593
+- https://mas.to/@maaretp/116090716247160717
+- https://mas.to/@maaretp/116611201505767456
+- https://mas.to/@maaretp/116770653855752603
+- https://mas.to/@maaretp/117008025165114422

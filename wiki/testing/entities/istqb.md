@@ -140,3 +140,19 @@ Representative posts:
 - https://mas.to/@maaretp/115265009757374599
 - https://mas.to/@maaretp/115265037487381663
 - https://mas.to/@maaretp/114640450521315446
+
+## 2026 — building the workaround she still resents needing — [[../batches/2026|batch]]
+
+With clients treating the ISTQB Advanced Test Manager cert as hard
+criteria for colleagues, she vibe-codes a practice tool rather than
+just complain about it: an AI-generated question bank grown from 61
+published samples to 556, published as a public coach site
+(qe-at-cgi-fi.github.io/isqtb-coach). It works — helping a first
+colleague pass — without softening her stance: "Useless certificate
+that does not cost the course fee is real savings. I may hate that
+it's required but I got all of them. Not because it's good but
+because someone decided this brand is blocking access to work."
+
+Representative posts:
+- https://mas.to/@maaretp/116280198208682857
+- https://mas.to/@maaretp/116569631326338299

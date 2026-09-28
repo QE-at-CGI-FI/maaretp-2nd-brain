@@ -543,3 +543,25 @@ Representative posts:
 - https://mas.to/@maaretp/114806640372266418
 - https://mas.to/@maaretp/114140498214838014
 - https://mas.to/@maaretp/115015731363850988
+
+## 2026 — a reading rivalry, "immovable object" vs. "unstoppable force," and deciding to embrace being old — [[../batches/2026|batch]]
+
+A light, ongoing thread of ordinary warmth continues the pattern this
+page has tracked since 2021. A friendly reading competition with her
+daughter turns into a real one: "My daughter had read three books this
+year when I had read one. A week later I'm at six and she isn't happy
+with how competitive I get... I'm just happy we read." Her son names
+her "immovable object" and her daughter "unstoppable force," a
+description she doesn't dispute: "the discussions we have are just
+lovely, and we do make compromises in the end but the process to get
+there is quite something." After four weeks of vacation, she uses the
+run-up to her 30-year career-in-quality anniversary to make a
+deliberate choice: "During summer I decided to embrace being old, and
+figure out how old people should behave. This is my version of old" —
+taking on her first mentee under that new frame, a colleague who
+manages testers rather than a tester herself.
+
+Representative posts:
+- https://mas.to/@maaretp/115917760486384180
+- https://mas.to/@maaretp/116211863172464635
+- https://mas.to/@maaretp/116998102763713109

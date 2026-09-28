@@ -998,3 +998,28 @@ by naming it directly to a stranger rather than carrying it privately.
 Representative posts:
 - https://mas.to/@maaretp/114183010310208024
 - https://mas.to/@maaretp/115631867631120416
+
+## 2026 — the coping mechanism slips, and a new name for an old pattern — [[../batches/2026|batch]]
+
+The counting-silently coping mechanism named in 2025 gets tested
+directly: "I've managed years without using my outside voice when
+addressed as guys but it slipped over this week. The poor guy ended up
+in a cyclone of apologies from a small correction... I don't end up
+hating people for this, but their overwhelming apologies make me wish
+I could just continue counting with an inside voice" — a rare account
+of the mechanism failing rather than holding. A longer-standing
+self-description gets a more precise clinical name in August: "What I
+used to call 'socially limited extrovert' (and the motivation for
+becoming a public speaker) I might nowadays call rejection sensitive
+dysphoria. I can't help the idea that I feel like unwelcome pusher of
+information in social situations even when I rationally know I am
+not." A separate thread, after what she calls "crushing" feedback in
+April, restates without ambivalence a support-seeking stance built
+since 2018: "I appreciate having learned to pull support, unofficial
+channels and not shy away from even therapy. Because being human can
+be hard."
+
+Representative posts:
+- https://mas.to/@maaretp/116262392793049130
+- https://mas.to/@maaretp/117048963854897176
+- https://mas.to/@maaretp/116369075114882565

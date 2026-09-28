@@ -76,3 +76,17 @@ lessened with age or seniority.
 
 Representative posts:
 - https://mas.to/@maaretp/115450409263343892
+
+## 2026 — the same conflict, named as a cost of being different — [[../batches/2026|batch]]
+
+The animal-allergy accommodation recurs alongside a new pairing: told
+she should wear a hoodie for an event, she refuses on personal-style
+grounds while also declining the event over its office dog — "I really
+feel like I am being difficult because I am different." A short entry,
+but notable for stating the two frictions (health accommodation,
+personal presentation) together as one felt cost rather than separate
+complaints. See `../../testing/concepts/gender-in-tech.md` for the
+same incident's professional-exclusion register.
+
+Representative posts:
+- https://mas.to/@maaretp/115886644163656168

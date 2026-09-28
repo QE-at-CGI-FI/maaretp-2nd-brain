@@ -493,3 +493,28 @@ Representative posts:
 - https://mas.to/@maaretp/115305147699005845
 - https://mas.to/@maaretp/115631867631120416
 - https://mas.to/@maaretp/115405382230175458
+
+## 2026 — "quietly looking," then quietly not resolved either way — [[../batches/2026|batch]]
+
+The 2025 near-departure resurfaces rather than resolves. In late April
+she names the underlying doubt directly — "I'm starting to come to
+terms with the idea that I'm not cut out for consulting" (see
+`../../testing/concepts/management-transition.md`) — and the next day
+turns it into action: "Turned on 'quietly looking' as I can't really be
+loudly looking on LinkedIn as I can be here. I am thinking of trying
+out Central Europe and relocation now that my young adults allow for
+it." The search stays real but selective — in June she turns down a
+demanding, well-suited external role specifically because it would
+require a 25% pay cut from her current one — and by late July, a
+strong run of client and career wins (a bid win covered in a trade
+magazine, a keynote invitation, a 9.28/10 client score) lands on her
+first day back from a four-week vacation with no mention of the search
+at all. Neither an active departure nor an explicit stand-down; the
+thread simply goes quiet without a stated resolution by the end of the
+ingested range (through August).
+
+Representative posts:
+- https://mas.to/@maaretp/116484392020873517
+- https://mas.to/@maaretp/116489687618743504
+- https://mas.to/@maaretp/116714400378798943
+- https://mas.to/@maaretp/116991588690496366

@@ -387,4 +387,19 @@ worse), and entities/family (turns 51; a running vocabulary game with
 her son; a small aside about living "vicariously" through her
 daughter). **2025 is now fully ingested.**
 
+## [2026-09-28] ingest | 2026 partial (690 posts, 2026-01-01–2026-08-28, current end of archive)
+Created batch page [[batches/2026]]. Added 2026 sections to 4 existing
+pages: concepts/self-understanding (the misgendering coping mechanism
+slips for the first time on record; "socially limited extrovert"
+renamed "rejection sensitive dysphoria"), concepts/career-direction
+(the 2025 near-departure resurfaces as "quietly looking" and a
+relocation thought, then goes quiet again without resolution),
+concepts/health-accommodation (the allergy accommodation recurs paired
+with a dress-code refusal, named together as one cost of "being
+different"), and entities/family (a reading rivalry with her daughter;
+"immovable object" vs. "unstoppable force"; a deliberate decision to
+"embrace being old" ahead of a 30-year career anniversary). **2026 is
+ingested through August (partial) — the raw archive currently ends
+here; check for newer posts before the next ingest session.**
+
 <!-- newest entries at the bottom -->

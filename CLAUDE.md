@@ -15,9 +15,11 @@ Two separate wikis, both built by processing Maaret's public post history
 - **`wiki/personal/`** — personal reflection, growth, values, life context.
 
 They stay structurally separate. A single ingest batch (one raw time range)
-is read once and may produce updates in *both* wikis, but pages in one never
-`[[wikilink]]` into the other — if a topic genuinely spans both, note it in
-prose with a relative path instead.
+is read once and may produce updates in *both* wikis. If a topic genuinely
+spans both, note it in prose that links across with a relative-path
+`[[wikilink]]` (e.g. `[[../../personal/concepts/self-understanding|...]]`
+from a testing page) — established practice since 2019; see Obsidian
+conventions below.
 
 ## Layers
 
@@ -86,8 +88,14 @@ their own page, and stale `index.md` entries.
 
 ## Obsidian conventions
 
-- `[[wikilink]]` between pages *within* the same wiki (filename = link
-  target). Never link across `wiki/testing/` ↔ `wiki/personal/`.
+- `[[wikilink]]` between pages within the same wiki (filename = link
+  target). A cross-wiki reference (`wiki/testing/` ↔ `wiki/personal/`)
+  also uses `[[wikilink]]` syntax, with a relative path that crosses
+  into the other wiki (e.g. `[[../../personal/concepts/family|Family]]`
+  from a testing page) — this is how the wiki has linked spanning topics
+  since 2019 and Obsidian resolves it fine. Keep this rare: most
+  same-topic-different-register content should stay in each wiki's own
+  words rather than leaning on a cross-link.
 - Every wiki page gets YAML frontmatter: at minimum `tags:`; add `date:` and
   `sources:` (list of raw post ids/urls) where relevant.
 - Open the repo root as the Obsidian vault — both wikis and `raw/` live

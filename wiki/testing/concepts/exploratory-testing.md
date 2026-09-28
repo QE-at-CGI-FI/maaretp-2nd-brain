@@ -351,3 +351,32 @@ Representative posts:
 - https://mas.to/@maaretp/115589543515873007
 - https://mas.to/@maaretp/115102196742375780
 - https://mas.to/@maaretp/115151912384495150
+
+## 2026 — "seeing problems" as a research question, not an assumption — [[../batches/2026|batch]]
+
+The results-gap diagnosis from 2025 turns systematic: homework tallies
+run across the year, professional testers finding 11.5–13.5 issues out
+of 72 on average, prompting a direct question rather than a complaint —
+"is *seeing problems when they are there* a core skill of a tester?
+Since it is a teachable skill, why do we teach it so poorly?" (see
+`../concepts/ai-in-testing.md` for the benchmark repo this feeds). New
+teaching material follows the same line: an "architecture-aware API
+testing" exercise built around layered failure (UI, API, logic,
+container, OS — "I created three layers and learned I need a fourth so
+that a fifth does not make it fail"), and **Capture the Bugs**, a
+public self-assessor tool built with Ru Cindrea tracking two coverages
+(input classes and bug reports) that becomes the new home for her
+Contemporary Exploratory Testing Foundations course. The definition
+question itself gets pushed further this year with AI agents
+genuinely inside sessions rather than alongside them (collapsed
+tester/developer roles, reordered task taxonomy — see
+`../concepts/ai-in-testing.md`), and closes on a reflective doubt
+about the vocabulary she's used since 2021: "I wonder if we made the
+resultful thinking kind of testing less accessible to testers by
+calling it exploratory testing, instead of manual testing."
+
+Representative posts:
+- https://mas.to/@maaretp/117003713164541895
+- https://mas.to/@maaretp/116249801670948220
+- https://mas.to/@maaretp/116611352270122239
+- https://mas.to/@maaretp/117044323017651112

@@ -8,7 +8,8 @@ Personal reflection, growth, and psychology synthesized from @maaretp's public p
 
 See [[../progress]] for what's been ingested (2010: no personal content;
 2011–2017: thin at first, substantial by 2014; 2018–2025 fully done,
-2026– not started).
+2026 ingested through August — partial, the current end of the raw
+archive).
 
 ## Entities
 
@@ -62,3 +63,4 @@ See [[../progress]] for what's been ingested (2010: no personal content;
 - [[batches/2023|2023]] — 1293 posts, first fully post-Twitter year (Mastodon only), not split into quarters. A near-resignation resolved by "an exceptional manager"; a new pronoun reflection; the year's heaviest disclosure — "defined through abuse of man"; kids old enough to stay home alone; a 50th-birthday trip to New York planned with her daughter. **2023 is now fully ingested.**
 - [[batches/2024|2024]] — 1240 posts, not split into quarters. The James Bach keynote-attack wound gets a conscious closure ("I stop reinforcing memory. Now"); an old family wound resurfaces (a brother's "social justice warrior" jab); a reframed Mother's Day; a 30-year school reunion. **2024 is now fully ingested.**
 - [[batches/2025|2025]] — 1044 posts, not split into quarters. The misgendering thread escalates into a described cognitive/physical cost; a near-departure from her employer surfaces in October; a decade-old personality-test rejection confronted directly in a job interview; turns 51. **2025 is now fully ingested.**
+- [[batches/2026|2026 (partial, through August)]] — 690 posts, current end of the raw archive. The misgendering coping mechanism visibly slips for the first time; "socially limited extrovert" gets renamed "rejection sensitive dysphoria"; the 2025 near-departure resurfaces as "quietly looking" then goes quiet again; a reading rivalry with her daughter and a decision to "embrace being old." **2026 is ingested through August (partial).**

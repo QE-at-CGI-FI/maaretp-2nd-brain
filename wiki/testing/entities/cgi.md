@@ -61,3 +61,34 @@ Representative posts:
 - https://mas.to/@maaretp/115106421810808110
 - https://mas.to/@maaretp/115413694496707430
 - https://mas.to/@maaretp/115022540385529056
+
+## 2026 — a 2025 audit, a reorg, and "three jobs" — [[../batches/2026|batch]]
+
+Opens the year auditing 2025's hours: 39% paid client work, 32%
+*unpaid* client work, 20% internal management, plus training and
+sick time — "the idea that I am paid *more* when customers make me do
+more unpaid work does not match my ideas of fair." January brings a
+real testing-service reorg: a 16-person team split into 5+11, the
+11 handed to another cost center with a promised cut of 2 that lands
+at 5. She names the arrangement's business logic plainly by June: two
+transformation projects she drove let her invoice 30% and 20% of her
+hours respectively, "in-org invoicing," meaning the client likely paid
+nothing directly for either — "my existence is both good business
+(enabling others) and bad business (so much free work)." Real, costed
+wins keep landing anyway: a €25k/year bug catch, a 30%/4.65-FTE
+saving, a 9.28/10 client feedback score on the day she returns from a
+four-week vacation, a QA-services framework-agreement bid win covered
+in a trade magazine. She sums up the whole arrangement as "I have
+effectively three jobs, and I am competent in one of them, failing for
+lack of time constraints in another, and failing for just being bad at
+one" — naming sales as the one she's bad at and, increasingly, refuses
+to apologize for: declining unpaid "just in case" bid work, and
+turning down a demanding, well-matched external role because it would
+require a 25% pay cut from her current one.
+
+Representative posts:
+- https://mas.to/@maaretp/115826572568440662
+- https://mas.to/@maaretp/115826984718405825
+- https://mas.to/@maaretp/116715213227317865
+- https://mas.to/@maaretp/116991588690496366
+- https://mas.to/@maaretp/116998182534535476

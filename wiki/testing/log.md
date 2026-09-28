@@ -609,4 +609,26 @@ steady work-driven cadence rather than a renewed circuit), and
 entities/istqb (completes the full Advanced set, names a reluctant
 practical use for the credential). **2025 is now fully ingested.**
 
+## [2026-09-28] ingest | 2026 partial (690 posts, 2026-01-01–2026-08-28, current end of archive)
+Created batch page [[batches/2026]]. Added 2026 sections to 7 existing
+pages: concepts/management-transition ("#RegretfulManager" becomes
+"#ReluctantManager" as the role's scope keeps growing rather than
+shrinking; the 2025 burnout thread keeps resurfacing), entities/cgi (a
+2025 hour audit, a team reorg, the "three jobs" self-assessment,
+declining a pay-cut role), concepts/gender-in-tech (kicked from a
+zero-women AI-strategy session; discovers she's "the first woman" in a
+two-year-old invite-only AI leaders group; the ghost-writing/idea-theft
+pattern named directly as structural; a rare positive marker closing
+the batch), concepts/ai-in-testing ("workslop" gets concrete teeth; a
+public results-benchmark-research repository; an agentic exploratory
+testing demo collapsing tester/developer roles; granular token-cost
+tracking), concepts/exploratory-testing (systematic benchmark data on
+the results gap; a new architecture-aware API testing exercise;
+Capture the Bugs, a public self-assessor tool), entities/istqb (builds
+a public AI-generated practice-question coach site for colleagues,
+stance unchanged), and entities/international-speaking (the cadence
+tightens further with an explicit stated cap of three conferences).
+**2026 is ingested through August (partial) — the raw archive currently
+ends here; check for newer posts before the next ingest session.**
+
 <!-- newest entries at the bottom -->

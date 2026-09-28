@@ -627,3 +627,25 @@ Representative posts:
 - https://mas.to/@maaretp/115351190215922211
 - https://mas.to/@maaretp/115665649898060301
 - https://mas.to/@maaretp/115447347610697722
+
+## 2026 — scaling further down, deck 55, and a real cap — [[../batches/2026|batch]]
+
+The 2025 cadence tightens further rather than growing: FroGSConf's
+open-space format (a repeat visit, co-facilitating with Sanne Visser,
+Elizabeth Zagroba, and Joep Schuurkes), a Gothenburg trip timed around
+Test Coast Conference and a paid teaching session, and a Portland,
+Oregon keynote (PNSQC) booked for October — with an explicit ceiling
+stated once the flights are real: "the whole money-out-of-pocket
+experience of conference speaking still isn't one I can live with so I
+will not be doing a lot of this. Three this year is at my absolute
+maximum." Publishes her 55th versioned public slide deck internally,
+continuing the tracked-not-tallied approach from 2025, and gets
+ghost-written again — this time flagged explicitly as a novel, welcome
+experience rather than a neutral one: "Ghost writer. ❤️ Today I got
+one. Makes me feel special and important."
+
+Representative posts:
+- https://mas.to/@maaretp/116147837434527411
+- https://mas.to/@maaretp/116599841390637955
+- https://mas.to/@maaretp/117072474460407393
+- https://mas.to/@maaretp/116257710270277697

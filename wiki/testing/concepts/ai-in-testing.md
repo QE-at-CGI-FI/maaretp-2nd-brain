@@ -94,3 +94,37 @@ Representative posts:
 - https://mas.to/@maaretp/114948695012474469
 - https://mas.to/@maaretp/115746022359423835
 - https://mas.to/@maaretp/115700908331510701
+
+## 2026 — "workslop" gets teeth, and results get measured, not guessed — [[../batches/2026|batch]]
+
+"Workslop" stops being a diagnosis and becomes a working vocabulary:
+"software and slopware," "human slop or AI slop," and a blunt refusal
+when a project manager ignores her own testing estimates in favor of
+AI-generated ones — "Yes, AI did not use them. I hate your workslop."
+The skepticism gets a research arm: she publishes a public **results-
+benchmark-research** repository, systematically tracking how many
+issues testers (professional and otherwise) actually find against a
+fixed target, after concluding "seeing problems when they are there"
+is a teachable skill taught badly — professional testers average
+11.5–13.5 out of 72, and she suspects (without being told) that the
+rare high scorer used AI. She pushes the practice further than a
+benchmark: demoing "agentic exploratory testing" that collapses
+tester/developer roles and reorders the task taxonomy, met with
+pushback she calls "grief" ("What about Robot Framework," "Where is
+Jira in all of this"). Economics get granular and specific rather than
+argued in the abstract — 1,71€ in token cost for a task people expected
+to cost thousands; 32 days of duration for 5 days of effort and 2€ in
+tokens — read as evidence that AI's real effect on cost is uneven and
+worth measuring per-task, not claiming wholesale. She names a clear
+tool preference (Claude Code over GitHub Copilot, "the latter leaves me
+more tired") and closes on a standing worry that outlives any one tool:
+reviewing a colleague's AI-generated analysis that had quietly drifted
+from the actual assignment, she names it "cognitive surrender," not a
+one-off mistake.
+
+Representative posts:
+- https://mas.to/@maaretp/116364453608669116
+- https://mas.to/@maaretp/116340210011510936
+- https://mas.to/@maaretp/116617978876994928
+- https://mas.to/@maaretp/117128207589281184
+- https://mas.to/@maaretp/116478126379399577

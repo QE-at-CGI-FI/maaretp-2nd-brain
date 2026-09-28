@@ -972,3 +972,41 @@ Representative posts:
 - https://mas.to/@maaretp/113958877293656652
 - https://mas.to/@maaretp/114183010310208024
 - https://mas.to/@maaretp/115390288665213795
+
+## 2026 — excluded from the room that decides AI, and naming the pattern out loud — [[../batches/2026|batch]]
+
+Opens with a small, plain statement of the cost of being different:
+told she should wear a hoodie for an event, she refuses ("that is just
+not my style"), alongside the recurring office-dog allergy conflict —
+"I really feel like I am being difficult because I am different." The
+year's sharpest incident: after six months trying to join, she gets
+kicked out of an internal session "weeks before" it runs — "the session
+drives our AI future, and has zero women. My AI future is about to be
+elsewhere" — and channels the anger into action the next day, agreeing
+to bring agentic accessibility work into a real project instead. A
+month later she discovers an invite-only AI leaders group she'd been
+excluded from for two years and is, on joining, "the first woman."
+Structural patterns get named directly rather than treated as one-offs:
+an anonymous 360 comment about "gender-related patterns" gets read back
+to her by peers who recognize her writing style, and she owns it rather
+than let it stay anonymous; a recruiter books a sales call "with our
+team" and sends a man instead; two speakers, one man and one woman,
+leave a slide with only the man's contact info, and he "promises to fix
+the *clear typo*" while she's the one who walks over for the woman's
+email. The clearest naming comes in July: after ghost-writing a proposal
+and still not getting a seat presenting it, "I'd really like to believe
+there's nothing gendered on this but all women have this story and it's
+always a guy." Passed over again for Finnish Tester of the Year — this
+time by a much younger nominee she's genuinely happy for — she still
+names the toll plainly: "for a few days every year I consider quitting
+all volunteer work altogether." Closes on a rare positive marker: "Two
+years ago I was the only woman in our leadership group. Now I'm one of
+three. Just realized it's enough that I no longer feel like I stick out
+for it."
+
+Representative posts:
+- https://mas.to/@maaretp/115886644163656168
+- https://mas.to/@maaretp/116487160175859343
+- https://mas.to/@maaretp/116698112221595177
+- https://mas.to/@maaretp/117005091068858055
+- https://mas.to/@maaretp/117055626040352957
